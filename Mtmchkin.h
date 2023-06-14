@@ -1,7 +1,16 @@
 #ifndef MTMCHKIN_H_
 #define MTMCHKIN_H_
 
+typdef std::vector<shared_pointer<Card>> deck;
+typdef std::vector<shared_pointer<Player>> leaderboard;
+
 class Mtmchkin{
+
+private:
+    deck m_deckOfCards;
+    leaderboard m_leaderBoard;
+    int m_numberOfRounds;
+    int m_numberOfPlayers;
 
 public:
     
@@ -48,6 +57,24 @@ public:
     int getNumberOfRounds() const;
 };
 
+void Mtmchkin::playRound() {
+    //
+}
+
+bool Mtmchkin::isGameOver() const {
+    // loop through the leaderboard and check if there is a player who is still playing
+
+}
+
+Mtmchkin::Mtmchkin(const std::string& fileName) : m_numberOfRounds(0){
+    // 1. read the file and create the deck, which is a vector of pointers to cards
+    m_deckOfCards = createDeck(fileName); // Needs a function readFile() which reads the file and returns a vector of cards
+
+    m_numberOfPlayers = receiveNumberOfPlayers(); // asks the user for input, the number of players
+
+    // 2. Create a leaderboard which is a vector of pointers to players
+    m_leaderBoard = createLeaderBoard(numberOfPlayers); // Needs a function createLeaderBoard() which creates a vector of players
+}
 
 
 #endif /* MTMCHKIN_H_ */
