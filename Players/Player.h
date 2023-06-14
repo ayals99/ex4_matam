@@ -17,10 +17,15 @@ private:
 public:
     Player();
     virtual ~Player() = 0;
+    std::string getName() const;
     bool isInGame() const;
     bool dead() const;
     bool won() const;
 };
+
+std::string Player::getName() const{
+    return m_name;
+}
 
 bool Player::isInGame() const{
     return (!dead() || !won());
