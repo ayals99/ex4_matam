@@ -76,5 +76,9 @@ Mtmchkin::Mtmchkin(const std::string& fileName) : m_numberOfRounds(0){
     m_leaderBoard = createLeaderBoard(numberOfPlayers); // Needs a function createLeaderBoard() which creates a vector of players
 }
 
+int Mtmchkin::getNumberOfRounds() const {
+    return m_numberOfRounds;
+}
+
 
 #endif /* MTMCHKIN_H_ */

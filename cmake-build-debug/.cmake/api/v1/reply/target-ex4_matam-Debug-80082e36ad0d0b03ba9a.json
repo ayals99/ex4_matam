@@ -173,7 +173,8 @@
 				23,
 				24,
 				26,
-				28
+				28,
+				29
 			]
 		}
 	],
@@ -336,6 +337,11 @@
 		{
 			"backtrace" : 1,
 			"path" : "Cards/Well.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "HealthPoints.h",
 			"sourceGroupIndex" : 1
 		}
 	],

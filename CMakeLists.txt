@@ -34,4 +34,4 @@ add_executable(ex4_matam
         Exception.h
         Mtmchkin.h
         utilities.cpp
-        utilities.h Cards/Well.cpp Cards/Well.h)
+        utilities.h Cards/Well.cpp Cards/Well.h HealthPoints.h)
