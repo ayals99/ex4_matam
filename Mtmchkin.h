@@ -61,7 +61,7 @@ public:
     int getNumberOfRounds() const;
 };
 
-Player& findFirstPlayer(leaderboard m_leaderBoard){
+Player& findFirstPlayer(const leaderboard& m_leaderBoard){
     for (leaderboard::iterator i = m_leaderBoard.begin(); i != m_leaderBoard.end(); i++){
         if ( (*i)->isInGame() ){
             return **i;
@@ -70,9 +70,9 @@ Player& findFirstPlayer(leaderboard m_leaderBoard){
     throw noPlayersInGame();
 }
 
-int countPlayersInGame(leaderboard m_leaderBoard){
+int countPlayersInGame(const leaderboard& m_leaderBoard){
     int counter = 0;
-    for (leaderboard::iterator i = m_leaderBoard.begin(); i != m_leaderBoard.end(); i++){
+    for (leaderboard::const_iterator i = m_leaderBoard.begin(); i != m_leaderBoard.end(); i++){
         if ( (*i)->isInGame()){
          counter++;
         }
