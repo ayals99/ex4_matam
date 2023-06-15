@@ -6,6 +6,7 @@
 
 static const int MAXIMAL_LEVEL = 10;
 static const int MINIMUM_FORCE = 0;
+static const int MINIMUM_COINS = 0;
 static const int MINIMUM_HEALTH = 0;
 static const int INITIAL_FORCE = 5;
 static const int INITIAL_COINS = 10;
@@ -24,7 +25,6 @@ protected:
 public:
 
     explicit Player(std::string& name);
-
 
     /** Getters: **/
     std::string getName() const;
@@ -88,6 +88,13 @@ public:
     * @return void
     */
     void setDead();
+
+    /**
+    * Reduces force by one point. If the player's force is 0, does nothing.
+    * @param none
+    * @return void
+    */
+    void loseOneForce();
 
 private:
     friend std::ostream& operator<<(std::ostream&, const Player&);

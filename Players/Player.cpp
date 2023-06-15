@@ -27,11 +27,11 @@ int Player::getCoins() const{
 }
 
 bool Player::isInGame() const{
-    return (!dead() || !won());
+    return (!dead() && !won());
 }
 
 bool Player::dead() const {
-    return m_health > MINIMAL_HEALTH; // defined in "HealthPoints.h" to be zero
+    return m_health == MINIMAL_HEALTH; // defined in "HealthPoints.h" to be zero
 }
 
 bool Player::won() const {
@@ -75,6 +75,10 @@ void Player::levelUp(){
  * @return void
  */
 void Player::heal(int hpToAdd){
+    if (m_health == MINIMAL_HEALTH){ // TODO: check if need to throw exception - trying to revive the dead.
+        return;
+    }
+
     if(hpToAdd > 0) {
         m_health += hpToAdd;
     }
@@ -116,23 +120,29 @@ void Player::buff(int forceToAdd){
  * @return void
  */
 bool Player::pay(int coinsToPay){
+    // TODO: check what to do with a negative amount
+    if(coinsToPay < 0){
+        return true;
+    }
+
     if (this->m_coins >= coinsToPay)
     {
         this->m_coins -= coinsToPay;
         return true;
     }
+
     return false;
 }
 
-///**
-// * @param none - removes one unit of force if the player loses to a Witch
-// * @return void
-// */
-//void Player::loseOneForce(){
-//    if (m_force > 0) {
-//        m_force--;
-//    }
-//}
+/**
+ * @param none - removes one unit of force if the player loses to a Witch
+ * @return void
+ */
+void Player::loseOneForce(){
+    if (m_force > 0) {
+        m_force--;
+    }
+}
 
 /** Operators: */
 std::ostream& operator<<(std::ostream& os, const Player& player){

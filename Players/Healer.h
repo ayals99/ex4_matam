@@ -11,7 +11,9 @@ public:
     explicit Healer(std::string name) : Player(name) {}
 
     void heal(int healthToAdd) override{
-        m_health += 2*healthToAdd;
+        if(healthToAdd > 0) {
+            m_health += 2 * healthToAdd;
+        }
     }
 
     const std::string& getPlayerJob() const override{
