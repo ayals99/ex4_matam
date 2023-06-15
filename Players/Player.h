@@ -3,7 +3,7 @@
 
 #include <string>
 #include "HealthPoints.h"
-#include "utilities.h"
+
 
 static const int MAXIMAL_LEVEL = 10;
 static const int MINIMUM_FORCE = 0;
@@ -22,7 +22,7 @@ protected:
     int m_coins; // >=0
 
 public:
-    Player();
+    explicit Player(std::string& name);
     friend std::ostream& operator<<(std::ostream&, const Player&);
 
     /**getters:*/
@@ -35,7 +35,7 @@ public:
     HealthPoints getHealth() const;
     int getCoins() const;
     virtual bool playerIsStronger(int opponentForce) const; // Determines who will win the battle. Override by warrior
-    virtual std::string getPlayerJob() const = 0; // Pure virtual function. Override by Ninja and Warrior
+    virtual const std::string& getPlayerJob() const = 0; // Pure virtual function
 
     /** Setters: */
     void levelUp();

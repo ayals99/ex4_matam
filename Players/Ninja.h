@@ -4,12 +4,14 @@
 #include "Player.h"
 
 class Ninja : public Player {
+private:
+    std::string m_job = "Ninja";
 public:
     void addCoins(int coinsToAdd) override{
         m_coins += 2*coinsToAdd;
     }
-    std::string getPlayerJob() const override{
-        return "Ninja";
+    const std::string& getPlayerJob() const override{
+        return m_job;
     }
 };
 

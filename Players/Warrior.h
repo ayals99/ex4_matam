@@ -4,12 +4,15 @@
 #include "Player.h"
 
 class Warrior : public Player {
+private:
+    std::string m_job = "Warrior";
+
 public:
     bool playerIsStronger(int opponentForce) const override{
         return ( (2*m_force + m_level) >= opponentForce );
     }
-    std::string getPlayerJob() const override{
-        return "Warrior";
+    const std::string& getPlayerJob() const override{
+        return m_job;
     }
 };
 

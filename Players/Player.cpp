@@ -1,9 +1,8 @@
 #include "Player.h"
+#include "utilities.h"
 
 /** Constructors: */
-
-Player::Player() : m_level(INITIAL_LEVEL), m_force(INITIAL_FORCE),  m_coins(INITIAL_COINS), m_health(MAX_HP){
-    // TODO: assign player a name
+Player::Player(std::string& name) : m_name(name), m_level(INITIAL_LEVEL), m_force(INITIAL_FORCE),  m_coins(INITIAL_COINS), m_health(MAX_HP){
 }
 
 /** Getters:*/

@@ -4,12 +4,15 @@
 #include "Player.h"
 
 class Healer : public Player {
+private:
+    std::string m_job = "Healer";
+
 public:
     void addHealth(int healthToAdd) override{
         m_health += 2*healthToAdd;
     }
-    std::string getPlayerJob() const override{
-        return "Healer";
+    const std::string& getPlayerJob() const override{
+        return m_job;
     }
 };
 
