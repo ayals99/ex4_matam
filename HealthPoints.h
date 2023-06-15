@@ -42,6 +42,9 @@ public:
      */
     ~HealthPoints() = default;
 
+    /** Getters */
+    int getHealthInteger() const;
+
     /** Arithmetic Operators Declarations*/
 
     /** Declaring + operator */
@@ -110,6 +113,6 @@ bool operator>(int, const HealthPoints&);
 
 bool operator>=(int, const HealthPoints&);
 
-std::ostream &operator<<(std::ostream&, const HealthPoints&);
+std::ostream& operator<<(std::ostream&, const HealthPoints&);
 
 #endif

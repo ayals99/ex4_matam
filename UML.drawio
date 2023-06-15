@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-06-14T19:08:25.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="f7u-A8SfeWL9EXt03c6a" version="21.3.7" type="device" pages="3">
+<mxfile host="Electron" modified="2023-06-15T09:05:43.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.4.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="OHKTkyNida1fCj8GfsSF" version="21.4.0" type="device" pages="3">
   <diagram id="pWmyDnSznZB3aeM8t7zJ" name="Mtmchkin">
-    <mxGraphModel dx="5346" dy="3106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2976" dy="1802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,21 +338,21 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Player" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1276" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1276" dy="1802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KnSxKwsVaQJYCbIV2S4w-1" value="Player" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="60" width="230" height="220" as="geometry" />
+          <mxGeometry x="200" y="-190" width="390" height="370" as="geometry" />
         </mxCell>
         <mxCell id="KnSxKwsVaQJYCbIV2S4w-2" value="&lt;b&gt;Fields:&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;+ m_name : String&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;+ m_level : int&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;+ m_force : int&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;+ m_HealthPoints : int&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;+ m_coins : int&amp;nbsp;&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;+ m_type: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="KnSxKwsVaQJYCbIV2S4w-1" vertex="1">
-          <mxGeometry y="26" width="230" height="114" as="geometry" />
+          <mxGeometry y="26" width="390" height="114" as="geometry" />
         </mxCell>
         <mxCell id="KnSxKwsVaQJYCbIV2S4w-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="KnSxKwsVaQJYCbIV2S4w-1" vertex="1">
-          <mxGeometry y="140" width="230" height="8" as="geometry" />
+          <mxGeometry y="140" width="390" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="KnSxKwsVaQJYCbIV2S4w-4" value="&lt;b&gt;Methods&lt;/b&gt;:&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;+ isPlaying(player toCheck) : bool&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;+ virtual getPlayerType(player) : string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="KnSxKwsVaQJYCbIV2S4w-1" vertex="1">
-          <mxGeometry y="148" width="230" height="72" as="geometry" />
+        <mxCell id="KnSxKwsVaQJYCbIV2S4w-4" value="&lt;b&gt;Getter Methods&lt;/b&gt;:&lt;br&gt;+&amp;nbsp;isInGame&lt;span style=&quot;background-color: initial;&quot;&gt;(player toCheck) : bool&lt;/span&gt;&lt;br&gt;+&amp;nbsp;getLevel() : int&lt;br&gt;+&amp;nbsp;getForce() : int&lt;br&gt;+&amp;nbsp;getHealth() : HealthPoints&lt;br&gt;+&amp;nbsp;getCoins() : int&lt;br&gt;+&amp;nbsp;dead() : bool&lt;br&gt;&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="KnSxKwsVaQJYCbIV2S4w-1" vertex="1">
+          <mxGeometry y="148" width="390" height="222" as="geometry" />
         </mxCell>
         <mxCell id="KnSxKwsVaQJYCbIV2S4w-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KnSxKwsVaQJYCbIV2S4w-6" target="KnSxKwsVaQJYCbIV2S4w-1" edge="1">
           <mxGeometry relative="1" as="geometry">

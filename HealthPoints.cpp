@@ -2,6 +2,12 @@
 
 int adjustHealth(int currentHealthPoints, int maxHealthPoints);
 
+
+/** Getter */
+int HealthPoints::getHealthInteger() const{
+    return m_currentHealth;
+}
+
 /** Arithmetic Operators implementation*/
 
 /** Implementing + operator */

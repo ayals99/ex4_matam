@@ -23,13 +23,10 @@ add_executable(ex4_matam
         Cards/Witch.cpp
         Cards/Witch.h
         "Given tests/test.cpp"
-        Players/Healer.cpp
         Players/Healer.h
-        Players/Ninja.cpp
         Players/Ninja.h
         Players/Player.cpp
         Players/Player.h
-        Players/Warrior.cpp
         Players/Warrior.h
         Exception.h
         Mtmchkin.h
