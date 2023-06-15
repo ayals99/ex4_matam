@@ -44,34 +44,95 @@ bool Player::playerIsStronger(int opponentForce) const{
 
 /** Setters: */
 
+/**
+ * @param coinsToAdd - The amount of coins to add to the player.
+ * @return void
+ */
+void Player::addCoins(int coinsToAdd){
+    if(coinsToAdd > 0) {
+        this->m_coins += coinsToAdd;
+    }
+}
+
+/**
+ * Increases the players level by 1. If the player's level is MAX_LEVEL (10), does nothing.
+ * @param none
+ * @return void
+ */
 void Player::levelUp(){
 //    if(m_level >= MAXIMAL_LEVEL){
 //        throw PlayerReachedMaxLevel();
 //    }
-    m_level++;
+
+    if (m_level < MAXIMAL_LEVEL)
+    {
+        m_level++;
+    }
 }
 
-void Player::addHealth(int healthToAdd){
-    m_health += healthToAdd;
+/**
+ * @param hpToAdd - The amount of HP to add to the player.
+ * @return void
+ */
+void Player::heal(int hpToAdd){
+    if(hpToAdd > 0) {
+        m_health += hpToAdd;
+    }
 }
 
-void Player::reduceHealthPoints(int healthToReduce){
-    m_health -= healthToReduce;
+/**
+ * Reduces the player's HP by the given amount. If the damage is 0 or less, does nothing.
+ * Only reduces the player's HP to 0, not below.
+ * @param hpToReduce - The amount of HP to reduce from the player.
+ * @return void
+ */
+void Player::damage(int hpToReduce){
+    if (hpToReduce > 0){
+        m_health -= hpToReduce;
+    }
 }
 
-void Player::addCoins(int coinsToAdd){
-    m_coins += coinsToAdd;
-}
-
+/**
+ * Sets the player's HP to 0.
+ * @param none
+ * @return void
+ */
 void Player::setDead(){
     m_health = MINIMAL_HEALTH;
 }
 
-void Player::loseOneForce(){
-    if (m_force > 0) {
-        m_force--;
+/**
+ * @param forceToAdd - The amount of force to add to the player.
+ * @return void
+ */
+void Player::buff(int forceToAdd){
+    if(forceToAdd > 0) {
+        this->m_force += forceToAdd;
     }
 }
+
+/**
+ * @param coinsToPay - The amount of coins to pay.
+ * @return void
+ */
+bool Player::pay(int coinsToPay){
+    if (this->m_coins >= coinsToPay)
+    {
+        this->m_coins -= coinsToPay;
+        return true;
+    }
+    return false;
+}
+
+///**
+// * @param none - removes one unit of force if the player loses to a Witch
+// * @return void
+// */
+//void Player::loseOneForce(){
+//    if (m_force > 0) {
+//        m_force--;
+//    }
+//}
 
 /** Operators: */
 std::ostream& operator<<(std::ostream& os, const Player& player){

@@ -1,0 +1,10 @@
+# ninja log v5
+1	162	7085434246721414	build.ninja	e4d7db87d074601a
+2	474	7085433930607240	CMakeFiles/ex4_matam.dir/Players/testPlayers.cpp.obj	77d94ff0d14ba3de
+5	329	7085433929161396	CMakeFiles/ex4_matam.dir/utilities.cpp.obj	123b758ace399ccc
+8	317	7085433929029672	CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj	c87b47b37464a4c
+0	89	7085434246721414	build.ninja	e4d7db87d074601a
+2	207	7085434248946522	CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj	f84ad118e776b62f
+208	292	7085434249744671	ex4_matam.exe	62e085f9c5a06a9c
+3	391	7085434587713995	CMakeFiles/ex4_matam.dir/Players/testPlayers.cpp.obj	77d94ff0d14ba3de
+391	468	7085434588446193	ex4_matam.exe	62e085f9c5a06a9c
