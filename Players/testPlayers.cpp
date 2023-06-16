@@ -1,16 +1,7 @@
 #include <string>
 #include <iostream>
 #include <functional>
-#include <string>
-#include <iostream>
-#include <vector>
-#include <memory>
-#include <algorithm>
-#include <sstream>
-#include <random>
-#include <cstdio>
-#include <fstream>
-#include <cstring>
+
 
 #include "Player.h"
 #include "Ninja.h"
@@ -30,15 +21,12 @@ void run_test(std::function<bool()> test, std::string test_name){
 
 bool playersPrintsTest()
 {
-
     Ninja player1("Itay");
     Warrior player2("Efrat");
     Healer player3("Jimmy");
     std::cout << player1 << std::endl << player2 << std::endl << player3
          << std::endl;
     return true;
-
-
 }
 
 bool playerConstructorTest()
@@ -768,6 +756,7 @@ bool coinsTestWithReference(){
 
 int main(){
 
+    /** Tests with Player */
     run_test(playerConstructorTest,"playerConstructorTest");
     run_test(playersPrintsTest,"playersPrintsTest");
     run_test(playerGetJobTest,"playerGetJobTest");
@@ -779,6 +768,7 @@ int main(){
     run_test(playerInGameTest, "inGameTest");
     run_test(coinsTest, "coinsTest");
 
+    /** Tests with Player& */
     run_test(testGetNameWithReference,"testGetNameWithReference");
     run_test(testBuffWithReference,"testBuffWithReference");
     run_test(playerInGameTestWithRefernce,"playerInGameTestWithRefernce");
