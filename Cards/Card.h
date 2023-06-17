@@ -6,10 +6,12 @@
 #include "../utilities.h"
 
 class Card{
-private:
+protected:
+    std::string m_name;
 
 public:
-    void applyEncounter(Player& player) const; // TODO: implement
+    virtual void getName() const = 0;
+    virtual void applyEncounter(Player& player) const = 0;
 };
 
 #endif //EX4_MATAM_CARD_H

@@ -4,6 +4,8 @@
 #include "Card.h"
 
 class Gremlin : public Card {
+private:
+    int m_healthPointsDamage;
 
 };
 
