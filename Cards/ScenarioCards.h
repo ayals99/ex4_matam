@@ -36,7 +36,7 @@ public:
     * @param player - The player to apply the card's effect on.
     * @return void
     */
-    std::ostream& applyEncounter(std::ostream& os, Player& player) const override;
+    void applyEncounter(Player& player) const override;
 
     /**
     * Printing operator for ScenarioCard class

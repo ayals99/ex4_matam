@@ -80,12 +80,12 @@ int countPlayersInGame(const leaderboard& m_leaderBoard){
     return counter;
 }
 
-//void playNextCard(deck& m_deckOfCards, Player& currentPlayer){
-//    Card& currentCard = *(m_deckOfCards.front());
-//    currentCard.Card::applyEncounter(currentPlayer);
-//    m_deckOfCards.push_back(m_deckOfCards.front());
-//    deck::iterator iterator = m_deckOfCards.begin();
-//    m_deckOfCards.erase(iterator);
+void playNextCard(deck& m_deckOfCards, Player& currentPlayer){
+    Card& currentCard = *(m_deckOfCards.front());
+    currentCard.Card::applyEncounter(currentPlayer);
+    m_deckOfCards.push_back(m_deckOfCards.front());
+    deck::iterator iterator = m_deckOfCards.begin();
+    m_deckOfCards.erase(iterator);
 }
 
 void Mtmchkin::playRound() {

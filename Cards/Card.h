@@ -50,7 +50,7 @@ public:
      * @param player - The player to apply the card's effect on.
      * @return void
     */
-    virtual std::ostream& applyEncounter(std::ostream& os, Player& player) const = 0;
+    virtual void applyEncounter(Player& player) const = 0;
 
     /**
      * Prints the card's info.

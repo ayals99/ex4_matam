@@ -13,10 +13,13 @@ const int HEALTH_POTION_COST = 5;
 const int FORCE_BOOST_COST = 10;
 const int HEALT_POTION_HEAL = 1;
 const int FORCE_BOOST = 1;
+const int ZERO = '0';
+const int ONE = '1';
+const int TWO = '2';
 
 
-std::ostream& applyMerchantEncounter(std::ostream& os, Player& player);
-std::ostream& applyMerchantEncounterAUX(std::ostream& os, Player& player, int input);
+void applyMerchantEncounter(Player& player);
+void applyMerchantEncounterAUX(Player& player, int input);
 char getInputForMerchantEncounter();
 
 
@@ -42,9 +45,9 @@ ScenarioCard::ScenarioCard(const std::string &name) : Card(name) {
     }
 }
 
-std::ostream& ScenarioCard::applyEncounter(std::ostream& os, Player& player) const {
+void ScenarioCard::applyEncounter(Player& player) const {
     if (m_isMerchantCard) {
-        applyMerchantEncounter(os, player);
+        applyMerchantEncounter(player);
     } else if (m_name == TREASURE_CARD) {
         player.addCoins(m_lootUponEncounter);
         printTreasureMessage();
@@ -69,20 +72,18 @@ std::ostream& ScenarioCard::applyEncounter(std::ostream& os, Player& player) con
     } else {
         throw invalidArgument();
     }
-    return os;
 }
 
-std::ostream& applyMerchantEncounter(std::ostream& os, Player& player) {
+void applyMerchantEncounter(Player& player) {
     printMerchantInitialMessageForInteractiveEncounter(std::cout,
                                                        player.getName(),
                                                        player.getCoins());
     char input = getInputForMerchantEncounter();
-    int inputAsInt = input - '0';
-    applyMerchantEncounterAUX(os, player, inputAsInt);
-    return os;
+    int inputAsInt = input - ZERO;
+    applyMerchantEncounterAUX(player, inputAsInt);
 }
 
-std::ostream& applyMerchantEncounterAUX(std::ostream& os, Player& player, int input) {
+void applyMerchantEncounterAUX(Player& player, int input) {
     int cost = 0;
     if (input == 1) {
         if (player.getCoins() < HEALTH_POTION_COST) {
@@ -104,13 +105,12 @@ std::ostream& applyMerchantEncounterAUX(std::ostream& os, Player& player, int in
         }
     }
     printMerchantSummary(std::cout, player.getName(), input, cost);
-    return os;
 }
 
 char getInputForMerchantEncounter() {
     char input;
     std::cin >> input;
-    while(input != '0' && input != '1' && input != '2') {
+    while(input != ZERO && input != ONE && input != TWO) {
         printInvalidInput();
         std::cin >> input;
     }
