@@ -51,6 +51,19 @@ public:
      * @return void
     */
     virtual void applyEncounter(Player& player) const = 0;
+
+    /**
+     * Prints the card's info.
+     *
+     * @param os - The output stream to print to.
+     * @param card - The card to print.
+     * @return void
+    */
+    friend std::ostream& operator<<(std::ostream& os, const Card& card)
+    {
+        printCardDetails(os, card.m_name);
+        return os;
+    }
 };
 
 

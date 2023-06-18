@@ -36,6 +36,13 @@ public:
      */
     void printCardInfo(std::ostream &os) const;
 
+    /**
+     * Printing operator for BattleCard class
+     * @param os
+     * @param BattleCard
+     * @return
+     */
+    friend std::ostream& operator<<(std::ostream& os, const BattleCard& Card);
 };
 
 #endif //EX4_MATAM_BATTLECARDS_H

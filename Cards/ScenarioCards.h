@@ -37,6 +37,14 @@ public:
     * @return void
     */
     void applyEncounter(Player& player) const override;
+
+    /**
+    * Printing operator for ScenarioCard class
+    * @param os
+    * @param BattleCard
+    * @return
+    */
+    friend std::ostream& operator<<(std::ostream& os, const ScenarioCard& Card);
 };
 
 

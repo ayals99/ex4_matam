@@ -61,6 +61,12 @@ void BattleCard::printCardInfo(std::ostream &os) const
     printEndOfCardDetails(os);
 }
 
+std::ostream& operator<<(std::ostream& os, const BattleCard& Card)
+{
+    Card.printCardInfo(os);
+    return os;
+}
+
 
 
 

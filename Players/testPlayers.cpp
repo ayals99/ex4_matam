@@ -763,7 +763,7 @@ bool cardConstructorTest()
     BattleCard gremlinCard("Gremlin");
     BattleCard witchCard("Witch");
     BattleCard dragonCard("Dragon");
-    ScenarioCard treasureCard("Treasure");\
+    ScenarioCard treasureCard("Treasure");
     ScenarioCard wellCard("Well");
     ScenarioCard barfightCard("Barfight");
     ScenarioCard manaCard("Mana");
@@ -801,13 +801,23 @@ bool cardPrintsTest()
     BattleCard witchCard("Witch");
     BattleCard dragonCard("Dragon");
 
+    ScenarioCard treasureCard("Treasure");
+    ScenarioCard wellCard("Well");
+    ScenarioCard barfightCard("Barfight");
+    ScenarioCard manaCard("Mana");
+    ScenarioCard merchantCard("Merchant");
+
     gremlinCard.printCardInfo(std::cout);
     witchCard.printCardInfo(std::cout);
     dragonCard.printCardInfo(std::cout);
+
+    std::cout << gremlinCard << std::endl;
+    std::cout << witchCard << std::endl;
+    std::cout << dragonCard << std::endl;
     return true;
 }
 
-bool applyEncounterTest()
+bool applyBattleEncounterTest()
 {
     Ninja ninja("purpleHaze");
     Healer healer("voodooChild");
@@ -817,16 +827,136 @@ bool applyEncounterTest()
     BattleCard witchCard("Witch");
     BattleCard dragonCard("Dragon");
 
+    gremlinCard.applyEncounter(ninja);
+    if(ninja.getHealth() != 100)
+    {
+        return false;
+    }
+    gremlinCard.applyEncounter(healer);
+    if(healer.getHealth() != 100)
+    {
+        return false;
+    }
+    gremlinCard.applyEncounter(warrior);
+    if(warrior.getHealth() != 100 && warrior.getLevel() != 2)
+    {
+        return false;
+    }
+    witchCard.applyEncounter(ninja);
+    if(ninja.getHealth() != 89 && ninja.getForce() == 1)
+    {
+        return false;
+    }
+    witchCard.applyEncounter(healer);
+    if(healer.getHealth() != 89 && healer.getForce() == 1)
+    {
+        return false;
+    }
+    witchCard.applyEncounter(warrior);
+    if(warrior.getHealth() != 100)
+    {
+        return false;
+    }
+    dragonCard.applyEncounter(ninja);
+    if(ninja.getHealth() != 0)
+    {
+        return false;
+    }
+    dragonCard.applyEncounter(healer);
+    if(healer.getHealth() != 0)
+    {
+        return false;
+    }
+    dragonCard.applyEncounter(warrior);
+    if(warrior.getHealth() != 0)
+    {
+        return false;
+    }
+    return true;
+}
+
+bool applyScenarioEncounterTests()
+{
+    Ninja ninja("purpleHaze");
+    Healer healer("voodooChild");
+    Warrior warrior("theWatchtower");
+
     ScenarioCard treasureCard("Treasure");
     ScenarioCard wellCard("Well");
     ScenarioCard barfightCard("Barfight");
     ScenarioCard manaCard("Mana");
     ScenarioCard merchantCard("Merchant");
 
-    
-
-
-
+    treasureCard.applyEncounter(ninja);
+    if(ninja.getCoins() != 30)
+    {
+        return false;
+    }
+    treasureCard.applyEncounter(healer);
+    if(healer.getCoins() != 20)
+    {
+        return false;
+    }
+    treasureCard.applyEncounter(warrior);
+    if(warrior.getCoins() != 20)
+    {
+        return false;
+    }
+    wellCard.applyEncounter(ninja);
+    if(ninja.getHealth() != 100)
+    {
+        return false;
+    }
+    wellCard.applyEncounter(healer);
+    if(healer.getHealth() != 90)
+    {
+        return false;
+    }
+    wellCard.applyEncounter(warrior);
+    if(warrior.getHealth() != 90)
+    {
+        return false;
+    }
+    barfightCard.applyEncounter(ninja);
+    if(ninja.getHealth() != 92)
+    {
+        return false;
+    }
+    barfightCard.applyEncounter(healer);
+    if(healer.getHealth() != 82)
+    {
+        return false;
+    }
+    barfightCard.applyEncounter(warrior);
+    if(warrior.getHealth() != 90)
+    {
+        return false;
+    }
+    manaCard.applyEncounter(ninja);
+    if(ninja.getHealth() != 92)
+    {
+        return false;
+    }
+    manaCard.applyEncounter(healer);
+    if(healer.getHealth() != 100)
+    {
+        return false;
+    }
+    manaCard.applyEncounter(warrior);
+    if(warrior.getHealth() != 90)
+    {
+        return false;
+    }
+    merchantCard.applyEncounter(ninja);
+    merchantCard.applyEncounter(healer);
+    merchantCard.applyEncounter(warrior);
+    merchantCard.applyEncounter(ninja);
+    merchantCard.applyEncounter(healer);
+    merchantCard.applyEncounter(warrior);
+    merchantCard.applyEncounter(ninja);
+    merchantCard.applyEncounter(healer);
+    merchantCard.applyEncounter(warrior);
+    return true;
 }
 
 
@@ -859,6 +989,8 @@ int main(){
     /** Tests with Card */
     run_test(cardConstructorTest,"cardConstructorTest");
     run_test(cardPrintsTest,"cardPrintsTest");
+    run_test(applyBattleEncounterTest,"applyBattleEncounterTest");
+    run_test(applyScenarioEncounterTests,"applyScenarioEncounterTests");
 
     return 0;
 }

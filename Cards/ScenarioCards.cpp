@@ -17,7 +17,7 @@ const int FORCE_BOOST = 1;
 
 void applyMerchantEncounter(Player& player);
 void applyMerchantEncounterAUX(Player& player, int input);
-int getInputForMerchantEncounter();
+char getInputForMerchantEncounter();
 
 
 
@@ -75,35 +75,47 @@ void applyMerchantEncounter(Player& player) {
     printMerchantInitialMessageForInteractiveEncounter(std::cout,
                                                        player.getName(),
                                                        player.getCoins());
-    int input = getInputForMerchantEncounter();
-    applyMerchantEncounterAUX(player, input);
-    printMerchantSummary(std::cout, player.getName(), input, 2 * input);
+    char input = getInputForMerchantEncounter();
+    int inputAsInt = input - '0';
+    applyMerchantEncounterAUX(player, inputAsInt);
 }
 
 void applyMerchantEncounterAUX(Player& player, int input) {
+    int cost = 0;
     if (input == 1) {
         if (player.getCoins() < HEALTH_POTION_COST) {
             printMerchantInsufficientCoins(std::cout);
+            cost = 0;
         } else {
             player.heal(HEALT_POTION_HEAL);
             player.pay(HEALTH_POTION_COST);
+            cost = HEALTH_POTION_COST;
         }
     } else if (input == 2) {
         if (player.getCoins() < FORCE_BOOST_COST) {
             printMerchantInsufficientCoins(std::cout);
+            cost = 0;
         } else {
             player.buff(FORCE_BOOST);
             player.pay(FORCE_BOOST_COST);
+            cost = FORCE_BOOST_COST;
         }
     }
+    printMerchantSummary(std::cout, player.getName(), input, cost);
 }
 
-int getInputForMerchantEncounter() {
-    int input;
+char getInputForMerchantEncounter() {
+    char input;
     std::cin >> input;
-    while (input != 0 && input != 1 && input != 2) {
+    while(input != '0' && input != '1' && input != '2') {
         printInvalidInput();
         std::cin >> input;
     }
     return input;
+}
+
+std::ostream& operator<<(std::ostream& os, const ScenarioCard& Card)
+{
+    printCardDetails(os, Card.getName());
+    return os;
 }
