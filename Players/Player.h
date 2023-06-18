@@ -26,6 +26,10 @@ public:
 
     explicit Player(std::string& name);
 
+    Player(Player& other) = delete;
+    Player& operator=(Player& other) = delete;
+    virtual ~Player() = default;
+
     /** Getters: **/
     std::string getName() const;
     int getLevel() const;

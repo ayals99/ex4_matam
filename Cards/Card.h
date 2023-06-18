@@ -10,6 +10,12 @@ protected:
     std::string m_name;
 
 public:
+    explicit Card(std::string name) : m_name(name) {};
+
+    Card(Card& other) = delete;
+    Card() = delete;
+    virtual ~Card() = default;
+
     virtual void getName() const = 0;
     virtual void applyEncounter(Player& player) const = 0;
 };
