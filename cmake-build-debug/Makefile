@@ -176,6 +176,30 @@ Cards/Card.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Cards/Card.cpp.s
 .PHONY : Cards/Card.cpp.s
 
+Cards/ScenarioCards.obj: Cards/ScenarioCards.cpp.obj
+.PHONY : Cards/ScenarioCards.obj
+
+# target to build an object file
+Cards/ScenarioCards.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Cards/ScenarioCards.cpp.obj
+.PHONY : Cards/ScenarioCards.cpp.obj
+
+Cards/ScenarioCards.i: Cards/ScenarioCards.cpp.i
+.PHONY : Cards/ScenarioCards.i
+
+# target to preprocess a source file
+Cards/ScenarioCards.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Cards/ScenarioCards.cpp.i
+.PHONY : Cards/ScenarioCards.cpp.i
+
+Cards/ScenarioCards.s: Cards/ScenarioCards.cpp.s
+.PHONY : Cards/ScenarioCards.s
+
+# target to generate assembly for a file
+Cards/ScenarioCards.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Cards/ScenarioCards.cpp.s
+.PHONY : Cards/ScenarioCards.cpp.s
+
 HealthPoints.obj: HealthPoints.cpp.obj
 .PHONY : HealthPoints.obj
 
@@ -287,6 +311,9 @@ help:
 	@echo ... Cards/Card.obj
 	@echo ... Cards/Card.i
 	@echo ... Cards/Card.s
+	@echo ... Cards/ScenarioCards.obj
+	@echo ... Cards/ScenarioCards.i
+	@echo ... Cards/ScenarioCards.s
 	@echo ... HealthPoints.obj
 	@echo ... HealthPoints.i
 	@echo ... HealthPoints.s

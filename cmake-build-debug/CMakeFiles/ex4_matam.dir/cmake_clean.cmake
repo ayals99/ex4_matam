@@ -4,6 +4,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj.d"
   "CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj"
   "CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj.d"
+  "CMakeFiles/ex4_matam.dir/Cards/ScenarioCards.cpp.obj"
+  "CMakeFiles/ex4_matam.dir/Cards/ScenarioCards.cpp.obj.d"
   "CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj"
   "CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj.d"
   "CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj"

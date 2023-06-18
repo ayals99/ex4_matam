@@ -17,4 +17,8 @@ public:
         return "Mtmchkin playing error: No players in the game";
     }
 };
+
+class invalidArgument : std::exception {};
+
+
 #endif //EX4_MATAM_EXCEPTION_H

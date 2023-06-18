@@ -38,4 +38,4 @@ add_executable(ex4_matam
         Exception.h
         Mtmchkin.h
         utilities.cpp
-        HealthPoints.cpp Cards/BattleCards.cpp)
+        HealthPoints.cpp Cards/BattleCards.cpp Cards/ScenarioCards.cpp Cards/ScenarioCards.h)

@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/user/Documents/GitHub/ex4_matam/Cards/BattleCards.cpp" "CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj" "gcc" "CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj.d"
   "C:/Users/user/Documents/GitHub/ex4_matam/Cards/Card.cpp" "CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj" "gcc" "CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj.d"
+  "C:/Users/user/Documents/GitHub/ex4_matam/Cards/ScenarioCards.cpp" "CMakeFiles/ex4_matam.dir/Cards/ScenarioCards.cpp.obj" "gcc" "CMakeFiles/ex4_matam.dir/Cards/ScenarioCards.cpp.obj.d"
   "C:/Users/user/Documents/GitHub/ex4_matam/HealthPoints.cpp" "CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj" "gcc" "CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj.d"
   "C:/Users/user/Documents/GitHub/ex4_matam/Players/Player.cpp" "CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj" "gcc" "CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj.d"
   "C:/Users/user/Documents/GitHub/ex4_matam/Players/testPlayers.cpp" "CMakeFiles/ex4_matam.dir/Players/testPlayers.cpp.obj" "gcc" "CMakeFiles/ex4_matam.dir/Players/testPlayers.cpp.obj.d"

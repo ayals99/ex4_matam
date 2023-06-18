@@ -34,8 +34,7 @@ public:
      * Applies the card's effect on the player.
      *
      * @param player - The player to apply the card's effect on.
-     * @return
-     *      void
+     * @return void
     */
     virtual void applyEncounter(Player& player) const = 0;
 
