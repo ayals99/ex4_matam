@@ -7,6 +7,10 @@
 #include "Ninja.h"
 #include "Healer.h"
 #include "Warrior.h"
+#include "BattleCards.h"
+#include "ScenarioCards.h"
+
+
 
 void run_test(std::function<bool()> test, std::string test_name){
     if(!test()){
@@ -754,6 +758,78 @@ bool coinsTestWithReference(){
     return true;
 }
 
+bool cardConstructorTest()
+{
+    BattleCard gremlinCard("Gremlin");
+    BattleCard witchCard("Witch");
+    BattleCard dragonCard("Dragon");
+    ScenarioCard treasureCard("Treasure");\
+    ScenarioCard wellCard("Well");
+    ScenarioCard barfightCard("Barfight");
+    ScenarioCard manaCard("Mana");
+    ScenarioCard merchantCard("Merchant");
+    if(gremlinCard.getName() != "Gremlin"){
+        return false;
+    }
+    if(witchCard.getName() != "Witch"){
+        return false;
+    }
+    if(dragonCard.getName() != "Dragon"){
+        return false;
+    }
+    if(treasureCard.getName() != "Treasure"){
+        return false;
+    }
+    if(wellCard.getName() != "Well"){
+        return false;
+    }
+    if(barfightCard.getName() != "Barfight"){
+        return false;
+    }
+    if(manaCard.getName() != "Mana"){
+        return false;
+    }
+    if(merchantCard.getName() != "Merchant"){
+        return false;
+    }
+    return true;
+}
+
+bool cardPrintsTest()
+{
+    BattleCard gremlinCard("Gremlin");
+    BattleCard witchCard("Witch");
+    BattleCard dragonCard("Dragon");
+
+    gremlinCard.printCardInfo(std::cout);
+    witchCard.printCardInfo(std::cout);
+    dragonCard.printCardInfo(std::cout);
+    return true;
+}
+
+bool applyEncounterTest()
+{
+    Ninja ninja("purpleHaze");
+    Healer healer("voodooChild");
+    Warrior warrior("theWatchtower");
+
+    BattleCard gremlinCard("Gremlin");
+    BattleCard witchCard("Witch");
+    BattleCard dragonCard("Dragon");
+
+    ScenarioCard treasureCard("Treasure");
+    ScenarioCard wellCard("Well");
+    ScenarioCard barfightCard("Barfight");
+    ScenarioCard manaCard("Mana");
+    ScenarioCard merchantCard("Merchant");
+
+    
+
+
+
+}
+
+
 int main(){
 
     /** Tests with Player */
@@ -779,6 +855,10 @@ int main(){
     run_test(playerGetJobTestWithReference,"playerGetJobTestWithReference");
     run_test(playerConstructorTestWithReference, "playerConstructorTestWithReference");
     run_test(playersPrintsTestWithReference,"playersPrintsTestWithReference");
+
+    /** Tests with Card */
+    run_test(cardConstructorTest,"cardConstructorTest");
+    run_test(cardPrintsTest,"cardPrintsTest");
 
     return 0;
 }

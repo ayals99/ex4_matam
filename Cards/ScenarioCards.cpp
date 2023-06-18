@@ -27,71 +27,51 @@ ScenarioCard::ScenarioCard(const std::string &name) : Card(name) {
     m_healUponEncounter = 0;
     m_lootUponEncounter = 0;
 
-    if(name == TREASURE_CARD)
-    {
+    if (name == TREASURE_CARD) {
         m_lootUponEncounter = TREASURE_CARD_LOOT;
-    }
-    else if(name == WELL_CARD)
-    {
+    } else if (name == WELL_CARD) {
         m_damageUponEncounter = WELL_CARD_DAMAGE;
-    }
-    else if(name == BARFIGHT_CARD)
-    {
+    } else if (name == BARFIGHT_CARD) {
         m_damageUponEncounter = BARFIGHT_DAMAGE;
-    }
-    else if(name == MANA_CARD)
-    {
+    } else if (name == MANA_CARD) {
         m_healUponEncounter = MANA_CARD_HEAL;
-    }
-    else if(name == MERCHANT_CARD)
-    {
+    } else if (name == MERCHANT_CARD) {
         m_isMerchantCard = true;
-    }
-    else
-    {
-        throw  invalidArgument();
+    } else {
+        throw invalidArgument();
     }
 }
 
-void ScenarioCard::applyEncounter(Player& player) const
-{
-    if(m_isMerchantCard)
-    {
+void ScenarioCard::applyEncounter(Player& player) const {
+    if (m_isMerchantCard) {
         applyMerchantEncounter(player);
-    }
-    else if(m_name == TREASURE_CARD)
-    {
+    } else if (m_name == TREASURE_CARD) {
         player.addCoins(m_lootUponEncounter);
-    }
-    else if(m_name == WELL_CARD)
-    {
-        if(player.getPlayerJob() != "Ninja")
-        {
+        printTreasureMessage();
+    } else if (m_name == WELL_CARD) {
+        bool isNinja = player.getPlayerJob() == "Ninja";
+        if (!isNinja) {
             player.damage(m_damageUponEncounter);
         }
-    }
-    else if(m_name == BARFIGHT_CARD)
-    {
-        if(player.getPlayerJob() != "Warrior")
-        {
+        printWellMessage(isNinja);
+    } else if (m_name == BARFIGHT_CARD) {
+        bool isWarrior = player.getPlayerJob() == "Warrior";
+        if (!isWarrior) {
             player.damage(m_damageUponEncounter);
         }
-    }
-    else if(m_name == MANA_CARD)
-    {
-        if(player.getPlayerJob() == "Healer")
-        {
+        printBarfightMessage(isWarrior);
+    } else if (m_name == MANA_CARD) {
+        bool isHealer = player.getPlayerJob() == "Healer";
+        if (isHealer) {
             player.heal(m_healUponEncounter);
         }
-    }
-    else
-    {
-        throw  invalidArgument();
+        printManaMessage(isHealer);
+    } else {
+        throw invalidArgument();
     }
 }
 
-void applyMerchantEncounter(Player& player)
-{
+void applyMerchantEncounter(Player& player) {
     printMerchantInitialMessageForInteractiveEncounter(std::cout,
                                                        player.getName(),
                                                        player.getCoins());
@@ -100,40 +80,28 @@ void applyMerchantEncounter(Player& player)
     printMerchantSummary(std::cout, player.getName(), input, 2 * input);
 }
 
-void applyMerchantEncounterAUX(Player& player, int input)
-{
-    if (input == 1)
-    {
-        if (player.getCoins() < HEALTH_POTION_COST)
-        {
+void applyMerchantEncounterAUX(Player& player, int input) {
+    if (input == 1) {
+        if (player.getCoins() < HEALTH_POTION_COST) {
             printMerchantInsufficientCoins(std::cout);
-        }
-        else
-        {
+        } else {
             player.heal(HEALT_POTION_HEAL);
             player.pay(HEALTH_POTION_COST);
         }
-    }
-    else if (input == 2)
-    {
-        if (player.getCoins() < FORCE_BOOST_COST)
-        {
+    } else if (input == 2) {
+        if (player.getCoins() < FORCE_BOOST_COST) {
             printMerchantInsufficientCoins(std::cout);
-        }
-        else
-        {
+        } else {
             player.buff(FORCE_BOOST);
             player.pay(FORCE_BOOST_COST);
         }
     }
 }
 
-int getInputForMerchantEncounter()
-{
+int getInputForMerchantEncounter() {
     int input;
     std::cin >> input;
-    while (input != 0 && input != 1 && input != 2)
-    {
+    while (input != 0 && input != 1 && input != 2) {
         printInvalidInput();
         std::cin >> input;
     }
