@@ -92,7 +92,8 @@
 				0,
 				3,
 				8,
-				9
+				9,
+				10
 			]
 		}
 	],
@@ -132,7 +133,8 @@
 				0,
 				3,
 				8,
-				9
+				9,
+				10
 			]
 		},
 		{
@@ -202,6 +204,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "HealthPoints.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Cards/Merchant.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

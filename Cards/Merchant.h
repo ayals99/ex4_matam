@@ -13,16 +13,11 @@ class Merchant : public Card {
 
 private:
     std::string m_name;
-    int m_forceBoostCost = FORCE_BOOST_COST;
-    int m_healthPotionCost = HEALTH_POTION_COST;
-    int m_healthAddition = HEALTH_ADDITION;
-    int m_forceAddition = FORCE_ADDITION;
 
 public:
-    explicit Merchant(std::string name) : Card(name), m_forceBoostCost(FORCE_BOOST_COST), m_healthPotionCost(HEALTH_POTION_COST),
-                                m_healthAddition(HEALTH_ADDITION), m_forceAddition(FORCE_ADDITION) {};
+    explicit Merchant(std::string& name) : Card(name) {};
 
-    virtual ~Merchant() = default;
+    ~Merchant() override = default;
     Merchant() = delete;
     Merchant(const Merchant&) = delete;
     Merchant& operator=(const Merchant&) = delete;

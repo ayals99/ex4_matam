@@ -77,6 +77,13 @@ build CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj: CXX_COMPILER__ex4_matam_Deb
   OBJECT_DIR = CMakeFiles\ex4_matam.dir
   OBJECT_FILE_DIR = CMakeFiles\ex4_matam.dir
 
+build CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj: CXX_COMPILER__ex4_matam_Debug C$:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/Cards/Merchant.cpp || cmake_object_order_depends_target_ex4_matam
+  DEP_FILE = CMakeFiles\ex4_matam.dir\Cards\Merchant.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -IC:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/. -IC:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/Cards -IC:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/Players
+  OBJECT_DIR = CMakeFiles\ex4_matam.dir
+  OBJECT_FILE_DIR = CMakeFiles\ex4_matam.dir\Cards
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ex4_matam
@@ -85,7 +92,7 @@ build CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj: CXX_COMPILER__ex4_matam_Deb
 #############################################
 # Link the executable ex4_matam.exe
 
-build ex4_matam.exe: CXX_EXECUTABLE_LINKER__ex4_matam_Debug CMakeFiles/ex4_matam.dir/Players/testPlayers.cpp.obj CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj CMakeFiles/ex4_matam.dir/utilities.cpp.obj CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj
+build ex4_matam.exe: CXX_EXECUTABLE_LINKER__ex4_matam_Debug CMakeFiles/ex4_matam.dir/Players/testPlayers.cpp.obj CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj CMakeFiles/ex4_matam.dir/utilities.cpp.obj CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ex4_matam.dir
