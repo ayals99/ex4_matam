@@ -38,7 +38,7 @@ bool Player::won() const {
     return m_level == MAXIMAL_LEVEL;
 }
 
-bool Player::playerIsStronger(int opponentForce) const{
+bool Player::IsPlayerStronger(int opponentForce) const{
     return ( (m_force + m_level) >= opponentForce );
 }
 

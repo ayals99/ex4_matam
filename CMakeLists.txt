@@ -24,8 +24,11 @@ add_executable(ex4_matam
 #        Cards/Witch.h
 #        Cards/Well.cpp
 #        Cards/Well.h
-#        "Given tests/test.cpp"
-
+#        "Given tests/test.cpp"\
+        Cards/BattleCards.h
+        Cards/BattleCards.cpp
+        Cards/Card.cpp
+        Cards/Card.h
         Players/testPlayers.cpp
         Players/Healer.h
         Players/Ninja.h
@@ -35,4 +38,4 @@ add_executable(ex4_matam
         Exception.h
         Mtmchkin.h
         utilities.cpp
-        HealthPoints.cpp)
+        HealthPoints.cpp Cards/BattleCards.cpp)

@@ -12,7 +12,7 @@ private:
 public:
     explicit Warrior(std::string name) : Player(name){}
 
-    bool playerIsStronger(int opponentForce) const override{
+    bool IsPlayerStronger(int opponentForce) const override{
         return ( (2*m_force + m_level) >= opponentForce );
     }
 

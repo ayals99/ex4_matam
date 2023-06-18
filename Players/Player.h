@@ -35,7 +35,7 @@ public:
     bool won() const;
     HealthPoints getHealth() const;
     int getCoins() const;
-    virtual bool playerIsStronger(int opponentForce) const; // Determines who will win the battle. Override by warrior
+    virtual bool IsPlayerStronger(int opponentForce) const; // Determines who will win the battle. Override by warrior
     virtual const std::string& getPlayerJob() const = 0; // Pure virtual function
 
 

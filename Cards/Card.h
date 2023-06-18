@@ -4,14 +4,47 @@
 #include "../Players/Player.h"
 #include "../Exception.h"
 #include "../utilities.h"
+#include <iostream>
+#include <string>
+
 
 class Card{
 protected:
-    std::string m_name;
+    const std::string m_name;
 
 public:
-    virtual void getName() const = 0;
+    /**
+     * C'tor of Card class
+     *
+     * @param name - The type of the card is its name.
+     * @return
+     *      A new instance of Card.
+    */
+    explicit Card(const std::string& name): m_name(name) {}
+
+    /**
+     * @return
+     *      The name of the card.
+    */
+    const std::string& getName() const
+    {
+        return m_name;
+    }
+    /**
+     * Applies the card's effect on the player.
+     *
+     * @param player - The player to apply the card's effect on.
+     * @return
+     *      void
+    */
     virtual void applyEncounter(Player& player) const = 0;
+
+    /**
+     * D'tor of Card class
+     */
+    virtual ~Card() = default;
 };
+
+
 
 #endif //EX4_MATAM_CARD_H
