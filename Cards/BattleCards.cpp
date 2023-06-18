@@ -53,6 +53,14 @@ void BattleCard::applyEncounter(Player& player) const
     }
 }
 
+void BattleCard::printCardInfo(std::ostream &os) const
+{
+    printCardDetails(os, m_name);
+    bool isDragon = m_name == DRAGON;
+    printMonsterDetails(os, m_force, m_loot, m_damageUponLoss, isDragon);
+    printEndOfCardDetails(os);
+}
+
 
 
 

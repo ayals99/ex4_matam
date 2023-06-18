@@ -31,6 +31,11 @@ public:
 
     void applyEncounter(Player& player) const override;
 
+    /**
+     * Prints the card's info.
+     */
+    void printCardInfo(std::ostream &os) const;
+
 };
 
 #endif //EX4_MATAM_BATTLECARDS_H

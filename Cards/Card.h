@@ -23,6 +23,20 @@ public:
     explicit Card(const std::string& name): m_name(name) {}
 
     /**
+     * Copy C'tor of Card class
+     *
+     * @param other - The card to copy.
+     * @return
+     *      A new instance of Card.
+    */
+    Card(const Card& other) = default;
+
+    /**
+    * D'tor of Card class
+    */
+    virtual ~Card() = default;
+
+    /**
      * @return
      *      The name of the card.
     */
@@ -37,11 +51,6 @@ public:
      * @return void
     */
     virtual void applyEncounter(Player& player) const = 0;
-
-    /**
-     * D'tor of Card class
-     */
-    virtual ~Card() = default;
 };
 
 
