@@ -15,8 +15,8 @@ const int HEALT_POTION_HEAL = 1;
 const int FORCE_BOOST = 1;
 
 
-void applyMerchantEncounter(Player& player);
-void applyMerchantEncounterAUX(Player& player, int input);
+std::ostream& applyMerchantEncounter(std::ostream& os, Player& player);
+std::ostream& applyMerchantEncounterAUX(std::ostream& os, Player& player, int input);
 char getInputForMerchantEncounter();
 
 
@@ -42,9 +42,9 @@ ScenarioCard::ScenarioCard(const std::string &name) : Card(name) {
     }
 }
 
-void ScenarioCard::applyEncounter(Player& player) const {
+std::ostream& ScenarioCard::applyEncounter(std::ostream& os, Player& player) const {
     if (m_isMerchantCard) {
-        applyMerchantEncounter(player);
+        applyMerchantEncounter(os, player);
     } else if (m_name == TREASURE_CARD) {
         player.addCoins(m_lootUponEncounter);
         printTreasureMessage();
@@ -69,18 +69,20 @@ void ScenarioCard::applyEncounter(Player& player) const {
     } else {
         throw invalidArgument();
     }
+    return os;
 }
 
-void applyMerchantEncounter(Player& player) {
+std::ostream& applyMerchantEncounter(std::ostream& os, Player& player) {
     printMerchantInitialMessageForInteractiveEncounter(std::cout,
                                                        player.getName(),
                                                        player.getCoins());
     char input = getInputForMerchantEncounter();
     int inputAsInt = input - '0';
-    applyMerchantEncounterAUX(player, inputAsInt);
+    applyMerchantEncounterAUX(os, player, inputAsInt);
+    return os;
 }
 
-void applyMerchantEncounterAUX(Player& player, int input) {
+std::ostream& applyMerchantEncounterAUX(std::ostream& os, Player& player, int input) {
     int cost = 0;
     if (input == 1) {
         if (player.getCoins() < HEALTH_POTION_COST) {
@@ -102,6 +104,7 @@ void applyMerchantEncounterAUX(Player& player, int input) {
         }
     }
     printMerchantSummary(std::cout, player.getName(), input, cost);
+    return os;
 }
 
 char getInputForMerchantEncounter() {

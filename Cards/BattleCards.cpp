@@ -36,7 +36,7 @@ BattleCard::BattleCard(const std::string &name) : Card(name) {
     }
 }
 
-void BattleCard::applyEncounter(Player& player) const
+std::ostream& BattleCard::applyEncounter(std::ostream& os, Player& player) const
 {
     if(player.IsPlayerStronger(m_force))
     {
@@ -51,6 +51,7 @@ void BattleCard::applyEncounter(Player& player) const
           player.loseOneForce();
       }
     }
+    return os;
 }
 
 void BattleCard::printCardInfo(std::ostream &os) const

@@ -29,7 +29,7 @@ public:
      */
     ~BattleCard() override = default;
 
-    void applyEncounter(Player& player) const override;
+    std::ostream& applyEncounter(std::ostream& os, Player& player) const override;
 
     /**
      * Prints the card's info.

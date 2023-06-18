@@ -827,47 +827,47 @@ bool applyBattleEncounterTest()
     BattleCard witchCard("Witch");
     BattleCard dragonCard("Dragon");
 
-    gremlinCard.applyEncounter(ninja);
+    gremlinCard.applyEncounter(std::cout, ninja);
     if(ninja.getHealth() != 100)
     {
         return false;
     }
-    gremlinCard.applyEncounter(healer);
+    gremlinCard.applyEncounter(std::cout, healer);
     if(healer.getHealth() != 100)
     {
         return false;
     }
-    gremlinCard.applyEncounter(warrior);
+    gremlinCard.applyEncounter(std::cout, warrior);
     if(warrior.getHealth() != 100 && warrior.getLevel() != 2)
     {
         return false;
     }
-    witchCard.applyEncounter(ninja);
+    witchCard.applyEncounter(std::cout, ninja);
     if(ninja.getHealth() != 89 && ninja.getForce() == 1)
     {
         return false;
     }
-    witchCard.applyEncounter(healer);
+    witchCard.applyEncounter(std::cout, healer);
     if(healer.getHealth() != 89 && healer.getForce() == 1)
     {
         return false;
     }
-    witchCard.applyEncounter(warrior);
+    witchCard.applyEncounter(std::cout, warrior);
     if(warrior.getHealth() != 100)
     {
         return false;
     }
-    dragonCard.applyEncounter(ninja);
+    dragonCard.applyEncounter(std::cout, ninja);
     if(ninja.getHealth() != 0)
     {
         return false;
     }
-    dragonCard.applyEncounter(healer);
+    dragonCard.applyEncounter(std::cout, healer);
     if(healer.getHealth() != 0)
     {
         return false;
     }
-    dragonCard.applyEncounter(warrior);
+    dragonCard.applyEncounter(std::cout, warrior);
     if(warrior.getHealth() != 0)
     {
         return false;
@@ -887,75 +887,75 @@ bool applyScenarioEncounterTests()
     ScenarioCard manaCard("Mana");
     ScenarioCard merchantCard("Merchant");
 
-    treasureCard.applyEncounter(ninja);
+    treasureCard.applyEncounter(std::cout, ninja);
     if(ninja.getCoins() != 30)
     {
         return false;
     }
-    treasureCard.applyEncounter(healer);
+    treasureCard.applyEncounter(std::cout, healer);
     if(healer.getCoins() != 20)
     {
         return false;
     }
-    treasureCard.applyEncounter(warrior);
+    treasureCard.applyEncounter(std::cout, warrior);
     if(warrior.getCoins() != 20)
     {
         return false;
     }
-    wellCard.applyEncounter(ninja);
+    wellCard.applyEncounter(std::cout, ninja);
     if(ninja.getHealth() != 100)
     {
         return false;
     }
-    wellCard.applyEncounter(healer);
+    wellCard.applyEncounter(std::cout, healer);
     if(healer.getHealth() != 90)
     {
         return false;
     }
-    wellCard.applyEncounter(warrior);
+    wellCard.applyEncounter(std::cout, warrior);
     if(warrior.getHealth() != 90)
     {
         return false;
     }
-    barfightCard.applyEncounter(ninja);
+    barfightCard.applyEncounter(std::cout, ninja);
     if(ninja.getHealth() != 92)
     {
         return false;
     }
-    barfightCard.applyEncounter(healer);
+    barfightCard.applyEncounter(std::cout, healer);
     if(healer.getHealth() != 82)
     {
         return false;
     }
-    barfightCard.applyEncounter(warrior);
+    barfightCard.applyEncounter(std::cout, warrior);
     if(warrior.getHealth() != 90)
     {
         return false;
     }
-    manaCard.applyEncounter(ninja);
+    manaCard.applyEncounter(std::cout, ninja);
     if(ninja.getHealth() != 92)
     {
         return false;
     }
-    manaCard.applyEncounter(healer);
+    manaCard.applyEncounter(std::cout, healer);
     if(healer.getHealth() != 100)
     {
         return false;
     }
-    manaCard.applyEncounter(warrior);
+    manaCard.applyEncounter(std::cout, warrior);
     if(warrior.getHealth() != 90)
     {
         return false;
     }
-    merchantCard.applyEncounter(ninja);
-    merchantCard.applyEncounter(healer);
-    merchantCard.applyEncounter(warrior);
-    merchantCard.applyEncounter(ninja);
-    merchantCard.applyEncounter(healer);
-    merchantCard.applyEncounter(warrior);
-    merchantCard.applyEncounter(ninja);
-    merchantCard.applyEncounter(healer);
-    merchantCard.applyEncounter(warrior);
+    merchantCard.applyEncounter(std::cout, ninja);
+    merchantCard.applyEncounter(std::cout, healer);
+    merchantCard.applyEncounter(std::cout, warrior);
+    merchantCard.applyEncounter(std::cout, ninja);
+    merchantCard.applyEncounter(std::cout, healer);
+    merchantCard.applyEncounter(std::cout, warrior);
+    merchantCard.applyEncounter(std::cout, ninja);
+    merchantCard.applyEncounter(std::cout, healer);
+    merchantCard.applyEncounter(std::cout, warrior);
     return true;
 }
 
