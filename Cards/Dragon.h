@@ -17,14 +17,13 @@ class Dragon : public BattleCard {
     ~Dragon() = default;
 
     void applyEncounter(Player& player) const override{
-        if(player.playerIsStronger(m_stats->m_force))){
-            player.addCoins(m_stats->m_loot);
+        if(player.playerIsStronger(m_force)){
+            player.addCoins(m_loot);
         }
         else{
             player.setDead();
         }
     }
-
 };
 
 #endif //EX4_MATAM_DRAGON_H

@@ -17,11 +17,11 @@ public:
     ~Gremlin() = default;
 
     void applyEncounter(Player& player) const override{
-        if(player.playerIsStronger(m_stats->m_force)){
-            player.addCoins(m_stats->m_loot);
+        if(player.playerIsStronger(m_force)){
+            player.addCoins(m_loot);
         }
         else{
-            player.damage(m_stats->m_healthPointsReduction);
+            player.damage(m_healthPointsReduction);
         }
     }
 

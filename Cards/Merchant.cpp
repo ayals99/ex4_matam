@@ -1,5 +1,10 @@
-//
-// Created by ayals on 6/14/2023.
-//
-
 #include "Merchant.h"
+
+void Merchant::applyEncounter(Player& player) const{
+    printMerchantInitialMessageForInteractiveEncounter(std::cout, player.getName(), player.getCoins());
+
+    int choice = getMerchantChoiceFromUser(std::cin);
+
+
+
+}
