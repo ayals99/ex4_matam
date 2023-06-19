@@ -6,8 +6,10 @@
 #include <vector>
 #include "Exception.h"
 #include "utilities.h"
+#include <queue>
+#include "Cards/Card.h"
 
-typedef std::vector<std::shared_ptr<Card>> deck;
+typedef std::queue<std::shared_ptr<Card>> deck;
 typedef std::vector<std::shared_ptr<Player>> leaderboard;
 
 class Mtmchkin{
@@ -16,7 +18,8 @@ private:
     deck m_deckOfCards;
     leaderboard m_leaderBoard;
     int m_numberOfRounds;
-    //int m_numberOfPlayers;
+    int m_numberOfPlayers;
+    int m_numberOfPlayersLeft;
 
 public:
     /*
