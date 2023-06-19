@@ -640,7 +640,7 @@ bool testBuffWithReference(){
 
 }
 
-bool playerInGameTestWithRefernce(){
+bool playerInGameTestWithReference(){
     Warrior warrior("Itay");
     Healer healer("Boris");
     Ninja ninja("Efrat");
@@ -771,7 +771,7 @@ int main(){
     /** Tests with Player& */
     run_test(testGetNameWithReference,"testGetNameWithReference");
     run_test(testBuffWithReference,"testBuffWithReference");
-    run_test(playerInGameTestWithRefernce,"playerInGameTestWithRefernce");
+    run_test(playerInGameTestWithReference,"playerInGameTestWithReference");
     run_test(coinsTestWithReference,"coinsTestWithReference");
     run_test(testPlayerHealthPointsWithReference,"testPlayerHealthPointsWithReference");
     run_test(playerGetCoinsTestWithReference,"playerGetCoinsTestWithReference");

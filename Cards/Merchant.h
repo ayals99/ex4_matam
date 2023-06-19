@@ -1,7 +1,6 @@
 #ifndef EX4_MATAM_MERCHANT_H
 #define EX4_MATAM_MERCHANT_H
 
-
 #include "Card.h"
 
 static const int FORCE_BOOST_COST = 10;

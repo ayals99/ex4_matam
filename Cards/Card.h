@@ -10,7 +10,7 @@ protected:
     std::string m_name;
 
 public:
-    explicit Card(std::string name) : m_name(name) {};
+    explicit Card(std::string& name) : m_name(name) {};
 
     Card(Card& other) = delete;
     Card() = delete;
