@@ -9,14 +9,14 @@
 #include <queue>
 #include "Cards/Card.h"
 
-typedef std::queue<std::shared_ptr<Card>> deck;
-typedef std::vector<std::shared_ptr<Player>> leaderboard;
+typedef std::queue<std::shared_ptr<Card>> Deck;
+typedef std::vector<std::shared_ptr<Player>> LeaderBoard;
 
 class Mtmchkin{
 
 private:
-    deck m_deckOfCards;
-    leaderboard m_leaderBoard;
+    Deck m_deckOfCards;
+    LeaderBoard m_leaderBoard;
     int m_numberOfRounds;
     int m_numberOfPlayers;
     int m_numberOfPlayersLeft;

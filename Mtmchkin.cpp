@@ -1,7 +1,9 @@
 #include "Mtmchkin.h"
 
 leaderboard& createLeaderBoard();
+int readNumberOfPlayers();
 
+typedef std::shared_ptr<Player> PlayerPointer;
 
 explicit Mtmchkin(const std::string &fileName){
     try{
@@ -25,5 +27,12 @@ explicit Mtmchkin(const std::string &fileName){
 leaderboard& createLeaderBoard()
 {
     int numberOfPlayers = readNumberOfPlayers();
+    LeaderBoard* leaderBoard = new LeaderBoard();
+    for(int i = 0; i < numberOfPlayers; ++i){
+
+
+
+        }
+    }
 }
 
