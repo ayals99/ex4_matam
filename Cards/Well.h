@@ -5,12 +5,12 @@
 #include "../Players/Ninja.h"
 
 static const int WELL_HP_LOSS = 10;
+static const std::string WELL_NAME = "Well";
 
 class Well : public Card {
-    Well(std::string name) : Card(name) {};
-
-    Well() = delete;
-    ~Well() = default;
+public:
+    Well() : Card(WELL_NAME) {};
+    ~Well() override = default;
     Well& operator=(const Well& other) = delete;
     Well(const Well& other) = delete;
 

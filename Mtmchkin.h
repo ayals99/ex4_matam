@@ -3,6 +3,7 @@
 
 
 #include <memory>
+#include <vector>
 #include "Exception.h"
 #include "utilities.h"
 

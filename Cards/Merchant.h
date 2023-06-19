@@ -7,17 +7,14 @@ static const int FORCE_BOOST_COST = 10;
 static const int HEALTH_POTION_COST = 5;
 static const int HEALTH_ADDITION = 1;
 static const int FORCE_ADDITION = 1;
+static const std::string MERCHANT_NAME = "Merchant";
+
 
 class Merchant : public Card {
-
-private:
-    std::string m_name;
-
 public:
-    explicit Merchant(std::string& name) : Card(name) {};
+    explicit Merchant() : Card(MERCHANT_NAME) {};
 
     ~Merchant() override = default;
-    Merchant() = delete;
     Merchant(const Merchant&) = delete;
     Merchant& operator=(const Merchant&) = delete;
 

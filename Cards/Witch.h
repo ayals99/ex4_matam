@@ -10,7 +10,8 @@ static const int WITCH_LOOT = 2;
 
 #include "BattleCards.h"
 class Witch : public BattleCard {
-    Witch() : BattleCard(WITCH_NAME, WITCH_FORCE, WITCH_DAMAGE, WITCH_LOOT) {};
+public:
+    explicit Witch() : BattleCard(WITCH_NAME, WITCH_FORCE, WITCH_DAMAGE, WITCH_LOOT) {};
 
     Witch& operator=(const Witch& other) = delete;
     Witch(Witch& other) = delete;

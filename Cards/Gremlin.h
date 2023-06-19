@@ -14,7 +14,7 @@ public:
 
     Gremlin(Gremlin& other) = delete;
     Gremlin& operator=(const Gremlin& other) = delete;
-    ~Gremlin() = default;
+    ~Gremlin() override = default;
 
     void applyEncounter(Player& player) const override{
         if(player.playerIsStronger(m_force)){

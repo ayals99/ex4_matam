@@ -9,12 +9,12 @@ static const int DRAGON_DAMAGE = MAX_HP;
 static const int DRAGON_LOOT = 1000;
 
 class Dragon : public BattleCard {
-
+public:
     Dragon() : BattleCard(DRAGON_NAME, DRAGON_FORCE, DRAGON_DAMAGE, DRAGON_LOOT) {};
 
     Dragon& operator=(const Dragon& other) = delete;
     Dragon(Dragon& other) = delete;
-    ~Dragon() = default;
+    ~Dragon() override = default;
 
     void applyEncounter(Player& player) const override{
         if(player.playerIsStronger(m_force)){
@@ -34,7 +34,6 @@ class Dragon : public BattleCard {
         printEndOfCardDetails(os);
         return os;
     }
-
 };
 
 #endif //EX4_MATAM_DRAGON_H

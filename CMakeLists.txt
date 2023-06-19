@@ -9,30 +9,33 @@ include_directories(Players)
 
 add_executable(ex4_matam
 #        Cards/Barfight.cpp
-#        Cards/Barfight.h
+        Cards/Barfight.h
 #        Cards/Dragon.cpp
-#        Cards/Dragon.h
+        Cards/Dragon.h
 #        Cards/Gremlin.cpp
-#        Cards/Gremlin.h
+        Cards/Gremlin.h
 #        Cards/Mana.cpp
-#        Cards/Mana.h
-#        Cards/Merchant.cpp
+        Cards/Mana.h
+        Cards/Merchant.cpp
 #        Cards/Merchant.h
 #        Cards/Treasure.cpp
-#        Cards/Treasure.h
+        Cards/Treasure.h
 #        Cards/Witch.cpp
-#        Cards/Witch.h
+        Cards/Witch.h
 #        Cards/Well.cpp
-#        Cards/Well.h
+        Cards/Well.h
 #        "Given tests/test.cpp"
 
-        Players/testPlayers.cpp
+#        Players/testPlayers.cpp
         Players/Healer.h
         Players/Ninja.h
         Players/Player.cpp
         Players/Player.h
         Players/Warrior.h
-        Exception.h
-        Mtmchkin.h
+#        Exception.h
+#        Mtmchkin.h
         utilities.cpp
-        HealthPoints.cpp Cards/Merchant.cpp)
+        HealthPoints.cpp
+        Cards/Merchant.cpp
+        Cards/CardTester.cpp
+        Cards/Card.cpp)

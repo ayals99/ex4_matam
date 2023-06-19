@@ -4,12 +4,12 @@
 #include "Card.h"
 #include "../Players/Warrior.h"
 
+static const std::string BARFIGHT_NAME = "Barfight";
 static const int BARFIGHT_HP_LOSS = 8;
 
 class Barfight : public Card {
 public:
-    Barfight(std::string name) : Card(name) {};
-    Barfight() = delete;
+    Barfight() : Card(BARFIGHT_NAME) {};
     ~Barfight() = default;
     Barfight& operator=(const Barfight& other) = delete;
     Barfight(const Barfight& other) = delete;
