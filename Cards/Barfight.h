@@ -10,15 +10,18 @@ class Barfight : public Card {
 public:
     Barfight(std::string name) : Card(name) {};
     Barfight() = delete;
-    virtual ~Barfight() = default;
+    ~Barfight() = default;
     Barfight& operator=(const Barfight& other) = delete;
     Barfight(const Barfight& other) = delete;
 
-    virtual void applyEncounter(Player& player) const override{
-        if(dynamic_cast<Warrior*>(&player) == nullptr) {
+    void applyEncounter(Player& player) const override{
+        bool isWarrior = dynamic_cast<Warrior*>(&player);
+        if(!isWarrior){
             player.damage(BARFIGHT_HP_LOSS);
         }
+        printBarfightMessage(isWarrior);
     }
 };
+
 
 #endif //EX4_MATAM_BARFIGHT_H

@@ -17,6 +17,14 @@ public:
     BattleCard() = delete;
     BattleCard(BattleCard& other) = delete;
     virtual ~BattleCard() = default;
+
+    std::ostream& stringToPrint(std::ostream& os) const override{
+        printCardDetails(os, m_name);
+        printMonsterDetails(os, m_force, m_healthPointsReduction, m_loot, false);
+        printEndOfCardDetails(os);
+        return os;
+    }
 };
+
 
 #endif //EX4_MATAM_BATTLE_CARDS_H

@@ -18,6 +18,13 @@ public:
 
     virtual void getName() const = 0;
     virtual void applyEncounter(Player& player) const = 0;
+
+    virtual std::ostream& stringToPrint(std::ostream& os) const{
+        printCardDetails(os, m_name);
+        printEndOfCardDetails(os);
+        return os;
+    }
 };
+
 
 #endif //EX4_MATAM_CARD_H

@@ -9,12 +9,13 @@ public:
     Treasure(std::string name) : Card(name) {};
 
     Treasure() = delete;
-    virtual ~Treasure() = default;
     Treasure& operator=(const Treasure& other) = delete;
     Treasure(const Treasure& other) = delete;
+    ~Treasure() = default;
 
-    virtual void applyEncounter(Player& player) const override{
+    void applyEncounter(Player& player) const override{
         player.addCoins(TREASURE_COIN_GAIN);
+        printTreasureMessage();
     }
 };
 

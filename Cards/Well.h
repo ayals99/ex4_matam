@@ -10,14 +10,16 @@ class Well : public Card {
     Well(std::string name) : Card(name) {};
 
     Well() = delete;
-    virtual ~Well() = default;
+    ~Well() = default;
     Well& operator=(const Well& other) = delete;
     Well(const Well& other) = delete;
 
-    virtual void applyEncounter(Player& player) const override{
-        if(dynamic_cast<Ninja*>(&player) == nullptr) {
+    void applyEncounter(Player& player) const override{
+        bool isNinja = dynamic_cast<Ninja*>(&player);
+        if(!isNinja) {
             player.damage(WELL_HP_LOSS);
         }
+        printWellMessage(isNinja);
     }
 };
 

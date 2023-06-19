@@ -18,10 +18,13 @@ class Witch : public BattleCard {
     void applyEncounter(Player& player) const override{
         if(player.playerIsStronger(m_force)){
             player.addCoins(m_loot);
+            player.levelUp();
+            printWinBattle(player.getName(), this->m_name);
         }
         else{
             player.damage(m_healthPointsReduction);
             player.loseOneForce();
+            printLossBattle(player.getName(), this->m_name);
         }
     }
 };

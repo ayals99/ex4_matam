@@ -9,16 +9,19 @@ static const int MANA_HP_GAIN = 10;
 
 class Mana : public Card {
 public:
-    Mana(std::string name, int ) : Card(name) {};
+    explicit Mana(std::string name, int ) : Card(name) {};
     Mana() = delete;
-    virtual ~Mana() = default;
     Mana& operator=(const Mana& other) = delete;
     Mana(const Mana& other) = delete;
+    ~Mana() = default;
 
-    virtual void applyEncounter(Player& player) const override{
-        if(dynamic_cast<Healer*>(&player)){
+
+    void applyEncounter(Player& player) const override{
+        bool isHealer = dynamic_cast<Healer*>(&player);
+        if(isHealer){
             player.heal(MANA_HP_GAIN);
         }
+        printManaMessage(isHealer);
     }
 };
 

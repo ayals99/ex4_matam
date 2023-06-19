@@ -1,7 +1,14 @@
 # ninja log v5
-0	89	7088194063973791	build.ninja	e4d7db87d074601a
-3	352	7086051712828884	CMakeFiles/ex4_matam.dir/Players/testPlayers.cpp.obj	77d94ff0d14ba3de
+0	89	7088914127356665	build.ninja	e4d7db87d074601a
 9	713	7085635526822784	CMakeFiles/ex4_matam.dir/utilities.cpp.obj	123b758ace399ccc
-6	639	7085635526062355	CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj	c87b47b37464a4c
+3	352	7086051712828884	CMakeFiles/ex4_matam.dir/Players/testPlayers.cpp.obj	77d94ff0d14ba3de
 2	207	7085434248946522	CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj	f84ad118e776b62f
+6	639	7085635526062355	CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj	c87b47b37464a4c
 353	447	7086051713709695	ex4_matam.exe	62e085f9c5a06a9c
+11	444	7088914127356665	build.ninja	e4d7db87d074601a
+36	907	7088914137008282	CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj	f84ad118e776b62f
+61	928	7088914137199870	CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj	4a9e149536c2f98f
+23	963	7088914137605768	CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj	c87b47b37464a4c
+9	967	7088914137635763	CMakeFiles/ex4_matam.dir/utilities.cpp.obj	123b758ace399ccc
+48	1197	7088914139953424	CMakeFiles/ex4_matam.dir/Players/testPlayers.cpp.obj	77d94ff0d14ba3de
+1197	1468	7088914142597132	ex4_matam.exe	8dcfb9afd15f149c
