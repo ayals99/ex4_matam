@@ -32,10 +32,10 @@ add_executable(ex4_matam
         Players/Player.cpp
         Players/Player.h
         Players/Warrior.h
-#        Exception.h
-#        Mtmchkin.h
+        Exception.h
+        Mtmchkin.h
         utilities.cpp
         HealthPoints.cpp
         Cards/Merchant.cpp
         Cards/CardTester.cpp
-        Cards/Card.cpp)
+        Cards/Card.cpp Mtmchkin.cpp)
