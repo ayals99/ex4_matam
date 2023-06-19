@@ -75,7 +75,7 @@ void Player::levelUp(){
  * @return void
  */
 void Player::heal(int hpToAdd){
-    if (m_health == MINIMAL_HEALTH){ // TODO: check if need to throw exception - trying to revive the dead.
+    if (m_health == MINIMAL_HEALTH){ // TODO: check if we need to throw an exception - trying to revive the dead.
         return;
     }
 
@@ -135,11 +135,11 @@ bool Player::pay(int coinsToPay){
 }
 
 /**
- * @param none - removes one unit of force if the player loses to a Witch
+ * @param none - removes one unit of force when the player loses to a Witch
  * @return void
  */
 void Player::loseOneForce(){
-    if (m_force > 0) {
+    if (m_force > MINIMUM_FORCE) {
         m_force--;
     }
 }

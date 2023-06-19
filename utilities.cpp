@@ -117,7 +117,7 @@ void printMerchantSummary(ostream &os, const string &playerName, int type, int c
 {
     os << playerName << " has paid " << cost << " coins ";
     if(type != 0){
-        os << "for ";;
+        os << "for ";
     }
 
     if(type == 1){

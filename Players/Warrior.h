@@ -2,7 +2,6 @@
 #define EX4_MATAM_WARRIOR_H
 
 #include <utility>
-
 #include "Player.h"
 
 class Warrior : public Player {
@@ -20,5 +19,4 @@ public:
         return m_job;
     }
 };
-
 #endif //EX4_MATAM_WARRIOR_H
