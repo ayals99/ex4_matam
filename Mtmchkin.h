@@ -4,19 +4,19 @@
 
 #include <memory>
 #include <vector>
+#include <queue>
 #include "Exception.h"
 #include "utilities.h"
-#include <queue>
 #include "Cards/Card.h"
 
-typedef std::queue<std::shared_ptr<Card>> Deck;
-typedef std::vector<std::shared_ptr<Player>> LeaderBoard;
+typedef std::queue<Card*> Deck;
+typedef std::vector<Player*> LeaderBoard;
 
 class Mtmchkin{
 
 private:
-    Deck m_deckOfCards;
-    LeaderBoard m_leaderBoard;
+    Deck* m_deckOfCards;
+    LeaderBoard* m_leaderBoard;
     int m_numberOfRounds;
     int m_numberOfPlayers;
     int m_numberOfPlayersLeft;

@@ -152,30 +152,6 @@ Cards/Card.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Cards/Card.cpp.s
 .PHONY : Cards/Card.cpp.s
 
-Cards/CardTester.obj: Cards/CardTester.cpp.obj
-.PHONY : Cards/CardTester.obj
-
-# target to build an object file
-Cards/CardTester.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Cards/CardTester.cpp.obj
-.PHONY : Cards/CardTester.cpp.obj
-
-Cards/CardTester.i: Cards/CardTester.cpp.i
-.PHONY : Cards/CardTester.i
-
-# target to preprocess a source file
-Cards/CardTester.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Cards/CardTester.cpp.i
-.PHONY : Cards/CardTester.cpp.i
-
-Cards/CardTester.s: Cards/CardTester.cpp.s
-.PHONY : Cards/CardTester.s
-
-# target to generate assembly for a file
-Cards/CardTester.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Cards/CardTester.cpp.s
-.PHONY : Cards/CardTester.cpp.s
-
 Cards/Merchant.obj: Cards/Merchant.cpp.obj
 .PHONY : Cards/Merchant.obj
 
@@ -199,6 +175,30 @@ Cards/Merchant.s: Cards/Merchant.cpp.s
 Cards/Merchant.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.s
 .PHONY : Cards/Merchant.cpp.s
+
+Given_tests/test.obj: Given_tests/test.cpp.obj
+.PHONY : Given_tests/test.obj
+
+# target to build an object file
+Given_tests/test.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Given_tests/test.cpp.obj
+.PHONY : Given_tests/test.cpp.obj
+
+Given_tests/test.i: Given_tests/test.cpp.i
+.PHONY : Given_tests/test.i
+
+# target to preprocess a source file
+Given_tests/test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Given_tests/test.cpp.i
+.PHONY : Given_tests/test.cpp.i
+
+Given_tests/test.s: Given_tests/test.cpp.s
+.PHONY : Given_tests/test.s
+
+# target to generate assembly for a file
+Given_tests/test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Given_tests/test.cpp.s
+.PHONY : Given_tests/test.cpp.s
 
 HealthPoints.obj: HealthPoints.cpp.obj
 .PHONY : HealthPoints.obj
@@ -308,12 +308,12 @@ help:
 	@echo ... Cards/Card.obj
 	@echo ... Cards/Card.i
 	@echo ... Cards/Card.s
-	@echo ... Cards/CardTester.obj
-	@echo ... Cards/CardTester.i
-	@echo ... Cards/CardTester.s
 	@echo ... Cards/Merchant.obj
 	@echo ... Cards/Merchant.i
 	@echo ... Cards/Merchant.s
+	@echo ... Given_tests/test.obj
+	@echo ... Given_tests/test.i
+	@echo ... Given_tests/test.s
 	@echo ... HealthPoints.obj
 	@echo ... HealthPoints.i
 	@echo ... HealthPoints.s

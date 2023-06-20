@@ -3,7 +3,7 @@
 #include <string>
 #include "BattleCards.h"
 
-static const std::string DRAGON_NAME = "DRAGON";
+static const std::string DRAGON_NAME = "Dragon";
 static const int DRAGON_FORCE = 25;
 static const int DRAGON_DAMAGE = MAX_HP;
 static const int DRAGON_LOOT = 1000;

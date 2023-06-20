@@ -231,9 +231,12 @@ bool applyScenarioEncounterTests()
 }
 
 int main(){
-    run_test(cardConstructorTest, "cardConstructorTest");
-    run_test(cardPrintsTest, "cardPrintsTest");
-    run_test(applyBattleEncounterTest, "applyBattleEncounterTest");
-    run_test(applyScenarioEncounterTests, "applyScenarioEncounterTests");
+//    run_test(cardConstructorTest, "cardConstructorTest");
+//    run_test(cardPrintsTest, "cardPrintsTest");
+//    run_test(applyBattleEncounterTest, "applyBattleEncounterTest");
+//    run_test(applyScenarioEncounterTests, "applyScenarioEncounterTests");
+
+    Witch* witchCard();
+    delete witchCard;
     return 0;
 }

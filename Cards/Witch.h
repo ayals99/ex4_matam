@@ -15,6 +15,7 @@ public:
 
     Witch& operator=(const Witch& other) = delete;
     Witch(Witch& other) = delete;
+    ~Witch() override = default;
 
     void applyEncounter(Player& player) const override{
         if(player.playerIsStronger(m_force)){
