@@ -101,8 +101,10 @@ public:
     void loseOneForce();
 
 private:
-    friend std::ostream& operator<<(std::ostream&, const Player&);
+
 
 };
+
+std::ostream& operator<<(std::ostream& os, const Player& player);
 
 #endif //EX4_MATAM_PLAYER_H
