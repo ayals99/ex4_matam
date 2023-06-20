@@ -265,8 +265,8 @@ Player* readAndCreatePlayer()
 }
 
 std::string readAndCheckValidation() {
-    std::string inputLine;
     printInsertPlayerMessage();
+    std::string inputLine;
     std::getline(std::cin, inputLine);
     std::string playerName = inputLine.substr(0, inputLine.find(' '));
     std::string playerClass = inputLine.substr(inputLine.find(' ') + 1);
@@ -282,7 +282,7 @@ std::string readAndCheckValidation() {
         } else if (!isClassValid) {
             printInvalidClass();
         }
-        printInsertPlayerMessage();
+        //printInsertPlayerMessage();
         std::getline(std::cin, inputLine);
         playerName = inputLine.substr(STRING_START_INDEX, inputLine.find(' '));
         playerClass = inputLine.substr(inputLine.find(' ') + 1);

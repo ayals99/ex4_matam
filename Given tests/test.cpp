@@ -272,7 +272,7 @@ bool badSizeTest()
     string expectedOutputFilename("notneeded.txt");
 	bool flag= false;
     try{
-        Mtmchkin("inputs/empty.txt");
+        Mtmchkin("C:\\Users\\user\\Documents\\GitHub\\ex4_matam\\Given tests\\inputs\\empty.txt");
     }
     catch(const DeckFileInvalidSize& e){
         flag = true;
@@ -304,7 +304,7 @@ bool badFormatTest()
     string expectedOutputFilename("notneeded.txt");
     bool flag = false;
     try {
-        Mtmchkin("inputs/badFormat_test.txt");
+        Mtmchkin("C:\\Users\\user\\Documents\\GitHub\\ex4_matam\\Given tests\\inputs\\badFormat_test.txt");
     }
     catch(const DeckFileFormatError& e){
         if(strcmp(e.what(),"Deck File Error: File format error in line 2")==0) {
@@ -347,10 +347,10 @@ int main(){
 	run_test(nonMostersTest,"Non monsters cards simulation test");
 	run_test(badFormatStartTest,"Bad format at start of file exception test");
 	run_test(badFormatTest,"Bad format exception test");
-//	run_test(noFileTest,"File Doesnt exist exception test");
-//	run_test(badSizeTest,"Bad size exception test");
-//    run_test(roundLimitTest,"Round upper limit test");
-//    run_test(allTenTest,"All reach lvl 10 test");
-//    run_test(badPlayerInputTest,"Bad player input test");
-//    return 0;
+	run_test(noFileTest,"File Doesnt exist exception test");
+	run_test(badSizeTest,"Bad size exception test");
+    run_test(roundLimitTest,"Round upper limit test");
+    run_test(allTenTest,"All reach lvl 10 test");
+    run_test(badPlayerInputTest,"Bad player input test");
+    return 0;
 }
