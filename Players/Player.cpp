@@ -147,6 +147,8 @@ void Player::loseOneForce(){
 /** Operators: */
 std::ostream& operator<<(std::ostream& os, const Player& player){
     int health = player.getHealth().getHealthInteger();
-    printPlayerDetails(os,player.m_name,player.getPlayerJob(),player.m_level,player.m_force,health,player.m_coins);
+    printPlayerDetails(os, player.getName(), player.getPlayerJob(),
+                       player.getLevel(), player.getForce(), health,
+                       player.getCoins());
     return os;
 }
