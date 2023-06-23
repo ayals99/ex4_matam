@@ -27,6 +27,7 @@ Player* createPlayer(const std::string &playerName, const std::string &playerCla
 std::unique_ptr<Deck> createDeck(const std::string &fileName);
 Card* getCardFromLine(const std::string &line, int lineCounter);
 std::string readAndCheckValidation();
+std::string trim(const std::string &str);
 int readNumberOfPlayers();
 int numberOfWordsInLine(const std::string& line);
 void playNextCard(std::unique_ptr<Deck>& deck, Player* currentPlayer);
@@ -165,24 +166,24 @@ std::unique_ptr<Deck> createDeck(const std::string &fileName) {
     if (!file.is_open()) {
         throw DeckFileNotFound();
     }
-    std::unique_ptr<Deck> deck(new Deck());  // Use new with unique_ptr.
+    std::unique_ptr<Deck> deck(new Deck());
     std::string line;
     int lineCounter = 1;
     while (std::getline(file, line)) {
         try {
             Card* card = getCardFromLine(line, lineCounter);
-            deck->push(std::unique_ptr<Card>(card));  // Use unique_ptr to manage the Card object.
+            deck->push(std::unique_ptr<Card>(card));
             lineCounter++;
         } catch (std::bad_alloc &e) {
-            throw;  // Simply re-throw the exception. The Deck and the file will be automatically cleaned up.
+            throw e;
         } catch (const DeckFileFormatError &e) {
-            throw DeckFileFormatError(lineCounter);  // Re-throw with lineCounter. No need to manually close the file.
+            throw DeckFileFormatError(lineCounter);
         }
     }
     if (lineCounter < MIN_NUMBER_OF_CARDS) {
         throw DeckFileInvalidSize();
     }
-    return deck;  // Return the deck. The unique_ptr will automatically manage the memory.
+    return deck;
 }
 
 
@@ -227,12 +228,19 @@ Player* readAndCreatePlayer()
     return player;
 }
 
+std::string trim(const std::string &str) {
+    size_t first = str.find_first_not_of(' ');
+    if (first == std::string::npos) return "";
+    size_t last = str.find_last_not_of(' ');
+    return str.substr(first, last - first + 1);
+}
+
 std::string readAndCheckValidation() {
     printInsertPlayerMessage();
     std::string inputLine;
     std::getline(std::cin, inputLine);
-    std::string playerName = inputLine.substr(0, inputLine.find(SPACE));
-    std::string playerClass = inputLine.substr(inputLine.find(SPACE) + 1);
+    std::string playerName = trim(inputLine.substr(0, inputLine.find(SPACE)));
+    std::string playerClass = trim(inputLine.substr(inputLine.find(SPACE) + 1));
     bool isnNameValid = isPlayerNameValid(playerName);
     bool isClassValid = isPlayerClassValid(playerClass);
     bool isLineValid = numberOfWordsInLine(inputLine) <= MAX_WORDS_IN_LINE;
@@ -245,10 +253,9 @@ std::string readAndCheckValidation() {
         } else if (!isClassValid) {
             printInvalidClass();
         }
-        //printInsertPlayerMessage();
         std::getline(std::cin, inputLine);
-        playerName = inputLine.substr(STRING_START_INDEX, inputLine.find(SPACE));
-        playerClass = inputLine.substr(inputLine.find(SPACE) + 1);
+        playerName = trim(inputLine.substr(0, inputLine.find(SPACE)));
+        playerClass = trim(inputLine.substr(inputLine.find(SPACE) + 1));
         isnNameValid = isPlayerNameValid(playerName);
         isClassValid = isPlayerClassValid(playerClass);
         isLineValid = numberOfWordsInLine(inputLine) <= MAX_WORDS_IN_LINE;
@@ -256,21 +263,20 @@ std::string readAndCheckValidation() {
     return inputLine;
 }
 
+
 Player* createPlayer(const std::string &playerName, const std::string &playerClass) {
     if (playerClass == "Warrior") {
-        Warrior *warrior = new Warrior(playerName);
-        return warrior;
+        return new Warrior(playerName);
     }
-    if (playerClass == "Ninja") {
-        Ninja *ninja = new Ninja(playerName);
-        return ninja;
+    else if (playerClass == "Ninja") {
+        return new Ninja(playerName);
     }
-    if (playerClass == "Healer") {
-        Healer *healer = new Healer(playerName);
-        return healer;
+    else if (playerClass == "Healer") {
+        return new Healer(playerName);
     }
     throw std::invalid_argument("Invalid player class");
 }
+
 
 bool isPlayerNameValid(const std::string& playerName) {
     if (playerName.length() > MAX_PLAYER_NAME_LENGTH) {
@@ -306,7 +312,6 @@ int numberOfWordsInLine(const std::string& line) {
     }
     return numberOfWords;
 }
-
 
 int readNumberOfPlayers() {
     std::string inputLine;
