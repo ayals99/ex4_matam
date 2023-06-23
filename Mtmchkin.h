@@ -9,13 +9,13 @@
 #include "utilities.h"
 #include "Cards/Card.h"
 
-typedef std::queue<Card*> Deck;
+typedef std::queue<std::unique_ptr<Card>> Deck;
 typedef std::vector<Player*> LeaderBoard;
 
 class Mtmchkin{
 
 private:
-    Deck* m_deckOfCards;
+    std::unique_ptr<Deck> m_deckOfCards;
     LeaderBoard* m_leaderBoard;
     int m_numberOfRounds;
     int m_numberOfPlayers;

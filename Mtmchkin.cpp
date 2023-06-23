@@ -18,25 +18,22 @@ static int const MIN_NUMBER_OF_CARDS = 5;
 static int const MAX_PLAYER_NAME_LENGTH = 15;
 int const MAX_WORDS_IN_LINE = 2;
 int const STRING_START_INDEX = 0;
-
-
-typedef std::queue<Card*> Deck;
-typedef std::vector<Player*> LeaderBoard;
+char const SPACE = ' ';
 
 LeaderBoard* createLeaderBoard(int numberOfPlayers);
-int readNumberOfPlayers();
 Player* readAndCreatePlayer();
-Deck* createDeck(const std::string &fileName);
 Player* findFirstPlayer(LeaderBoard* m_leaderBoard);
-void playNextCard(Deck* deck, Player* currentPlayer);
+Player* createPlayer(const std::string &playerName, const std::string &playerClass);
+std::unique_ptr<Deck> createDeck(const std::string &fileName);
+Card* getCardFromLine(const std::string &line, int lineCounter);
+std::string readAndCheckValidation();
+int readNumberOfPlayers();
+int numberOfWordsInLine(const std::string& line);
+void playNextCard(std::unique_ptr<Deck>& deck, Player* currentPlayer);
 void pushWinner(Player* currentPlayer, LeaderBoard* leaderBoard);
 void pushBackBeforeLosers(Player* currentPlayer, LeaderBoard* leaderBoard);
-Card* getCardFromLine(const std::string &line, int lineCounter);
-Player* createPlayer(const std::string &playerName, const std::string &playerClass);
-int numberOfWordsInLine(const std::string& line);
 bool isPlayerClassValid(const std::string& playerClass);
 bool isPlayerNameValid(const std::string& playerName);
-std::string readAndCheckValidation();
 bool isNumberOfPlayersValid(int numberOfPlayers);
 
 
@@ -75,29 +72,29 @@ LeaderBoard* createLeaderBoard(int numberOfPlayers)
 
 
 void Mtmchkin::playRound() {
-    if(isGameOver()){
+    if (isGameOver()) {
         throw invalidPlay();
     }
     ++m_numberOfRounds;
     printRoundStartMessage(m_numberOfRounds);
     int amountPlaying = m_numberOfPlayersLeft;
-    for(int i = 0; i < amountPlaying; ++i){
-        Player* currentPlayer = findFirstPlayer(m_leaderBoard);
+    for (int i = 0; i < amountPlaying; ++i) {
+        Player *currentPlayer = findFirstPlayer(m_leaderBoard);
         printTurnStartMessage(currentPlayer->getName());
         playNextCard(m_deckOfCards, currentPlayer);
-        if(currentPlayer->won())
-        {
+        if (currentPlayer->won()) {
             pushWinner(currentPlayer, m_leaderBoard);
             m_numberOfPlayersLeft--;
-            continue;
+        } else {
+            if (currentPlayer->dead()) {
+                m_numberOfPlayersLeft--;
+            }
+            pushBackBeforeLosers(currentPlayer, m_leaderBoard);
         }
-        if(currentPlayer->dead()){
-            m_numberOfPlayersLeft--;
+        //maybe we print the end game message out of here??
+        if (isGameOver()) {
+            printGameEndMessage();
         }
-        pushBackBeforeLosers(currentPlayer, m_leaderBoard);
-    }
-    if(isGameOver()){
-        printGameEndMessage();
     }
 }
 
@@ -114,30 +111,23 @@ Player* findFirstPlayer(LeaderBoard* leaderBoard) {
     throw noPlayersInGame();
 }
 
-void playNextCard(Deck* deck, Player* currentPlayer){
-    Card* currentCard = deck->front();
-    deck->pop();
+void playNextCard(std::unique_ptr<Deck>& deck, Player* currentPlayer){
+    std::unique_ptr<Card>& currentCard = deck->front();
     currentCard->applyEncounter(*currentPlayer);
-    deck->push(currentCard);
+    deck->push(std::move(currentCard));
+    deck->pop();
 }
 
 bool Mtmchkin::isGameOver() const {
-    if (m_numberOfPlayersLeft == 0){
-        return true;
-    }
-    return false;
+    return m_numberOfPlayersLeft == 0;
 }
 
-void pushWinner(Player* currentPlayer, LeaderBoard* leaderBoard)
-{
+void pushWinner(Player* currentPlayer, LeaderBoard* leaderBoard) {
     auto playerIterator = leaderBoard->begin();
-    while(playerIterator != leaderBoard->end())
-    {
-        if((*playerIterator)->won())
-        {
+    while (playerIterator != leaderBoard->end()) {
+        if ((*playerIterator)->won()) {
             playerIterator++;
-        } else
-        {
+        } else {
             leaderBoard->insert(playerIterator, currentPlayer);
             return;
         }
@@ -145,13 +135,10 @@ void pushWinner(Player* currentPlayer, LeaderBoard* leaderBoard)
     leaderBoard->push_back(currentPlayer);
 }
 
-void pushBackBeforeLosers(Player* currentPlayer, LeaderBoard* leaderBoard)
-{
+void pushBackBeforeLosers(Player* currentPlayer, LeaderBoard* leaderBoard) {
     auto playerIterator = leaderBoard->begin();
-    while(playerIterator != leaderBoard->end())
-    {
-        if((*playerIterator)->dead())
-        {
+    while (playerIterator != leaderBoard->end()) {
+        if ((*playerIterator)->dead()) {
             leaderBoard->insert(playerIterator, currentPlayer);
             return;
         }
@@ -173,79 +160,55 @@ void Mtmchkin::printLeaderBoard() const {
     }
 }
 
-Deck* createDeck(const std::string &fileName) {
+std::unique_ptr<Deck> createDeck(const std::string &fileName) {
     std::ifstream file(fileName);
     if (!file.is_open()) {
         throw DeckFileNotFound();
     }
-    Deck *deck;
-    try {
-        deck = new Deck();
-    }catch (std::bad_alloc &e) {
-        file.close();
-        throw e;
-    }
+    std::unique_ptr<Deck> deck(new Deck());  // Use new with unique_ptr.
     std::string line;
     int lineCounter = 1;
-    Card *card;
     while (std::getline(file, line)) {
         try {
-            card = getCardFromLine(line, lineCounter);
-        }catch (std::bad_alloc &e) {
-            file.close();
-            delete deck;
-            throw e;
+            Card* card = getCardFromLine(line, lineCounter);
+            deck->push(std::unique_ptr<Card>(card));  // Use unique_ptr to manage the Card object.
+            lineCounter++;
+        } catch (std::bad_alloc &e) {
+            throw;  // Simply re-throw the exception. The Deck and the file will be automatically cleaned up.
+        } catch (const DeckFileFormatError &e) {
+            throw DeckFileFormatError(lineCounter);  // Re-throw with lineCounter. No need to manually close the file.
         }
-        catch(const DeckFileFormatError& e) {
-            file.close();
-            delete deck;
-            throw DeckFileFormatError(lineCounter);
-        }
-        deck->push(card);
-        lineCounter++;
     }
     if (lineCounter < MIN_NUMBER_OF_CARDS) {
-        file.close();
-        delete deck;
         throw DeckFileInvalidSize();
     }
-    return deck;
+    return deck;  // Return the deck. The unique_ptr will automatically manage the memory.
 }
 
+
 Card* getCardFromLine(const std::string &line, int lineCounter) {
+    Card* card = nullptr;
     if (line == "Witch") {
-        Witch *witch = new Witch();
-        return witch;
+        card = new Witch();
+    } else if (line == "Barfight") {
+        card = new Barfight();
+    } else if (line == "Dragon") {
+        card = new Dragon();
+    } else if (line == "Mana") {
+        card = new Mana();
+    } else if (line == "Gremlin") {
+        card = new Gremlin();
+    } else if (line == "Merchant") {
+        card = new Merchant();
+    } else if (line == "Well") {
+        card = new Well();
+    } else if (line == "Treasure") {
+        card = new Treasure();
     }
-    if (line == "Barfight") {
-        Barfight *barfight = new Barfight();
-        return barfight;
+    if (card == nullptr) {
+        throw DeckFileFormatError(lineCounter);
     }
-    if (line == "Dragon") {
-        Dragon *dragon = new Dragon();
-        return dragon;
-    }
-    if (line == "Mana") {
-        Mana *mana = new Mana();
-        return mana;
-    }
-    if (line == "Gremlin") {
-        Gremlin *gremlin = new Gremlin();
-        return gremlin;
-    }
-    if (line == "Merchant") {
-        Merchant *merchant = new Merchant();
-        return merchant;
-    }
-    if (line == "Well") {
-        Well *well = new Well();
-        return well;
-    }
-    if (line == "Treasure") {
-        Treasure *treasure = new Treasure();
-        return treasure;
-    }
-    throw DeckFileFormatError(lineCounter);
+    return card;
 }
 
 
@@ -253,8 +216,8 @@ Player* readAndCreatePlayer()
 {
     Player* player;
     std::string inputLine = readAndCheckValidation();
-    std::string playerName = inputLine.substr(0, inputLine.find(' '));
-    std::string playerClass = inputLine.substr(inputLine.find(' ') + 1);
+    std::string playerName = inputLine.substr(0, inputLine.find(SPACE));
+    std::string playerClass = inputLine.substr(inputLine.find(SPACE) + 1);
     try{
         player = createPlayer(playerName, playerClass);
     }
@@ -268,8 +231,8 @@ std::string readAndCheckValidation() {
     printInsertPlayerMessage();
     std::string inputLine;
     std::getline(std::cin, inputLine);
-    std::string playerName = inputLine.substr(0, inputLine.find(' '));
-    std::string playerClass = inputLine.substr(inputLine.find(' ') + 1);
+    std::string playerName = inputLine.substr(0, inputLine.find(SPACE));
+    std::string playerClass = inputLine.substr(inputLine.find(SPACE) + 1);
     bool isnNameValid = isPlayerNameValid(playerName);
     bool isClassValid = isPlayerClassValid(playerClass);
     bool isLineValid = numberOfWordsInLine(inputLine) <= MAX_WORDS_IN_LINE;
@@ -284,8 +247,8 @@ std::string readAndCheckValidation() {
         }
         //printInsertPlayerMessage();
         std::getline(std::cin, inputLine);
-        playerName = inputLine.substr(STRING_START_INDEX, inputLine.find(' '));
-        playerClass = inputLine.substr(inputLine.find(' ') + 1);
+        playerName = inputLine.substr(STRING_START_INDEX, inputLine.find(SPACE));
+        playerClass = inputLine.substr(inputLine.find(SPACE) + 1);
         isnNameValid = isPlayerNameValid(playerName);
         isClassValid = isPlayerClassValid(playerClass);
         isLineValid = numberOfWordsInLine(inputLine) <= MAX_WORDS_IN_LINE;
@@ -330,14 +293,20 @@ bool isPlayerClassValid(const std::string& playerClass) {
 }
 
 int numberOfWordsInLine(const std::string& line) {
+    if (line.empty()) return 0;
     int numberOfWords = 0;
+    bool lastCharWasSpace = true;
     for (char c: line) {
-        if (c == ' ') {
+        if (c == SPACE) {
+            lastCharWasSpace = true;
+        } else if (lastCharWasSpace) {
             numberOfWords++;
+            lastCharWasSpace = false;
         }
     }
     return numberOfWords;
 }
+
 
 int readNumberOfPlayers() {
     std::string inputLine;

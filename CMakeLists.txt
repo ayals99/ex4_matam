@@ -39,5 +39,5 @@ add_executable(ex4_matam
         Cards/Merchant.cpp
 #        Cards/CardTester.cpp
         Cards/Card.cpp
-        Mtmchkin.cpp)
+        Mtmchkin.cpp Cards/BattleCards.cpp)
 #        main.cpp)

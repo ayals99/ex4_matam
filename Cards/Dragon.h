@@ -15,25 +15,6 @@ public:
     Dragon& operator=(const Dragon& other) = delete;
     Dragon(Dragon& other) = delete;
     ~Dragon() override = default;
-
-    void applyEncounter(Player& player) const override{
-        if(player.playerIsStronger(m_force)){
-            player.addCoins(m_loot);
-            player.levelUp();
-            printWinBattle(player.getName(), this->m_name);
-        }
-        else{
-            player.setDead();
-            printLossBattle(player.getName(), this->m_name);
-        }
-    }
-
-    std::ostream& stringToPrint(std::ostream& os) const override{
-        printCardDetails(os, m_name);
-        printMonsterDetails(os, m_force, m_healthPointsReduction, m_loot, true);
-        printEndOfCardDetails(os);
-        return os;
-    }
 };
 
 #endif //EX4_MATAM_DRAGON_H

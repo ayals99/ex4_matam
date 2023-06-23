@@ -5,7 +5,6 @@
 #include "../Players/Warrior.h"
 
 static const std::string BARFIGHT_NAME = "Barfight";
-//Need to check if it's 10 damage or 8 in the end
 static const int BARFIGHT_HP_LOSS = 10;
 
 class Barfight : public Card {

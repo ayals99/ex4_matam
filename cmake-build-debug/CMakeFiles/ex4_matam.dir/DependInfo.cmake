@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/user/Documents/GitHub/ex4_matam/Cards/BattleCards.cpp" "CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj" "gcc" "CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj.d"
   "C:/Users/user/Documents/GitHub/ex4_matam/Cards/Card.cpp" "CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj" "gcc" "CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj.d"
   "C:/Users/user/Documents/GitHub/ex4_matam/Cards/Merchant.cpp" "CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj" "gcc" "CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj.d"
   "C:/Users/user/Documents/GitHub/ex4_matam/Given tests/test.cpp" "CMakeFiles/ex4_matam.dir/Given_tests/test.cpp.obj" "gcc" "CMakeFiles/ex4_matam.dir/Given_tests/test.cpp.obj.d"
