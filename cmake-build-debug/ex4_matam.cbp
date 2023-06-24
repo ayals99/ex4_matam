@@ -130,9 +130,6 @@
 		<Unit filename="C:/Users/user/Documents/GitHub/ex4_matam/Exception.h">
 			<Option target="ex4_matam"/>
 		</Unit>
-		<Unit filename="C:/Users/user/Documents/GitHub/ex4_matam/Given tests/test.cpp">
-			<Option target="ex4_matam"/>
-		</Unit>
 		<Unit filename="C:/Users/user/Documents/GitHub/ex4_matam/HealthPoints.cpp">
 			<Option target="ex4_matam"/>
 		</Unit>
@@ -158,6 +155,9 @@
 			<Option target="ex4_matam"/>
 		</Unit>
 		<Unit filename="C:/Users/user/Documents/GitHub/ex4_matam/Players/Warrior.h">
+			<Option target="ex4_matam"/>
+		</Unit>
+		<Unit filename="C:/Users/user/Documents/GitHub/ex4_matam/main.cpp">
 			<Option target="ex4_matam"/>
 		</Unit>
 		<Unit filename="C:/Users/user/Documents/GitHub/ex4_matam/utilities.cpp">

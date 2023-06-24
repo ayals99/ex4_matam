@@ -24,9 +24,9 @@ add_executable(ex4_matam
         Cards/Witch.h
 #        Cards/Well.cpp
         Cards/Well.h
-       "Given tests/test.cpp"
+#       Given tests/test.cpp
 
-#        Players/testPlayers.cpp
+#       Players/testPlayers.cpp
         Players/Healer.h
         Players/Ninja.h
         Players/Player.cpp
@@ -39,5 +39,6 @@ add_executable(ex4_matam
         Cards/Merchant.cpp
 #        Cards/CardTester.cpp
         Cards/Card.cpp
-        Mtmchkin.cpp Cards/BattleCards.cpp)
-#        main.cpp)
+        Mtmchkin.cpp
+        Cards/BattleCards.cpp
+        main.cpp)

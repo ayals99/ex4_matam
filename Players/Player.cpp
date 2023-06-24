@@ -60,10 +60,6 @@ void Player::addCoins(int coinsToAdd){
  * @return void
  */
 void Player::levelUp(){
-//    if(m_level >= MAXIMAL_LEVEL){
-//        throw PlayerReachedMaxLevel();
-//    }
-
     if (m_level < MAXIMAL_LEVEL)
     {
         m_level++;

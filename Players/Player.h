@@ -6,7 +6,6 @@
 
 static const int MAXIMAL_LEVEL = 10;
 static const int MINIMUM_FORCE = 0;
-static const int MINIMUM_COINS = 0;
 
 static const int INITIAL_FORCE = 5;
 static const int INITIAL_COINS = 10;

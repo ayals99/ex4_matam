@@ -10,7 +10,7 @@ static const int BARFIGHT_HP_LOSS = 10;
 class Barfight : public Card {
 public:
     Barfight() : Card(BARFIGHT_NAME) {};
-    ~Barfight() = default;
+    ~Barfight() override = default;
     Barfight& operator=(const Barfight& other) = delete;
     Barfight(const Barfight& other) = delete;
 

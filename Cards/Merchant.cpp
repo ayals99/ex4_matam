@@ -6,7 +6,6 @@ static const char INITIAL_INVALID_CHOICE = '~';
 static const char LEAVE = '0';
 static const char BUY_HEALTH_POTION = '1';
 static const char BUY_FORCE_BOOST = '2';
-static int LEFT = 0;
 static int BOUGHT_HEALTH_POTION = 1;
 static int BOUGHT_FORCE_BOOST = 2;
 

@@ -200,30 +200,6 @@ Cards/Merchant.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.s
 .PHONY : Cards/Merchant.cpp.s
 
-Given_tests/test.obj: Given_tests/test.cpp.obj
-.PHONY : Given_tests/test.obj
-
-# target to build an object file
-Given_tests/test.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Given_tests/test.cpp.obj
-.PHONY : Given_tests/test.cpp.obj
-
-Given_tests/test.i: Given_tests/test.cpp.i
-.PHONY : Given_tests/test.i
-
-# target to preprocess a source file
-Given_tests/test.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Given_tests/test.cpp.i
-.PHONY : Given_tests/test.cpp.i
-
-Given_tests/test.s: Given_tests/test.cpp.s
-.PHONY : Given_tests/test.s
-
-# target to generate assembly for a file
-Given_tests/test.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Given_tests/test.cpp.s
-.PHONY : Given_tests/test.cpp.s
-
 HealthPoints.obj: HealthPoints.cpp.obj
 .PHONY : HealthPoints.obj
 
@@ -296,6 +272,30 @@ Players/Player.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Players/Player.cpp.s
 .PHONY : Players/Player.cpp.s
 
+main.obj: main.cpp.obj
+.PHONY : main.obj
+
+# target to build an object file
+main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/main.cpp.obj
+.PHONY : main.cpp.obj
+
+main.i: main.cpp.i
+.PHONY : main.i
+
+# target to preprocess a source file
+main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/main.cpp.i
+.PHONY : main.cpp.i
+
+main.s: main.cpp.s
+.PHONY : main.s
+
+# target to generate assembly for a file
+main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/main.cpp.s
+.PHONY : main.cpp.s
+
 utilities.obj: utilities.cpp.obj
 .PHONY : utilities.obj
 
@@ -338,9 +338,6 @@ help:
 	@echo ... Cards/Merchant.obj
 	@echo ... Cards/Merchant.i
 	@echo ... Cards/Merchant.s
-	@echo ... Given_tests/test.obj
-	@echo ... Given_tests/test.i
-	@echo ... Given_tests/test.s
 	@echo ... HealthPoints.obj
 	@echo ... HealthPoints.i
 	@echo ... HealthPoints.s
@@ -350,6 +347,9 @@ help:
 	@echo ... Players/Player.obj
 	@echo ... Players/Player.i
 	@echo ... Players/Player.s
+	@echo ... main.obj
+	@echo ... main.i
+	@echo ... main.s
 	@echo ... utilities.obj
 	@echo ... utilities.i
 	@echo ... utilities.s

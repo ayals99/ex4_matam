@@ -17,7 +17,6 @@ static int const MIN_NUMBER_OF_PLAYERS = 2;
 static int const MIN_NUMBER_OF_CARDS = 5;
 static int const MAX_PLAYER_NAME_LENGTH = 15;
 int const MAX_WORDS_IN_LINE = 2;
-int const STRING_START_INDEX = 0;
 char const SPACE = ' ';
 
 LeaderBoard* createLeaderBoard(int numberOfPlayers);
