@@ -29,14 +29,13 @@ public:
 
 class DeckFileFormatError : public std::exception {
 private:
-    std::string m_message;
+    std::runtime_error m_runtimeError;
 public:
-    explicit DeckFileFormatError(int lineNum) {
-        m_message = "Deck File Error: File format error in line " + std::to_string(lineNum);
+    explicit DeckFileFormatError(int lineNum) :
+    m_runtimeError("Deck File Error: File format error in line " + std::to_string(lineNum)) {
     }
     const char* what() const noexcept override{
-        std::cout << m_message.c_str();
-        return m_message.c_str();
+        return m_runtimeError.what();
     }
 };
 

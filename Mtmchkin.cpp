@@ -79,7 +79,7 @@ void Mtmchkin::playRound() {
     printRoundStartMessage(m_numberOfRounds);
     int amountPlaying = m_numberOfPlayersLeft;
     for (int i = 0; i < amountPlaying; ++i) {
-        Player *currentPlayer = findFirstPlayer(m_leaderBoard);
+        Player* currentPlayer = findFirstPlayer(m_leaderBoard);
         printTurnStartMessage(currentPlayer->getName());
         playNextCard(m_deckOfCards, currentPlayer);
         if (currentPlayer->won()) {
@@ -100,8 +100,8 @@ void Mtmchkin::playRound() {
 
 Player* findFirstPlayer(LeaderBoard* leaderBoard) {
     for (auto playerIterator = leaderBoard->begin();
-    playerIterator != leaderBoard->end();
-    playerIterator++){
+                            playerIterator != leaderBoard->end();
+                            playerIterator++){
         if ((*playerIterator)->isInGame()){
             Player* firstPlayer = *playerIterator;
             leaderBoard->erase(playerIterator);
@@ -229,35 +229,45 @@ Player* readAndCreatePlayer()
 
 std::string trim(const std::string &str) {
     size_t first = str.find_first_not_of(SPACE);
-    if (first == std::string::npos) return "";
+    if (first == std::string::npos) {
+        return "";
+    }
     size_t last = str.find_last_not_of(SPACE);
     return str.substr(first, last - first + 1);
+}
+
+
+void readCurrentLineAndValidate(std::string& inputLine, bool& isNameValid, bool& isClassValid, bool& isLineValid,
+                                std::string& playerName,std::string& playerClass){
+    std::getline(std::cin, inputLine);
+    playerName = trim(inputLine.substr(0, inputLine.find(SPACE)));
+    playerClass = trim(inputLine.substr(inputLine.find(SPACE) + 1));
+    isNameValid = isPlayerNameValid(playerName);
+    isClassValid = isPlayerClassValid(playerClass);
+    isLineValid = numberOfWordsInLine(inputLine) <= MAX_WORDS_IN_LINE;
 }
 
 std::string readAndCheckValidation() {
     printInsertPlayerMessage();
     std::string inputLine;
-    std::getline(std::cin, inputLine);
-    std::string playerName = trim(inputLine.substr(0, inputLine.find(SPACE)));
-    std::string playerClass = trim(inputLine.substr(inputLine.find(SPACE) + 1));
-    bool isnNameValid = isPlayerNameValid(playerName);
-    bool isClassValid = isPlayerClassValid(playerClass);
-    bool isLineValid = numberOfWordsInLine(inputLine) <= MAX_WORDS_IN_LINE;
-    while (!isnNameValid || !isClassValid || !isLineValid)
+    bool isNameValid = false;
+    bool isClassValid = false;
+    bool isLineValid = false;
+    std::string playerName;
+    std::string playerClass;
+    readCurrentLineAndValidate(inputLine, isNameValid, isClassValid, isLineValid, playerName, playerClass);
+    while (!isNameValid || !isClassValid || !isLineValid)
     {
         if (!isLineValid) {
             printInvalidInput();
-        } else if (!isnNameValid) {
+        }
+        else if (!isNameValid) {
             printInvalidName();
-        } else if (!isClassValid) {
+        }
+        else {
             printInvalidClass();
         }
-        std::getline(std::cin, inputLine);
-        playerName = trim(inputLine.substr(0, inputLine.find(SPACE)));
-        playerClass = trim(inputLine.substr(inputLine.find(SPACE) + 1));
-        isnNameValid = isPlayerNameValid(playerName);
-        isClassValid = isPlayerClassValid(playerClass);
-        isLineValid = numberOfWordsInLine(inputLine) <= MAX_WORDS_IN_LINE;
+        readCurrentLineAndValidate(inputLine, isNameValid, isClassValid, isLineValid, playerName, playerClass);
     }
     return inputLine;
 }
@@ -275,7 +285,6 @@ Player* createPlayer(const std::string &playerName, const std::string &playerCla
     }
     throw std::invalid_argument("Invalid player class");
 }
-
 
 bool isPlayerNameValid(const std::string& playerName) {
     if (playerName.length() > MAX_PLAYER_NAME_LENGTH) {
