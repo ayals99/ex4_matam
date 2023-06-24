@@ -233,12 +233,12 @@ GalLalush has 10 coins
 GalLalush has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   5     Fighter  
-2          Omerz           1         4     90    10    Wizard  
+1          GalLalush       1         5     100   5     Warrior  
+2          Omerz           1         4     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -259,43 +259,43 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   5     Fighter  
-2          Omerz           1         4     80    10    Wizard  
+1          GalLalush       1         5     100   5     Warrior  
+2          Omerz           1         4     80    10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   7     Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       2         5     100   7     Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     100   9     Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       3         5     100   9     Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     100   11    Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       4         5     100   11    Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -312,8 +312,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     100   1     Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       4         6     100   1     Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -323,8 +323,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     100   11    Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       4         6     100   11    Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -334,8 +334,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     100   21    Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       4         6     100   21    Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -345,8 +345,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     90    21    Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       4         6     90    21    Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -363,8 +363,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         7     90    11    Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       4         7     90    11    Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -381,8 +381,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         7     90    11    Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       4         7     90    11    Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -393,5 +393,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         7     0     11    Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       4         7     0     11    Warrior  
+2          Omerz           1         4     0     10    Healer  

@@ -203,16 +203,16 @@ You have entered an invalid input. Please try again.
 Efrat has paid 0 coins 
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Rogue  
-2          Efrat           1         5     100   10    Wizard  
-3          GalLalush       1         4     90    10    Rogue  
-4          Daniel          1         5     90    10    Fighter  
+1          Amirmann        1         5     100   10    Ninja  
+2          Efrat           1         5     100   10    Healer  
+3          GalLalush       1         4     90    10    Ninja  
+4          Daniel          1         5     90    10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -235,16 +235,16 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Wizard  
-2          GalLalush       1         4     90    30    Rogue  
-3          Daniel          1         5     80    10    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
+1          Efrat           1         5     100   10    Healer  
+2          GalLalush       1         4     90    30    Ninja  
+3          Daniel          1         5     80    10    Warrior  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
@@ -252,27 +252,27 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Wizard  
-2          GalLalush       1         4     80    30    Rogue  
-3          Daniel          1         5     70    10    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
+1          Efrat           2         5     100   12    Healer  
+2          GalLalush       1         4     80    30    Ninja  
+3          Daniel          1         5     70    10    Warrior  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of GalLalush's turn: 
 Nothing happened.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         4     90    12    Wizard  
-2          GalLalush       1         4     80    30    Rogue  
-3          Daniel          2         5     70    12    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
+1          Efrat           2         4     90    12    Healer  
+2          GalLalush       1         4     80    30    Ninja  
+3          Daniel          2         5     70    12    Warrior  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -286,10 +286,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     80    30    Rogue  
-2          Daniel          2         5     60    12    Fighter  
-3          Efrat           2         4     0     12    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          GalLalush       1         4     80    30    Ninja  
+2          Daniel          2         5     60    12    Warrior  
+3          Efrat           2         4     0     12    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -317,10 +317,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     80    30    Rogue  
-2          Daniel          2         6     60    2     Fighter  
-3          Efrat           2         4     0     12    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          GalLalush       1         4     80    30    Ninja  
+2          Daniel          2         6     60    2     Warrior  
+3          Efrat           2         4     0     12    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -340,25 +340,25 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     80    30    Rogue  
-2          Daniel          2         6     60    2     Fighter  
-3          Efrat           2         4     0     12    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          GalLalush       1         4     80    30    Ninja  
+2          Daniel          2         6     60    2     Warrior  
+3          Efrat           2         4     0     12    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         3     70    30    Rogue  
-2          Daniel          2         6     50    2     Fighter  
-3          Efrat           2         4     0     12    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          GalLalush       1         3     70    30    Ninja  
+2          Daniel          2         6     50    2     Warrior  
+3          Efrat           2         4     0     12    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -377,10 +377,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     50    2     Fighter  
-2          GalLalush       1         3     0     30    Rogue  
-3          Efrat           2         4     0     12    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          2         6     50    2     Warrior  
+2          GalLalush       1         3     0     30    Ninja  
+3          Efrat           2         4     0     12    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -390,10 +390,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     50    12    Fighter  
-2          GalLalush       1         3     0     30    Rogue  
-3          Efrat           2         4     0     12    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          2         6     50    12    Warrior  
+2          GalLalush       1         3     0     30    Ninja  
+3          Efrat           2         4     0     12    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -403,23 +403,23 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     40    12    Fighter  
-2          GalLalush       1         3     0     30    Rogue  
-3          Efrat           2         4     0     12    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          2         6     40    12    Warrior  
+2          GalLalush       1         3     0     30    Ninja  
+3          Efrat           2         4     0     12    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     40    14    Fighter  
-2          GalLalush       1         3     0     30    Rogue  
-3          Efrat           2         4     0     12    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          3         6     40    14    Warrior  
+2          GalLalush       1         3     0     30    Ninja  
+3          Efrat           2         4     0     12    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -429,10 +429,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     40    14    Fighter  
-2          GalLalush       1         3     0     30    Rogue  
-3          Efrat           2         4     0     12    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          3         6     40    14    Warrior  
+2          GalLalush       1         3     0     30    Ninja  
+3          Efrat           2         4     0     12    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -442,23 +442,23 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     30    14    Fighter  
-2          GalLalush       1         3     0     30    Rogue  
-3          Efrat           2         4     0     12    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          3         6     30    14    Warrior  
+2          GalLalush       1         3     0     30    Ninja  
+3          Efrat           2         4     0     12    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         6     30    16    Fighter  
-2          GalLalush       1         3     0     30    Rogue  
-3          Efrat           2         4     0     12    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          4         6     30    16    Warrior  
+2          GalLalush       1         3     0     30    Ninja  
+3          Efrat           2         4     0     12    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -468,23 +468,23 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         6     30    16    Fighter  
-2          GalLalush       1         3     0     30    Rogue  
-3          Efrat           2         4     0     12    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          4         6     30    16    Warrior  
+2          GalLalush       1         3     0     30    Ninja  
+3          Efrat           2         4     0     12    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 17:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         6     30    18    Fighter  
-2          GalLalush       1         3     0     30    Rogue  
-3          Efrat           2         4     0     12    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          5         6     30    18    Warrior  
+2          GalLalush       1         3     0     30    Ninja  
+3          Efrat           2         4     0     12    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 18:
@@ -495,7 +495,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         6     0     18    Fighter  
-2          GalLalush       1         3     0     30    Rogue  
-3          Efrat           2         4     0     12    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          5         6     0     18    Warrior  
+2          GalLalush       1         3     0     30    Ninja  
+3          Efrat           2         4     0     12    Healer  
+4          Amirmann        1         5     0     10    Ninja  

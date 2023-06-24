@@ -60,12 +60,12 @@ Start of round 1:
 Start of Omerz's turn: 
 Nothing happened.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Rogue  
-2          Amirmann        2         5     100   14    Rogue  
+1          Omerz           1         5     100   10    Ninja  
+2          Amirmann        2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -77,8 +77,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    10    Rogue  
-2          Amirmann        2         5     100   34    Rogue  
+1          Omerz           1         5     90    10    Ninja  
+2          Amirmann        2         5     100   34    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -90,8 +90,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   54    Rogue  
-2          Omerz           1         5     0     10    Rogue  
+1          Amirmann        2         5     100   54    Ninja  
+2          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -101,8 +101,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   54    Rogue  
-2          Omerz           1         5     0     10    Rogue  
+1          Amirmann        2         5     100   54    Ninja  
+2          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -112,8 +112,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     90    54    Rogue  
-2          Omerz           1         5     0     10    Rogue  
+1          Amirmann        2         5     90    54    Ninja  
+2          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -123,30 +123,30 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     90    54    Rogue  
-2          Omerz           1         5     0     10    Rogue  
+1          Amirmann        2         5     90    54    Ninja  
+2          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         4     80    54    Rogue  
-2          Omerz           1         5     0     10    Rogue  
+1          Amirmann        2         4     80    54    Ninja  
+2          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         3     70    54    Rogue  
-2          Omerz           1         5     0     10    Rogue  
+1          Amirmann        2         3     70    54    Ninja  
+2          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -157,5 +157,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         3     0     54    Rogue  
-2          Omerz           1         5     0     10    Rogue  
+1          Amirmann        2         3     0     54    Ninja  
+2          Omerz           1         5     0     10    Ninja  

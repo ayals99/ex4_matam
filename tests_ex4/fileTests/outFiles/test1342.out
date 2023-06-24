@@ -302,8 +302,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    10    Rogue  
-2          Amirmann        1         5     100   5     Rogue  
+1          Efrat           1         5     90    10    Ninja  
+2          Amirmann        1         5     100   5     Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -323,21 +323,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     80    10    Rogue  
-2          Amirmann        1         5     100   5     Rogue  
+1          Efrat           1         5     80    10    Ninja  
+2          Amirmann        1         5     100   5     Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     70    10    Rogue  
-2          Amirmann        1         5     90    5     Rogue  
+1          Efrat           1         4     70    10    Ninja  
+2          Amirmann        1         5     90    5     Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -349,21 +349,21 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     70    10    Rogue  
-2          Amirmann        1         5     80    5     Rogue  
+1          Efrat           1         4     70    10    Ninja  
+2          Amirmann        1         5     80    5     Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Goblin.
+Player Efrat has been defeated by a Gremlin.
 Start of Amirmann's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     60    10    Rogue  
-2          Amirmann        1         5     80    5     Rogue  
+1          Efrat           1         4     60    10    Ninja  
+2          Amirmann        1         5     80    5     Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -375,8 +375,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     60    30    Rogue  
-2          Amirmann        1         5     80    25    Rogue  
+1          Efrat           1         4     60    30    Ninja  
+2          Amirmann        1         5     80    25    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -384,12 +384,12 @@ Start of round 7:
 Start of Efrat's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     60    30    Rogue  
-2          Amirmann        1         4     70    25    Rogue  
+1          Efrat           1         4     60    30    Ninja  
+2          Amirmann        1         4     70    25    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -397,12 +397,12 @@ Start of round 8:
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     60    50    Rogue  
-2          Amirmann        1         4     60    25    Rogue  
+1          Efrat           1         4     60    50    Ninja  
+2          Amirmann        1         4     60    25    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -410,25 +410,25 @@ Start of round 9:
 Start of Efrat's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     60    50    Rogue  
-2          Amirmann        1         3     50    25    Rogue  
+1          Efrat           1         4     60    50    Ninja  
+2          Amirmann        1         3     50    25    Ninja  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Goblin.
+Player Efrat has been defeated by a Gremlin.
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     50    50    Rogue  
-2          Amirmann        1         3     0     25    Rogue  
+1          Efrat           1         4     50    50    Ninja  
+2          Amirmann        1         3     0     25    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -439,5 +439,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     0     50    Rogue  
-2          Amirmann        1         3     0     25    Rogue  
+1          Efrat           1         4     0     50    Ninja  
+2          Amirmann        1         3     0     25    Ninja  

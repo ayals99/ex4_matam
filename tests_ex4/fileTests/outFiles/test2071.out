@@ -107,9 +107,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          Daniel          1         5     90    10    Wizard  
-3          GalLalush       1         5     90    10    Wizard  
+1          GalLalush       1         5     90    10    Ninja  
+2          Daniel          1         5     90    10    Healer  
+3          GalLalush       1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -117,15 +117,15 @@ Start of round 2:
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    30    Rogue  
-2          Daniel          1         5     100   10    Wizard  
-3          GalLalush       1         5     80    10    Wizard  
+1          GalLalush       1         5     90    30    Ninja  
+2          Daniel          1         5     100   10    Healer  
+3          GalLalush       1         5     80    10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -146,9 +146,9 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     91    25    Rogue  
-2          GalLalush       1         5     0     10    Wizard  
-3          Daniel          1         5     0     10    Wizard  
+1          GalLalush       1         5     91    25    Ninja  
+2          GalLalush       1         5     0     10    Healer  
+3          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -166,9 +166,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     91    25    Rogue  
-2          GalLalush       1         5     0     10    Wizard  
-3          Daniel          1         5     0     10    Wizard  
+1          GalLalush       1         5     91    25    Ninja  
+2          GalLalush       1         5     0     10    Healer  
+3          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -179,6 +179,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     0     25    Rogue  
-2          GalLalush       1         5     0     10    Wizard  
-3          Daniel          1         5     0     10    Wizard  
+1          GalLalush       1         5     0     25    Ninja  
+2          GalLalush       1         5     0     10    Healer  
+3          Daniel          1         5     0     10    Healer  

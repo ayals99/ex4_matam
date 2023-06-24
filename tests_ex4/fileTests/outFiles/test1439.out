@@ -192,9 +192,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Fighter  
-2          Efrat           1         5     100   5     Fighter  
-3          Omerz           1         5     90    10    Wizard  
+1          Efrat           1         5     100   10    Warrior  
+2          Efrat           1         5     100   5     Warrior  
+3          Omerz           1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -208,9 +208,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Fighter  
-2          Efrat           1         5     100   5     Fighter  
-3          Omerz           1         5     90    20    Wizard  
+1          Efrat           1         5     100   20    Warrior  
+2          Efrat           1         5     100   5     Warrior  
+3          Omerz           1         5     90    20    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -218,15 +218,15 @@ Start of round 3:
 Start of Efrat's turn: 
 You fell into the trap, lose 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    20    Fighter  
-2          Efrat           2         5     100   7     Fighter  
-3          Omerz           1         5     100   20    Wizard  
+1          Efrat           1         5     90    20    Warrior  
+2          Efrat           2         5     100   7     Warrior  
+3          Omerz           1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -240,15 +240,15 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     80    20    Fighter  
-2          Efrat           2         5     100   7     Fighter  
-3          Omerz           1         5     90    20    Wizard  
+1          Efrat           1         5     80    20    Warrior  
+2          Efrat           2         5     100   7     Warrior  
+3          Omerz           1         5     90    20    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
@@ -256,9 +256,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     80    22    Fighter  
-2          Efrat           2         5     100   7     Fighter  
-3          Omerz           1         5     80    20    Wizard  
+1          Efrat           2         5     80    22    Warrior  
+2          Efrat           2         5     100   7     Warrior  
+3          Omerz           1         5     80    20    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -266,15 +266,15 @@ Start of round 6:
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     80    32    Fighter  
-2          Efrat           3         5     100   9     Fighter  
-3          Omerz           2         5     80    22    Wizard  
+1          Efrat           2         5     80    32    Warrior  
+2          Efrat           3         5     100   9     Warrior  
+3          Omerz           2         5     80    22    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -288,9 +288,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     80    42    Fighter  
-2          Omerz           2         5     70    22    Wizard  
-3          Efrat           3         5     0     9     Fighter  
+1          Efrat           2         5     80    42    Warrior  
+2          Omerz           2         5     70    22    Healer  
+3          Efrat           3         5     0     9     Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -302,37 +302,37 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     80    52    Fighter  
-2          Omerz           2         5     60    22    Wizard  
-3          Efrat           3         5     0     9     Fighter  
+1          Efrat           2         5     80    52    Warrior  
+2          Omerz           2         5     60    22    Healer  
+3          Efrat           3         5     0     9     Warrior  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     80    54    Fighter  
-2          Omerz           2         5     60    32    Wizard  
-3          Efrat           3         5     0     9     Fighter  
+1          Efrat           3         5     80    54    Warrior  
+2          Omerz           2         5     60    32    Healer  
+3          Efrat           3         5     0     9     Warrior  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         5     80    56    Fighter  
-2          Omerz           2         4     50    32    Wizard  
-3          Efrat           3         5     0     9     Fighter  
+1          Efrat           4         5     80    56    Warrior  
+2          Omerz           2         4     50    32    Healer  
+3          Efrat           3         5     0     9     Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -344,9 +344,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         4     40    32    Wizard  
-2          Efrat           4         5     0     56    Fighter  
-3          Efrat           3         5     0     9     Fighter  
+1          Omerz           2         4     40    32    Healer  
+2          Efrat           4         5     0     56    Warrior  
+3          Efrat           3         5     0     9     Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -356,9 +356,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         4     30    32    Wizard  
-2          Efrat           4         5     0     56    Fighter  
-3          Efrat           3         5     0     9     Fighter  
+1          Omerz           2         4     30    32    Healer  
+2          Efrat           4         5     0     56    Warrior  
+3          Efrat           3         5     0     9     Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -377,9 +377,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         4     32    27    Wizard  
-2          Efrat           4         5     0     56    Fighter  
-3          Efrat           3         5     0     9     Fighter  
+1          Omerz           2         4     32    27    Healer  
+2          Efrat           4         5     0     56    Warrior  
+3          Efrat           3         5     0     9     Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -389,21 +389,21 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         4     22    27    Wizard  
-2          Efrat           4         5     0     56    Fighter  
-3          Efrat           3         5     0     9     Fighter  
+1          Omerz           2         4     22    27    Healer  
+2          Efrat           4         5     0     56    Warrior  
+3          Efrat           3         5     0     9     Warrior  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         3     12    27    Wizard  
-2          Efrat           4         5     0     56    Fighter  
-3          Efrat           3         5     0     9     Fighter  
+1          Omerz           2         3     12    27    Healer  
+2          Efrat           4         5     0     56    Warrior  
+3          Efrat           3         5     0     9     Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -414,6 +414,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         3     0     27    Wizard  
-2          Efrat           4         5     0     56    Fighter  
-3          Efrat           3         5     0     9     Fighter  
+1          Omerz           2         3     0     27    Healer  
+2          Efrat           4         5     0     56    Warrior  
+3          Efrat           3         5     0     9     Warrior  

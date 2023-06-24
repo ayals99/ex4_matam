@@ -839,9 +839,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          Efrat           1         5     90    10    Wizard  
-3          Omerz           1         5     90    10    Rogue  
+1          GalLalush       1         5     90    10    Ninja  
+2          Efrat           1         5     90    10    Healer  
+3          Omerz           1         5     90    10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -855,9 +855,9 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          Efrat           1         5     90    20    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         5     90    10    Ninja  
+2          Efrat           1         5     90    20    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -865,13 +865,13 @@ Start of round 3:
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    30    Rogue  
-2          Efrat           1         4     80    20    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         5     90    30    Ninja  
+2          Efrat           1         4     80    20    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -879,13 +879,13 @@ Start of round 4:
 Start of GalLalush's turn: 
 Nothing happened.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    30    Rogue  
-2          Efrat           1         3     70    20    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         5     90    30    Ninja  
+2          Efrat           1         3     70    20    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -897,15 +897,15 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     80    30    Rogue  
-2          Efrat           1         3     70    30    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         5     80    30    Ninja  
+2          Efrat           1         3     70    30    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -919,29 +919,29 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     70    30    Rogue  
-2          Efrat           1         3     72    25    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         4     70    30    Ninja  
+2          Efrat           1         3     72    25    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Goblin.
+Player GalLalush has been defeated by a Gremlin.
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     60    30    Rogue  
-2          Efrat           1         3     62    25    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         4     60    30    Ninja  
+2          Efrat           1         3     62    25    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -954,51 +954,51 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         3     50    30    Rogue  
-2          Efrat           1         3     64    20    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         3     50    30    Ninja  
+2          Efrat           1         3     64    20    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Goblin.
+Player GalLalush has been defeated by a Gremlin.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Goblin.
+Player Efrat has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         3     40    30    Rogue  
-2          Efrat           1         3     54    20    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         3     40    30    Ninja  
+2          Efrat           1         3     54    20    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     30    30    Rogue  
-2          Efrat           1         2     44    20    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         2     30    30    Ninja  
+2          Efrat           1         2     44    20    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Goblin.
+Player GalLalush has been defeated by a Gremlin.
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     20    30    Rogue  
-2          Efrat           1         2     44    30    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         2     20    30    Ninja  
+2          Efrat           1         2     44    30    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -1010,9 +1010,9 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     20    30    Rogue  
-2          Efrat           1         2     0     30    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         2     20    30    Ninja  
+2          Efrat           1         2     0     30    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -1030,9 +1030,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     21    25    Rogue  
-2          Efrat           1         2     0     30    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         2     21    25    Ninja  
+2          Efrat           1         2     0     30    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -1042,21 +1042,21 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     21    25    Rogue  
-2          Efrat           1         2     0     30    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         2     21    25    Ninja  
+2          Efrat           1         2     0     30    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Goblin.
+Player GalLalush has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     11    25    Rogue  
-2          Efrat           1         2     0     30    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         2     11    25    Ninja  
+2          Efrat           1         2     0     30    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -1066,21 +1066,21 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     11    25    Rogue  
-2          Efrat           1         2     0     30    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         2     11    25    Ninja  
+2          Efrat           1         2     0     30    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 17:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         1     1     25    Rogue  
-2          Efrat           1         2     0     30    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         1     1     25    Ninja  
+2          Efrat           1         2     0     30    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 18:
@@ -1090,19 +1090,19 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         1     1     25    Rogue  
-2          Efrat           1         2     0     30    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         1     1     25    Ninja  
+2          Efrat           1         2     0     30    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 19:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         0     0     25    Rogue  
-2          Efrat           1         2     0     30    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         0     0     25    Ninja  
+2          Efrat           1         2     0     30    Healer  
+3          Omerz           1         5     0     10    Ninja  

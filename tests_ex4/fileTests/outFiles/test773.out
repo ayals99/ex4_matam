@@ -244,15 +244,15 @@ Nothing happened.
 Start of Efrat's turn: 
 Nothing happened.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Fighter  
-2          Daniel          1         5     100   10    Rogue  
-3          Efrat           1         5     100   10    Fighter  
-4          Omerz           2         5     100   14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          Amirmann        1         5     100   10    Warrior  
+2          Daniel          1         5     100   10    Ninja  
+3          Efrat           1         5     100   10    Warrior  
+4          Omerz           2         5     100   14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -264,15 +264,15 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
 Nothing happened.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   30    Rogue  
-2          Efrat           1         5     100   10    Fighter  
-3          Omerz           2         4     90    14    Rogue  
-4          Amirmann        1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Rogue  
+1          Daniel          1         5     100   30    Ninja  
+2          Efrat           1         5     100   10    Warrior  
+3          Omerz           2         4     90    14    Ninja  
+4          Amirmann        1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -293,11 +293,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   50    Rogue  
-2          Efrat           1         6     100   0     Fighter  
-3          Omerz           2         4     90    14    Rogue  
-4          Amirmann        1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Rogue  
+1          Daniel          1         5     100   50    Ninja  
+2          Efrat           1         6     100   0     Warrior  
+3          Omerz           2         4     90    14    Ninja  
+4          Amirmann        1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -305,17 +305,17 @@ Start of round 4:
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     100   2     Fighter  
-2          Omerz           2         4     80    14    Rogue  
-3          Daniel          1         5     0     50    Rogue  
-4          Amirmann        1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Rogue  
+1          Efrat           2         6     100   2     Warrior  
+2          Omerz           2         4     80    14    Ninja  
+3          Daniel          1         5     0     50    Ninja  
+4          Amirmann        1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -327,11 +327,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         4     80    14    Rogue  
-2          Efrat           2         6     0     2     Fighter  
-3          Daniel          1         5     0     50    Rogue  
-4          Amirmann        1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Rogue  
+1          Omerz           2         4     80    14    Ninja  
+2          Efrat           2         6     0     2     Warrior  
+3          Daniel          1         5     0     50    Ninja  
+4          Amirmann        1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -341,25 +341,25 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         4     80    14    Rogue  
-2          Efrat           2         6     0     2     Fighter  
-3          Daniel          1         5     0     50    Rogue  
-4          Amirmann        1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Rogue  
+1          Omerz           2         4     80    14    Ninja  
+2          Efrat           2         6     0     2     Warrior  
+3          Daniel          1         5     0     50    Ninja  
+4          Amirmann        1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         4     80    18    Rogue  
-2          Efrat           2         6     0     2     Fighter  
-3          Daniel          1         5     0     50    Rogue  
-4          Amirmann        1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Rogue  
+1          Omerz           3         4     80    18    Ninja  
+2          Efrat           2         6     0     2     Warrior  
+3          Daniel          1         5     0     50    Ninja  
+4          Amirmann        1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -370,8 +370,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         4     0     18    Rogue  
-2          Efrat           2         6     0     2     Fighter  
-3          Daniel          1         5     0     50    Rogue  
-4          Amirmann        1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Rogue  
+1          Omerz           3         4     0     18    Ninja  
+2          Efrat           2         6     0     2     Warrior  
+3          Daniel          1         5     0     50    Ninja  
+4          Amirmann        1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Ninja  

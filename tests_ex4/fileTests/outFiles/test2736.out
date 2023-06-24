@@ -344,9 +344,9 @@ Start of round 1:
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
@@ -361,11 +361,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Fighter  
-2          GalLalush       2         5     100   12    Wizard  
-3          TomerM          2         5     100   12    Wizard  
-4          TomerM          1         5     100   20    Wizard  
-5          Omerz           1         5     100   5     Wizard  
+1          Efrat           1         5     100   20    Warrior  
+2          GalLalush       2         5     100   12    Healer  
+3          TomerM          2         5     100   12    Healer  
+4          TomerM          1         5     100   20    Healer  
+5          Omerz           1         5     100   5     Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -375,7 +375,7 @@ You've won the scuffle without losing any health points.
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
@@ -383,31 +383,31 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Fighter  
-2          TomerM          2         5     100   12    Wizard  
-3          TomerM          1         5     90    20    Wizard  
-4          Omerz           1         5     100   15    Wizard  
-5          GalLalush       2         5     0     12    Wizard  
+1          Efrat           1         5     100   20    Warrior  
+2          TomerM          2         5     100   12    Healer  
+3          TomerM          1         5     90    20    Healer  
+4          Omerz           1         5     100   15    Healer  
+5          GalLalush       2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   22    Fighter  
-2          TomerM          3         5     100   14    Wizard  
-3          TomerM          1         5     100   20    Wizard  
-4          Omerz           1         5     90    15    Wizard  
-5          GalLalush       2         5     0     12    Wizard  
+1          Efrat           2         5     100   22    Warrior  
+2          TomerM          3         5     100   14    Healer  
+3          TomerM          1         5     100   20    Healer  
+4          Omerz           1         5     90    15    Healer  
+5          GalLalush       2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -431,11 +431,11 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   17    Fighter  
-2          Omerz           1         5     0     15    Wizard  
-3          TomerM          1         5     0     20    Wizard  
-4          TomerM          3         5     0     14    Wizard  
-5          GalLalush       2         5     0     12    Wizard  
+1          Efrat           2         5     100   17    Warrior  
+2          Omerz           1         5     0     15    Healer  
+3          TomerM          1         5     0     20    Healer  
+4          TomerM          3         5     0     14    Healer  
+5          GalLalush       2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -446,8 +446,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     0     17    Fighter  
-2          Omerz           1         5     0     15    Wizard  
-3          TomerM          1         5     0     20    Wizard  
-4          TomerM          3         5     0     14    Wizard  
-5          GalLalush       2         5     0     12    Wizard  
+1          Efrat           2         5     0     17    Warrior  
+2          Omerz           1         5     0     15    Healer  
+3          TomerM          1         5     0     20    Healer  
+4          TomerM          3         5     0     14    Healer  
+5          GalLalush       2         5     0     12    Healer  

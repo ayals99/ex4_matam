@@ -78,8 +78,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Fighter  
-2          Efrat           1         5     90    10    Wizard  
+1          TomerM          1         5     90    10    Warrior  
+2          Efrat           1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -87,12 +87,12 @@ Start of round 2:
 Start of TomerM's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Fighter  
-2          Efrat           1         5     100   10    Wizard  
+1          TomerM          1         5     90    10    Warrior  
+2          Efrat           1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -104,8 +104,8 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     80    10    Fighter  
-2          Efrat           1         5     0     10    Wizard  
+1          TomerM          1         5     80    10    Warrior  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -115,8 +115,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     80    10    Fighter  
-2          Efrat           1         5     0     10    Wizard  
+1          TomerM          1         5     80    10    Warrior  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -126,8 +126,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     80    10    Fighter  
-2          Efrat           1         5     0     10    Wizard  
+1          TomerM          1         5     80    10    Warrior  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -137,8 +137,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     70    10    Fighter  
-2          Efrat           1         5     0     10    Wizard  
+1          TomerM          1         5     70    10    Warrior  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -148,8 +148,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     70    10    Fighter  
-2          Efrat           1         5     0     10    Wizard  
+1          TomerM          1         5     70    10    Warrior  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -159,8 +159,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     70    10    Fighter  
-2          Efrat           1         5     0     10    Wizard  
+1          TomerM          1         5     70    10    Warrior  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -170,8 +170,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     70    10    Fighter  
-2          Efrat           1         5     0     10    Wizard  
+1          TomerM          1         5     70    10    Warrior  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -181,8 +181,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     60    10    Fighter  
-2          Efrat           1         5     0     10    Wizard  
+1          TomerM          1         5     60    10    Warrior  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -193,5 +193,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     0     10    Fighter  
-2          Efrat           1         5     0     10    Wizard  
+1          TomerM          1         5     0     10    Warrior  
+2          Efrat           1         5     0     10    Healer  

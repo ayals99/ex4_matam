@@ -169,9 +169,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   5     Wizard  
-2          Efrat           1         5     100   20    Fighter  
-3          GalLalush       1         5     90    10    Wizard  
+1          Amirmann        1         5     100   5     Healer  
+2          Efrat           1         5     100   20    Warrior  
+3          GalLalush       1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -192,9 +192,9 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Fighter  
-2          GalLalush       1         5     0     10    Wizard  
-3          Amirmann        1         5     0     5     Wizard  
+1          Efrat           1         5     100   20    Warrior  
+2          GalLalush       1         5     0     10    Healer  
+3          Amirmann        1         5     0     5     Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -204,21 +204,21 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Fighter  
-2          GalLalush       1         5     0     10    Wizard  
-3          Amirmann        1         5     0     5     Wizard  
+1          Efrat           1         5     100   20    Warrior  
+2          GalLalush       1         5     0     10    Healer  
+3          Amirmann        1         5     0     5     Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   22    Fighter  
-2          GalLalush       1         5     0     10    Wizard  
-3          Amirmann        1         5     0     5     Wizard  
+1          Efrat           2         5     100   22    Warrior  
+2          GalLalush       1         5     0     10    Healer  
+3          Amirmann        1         5     0     5     Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -228,9 +228,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   22    Fighter  
-2          GalLalush       1         5     0     10    Wizard  
-3          Amirmann        1         5     0     5     Wizard  
+1          Efrat           2         5     100   22    Warrior  
+2          GalLalush       1         5     0     10    Healer  
+3          Amirmann        1         5     0     5     Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -240,9 +240,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   22    Fighter  
-2          GalLalush       1         5     0     10    Wizard  
-3          Amirmann        1         5     0     5     Wizard  
+1          Efrat           2         5     100   22    Warrior  
+2          GalLalush       1         5     0     10    Healer  
+3          Amirmann        1         5     0     5     Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -252,9 +252,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   22    Fighter  
-2          GalLalush       1         5     0     10    Wizard  
-3          Amirmann        1         5     0     5     Wizard  
+1          Efrat           2         5     100   22    Warrior  
+2          GalLalush       1         5     0     10    Healer  
+3          Amirmann        1         5     0     5     Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -264,9 +264,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   22    Fighter  
-2          GalLalush       1         5     0     10    Wizard  
-3          Amirmann        1         5     0     5     Wizard  
+1          Efrat           2         5     100   22    Warrior  
+2          GalLalush       1         5     0     10    Healer  
+3          Amirmann        1         5     0     5     Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -276,9 +276,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   22    Fighter  
-2          GalLalush       1         5     0     10    Wizard  
-3          Amirmann        1         5     0     5     Wizard  
+1          Efrat           2         5     100   22    Warrior  
+2          GalLalush       1         5     0     10    Healer  
+3          Amirmann        1         5     0     5     Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -289,6 +289,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     0     22    Fighter  
-2          GalLalush       1         5     0     10    Wizard  
-3          Amirmann        1         5     0     5     Wizard  
+1          Efrat           2         5     0     22    Warrior  
+2          GalLalush       1         5     0     10    Healer  
+3          Amirmann        1         5     0     5     Healer  

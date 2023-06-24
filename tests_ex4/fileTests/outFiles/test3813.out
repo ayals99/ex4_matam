@@ -192,11 +192,11 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   20    Fighter  
-2          Amirmann        1         5     90    10    Wizard  
-3          TomerM          1         5     100   5     Wizard  
-4          Omerz           1         5     0     10    Fighter  
-5          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         5     100   20    Warrior  
+2          Amirmann        1         5     90    10    Healer  
+3          TomerM          1         5     100   5     Healer  
+4          Omerz           1         5     0     10    Warrior  
+5          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -218,11 +218,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   20    Fighter  
-2          Amirmann        1         5     80    10    Wizard  
-3          TomerM          1         5     90    5     Wizard  
-4          Omerz           1         5     0     10    Fighter  
-5          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         5     100   20    Warrior  
+2          Amirmann        1         5     80    10    Healer  
+3          TomerM          1         5     90    5     Healer  
+4          Omerz           1         5     0     10    Warrior  
+5          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -236,11 +236,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    15    Wizard  
-2          Amirmann        1         5     0     10    Wizard  
-3          GalLalush       1         5     0     20    Fighter  
-4          Omerz           1         5     0     10    Fighter  
-5          Omerz           1         5     0     10    Rogue  
+1          TomerM          1         5     90    15    Healer  
+2          Amirmann        1         5     0     10    Healer  
+3          GalLalush       1         5     0     20    Warrior  
+4          Omerz           1         5     0     10    Warrior  
+5          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -250,11 +250,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     80    15    Wizard  
-2          Amirmann        1         5     0     10    Wizard  
-3          GalLalush       1         5     0     20    Fighter  
-4          Omerz           1         5     0     10    Fighter  
-5          Omerz           1         5     0     10    Rogue  
+1          TomerM          1         5     80    15    Healer  
+2          Amirmann        1         5     0     10    Healer  
+3          GalLalush       1         5     0     20    Warrior  
+4          Omerz           1         5     0     10    Warrior  
+5          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -265,8 +265,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     0     15    Wizard  
-2          Amirmann        1         5     0     10    Wizard  
-3          GalLalush       1         5     0     20    Fighter  
-4          Omerz           1         5     0     10    Fighter  
-5          Omerz           1         5     0     10    Rogue  
+1          TomerM          1         5     0     15    Healer  
+2          Amirmann        1         5     0     10    Healer  
+3          GalLalush       1         5     0     20    Warrior  
+4          Omerz           1         5     0     10    Warrior  
+5          Omerz           1         5     0     10    Ninja  

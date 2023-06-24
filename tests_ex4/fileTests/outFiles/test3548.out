@@ -76,9 +76,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Fighter  
-2          TomerM          1         5     90    10    Wizard  
-3          TomerM          1         5     100   20    Fighter  
+1          GalLalush       1         5     90    10    Warrior  
+2          TomerM          1         5     90    10    Healer  
+3          TomerM          1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -86,15 +86,15 @@ Start of round 2:
 Start of GalLalush's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Fighter  
-2          TomerM          2         5     90    12    Wizard  
-3          TomerM          1         5     100   20    Fighter  
+1          GalLalush       1         5     90    10    Warrior  
+2          TomerM          2         5     90    12    Healer  
+3          TomerM          1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -102,15 +102,15 @@ Start of round 3:
 Start of GalLalush's turn: 
 You've won the scuffle without losing any health points.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Fighter  
-2          TomerM          3         5     90    14    Wizard  
-3          TomerM          2         5     100   22    Fighter  
+1          GalLalush       1         5     90    10    Warrior  
+2          TomerM          3         5     90    14    Healer  
+3          TomerM          2         5     100   22    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -131,9 +131,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Fighter  
-2          TomerM          3         5     90    24    Wizard  
-3          TomerM          2         5     100   17    Fighter  
+1          GalLalush       1         5     90    10    Warrior  
+2          TomerM          3         5     90    24    Healer  
+3          TomerM          2         5     100   17    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -143,13 +143,13 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    20    Fighter  
-2          TomerM          3         5     80    24    Wizard  
-3          TomerM          3         5     100   19    Fighter  
+1          GalLalush       1         5     90    20    Warrior  
+2          TomerM          3         5     80    24    Healer  
+3          TomerM          3         5     100   19    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -159,27 +159,27 @@ Player GalLalush has been defeated by a Dragon.
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     80    34    Wizard  
-2          TomerM          4         5     100   21    Fighter  
-3          GalLalush       1         5     0     20    Fighter  
+1          TomerM          3         5     80    34    Healer  
+2          TomerM          4         5     100   21    Warrior  
+3          GalLalush       1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     80    36    Wizard  
-2          TomerM          4         5     90    21    Fighter  
-3          GalLalush       1         5     0     20    Fighter  
+1          TomerM          4         5     80    36    Healer  
+2          TomerM          4         5     90    21    Warrior  
+3          GalLalush       1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -191,9 +191,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     80    46    Wizard  
-2          TomerM          4         5     90    21    Fighter  
-3          GalLalush       1         5     0     20    Fighter  
+1          TomerM          4         5     80    46    Healer  
+2          TomerM          4         5     90    21    Warrior  
+3          GalLalush       1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -210,13 +210,13 @@ You have entered an invalid input. Please try again.
 TomerM has paid 5 coins for 1 health potion!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     82    41    Wizard  
-2          TomerM          5         5     90    23    Fighter  
-3          GalLalush       1         5     0     20    Fighter  
+1          TomerM          4         5     82    41    Healer  
+2          TomerM          5         5     90    23    Warrior  
+3          GalLalush       1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -228,9 +228,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         5     80    23    Fighter  
-2          TomerM          4         5     0     41    Wizard  
-3          GalLalush       1         5     0     20    Fighter  
+1          TomerM          5         5     80    23    Warrior  
+2          TomerM          4         5     0     41    Healer  
+3          GalLalush       1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -241,6 +241,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         5     0     23    Fighter  
-2          TomerM          4         5     0     41    Wizard  
-3          GalLalush       1         5     0     20    Fighter  
+1          TomerM          5         5     0     23    Warrior  
+2          TomerM          4         5     0     41    Healer  
+3          GalLalush       1         5     0     20    Warrior  

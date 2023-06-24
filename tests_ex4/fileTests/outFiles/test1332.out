@@ -1388,9 +1388,9 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   0     Rogue  
-2          Daniel          1         5     100   10    Fighter  
-3          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       1         6     100   0     Ninja  
+2          Daniel          1         5     100   10    Warrior  
+3          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -1398,13 +1398,13 @@ Start of round 2:
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   12    Fighter  
-2          GalLalush       1         6     0     0     Rogue  
-3          GalLalush       1         5     0     10    Fighter  
+1          Daniel          2         5     100   12    Warrior  
+2          GalLalush       1         6     0     0     Ninja  
+3          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -1414,21 +1414,21 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   12    Fighter  
-2          GalLalush       1         6     0     0     Rogue  
-3          GalLalush       1         5     0     10    Fighter  
+1          Daniel          2         5     100   12    Warrior  
+2          GalLalush       1         6     0     0     Ninja  
+3          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     100   14    Fighter  
-2          GalLalush       1         6     0     0     Rogue  
-3          GalLalush       1         5     0     10    Fighter  
+1          Daniel          3         5     100   14    Warrior  
+2          GalLalush       1         6     0     0     Ninja  
+3          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -1438,9 +1438,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     100   14    Fighter  
-2          GalLalush       1         6     0     0     Rogue  
-3          GalLalush       1         5     0     10    Fighter  
+1          Daniel          3         5     100   14    Warrior  
+2          GalLalush       1         6     0     0     Ninja  
+3          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -1451,6 +1451,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     0     14    Fighter  
-2          GalLalush       1         6     0     0     Rogue  
-3          GalLalush       1         5     0     10    Fighter  
+1          Daniel          3         5     0     14    Warrior  
+2          GalLalush       1         6     0     0     Ninja  
+3          GalLalush       1         5     0     10    Warrior  

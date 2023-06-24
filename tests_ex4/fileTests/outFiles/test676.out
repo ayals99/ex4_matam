@@ -161,18 +161,18 @@ Start of round 1:
 Start of Daniel's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Rogue  
-2          Amirmann        2         5     100   14    Rogue  
-3          Amirmann        2         5     100   12    Fighter  
-4          Efrat           1         5     0     10    Wizard  
+1          Daniel          1         5     100   10    Ninja  
+2          Amirmann        2         5     100   14    Ninja  
+3          Amirmann        2         5     100   12    Warrior  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -193,10 +193,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   14    Rogue  
-2          Amirmann        2         5     100   12    Fighter  
-3          Daniel          1         5     0     10    Rogue  
-4          Efrat           1         5     0     10    Wizard  
+1          Amirmann        2         5     100   14    Ninja  
+2          Amirmann        2         5     100   12    Warrior  
+3          Daniel          1         5     0     10    Ninja  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -209,7 +209,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     0     12    Fighter  
-2          Amirmann        2         5     0     14    Rogue  
-3          Daniel          1         5     0     10    Rogue  
-4          Efrat           1         5     0     10    Wizard  
+1          Amirmann        2         5     0     12    Warrior  
+2          Amirmann        2         5     0     14    Ninja  
+3          Daniel          1         5     0     10    Ninja  
+4          Efrat           1         5     0     10    Healer  

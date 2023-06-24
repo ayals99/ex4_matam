@@ -181,7 +181,7 @@ You have entered an invalid class. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -200,10 +200,10 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   14    Rogue  
-2          GalLalush       1         5     100   10    Wizard  
-3          Daniel          1         5     100   10    Fighter  
-4          Amirmann        1         5     100   10    Rogue  
+1          Amirmann        2         5     100   14    Ninja  
+2          GalLalush       1         5     100   10    Healer  
+3          Daniel          1         5     100   10    Warrior  
+4          Amirmann        1         5     100   10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -213,33 +213,33 @@ This is but a flesh wound. You've lost 10 health points
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     90    14    Rogue  
-2          GalLalush       1         5     90    10    Wizard  
-3          Daniel          2         5     100   12    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
+1          Amirmann        2         5     90    14    Ninja  
+2          GalLalush       1         5     90    10    Healer  
+3          Daniel          2         5     100   12    Warrior  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     90    18    Rogue  
-2          GalLalush       2         5     90    12    Wizard  
-3          Daniel          2         5     0     12    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
+1          Amirmann        3         5     90    18    Ninja  
+2          GalLalush       2         5     90    12    Healer  
+3          Daniel          2         5     0     12    Warrior  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -251,10 +251,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     90    18    Rogue  
-2          GalLalush       2         5     80    12    Wizard  
-3          Daniel          2         5     0     12    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
+1          Amirmann        3         5     90    18    Ninja  
+2          GalLalush       2         5     80    12    Healer  
+3          Daniel          2         5     0     12    Warrior  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -262,14 +262,14 @@ Start of round 5:
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   12    Wizard  
-2          Amirmann        3         5     0     18    Rogue  
-3          Daniel          2         5     0     12    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
+1          GalLalush       2         5     100   12    Healer  
+2          Amirmann        3         5     0     18    Ninja  
+3          Daniel          2         5     0     12    Warrior  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -287,10 +287,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   12    Wizard  
-2          Amirmann        3         5     0     18    Rogue  
-3          Daniel          2         5     0     12    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
+1          GalLalush       2         5     100   12    Healer  
+2          Amirmann        3         5     0     18    Ninja  
+3          Daniel          2         5     0     12    Warrior  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -308,10 +308,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   7     Wizard  
-2          Amirmann        3         5     0     18    Rogue  
-3          Daniel          2         5     0     12    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
+1          GalLalush       2         5     100   7     Healer  
+2          Amirmann        3         5     0     18    Ninja  
+3          Daniel          2         5     0     12    Warrior  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -321,23 +321,23 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    7     Wizard  
-2          Amirmann        3         5     0     18    Rogue  
-3          Daniel          2         5     0     12    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
+1          GalLalush       2         5     90    7     Healer  
+2          Amirmann        3         5     0     18    Ninja  
+3          Daniel          2         5     0     12    Warrior  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   7     Wizard  
-2          Amirmann        3         5     0     18    Rogue  
-3          Daniel          2         5     0     12    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
+1          GalLalush       2         5     100   7     Healer  
+2          Amirmann        3         5     0     18    Ninja  
+3          Daniel          2         5     0     12    Warrior  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -348,7 +348,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     0     7     Wizard  
-2          Amirmann        3         5     0     18    Rogue  
-3          Daniel          2         5     0     12    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
+1          GalLalush       2         5     0     7     Healer  
+2          Amirmann        3         5     0     18    Ninja  
+3          Daniel          2         5     0     12    Warrior  
+4          Amirmann        1         5     0     10    Ninja  

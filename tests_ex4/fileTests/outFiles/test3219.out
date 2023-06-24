@@ -128,7 +128,7 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of GalLalush's turn: 
@@ -136,9 +136,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    10    Rogue  
-2          Amirmann        1         5     90    10    Wizard  
-3          GalLalush       1         5     90    10    Fighter  
+1          Amirmann        1         4     90    10    Ninja  
+2          Amirmann        1         5     90    10    Healer  
+3          GalLalush       1         5     90    10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -152,9 +152,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    10    Rogue  
-2          GalLalush       1         5     90    10    Fighter  
-3          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        1         4     90    10    Ninja  
+2          GalLalush       1         5     90    10    Warrior  
+3          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -162,13 +162,13 @@ Start of round 3:
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    12    Fighter  
-2          Amirmann        1         4     0     10    Rogue  
-3          Amirmann        1         5     0     10    Wizard  
+1          GalLalush       2         5     90    12    Warrior  
+2          Amirmann        1         4     0     10    Ninja  
+3          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -178,9 +178,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     80    12    Fighter  
-2          Amirmann        1         4     0     10    Rogue  
-3          Amirmann        1         5     0     10    Wizard  
+1          GalLalush       2         5     80    12    Warrior  
+2          Amirmann        1         4     0     10    Ninja  
+3          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -191,6 +191,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     0     12    Fighter  
-2          Amirmann        1         4     0     10    Rogue  
-3          Amirmann        1         5     0     10    Wizard  
+1          GalLalush       2         5     0     12    Warrior  
+2          Amirmann        1         4     0     10    Ninja  
+3          Amirmann        1         5     0     10    Healer  

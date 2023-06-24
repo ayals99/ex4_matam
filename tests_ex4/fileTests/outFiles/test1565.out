@@ -1451,14 +1451,14 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Wizard  
-2          Omerz           1         6     100   0     Rogue  
+1          TomerM          1         5     90    10    Healer  
+2          Omerz           1         6     100   0     Ninja  
 
 -------------------------------------------
 Start of round 2:
 
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1471,8 +1471,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     80    10    Wizard  
-2          Omerz           1         6     100   0     Rogue  
+1          TomerM          1         4     80    10    Healer  
+2          Omerz           1         6     100   0     Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -1480,12 +1480,12 @@ Start of round 3:
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     70    10    Wizard  
-2          Omerz           2         6     100   4     Rogue  
+1          TomerM          1         4     70    10    Healer  
+2          Omerz           2         6     100   4     Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -1505,8 +1505,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     60    10    Wizard  
-2          Omerz           2         6     100   4     Rogue  
+1          TomerM          1         4     60    10    Healer  
+2          Omerz           2         6     100   4     Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -1518,8 +1518,8 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     50    10    Wizard  
-2          Omerz           2         6     0     4     Rogue  
+1          TomerM          1         4     50    10    Healer  
+2          Omerz           2         6     0     4     Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -1529,8 +1529,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     40    10    Wizard  
-2          Omerz           2         6     0     4     Rogue  
+1          TomerM          1         4     40    10    Healer  
+2          Omerz           2         6     0     4     Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -1541,5 +1541,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     0     10    Wizard  
-2          Omerz           2         6     0     4     Rogue  
+1          TomerM          1         4     0     10    Healer  
+2          Omerz           2         6     0     4     Ninja  

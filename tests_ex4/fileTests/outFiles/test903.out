@@ -184,16 +184,16 @@ Daniel has 10 coins
 Daniel has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    10    Wizard  
-2          Daniel          1         5     100   5     Fighter  
-3          Amirmann        2         5     100   12    Wizard  
-4          Efrat           1         4     90    10    Wizard  
+1          Efrat           1         5     90    10    Healer  
+2          Daniel          1         5     100   5     Warrior  
+3          Amirmann        2         5     100   12    Healer  
+4          Efrat           1         4     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -210,16 +210,16 @@ Safe travels!
 Start of Daniel's turn: 
 Nothing happened.
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     90    0     Wizard  
-2          Daniel          1         5     100   5     Fighter  
-3          Amirmann        2         5     100   12    Wizard  
-4          Efrat           1         4     80    10    Wizard  
+1          Efrat           1         6     90    0     Healer  
+2          Daniel          1         5     100   5     Warrior  
+3          Amirmann        2         5     100   12    Healer  
+4          Efrat           1         4     80    10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -235,10 +235,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     80    0     Wizard  
-2          Daniel          1         5     100   15    Fighter  
-3          Amirmann        2         5     90    12    Wizard  
-4          Efrat           1         4     80    20    Wizard  
+1          Efrat           1         6     80    0     Healer  
+2          Daniel          1         5     100   15    Warrior  
+3          Amirmann        2         5     90    12    Healer  
+4          Efrat           1         4     80    20    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -250,29 +250,29 @@ Player Daniel has been defeated by a Dragon.
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Goblin.
+Player Efrat has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     70    0     Wizard  
-2          Efrat           1         4     70    20    Wizard  
-3          Amirmann        2         5     0     12    Wizard  
-4          Daniel          1         5     0     15    Fighter  
+1          Efrat           1         6     70    0     Healer  
+2          Efrat           1         4     70    20    Healer  
+3          Amirmann        2         5     0     12    Healer  
+4          Daniel          1         5     0     15    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     70    2     Wizard  
-2          Efrat           1         4     90    20    Wizard  
-3          Amirmann        2         5     0     12    Wizard  
-4          Daniel          1         5     0     15    Fighter  
+1          Efrat           2         6     70    2     Healer  
+2          Efrat           1         4     90    20    Healer  
+3          Amirmann        2         5     0     12    Healer  
+4          Daniel          1         5     0     15    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -284,10 +284,10 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     70    12    Wizard  
-2          Efrat           1         4     0     20    Wizard  
-3          Amirmann        2         5     0     12    Wizard  
-4          Daniel          1         5     0     15    Fighter  
+1          Efrat           2         6     70    12    Healer  
+2          Efrat           1         4     0     20    Healer  
+3          Amirmann        2         5     0     12    Healer  
+4          Daniel          1         5     0     15    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -298,7 +298,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     0     12    Wizard  
-2          Efrat           1         4     0     20    Wizard  
-3          Amirmann        2         5     0     12    Wizard  
-4          Daniel          1         5     0     15    Fighter  
+1          Efrat           2         6     0     12    Healer  
+2          Efrat           1         4     0     20    Healer  
+3          Amirmann        2         5     0     12    Healer  
+4          Daniel          1         5     0     15    Warrior  

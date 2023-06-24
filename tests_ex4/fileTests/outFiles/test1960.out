@@ -95,27 +95,27 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Wizard  
-2          GalLalush       1         5     100   10    Fighter  
+1          Omerz           1         5     100   10    Healer  
+2          GalLalush       1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    10    Wizard  
-2          GalLalush       2         5     100   12    Fighter  
+1          Omerz           1         4     90    10    Healer  
+2          GalLalush       2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -135,8 +135,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   7     Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       2         5     100   7     Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -146,8 +146,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   7     Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       2         5     100   7     Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -157,8 +157,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   7     Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       2         5     100   7     Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -168,30 +168,30 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   7     Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       2         5     100   7     Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     100   9     Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       3         5     100   9     Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     100   11    Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       4         5     100   11    Warrior  
+2          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -202,5 +202,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     0     11    Fighter  
-2          Omerz           1         4     0     10    Wizard  
+1          GalLalush       4         5     0     11    Warrior  
+2          Omerz           1         4     0     10    Healer  

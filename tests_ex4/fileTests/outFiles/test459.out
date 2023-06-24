@@ -321,21 +321,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    10    Wizard  
-2          Omerz           1         5     100   10    Fighter  
+1          Amirmann        1         5     90    10    Healer  
+2          Omerz           1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    10    Wizard  
-2          Omerz           2         5     100   12    Fighter  
+1          Amirmann        1         4     80    10    Healer  
+2          Omerz           2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -352,18 +352,18 @@ You have entered an invalid input. Please try again.
 Amirmann has paid 0 coins 
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    10    Wizard  
-2          Omerz           3         5     100   14    Fighter  
+1          Amirmann        1         4     80    10    Healer  
+2          Omerz           3         5     100   14    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -377,8 +377,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     70    10    Wizard  
-2          Omerz           3         5     100   14    Fighter  
+1          Amirmann        1         3     70    10    Healer  
+2          Omerz           3         5     100   14    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -390,14 +390,14 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     60    10    Wizard  
-2          Omerz           3         5     100   14    Fighter  
+1          Amirmann        1         3     60    10    Healer  
+2          Omerz           3         5     100   14    Warrior  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -411,21 +411,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     50    10    Wizard  
-2          Omerz           3         6     100   4     Fighter  
+1          Amirmann        1         3     50    10    Healer  
+2          Omerz           3         6     100   4     Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     40    10    Wizard  
-2          Omerz           3         6     0     4     Fighter  
+1          Amirmann        1         3     40    10    Healer  
+2          Omerz           3         6     0     4     Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -435,8 +435,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     30    10    Wizard  
-2          Omerz           3         6     0     4     Fighter  
+1          Amirmann        1         3     30    10    Healer  
+2          Omerz           3         6     0     4     Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -447,5 +447,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     0     10    Wizard  
-2          Omerz           3         6     0     4     Fighter  
+1          Amirmann        1         3     0     10    Healer  
+2          Omerz           3         6     0     4     Warrior  

@@ -230,65 +230,65 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Fighter  
-2          GalLalush       1         5     90    10    Fighter  
-3          Amirmann        1         4     90    10    Rogue  
+1          Efrat           2         5     100   12    Warrior  
+2          GalLalush       1         5     90    10    Warrior  
+3          Amirmann        1         4     90    10    Ninja  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     100   14    Fighter  
-2          GalLalush       2         5     90    12    Fighter  
-3          Amirmann        1         4     80    10    Rogue  
+1          Efrat           3         5     100   14    Warrior  
+2          GalLalush       2         5     90    12    Warrior  
+3          Amirmann        1         4     80    10    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 Nothing happened.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         5     100   16    Fighter  
-2          GalLalush       2         5     90    12    Fighter  
-3          Amirmann        1         3     70    10    Rogue  
+1          Efrat           4         5     100   16    Warrior  
+2          GalLalush       2         5     90    12    Warrior  
+3          Amirmann        1         3     70    10    Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           5         5     100   18    Fighter  
-2          GalLalush       3         5     90    14    Fighter  
-3          Amirmann        1         3     60    10    Rogue  
+1          Efrat           5         5     100   18    Warrior  
+2          GalLalush       3         5     90    14    Warrior  
+3          Amirmann        1         3     60    10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -296,15 +296,15 @@ Start of round 5:
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     90    16    Fighter  
-2          Amirmann        1         3     50    10    Rogue  
-3          Efrat           5         5     0     18    Fighter  
+1          GalLalush       4         5     90    16    Warrior  
+2          Amirmann        1         3     50    10    Ninja  
+3          Efrat           5         5     0     18    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -316,9 +316,9 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     80    16    Fighter  
-2          Amirmann        1         3     50    10    Rogue  
-3          Efrat           5         5     0     18    Fighter  
+1          GalLalush       4         5     80    16    Warrior  
+2          Amirmann        1         3     50    10    Ninja  
+3          Efrat           5         5     0     18    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -330,9 +330,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     70    16    Fighter  
-2          Amirmann        1         3     50    10    Rogue  
-3          Efrat           5         5     0     18    Fighter  
+1          GalLalush       4         5     70    16    Warrior  
+2          Amirmann        1         3     50    10    Ninja  
+3          Efrat           5         5     0     18    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -340,13 +340,13 @@ Start of round 8:
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     40    10    Rogue  
-2          GalLalush       4         5     0     16    Fighter  
-3          Efrat           5         5     0     18    Fighter  
+1          Amirmann        1         2     40    10    Ninja  
+2          GalLalush       4         5     0     16    Warrior  
+3          Efrat           5         5     0     18    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -356,9 +356,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     40    10    Rogue  
-2          GalLalush       4         5     0     16    Fighter  
-3          Efrat           5         5     0     18    Fighter  
+1          Amirmann        1         2     40    10    Ninja  
+2          GalLalush       4         5     0     16    Warrior  
+3          Efrat           5         5     0     18    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -369,6 +369,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     0     10    Rogue  
-2          GalLalush       4         5     0     16    Fighter  
-3          Efrat           5         5     0     18    Fighter  
+1          Amirmann        1         2     0     10    Ninja  
+2          GalLalush       4         5     0     16    Warrior  
+3          Efrat           5         5     0     18    Warrior  

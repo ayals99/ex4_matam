@@ -129,9 +129,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Fighter  
-2          Efrat           1         5     100   10    Fighter  
-3          Daniel          1         5     0     10    Rogue  
+1          Efrat           1         5     100   10    Warrior  
+2          Efrat           1         5     100   10    Warrior  
+3          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -143,9 +143,9 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Fighter  
-2          Efrat           1         5     0     10    Fighter  
-3          Daniel          1         5     0     10    Rogue  
+1          Efrat           1         5     100   20    Warrior  
+2          Efrat           1         5     0     10    Warrior  
+3          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -155,9 +155,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   30    Fighter  
-2          Efrat           1         5     0     10    Fighter  
-3          Daniel          1         5     0     10    Rogue  
+1          Efrat           1         5     100   30    Warrior  
+2          Efrat           1         5     0     10    Warrior  
+3          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -167,21 +167,21 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   30    Fighter  
-2          Efrat           1         5     0     10    Fighter  
-3          Daniel          1         5     0     10    Rogue  
+1          Efrat           1         5     100   30    Warrior  
+2          Efrat           1         5     0     10    Warrior  
+3          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   32    Fighter  
-2          Efrat           1         5     0     10    Fighter  
-3          Daniel          1         5     0     10    Rogue  
+1          Efrat           2         5     100   32    Warrior  
+2          Efrat           1         5     0     10    Warrior  
+3          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -192,6 +192,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     0     32    Fighter  
-2          Efrat           1         5     0     10    Fighter  
-3          Daniel          1         5     0     10    Rogue  
+1          Efrat           2         5     0     32    Warrior  
+2          Efrat           1         5     0     10    Warrior  
+3          Daniel          1         5     0     10    Ninja  

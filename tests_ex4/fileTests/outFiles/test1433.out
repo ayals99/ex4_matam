@@ -144,9 +144,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Wizard  
-2          GalLalush       1         6     100   0     Rogue  
-3          Amirmann        1         5     90    10    Rogue  
+1          Efrat           1         5     100   20    Healer  
+2          GalLalush       1         6     100   0     Ninja  
+3          Amirmann        1         5     90    10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -160,9 +160,9 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   30    Wizard  
-2          Amirmann        1         5     90    10    Rogue  
-3          GalLalush       1         6     0     0     Rogue  
+1          Efrat           1         5     100   30    Healer  
+2          Amirmann        1         5     90    10    Ninja  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -174,9 +174,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    30    Wizard  
-2          Amirmann        1         5     80    10    Rogue  
-3          GalLalush       1         6     0     0     Rogue  
+1          Efrat           1         5     90    30    Healer  
+2          Amirmann        1         5     80    10    Ninja  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -197,9 +197,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     80    30    Wizard  
-2          Amirmann        1         5     81    5     Rogue  
-3          GalLalush       1         6     0     0     Rogue  
+1          Efrat           1         5     80    30    Healer  
+2          Amirmann        1         5     81    5     Ninja  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -211,9 +211,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     70    30    Wizard  
-2          Amirmann        1         5     81    25    Rogue  
-3          GalLalush       1         6     0     0     Rogue  
+1          Efrat           1         5     70    30    Healer  
+2          Amirmann        1         5     81    25    Ninja  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -232,9 +232,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     72    25    Wizard  
-2          Amirmann        1         5     81    25    Rogue  
-3          GalLalush       1         6     0     0     Rogue  
+1          Efrat           1         5     72    25    Healer  
+2          Amirmann        1         5     81    25    Ninja  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -260,9 +260,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     74    20    Wizard  
-2          Amirmann        1         5     81    25    Rogue  
-3          GalLalush       1         6     0     0     Rogue  
+1          Efrat           1         5     74    20    Healer  
+2          Amirmann        1         5     81    25    Ninja  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -274,9 +274,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     81    25    Rogue  
-2          Efrat           1         5     0     20    Wizard  
-3          GalLalush       1         6     0     0     Rogue  
+1          Amirmann        1         5     81    25    Ninja  
+2          Efrat           1         5     0     20    Healer  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -286,9 +286,9 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     81    25    Rogue  
-2          Efrat           1         5     0     20    Wizard  
-3          GalLalush       1         6     0     0     Rogue  
+1          Amirmann        1         5     81    25    Ninja  
+2          Efrat           1         5     0     20    Healer  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -298,9 +298,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     81    25    Rogue  
-2          Efrat           1         5     0     20    Wizard  
-3          GalLalush       1         6     0     0     Rogue  
+1          Amirmann        1         5     81    25    Ninja  
+2          Efrat           1         5     0     20    Healer  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -310,9 +310,9 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     81    25    Rogue  
-2          Efrat           1         5     0     20    Wizard  
-3          GalLalush       1         6     0     0     Rogue  
+1          Amirmann        1         5     81    25    Ninja  
+2          Efrat           1         5     0     20    Healer  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -330,9 +330,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     81    15    Rogue  
-2          Efrat           1         5     0     20    Wizard  
-3          GalLalush       1         6     0     0     Rogue  
+1          Amirmann        1         6     81    15    Ninja  
+2          Efrat           1         5     0     20    Healer  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -342,21 +342,21 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     81    15    Rogue  
-2          Efrat           1         5     0     20    Wizard  
-3          GalLalush       1         6     0     0     Rogue  
+1          Amirmann        1         6     81    15    Ninja  
+2          Efrat           1         5     0     20    Healer  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     81    19    Rogue  
-2          Efrat           1         5     0     20    Wizard  
-3          GalLalush       1         6     0     0     Rogue  
+1          Amirmann        2         6     81    19    Ninja  
+2          Efrat           1         5     0     20    Healer  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -374,9 +374,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     82    14    Rogue  
-2          Efrat           1         5     0     20    Wizard  
-3          GalLalush       1         6     0     0     Rogue  
+1          Amirmann        2         6     82    14    Ninja  
+2          Efrat           1         5     0     20    Healer  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -386,9 +386,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     72    14    Rogue  
-2          Efrat           1         5     0     20    Wizard  
-3          GalLalush       1         6     0     0     Rogue  
+1          Amirmann        2         6     72    14    Ninja  
+2          Efrat           1         5     0     20    Healer  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 17:
@@ -398,9 +398,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     62    14    Rogue  
-2          Efrat           1         5     0     20    Wizard  
-3          GalLalush       1         6     0     0     Rogue  
+1          Amirmann        2         6     62    14    Ninja  
+2          Efrat           1         5     0     20    Healer  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 18:
@@ -410,9 +410,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     52    14    Rogue  
-2          Efrat           1         5     0     20    Wizard  
-3          GalLalush       1         6     0     0     Rogue  
+1          Amirmann        2         6     52    14    Ninja  
+2          Efrat           1         5     0     20    Healer  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 19:
@@ -429,9 +429,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         7     52    4     Rogue  
-2          Efrat           1         5     0     20    Wizard  
-3          GalLalush       1         6     0     0     Rogue  
+1          Amirmann        2         7     52    4     Ninja  
+2          Efrat           1         5     0     20    Healer  
+3          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 20:
@@ -442,6 +442,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         7     0     4     Rogue  
-2          Efrat           1         5     0     20    Wizard  
-3          GalLalush       1         6     0     0     Rogue  
+1          Amirmann        2         7     0     4     Ninja  
+2          Efrat           1         5     0     20    Healer  
+3          GalLalush       1         6     0     0     Ninja  

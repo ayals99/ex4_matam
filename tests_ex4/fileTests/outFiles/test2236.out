@@ -542,12 +542,12 @@ Start of round 1:
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Wizard  
-2          Amirmann        2         5     100   12    Fighter  
+1          GalLalush       1         5     90    10    Healer  
+2          Amirmann        2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -555,12 +555,12 @@ Start of round 2:
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     80    10    Wizard  
-2          Amirmann        3         5     100   14    Fighter  
+1          GalLalush       1         5     80    10    Healer  
+2          Amirmann        3         5     100   14    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -572,34 +572,34 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     70    10    Wizard  
-2          Amirmann        3         5     90    14    Fighter  
+1          GalLalush       1         5     70    10    Healer  
+2          Amirmann        3         5     90    14    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     70    12    Wizard  
-2          Amirmann        3         5     90    24    Fighter  
+1          GalLalush       2         5     70    12    Healer  
+2          Amirmann        3         5     90    24    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     70    14    Wizard  
-2          Amirmann        3         5     90    24    Fighter  
+1          GalLalush       3         5     70    14    Healer  
+2          Amirmann        3         5     90    24    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -611,19 +611,19 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     90    34    Fighter  
-2          GalLalush       3         5     0     14    Wizard  
+1          Amirmann        3         5     90    34    Warrior  
+2          GalLalush       3         5     0     14    Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     90    36    Fighter  
-2          GalLalush       3         5     0     14    Wizard  
+1          Amirmann        4         5     90    36    Warrior  
+2          GalLalush       3         5     0     14    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -633,19 +633,19 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     90    36    Fighter  
-2          GalLalush       3         5     0     14    Wizard  
+1          Amirmann        4         5     90    36    Warrior  
+2          GalLalush       3         5     0     14    Healer  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     90    38    Fighter  
-2          GalLalush       3         5     0     14    Wizard  
+1          Amirmann        5         5     90    38    Warrior  
+2          GalLalush       3         5     0     14    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -656,5 +656,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     0     38    Fighter  
-2          GalLalush       3         5     0     14    Wizard  
+1          Amirmann        5         5     0     38    Warrior  
+2          GalLalush       3         5     0     14    Healer  

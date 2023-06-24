@@ -912,31 +912,31 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Fighter  
-2          Daniel          1         5     100   20    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           1         5     100   20    Warrior  
+2          Daniel          1         5     100   20    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   22    Fighter  
-2          Daniel          1         5     100   30    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           2         5     100   22    Warrior  
+2          Daniel          1         5     100   30    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -949,40 +949,40 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     100   24    Fighter  
-2          Daniel          1         6     100   20    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           3         5     100   24    Warrior  
+2          Daniel          1         6     100   20    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         5     100   26    Fighter  
-2          Daniel          1         6     100   30    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           4         5     100   26    Warrior  
+2          Daniel          1         6     100   30    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           5         5     100   28    Fighter  
-2          Daniel          1         6     90    30    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           5         5     100   28    Warrior  
+2          Daniel          1         6     90    30    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -994,25 +994,25 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           5         5     100   28    Fighter  
-2          Daniel          1         6     90    40    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           5         5     100   28    Warrior  
+2          Daniel          1         6     90    40    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           6         5     100   30    Fighter  
-2          Daniel          1         5     80    40    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           6         5     100   30    Warrior  
+2          Daniel          1         5     80    40    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -1020,14 +1020,14 @@ Start of round 8:
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     80    42    Wizard  
-2          Efrat           6         5     0     30    Fighter  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         5     80    42    Healer  
+2          Efrat           6         5     0     30    Warrior  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -1044,10 +1044,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     82    37    Wizard  
-2          Efrat           6         5     0     30    Fighter  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         5     82    37    Healer  
+2          Efrat           6         5     0     30    Warrior  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -1057,10 +1057,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     72    37    Wizard  
-2          Efrat           6         5     0     30    Fighter  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         5     72    37    Healer  
+2          Efrat           6         5     0     30    Warrior  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -1070,23 +1070,23 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     72    47    Wizard  
-2          Efrat           6         5     0     30    Fighter  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         5     72    47    Healer  
+2          Efrat           6         5     0     30    Warrior  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         4     62    47    Wizard  
-2          Efrat           6         5     0     30    Fighter  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         4     62    47    Healer  
+2          Efrat           6         5     0     30    Warrior  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -1096,10 +1096,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         4     52    47    Wizard  
-2          Efrat           6         5     0     30    Fighter  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         4     52    47    Healer  
+2          Efrat           6         5     0     30    Warrior  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -1109,10 +1109,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         4     52    57    Wizard  
-2          Efrat           6         5     0     30    Fighter  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         4     52    57    Healer  
+2          Efrat           6         5     0     30    Warrior  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -1123,7 +1123,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         4     0     57    Wizard  
-2          Efrat           6         5     0     30    Fighter  
-3          Amirmann        1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         4     0     57    Healer  
+2          Efrat           6         5     0     30    Warrior  
+3          Amirmann        1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  

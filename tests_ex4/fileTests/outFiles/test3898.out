@@ -1522,8 +1522,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Rogue  
-2          Omerz           1         6     100   0     Wizard  
+1          Daniel          1         5     100   10    Ninja  
+2          Omerz           1         6     100   0     Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -1535,8 +1535,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     90    10    Rogue  
-2          Omerz           1         6     90    0     Wizard  
+1          Daniel          1         5     90    10    Ninja  
+2          Omerz           1         6     90    0     Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -1548,8 +1548,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     90    10    Rogue  
-2          Omerz           1         6     80    0     Wizard  
+1          Daniel          1         5     90    10    Ninja  
+2          Omerz           1         6     80    0     Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -1557,12 +1557,12 @@ Start of round 4:
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         6     80    2     Wizard  
-2          Daniel          1         5     0     10    Rogue  
+1          Omerz           2         6     80    2     Healer  
+2          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -1572,8 +1572,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         6     70    2     Wizard  
-2          Daniel          1         5     0     10    Rogue  
+1          Omerz           2         6     70    2     Healer  
+2          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -1583,8 +1583,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         6     60    2     Wizard  
-2          Daniel          1         5     0     10    Rogue  
+1          Omerz           2         6     60    2     Healer  
+2          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -1595,5 +1595,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         6     0     2     Wizard  
-2          Daniel          1         5     0     10    Rogue  
+1          Omerz           2         6     0     2     Healer  
+2          Daniel          1         5     0     10    Ninja  

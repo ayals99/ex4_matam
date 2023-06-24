@@ -114,8 +114,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Fighter  
-2          Daniel          1         5     90    10    Wizard  
+1          Omerz           1         5     100   10    Warrior  
+2          Daniel          1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -136,8 +136,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   20    Fighter  
-2          Daniel          1         5     90    10    Wizard  
+1          Omerz           1         5     100   20    Warrior  
+2          Daniel          1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -157,41 +157,41 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     92    5     Wizard  
-2          Omerz           1         5     0     20    Fighter  
+1          Daniel          1         5     92    5     Healer  
+2          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     82    5     Wizard  
-2          Omerz           1         5     0     20    Fighter  
+1          Daniel          1         4     82    5     Healer  
+2          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Goblin.
+Player Daniel has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     72    5     Wizard  
-2          Omerz           1         5     0     20    Fighter  
+1          Daniel          1         4     72    5     Healer  
+2          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Goblin.
+Player Daniel has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     62    5     Wizard  
-2          Omerz           1         5     0     20    Fighter  
+1          Daniel          1         4     62    5     Healer  
+2          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -201,8 +201,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     52    5     Wizard  
-2          Omerz           1         5     0     20    Fighter  
+1          Daniel          1         4     52    5     Healer  
+2          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -212,8 +212,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     42    5     Wizard  
-2          Omerz           1         5     0     20    Fighter  
+1          Daniel          1         4     42    5     Healer  
+2          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -230,8 +230,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     42    5     Wizard  
-2          Omerz           1         5     0     20    Fighter  
+1          Daniel          1         4     42    5     Healer  
+2          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -241,19 +241,19 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     32    5     Wizard  
-2          Omerz           1         5     0     20    Fighter  
+1          Daniel          1         4     32    5     Healer  
+2          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Goblin.
+Player Daniel has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     22    5     Wizard  
-2          Omerz           1         5     0     20    Fighter  
+1          Daniel          1         4     22    5     Healer  
+2          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -263,8 +263,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     12    5     Wizard  
-2          Omerz           1         5     0     20    Fighter  
+1          Daniel          1         4     12    5     Healer  
+2          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -274,8 +274,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     2     5     Wizard  
-2          Omerz           1         5     0     20    Fighter  
+1          Daniel          1         4     2     5     Healer  
+2          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -286,5 +286,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     0     5     Wizard  
-2          Omerz           1         5     0     20    Fighter  
+1          Daniel          1         4     0     5     Healer  
+2          Omerz           1         5     0     20    Warrior  

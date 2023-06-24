@@ -156,9 +156,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   30    Rogue  
-2          GalLalush       1         5     90    10    Wizard  
-3          GalLalush       1         5     90    10    Wizard  
+1          TomerM          1         5     100   30    Ninja  
+2          GalLalush       1         5     90    10    Healer  
+3          GalLalush       1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -175,13 +175,13 @@ GalLalush has 10 coins
 GalLalush has paid 10 coins for 1 force boost!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   50    Rogue  
-2          GalLalush       1         6     90    0     Wizard  
-3          GalLalush       2         5     90    12    Wizard  
+1          TomerM          1         5     100   50    Ninja  
+2          GalLalush       1         6     90    0     Healer  
+3          GalLalush       2         5     90    12    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -189,15 +189,15 @@ Start of round 3:
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   70    Rogue  
-2          GalLalush       1         6     100   0     Wizard  
-3          GalLalush       3         5     90    14    Wizard  
+1          TomerM          1         5     100   70    Ninja  
+2          GalLalush       1         6     100   0     Healer  
+3          GalLalush       3         5     90    14    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -227,9 +227,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   65    Rogue  
-2          GalLalush       1         6     90    0     Wizard  
-3          GalLalush       3         5     92    9     Wizard  
+1          TomerM          1         5     100   65    Ninja  
+2          GalLalush       1         6     90    0     Healer  
+3          GalLalush       3         5     92    9     Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -237,21 +237,21 @@ Start of round 5:
 Start of TomerM's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   65    Rogue  
-2          GalLalush       2         6     90    2     Wizard  
-3          GalLalush       3         5     100   9     Wizard  
+1          TomerM          1         5     100   65    Ninja  
+2          GalLalush       2         6     90    2     Healer  
+3          GalLalush       3         5     100   9     Healer  
 
 -------------------------------------------
 Start of round 6:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 Start of GalLalush's turn: 
@@ -267,9 +267,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   69    Rogue  
-2          GalLalush       2         6     80    2     Wizard  
-3          GalLalush       3         5     100   4     Wizard  
+1          TomerM          2         5     100   69    Ninja  
+2          GalLalush       2         6     80    2     Healer  
+3          GalLalush       3         5     100   4     Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -285,15 +285,15 @@ You have entered an invalid input. Please try again.
 TomerM has paid 10 coins for 1 force boost!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         6     100   59    Rogue  
-2          GalLalush       3         6     80    4     Wizard  
-3          GalLalush       4         5     100   6     Wizard  
+1          TomerM          2         6     100   59    Ninja  
+2          GalLalush       3         6     80    4     Healer  
+3          GalLalush       4         5     100   6     Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -301,7 +301,7 @@ Start of round 8:
 Start of TomerM's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -315,25 +315,25 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         6     100   59    Rogue  
-2          GalLalush       3         6     100   4     Wizard  
-3          GalLalush       4         5     100   6     Wizard  
+1          TomerM          2         6     100   59    Ninja  
+2          GalLalush       3         6     100   4     Healer  
+3          GalLalush       4         5     100   6     Healer  
 
 -------------------------------------------
 Start of round 9:
 
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    59    Rogue  
-2          GalLalush       3         6     100   14    Wizard  
-3          GalLalush       4         5     100   6     Wizard  
+1          TomerM          2         5     90    59    Ninja  
+2          GalLalush       3         6     100   14    Healer  
+3          GalLalush       4         5     100   6     Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -347,9 +347,9 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    79    Rogue  
-2          GalLalush       3         6     100   24    Wizard  
-3          GalLalush       4         5     0     6     Wizard  
+1          TomerM          2         5     90    79    Ninja  
+2          GalLalush       3         6     100   24    Healer  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -361,21 +361,21 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     90    24    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       3         6     90    24    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 12:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     100   24    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       3         6     100   24    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -385,9 +385,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     100   34    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       3         6     100   34    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -397,9 +397,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     90    34    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       3         6     90    34    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -409,9 +409,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     80    34    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       3         6     80    34    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -421,9 +421,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     80    44    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       3         6     80    44    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -442,21 +442,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     80    44    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       3         6     80    44    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 18:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     80    46    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       4         6     80    46    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -466,33 +466,33 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     80    56    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       4         6     80    56    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 20:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     100   56    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       4         6     100   56    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 21:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         6     100   58    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       5         6     100   58    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 22:
@@ -511,9 +511,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         6     100   53    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       5         6     100   53    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 23:
@@ -523,9 +523,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         6     90    53    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       5         6     90    53    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 24:
@@ -542,9 +542,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         7     90    43    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       5         7     90    43    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 25:
@@ -554,45 +554,45 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         7     80    43    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       5         7     80    43    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 26:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         7     80    45    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       6         7     80    45    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 27:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         7     100   45    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       6         7     100   45    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 28:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         7     100   47    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       7         7     100   47    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 29:
@@ -602,9 +602,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         7     90    47    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       7         7     90    47    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 30:
@@ -622,9 +622,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         7     90    47    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       7         7     90    47    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 31:
@@ -641,33 +641,33 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         7     90    47    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       7         7     90    47    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 32:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       8         7     90    49    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       8         7     90    49    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 33:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         7     90    51    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       9         7     90    51    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 34:
@@ -677,21 +677,21 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         7     80    51    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       9         7     80    51    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 35:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         7     100   51    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       9         7     100   51    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 36:
@@ -708,19 +708,19 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         8     100   41    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       9         8     100   41    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  
 
 -------------------------------------------
 Start of round 37:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        8     100   43    Wizard  
-2          TomerM          2         5     0     79    Rogue  
-3          GalLalush       4         5     0     6     Wizard  
+1          GalLalush       10        8     100   43    Healer  
+2          TomerM          2         5     0     79    Ninja  
+3          GalLalush       4         5     0     6     Healer  

@@ -456,27 +456,27 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Wizard  
-2          Omerz           1         5     100   10    Fighter  
+1          Efrat           2         5     100   12    Healer  
+2          Omerz           1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     100   14    Wizard  
-2          Omerz           2         5     100   12    Fighter  
+1          Efrat           3         5     100   14    Healer  
+2          Omerz           2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -488,8 +488,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     90    14    Wizard  
-2          Omerz           2         5     100   22    Fighter  
+1          Efrat           3         5     90    14    Healer  
+2          Omerz           2         5     100   22    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -517,8 +517,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     90    4     Wizard  
-2          Omerz           2         6     100   12    Fighter  
+1          Efrat           3         6     90    4     Healer  
+2          Omerz           2         6     100   12    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -530,8 +530,8 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     80    4     Wizard  
-2          Omerz           2         6     0     12    Fighter  
+1          Efrat           3         6     80    4     Healer  
+2          Omerz           2         6     0     12    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -541,19 +541,19 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     80    14    Wizard  
-2          Omerz           2         6     0     12    Fighter  
+1          Efrat           3         6     80    14    Healer  
+2          Omerz           2         6     0     12    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     70    14    Wizard  
-2          Omerz           2         6     0     12    Fighter  
+1          Efrat           3         5     70    14    Healer  
+2          Omerz           2         6     0     12    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -564,5 +564,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     0     14    Wizard  
-2          Omerz           2         6     0     12    Fighter  
+1          Efrat           3         5     0     14    Healer  
+2          Omerz           2         6     0     12    Warrior  

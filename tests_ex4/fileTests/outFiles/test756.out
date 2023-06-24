@@ -1221,16 +1221,16 @@ You have entered an invalid input. Please try again.
 Efrat has paid 0 coins 
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Wizard  
-2          Efrat           1         5     100   10    Rogue  
-3          GalLalush       1         4     90    10    Wizard  
-4          GalLalush       2         5     100   12    Fighter  
+1          Amirmann        1         5     100   20    Healer  
+2          Efrat           1         5     100   10    Ninja  
+3          GalLalush       1         4     90    10    Healer  
+4          GalLalush       2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -1238,18 +1238,18 @@ Start of round 2:
 Start of Amirmann's turn: 
 You fell into the trap, lose 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    20    Wizard  
-2          Efrat           2         5     100   14    Rogue  
-3          GalLalush       1         4     100   10    Wizard  
-4          GalLalush       3         5     100   14    Fighter  
+1          Amirmann        1         5     90    20    Healer  
+2          Efrat           2         5     100   14    Ninja  
+3          GalLalush       1         4     100   10    Healer  
+4          GalLalush       3         5     100   14    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -1270,14 +1270,14 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 0 coins 
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     80    20    Wizard  
-2          GalLalush       1         4     100   10    Wizard  
-3          GalLalush       4         5     100   16    Fighter  
-4          Efrat           2         5     0     14    Rogue  
+1          Amirmann        1         5     80    20    Healer  
+2          GalLalush       1         4     100   10    Healer  
+3          GalLalush       4         5     100   16    Warrior  
+4          Efrat           2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -1287,14 +1287,14 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     80    30    Wizard  
-2          GalLalush       1         4     90    10    Wizard  
-3          GalLalush       5         5     100   18    Fighter  
-4          Efrat           2         5     0     14    Rogue  
+1          Amirmann        1         5     80    30    Healer  
+2          GalLalush       1         4     90    10    Healer  
+3          GalLalush       5         5     100   18    Warrior  
+4          Efrat           2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -1311,31 +1311,31 @@ Safe travels!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     80    20    Wizard  
-2          GalLalush       1         4     90    20    Wizard  
-3          GalLalush       6         5     100   20    Fighter  
-4          Efrat           2         5     0     14    Rogue  
+1          Amirmann        1         6     80    20    Healer  
+2          GalLalush       1         4     90    20    Healer  
+3          GalLalush       6         5     100   20    Warrior  
+4          Efrat           2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   20    Wizard  
-2          GalLalush       1         4     100   20    Wizard  
-3          GalLalush       6         5     0     20    Fighter  
-4          Efrat           2         5     0     14    Rogue  
+1          Amirmann        1         6     100   20    Healer  
+2          GalLalush       1         4     100   20    Healer  
+3          GalLalush       6         5     0     20    Warrior  
+4          Efrat           2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -1356,25 +1356,25 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     90    20    Wizard  
-2          GalLalush       1         5     100   10    Wizard  
-3          GalLalush       6         5     0     20    Fighter  
-4          Efrat           2         5     0     14    Rogue  
+1          Amirmann        1         6     90    20    Healer  
+2          GalLalush       1         5     100   10    Healer  
+3          GalLalush       6         5     0     20    Warrior  
+4          Efrat           2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   20    Wizard  
-2          GalLalush       1         4     90    10    Wizard  
-3          GalLalush       6         5     0     20    Fighter  
-4          Efrat           2         5     0     14    Rogue  
+1          Amirmann        1         6     100   20    Healer  
+2          GalLalush       1         4     90    10    Healer  
+3          GalLalush       6         5     0     20    Warrior  
+4          Efrat           2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -1386,10 +1386,10 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     90    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          GalLalush       6         5     0     20    Fighter  
-4          Efrat           2         5     0     14    Rogue  
+1          Amirmann        1         6     90    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          GalLalush       6         5     0     20    Warrior  
+4          Efrat           2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -1400,7 +1400,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     0     20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          GalLalush       6         5     0     20    Fighter  
-4          Efrat           2         5     0     14    Rogue  
+1          Amirmann        1         6     0     20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          GalLalush       6         5     0     20    Warrior  
+4          Efrat           2         5     0     14    Ninja  

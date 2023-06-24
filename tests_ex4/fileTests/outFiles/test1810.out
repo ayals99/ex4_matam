@@ -219,18 +219,18 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Wizard  
-2          Efrat           1         5     90    10    Rogue  
-3          GalLalush       1         5     100   30    Rogue  
-4          Efrat           1         5     100   20    Fighter  
+1          GalLalush       1         5     90    10    Healer  
+2          Efrat           1         5     90    10    Ninja  
+3          GalLalush       1         5     100   30    Ninja  
+4          Efrat           1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
@@ -238,10 +238,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   10    Wizard  
-2          Efrat           2         5     90    14    Rogue  
-3          GalLalush       1         5     100   50    Rogue  
-4          Efrat           1         5     100   20    Fighter  
+1          GalLalush       1         5     100   10    Healer  
+2          Efrat           2         5     90    14    Ninja  
+3          GalLalush       1         5     100   50    Ninja  
+4          Efrat           1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -267,7 +267,7 @@ You have entered an invalid input. Please try again.
 Efrat has paid 10 coins for 1 force boost!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -281,10 +281,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   0     Wizard  
-2          Efrat           2         6     90    4     Rogue  
-3          GalLalush       2         5     100   54    Rogue  
-4          Efrat           1         5     100   15    Fighter  
+1          GalLalush       1         6     100   0     Healer  
+2          Efrat           2         6     90    4     Ninja  
+3          GalLalush       2         5     100   54    Ninja  
+4          Efrat           1         5     100   15    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -309,10 +309,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   10    Wizard  
-2          Efrat           2         6     90    4     Rogue  
-3          GalLalush       2         5     90    54    Rogue  
-4          Efrat           1         5     90    15    Fighter  
+1          GalLalush       1         6     100   10    Healer  
+2          Efrat           2         6     90    4     Ninja  
+3          GalLalush       2         5     90    54    Ninja  
+4          Efrat           1         5     90    15    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -328,18 +328,18 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     90    10    Wizard  
-2          Efrat           2         6     80    4     Rogue  
-3          GalLalush       2         5     90    74    Rogue  
-4          Efrat           1         5     90    25    Fighter  
+1          GalLalush       1         6     90    10    Healer  
+2          Efrat           2         6     80    4     Ninja  
+3          GalLalush       2         5     90    74    Ninja  
+4          Efrat           1         5     90    25    Warrior  
 
 -------------------------------------------
 Start of round 6:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
@@ -347,10 +347,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   10    Wizard  
-2          Efrat           3         6     80    8     Rogue  
-3          GalLalush       2         5     90    94    Rogue  
-4          Efrat           1         5     90    25    Fighter  
+1          GalLalush       1         6     100   10    Healer  
+2          Efrat           3         6     80    8     Ninja  
+3          GalLalush       2         5     90    94    Ninja  
+4          Efrat           1         5     90    25    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -376,7 +376,7 @@ You have entered an invalid input. Please try again.
 Efrat has paid 0 coins 
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -390,10 +390,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   10    Wizard  
-2          Efrat           3         6     80    8     Rogue  
-3          GalLalush       3         5     90    98    Rogue  
-4          Efrat           1         5     90    25    Fighter  
+1          GalLalush       1         6     100   10    Healer  
+2          Efrat           3         6     80    8     Ninja  
+3          GalLalush       3         5     90    98    Ninja  
+4          Efrat           1         5     90    25    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -417,10 +417,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   20    Wizard  
-2          Efrat           3         6     81    3     Rogue  
-3          GalLalush       3         5     80    98    Rogue  
-4          Efrat           1         5     80    25    Fighter  
+1          GalLalush       1         6     100   20    Healer  
+2          Efrat           3         6     81    3     Ninja  
+3          GalLalush       3         5     80    98    Ninja  
+4          Efrat           1         5     80    25    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -436,18 +436,18 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     90    20    Wizard  
-2          Efrat           3         6     71    3     Rogue  
-3          GalLalush       3         5     80    118   Rogue  
-4          Efrat           1         5     80    35    Fighter  
+1          GalLalush       1         6     90    20    Healer  
+2          Efrat           3         6     71    3     Ninja  
+3          GalLalush       3         5     80    118   Ninja  
+4          Efrat           1         5     80    35    Warrior  
 
 -------------------------------------------
 Start of round 10:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
@@ -455,10 +455,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   20    Wizard  
-2          Efrat           4         6     71    7     Rogue  
-3          GalLalush       3         5     80    138   Rogue  
-4          Efrat           1         5     80    35    Fighter  
+1          GalLalush       1         6     100   20    Healer  
+2          Efrat           4         6     71    7     Ninja  
+3          GalLalush       3         5     80    138   Ninja  
+4          Efrat           1         5     80    35    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -483,7 +483,7 @@ Efrat has 7 coins
 Efrat has paid 5 coins for 1 health potion!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -497,10 +497,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         7     100   10    Wizard  
-2          Efrat           4         6     72    2     Rogue  
-3          GalLalush       4         5     80    142   Rogue  
-4          Efrat           1         5     80    35    Fighter  
+1          GalLalush       1         7     100   10    Healer  
+2          Efrat           4         6     72    2     Ninja  
+3          GalLalush       4         5     80    142   Ninja  
+4          Efrat           1         5     80    35    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -524,10 +524,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         7     100   20    Wizard  
-2          Efrat           4         6     72    2     Rogue  
-3          GalLalush       4         5     70    142   Rogue  
-4          Efrat           1         5     70    35    Fighter  
+1          GalLalush       1         7     100   20    Healer  
+2          Efrat           4         6     72    2     Ninja  
+3          GalLalush       4         5     70    142   Ninja  
+4          Efrat           1         5     70    35    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -543,18 +543,18 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         7     90    20    Wizard  
-2          Efrat           4         6     62    2     Rogue  
-3          GalLalush       4         5     70    162   Rogue  
-4          Efrat           1         5     70    45    Fighter  
+1          GalLalush       1         7     90    20    Healer  
+2          Efrat           4         6     62    2     Ninja  
+3          GalLalush       4         5     70    162   Ninja  
+4          Efrat           1         5     70    45    Warrior  
 
 -------------------------------------------
 Start of round 14:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
@@ -562,10 +562,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         7     100   20    Wizard  
-2          Efrat           5         6     62    6     Rogue  
-3          GalLalush       4         5     70    182   Rogue  
-4          Efrat           1         5     70    45    Fighter  
+1          GalLalush       1         7     100   20    Healer  
+2          Efrat           5         6     62    6     Ninja  
+3          GalLalush       4         5     70    182   Ninja  
+4          Efrat           1         5     70    45    Warrior  
 
 -------------------------------------------
 Start of round 15:
@@ -593,7 +593,7 @@ You have entered an invalid input. Please try again.
 Efrat has paid 5 coins for 1 health potion!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -606,10 +606,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     100   10    Wizard  
-2          Efrat           5         6     63    1     Rogue  
-3          GalLalush       5         5     70    186   Rogue  
-4          Efrat           1         5     71    40    Fighter  
+1          GalLalush       1         8     100   10    Healer  
+2          Efrat           5         6     63    1     Ninja  
+3          GalLalush       5         5     70    186   Ninja  
+4          Efrat           1         5     71    40    Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -633,10 +633,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     100   20    Wizard  
-2          Efrat           5         6     63    1     Rogue  
-3          GalLalush       5         5     60    186   Rogue  
-4          Efrat           1         5     61    40    Fighter  
+1          GalLalush       1         8     100   20    Healer  
+2          Efrat           5         6     63    1     Ninja  
+3          GalLalush       5         5     60    186   Ninja  
+4          Efrat           1         5     61    40    Warrior  
 
 -------------------------------------------
 Start of round 17:
@@ -652,18 +652,18 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     90    20    Wizard  
-2          Efrat           5         6     53    1     Rogue  
-3          GalLalush       5         5     60    206   Rogue  
-4          Efrat           1         5     61    50    Fighter  
+1          GalLalush       1         8     90    20    Healer  
+2          Efrat           5         6     53    1     Ninja  
+3          GalLalush       5         5     60    206   Ninja  
+4          Efrat           1         5     61    50    Warrior  
 
 -------------------------------------------
 Start of round 18:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
@@ -671,10 +671,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     100   20    Wizard  
-2          Efrat           6         6     53    5     Rogue  
-3          GalLalush       5         5     60    226   Rogue  
-4          Efrat           1         5     61    50    Fighter  
+1          GalLalush       1         8     100   20    Healer  
+2          Efrat           6         6     53    5     Ninja  
+3          GalLalush       5         5     60    226   Ninja  
+4          Efrat           1         5     61    50    Warrior  
 
 -------------------------------------------
 Start of round 19:
@@ -701,7 +701,7 @@ You have entered an invalid input. Please try again.
 Efrat has paid 0 coins 
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -714,10 +714,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     100   15    Wizard  
-2          Efrat           6         6     53    5     Rogue  
-3          GalLalush       6         5     60    230   Rogue  
-4          Efrat           1         6     61    40    Fighter  
+1          GalLalush       1         8     100   15    Healer  
+2          Efrat           6         6     53    5     Ninja  
+3          GalLalush       6         5     60    230   Ninja  
+4          Efrat           1         6     61    40    Warrior  
 
 -------------------------------------------
 Start of round 20:
@@ -740,10 +740,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     100   25    Wizard  
-2          Efrat           6         6     53    5     Rogue  
-3          GalLalush       6         5     50    230   Rogue  
-4          Efrat           1         6     51    40    Fighter  
+1          GalLalush       1         8     100   25    Healer  
+2          Efrat           6         6     53    5     Ninja  
+3          GalLalush       6         5     50    230   Ninja  
+4          Efrat           1         6     51    40    Warrior  
 
 -------------------------------------------
 Start of round 21:
@@ -759,18 +759,18 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     90    25    Wizard  
-2          Efrat           6         6     43    5     Rogue  
-3          GalLalush       6         5     50    250   Rogue  
-4          Efrat           1         6     51    50    Fighter  
+1          GalLalush       1         8     90    25    Healer  
+2          Efrat           6         6     43    5     Ninja  
+3          GalLalush       6         5     50    250   Ninja  
+4          Efrat           1         6     51    50    Warrior  
 
 -------------------------------------------
 Start of round 22:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
@@ -778,10 +778,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     100   25    Wizard  
-2          Efrat           7         6     43    9     Rogue  
-3          GalLalush       6         5     50    270   Rogue  
-4          Efrat           1         6     51    50    Fighter  
+1          GalLalush       1         8     100   25    Healer  
+2          Efrat           7         6     43    9     Ninja  
+3          GalLalush       6         5     50    270   Ninja  
+4          Efrat           1         6     51    50    Warrior  
 
 -------------------------------------------
 Start of round 23:
@@ -807,7 +807,7 @@ Efrat has 9 coins
 Efrat has paid 5 coins for 1 health potion!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -821,10 +821,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     100   20    Wizard  
-2          Efrat           7         6     44    4     Rogue  
-3          GalLalush       7         5     50    274   Rogue  
-4          Efrat           1         6     51    50    Fighter  
+1          GalLalush       1         8     100   20    Healer  
+2          Efrat           7         6     44    4     Ninja  
+3          GalLalush       7         5     50    274   Ninja  
+4          Efrat           1         6     51    50    Warrior  
 
 -------------------------------------------
 Start of round 24:
@@ -850,10 +850,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     100   30    Wizard  
-2          Efrat           7         6     44    4     Rogue  
-3          GalLalush       7         5     40    274   Rogue  
-4          Efrat           1         6     41    50    Fighter  
+1          GalLalush       1         8     100   30    Healer  
+2          Efrat           7         6     44    4     Ninja  
+3          GalLalush       7         5     40    274   Ninja  
+4          Efrat           1         6     41    50    Warrior  
 
 -------------------------------------------
 Start of round 25:
@@ -869,18 +869,18 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     90    30    Wizard  
-2          Efrat           7         6     34    4     Rogue  
-3          GalLalush       7         5     40    294   Rogue  
-4          Efrat           1         6     41    60    Fighter  
+1          GalLalush       1         8     90    30    Healer  
+2          Efrat           7         6     34    4     Ninja  
+3          GalLalush       7         5     40    294   Ninja  
+4          Efrat           1         6     41    60    Warrior  
 
 -------------------------------------------
 Start of round 26:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
@@ -888,10 +888,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     100   30    Wizard  
-2          Efrat           8         6     34    8     Rogue  
-3          GalLalush       7         5     40    314   Rogue  
-4          Efrat           1         6     41    60    Fighter  
+1          GalLalush       1         8     100   30    Healer  
+2          Efrat           8         6     34    8     Ninja  
+3          GalLalush       7         5     40    314   Ninja  
+4          Efrat           1         6     41    60    Warrior  
 
 -------------------------------------------
 Start of round 27:
@@ -919,7 +919,7 @@ You have entered an invalid input. Please try again.
 Efrat has paid 5 coins for 1 health potion!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -932,10 +932,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     100   30    Wizard  
-2          Efrat           8         6     35    3     Rogue  
-3          GalLalush       8         5     40    318   Rogue  
-4          Efrat           1         6     41    60    Fighter  
+1          GalLalush       1         8     100   30    Healer  
+2          Efrat           8         6     35    3     Ninja  
+3          GalLalush       8         5     40    318   Ninja  
+4          Efrat           1         6     41    60    Warrior  
 
 -------------------------------------------
 Start of round 28:
@@ -959,10 +959,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     100   40    Wizard  
-2          Efrat           8         6     35    3     Rogue  
-3          GalLalush       8         5     30    318   Rogue  
-4          Efrat           1         6     31    60    Fighter  
+1          GalLalush       1         8     100   40    Healer  
+2          Efrat           8         6     35    3     Ninja  
+3          GalLalush       8         5     30    318   Ninja  
+4          Efrat           1         6     31    60    Warrior  
 
 -------------------------------------------
 Start of round 29:
@@ -978,18 +978,18 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     90    40    Wizard  
-2          Efrat           8         6     25    3     Rogue  
-3          GalLalush       8         5     30    338   Rogue  
-4          Efrat           1         6     31    70    Fighter  
+1          GalLalush       1         8     90    40    Healer  
+2          Efrat           8         6     25    3     Ninja  
+3          GalLalush       8         5     30    338   Ninja  
+4          Efrat           1         6     31    70    Warrior  
 
 -------------------------------------------
 Start of round 30:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
@@ -997,10 +997,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     100   40    Wizard  
-2          Efrat           9         6     25    7     Rogue  
-3          GalLalush       8         5     30    358   Rogue  
-4          Efrat           1         6     31    70    Fighter  
+1          GalLalush       1         8     100   40    Healer  
+2          Efrat           9         6     25    7     Ninja  
+3          GalLalush       8         5     30    358   Ninja  
+4          Efrat           1         6     31    70    Warrior  
 
 -------------------------------------------
 Start of round 31:
@@ -1025,7 +1025,7 @@ You dont have enough coins for this purchase. Please try again.
 Efrat has paid 0 coins for 1 force boost!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1038,10 +1038,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     100   35    Wizard  
-2          Efrat           9         6     25    7     Rogue  
-3          GalLalush       9         5     30    362   Rogue  
-4          Efrat           1         6     31    70    Fighter  
+1          GalLalush       1         8     100   35    Healer  
+2          Efrat           9         6     25    7     Ninja  
+3          GalLalush       9         5     30    362   Ninja  
+4          Efrat           1         6     31    70    Warrior  
 
 -------------------------------------------
 Start of round 32:
@@ -1066,10 +1066,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     100   45    Wizard  
-2          Efrat           9         6     26    2     Rogue  
-3          GalLalush       9         5     20    362   Rogue  
-4          Efrat           1         6     21    70    Fighter  
+1          GalLalush       1         8     100   45    Healer  
+2          Efrat           9         6     26    2     Ninja  
+3          GalLalush       9         5     20    362   Ninja  
+4          Efrat           1         6     21    70    Warrior  
 
 -------------------------------------------
 Start of round 33:
@@ -1085,18 +1085,18 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         8     90    45    Wizard  
-2          Efrat           9         6     16    2     Rogue  
-3          GalLalush       9         5     20    382   Rogue  
-4          Efrat           1         6     21    80    Fighter  
+1          GalLalush       1         8     90    45    Healer  
+2          Efrat           9         6     16    2     Ninja  
+3          GalLalush       9         5     20    382   Ninja  
+4          Efrat           1         6     21    80    Warrior  
 
 -------------------------------------------
 Start of round 34:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
@@ -1104,10 +1104,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       1         8     100   45    Wizard  
-3          GalLalush       9         5     20    402   Rogue  
-4          Efrat           1         6     21    80    Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       1         8     100   45    Healer  
+3          GalLalush       9         5     20    402   Ninja  
+4          Efrat           1         6     21    80    Warrior  
 
 -------------------------------------------
 Start of round 35:
@@ -1132,14 +1132,14 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 10 coins for 1 force boost!
 Safe travels!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       1         9     100   35    Wizard  
-3          GalLalush       9         6     20    392   Rogue  
-4          Efrat           2         6     21    82    Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       1         9     100   35    Healer  
+3          GalLalush       9         6     20    392   Ninja  
+4          Efrat           2         6     21    82    Warrior  
 
 -------------------------------------------
 Start of round 36:
@@ -1169,10 +1169,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       1         9     100   30    Wizard  
-3          GalLalush       9         6     20    412   Rogue  
-4          Efrat           2         7     21    72    Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       1         9     100   30    Healer  
+3          GalLalush       9         6     20    412   Ninja  
+4          Efrat           2         7     21    72    Warrior  
 
 -------------------------------------------
 Start of round 37:
@@ -1186,10 +1186,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       1         9     90    30    Wizard  
-3          GalLalush       9         6     20    412   Rogue  
-4          Efrat           2         7     11    72    Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       1         9     90    30    Healer  
+3          GalLalush       9         6     20    412   Ninja  
+4          Efrat           2         7     11    72    Warrior  
 
 -------------------------------------------
 Start of round 38:
@@ -1203,27 +1203,27 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       1         9     80    30    Wizard  
-3          GalLalush       9         6     20    432   Rogue  
-4          Efrat           2         7     11    82    Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       1         9     80    30    Healer  
+3          GalLalush       9         6     20    432   Ninja  
+4          Efrat           2         7     11    82    Warrior  
 
 -------------------------------------------
 Start of round 39:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       1         9     100   30    Wizard  
-4          Efrat           2         7     11    92    Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       1         9     100   30    Healer  
+4          Efrat           2         7     11    92    Warrior  
 
 -------------------------------------------
 Start of round 40:
@@ -1243,10 +1243,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       1         9     90    30    Wizard  
-4          Efrat           2         7     12    87    Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       1         9     90    30    Healer  
+4          Efrat           2         7     12    87    Warrior  
 
 -------------------------------------------
 Start of round 41:
@@ -1262,14 +1262,14 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 0 coins 
 Safe travels!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       1         9     90    30    Wizard  
-4          Efrat           3         7     12    89    Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       1         9     90    30    Healer  
+4          Efrat           3         7     12    89    Warrior  
 
 -------------------------------------------
 Start of round 42:
@@ -1290,10 +1290,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       1         10    90    20    Wizard  
-4          Efrat           3         7     12    99    Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       1         10    90    20    Healer  
+4          Efrat           3         7     12    99    Warrior  
 
 -------------------------------------------
 Start of round 43:
@@ -1314,10 +1314,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       1         11    90    10    Wizard  
-4          Efrat           3         7     12    99    Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       1         11    90    10    Healer  
+4          Efrat           3         7     12    99    Warrior  
 
 -------------------------------------------
 Start of round 44:
@@ -1329,10 +1329,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       1         11    80    10    Wizard  
-4          Efrat           3         7     2     99    Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       1         11    80    10    Healer  
+4          Efrat           3         7     2     99    Warrior  
 
 -------------------------------------------
 Start of round 45:
@@ -1344,10 +1344,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       1         11    70    10    Wizard  
-4          Efrat           3         7     2     109   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       1         11    70    10    Healer  
+4          Efrat           3         7     2     109   Warrior  
 
 -------------------------------------------
 Start of round 46:
@@ -1359,25 +1359,25 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       1         11    70    20    Wizard  
-4          Efrat           3         7     2     109   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       1         11    70    20    Healer  
+4          Efrat           3         7     2     109   Warrior  
 
 -------------------------------------------
 Start of round 47:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       2         11    70    22    Wizard  
-4          Efrat           3         7     2     119   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       2         11    70    22    Healer  
+4          Efrat           3         7     2     119   Warrior  
 
 -------------------------------------------
 Start of round 48:
@@ -1396,10 +1396,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       2         11    60    22    Wizard  
-4          Efrat           3         7     2     119   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       2         11    60    22    Healer  
+4          Efrat           3         7     2     119   Warrior  
 
 -------------------------------------------
 Start of round 49:
@@ -1414,14 +1414,14 @@ GalLalush has 22 coins
 GalLalush has paid 0 coins 
 Safe travels!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       2         11    60    22    Wizard  
-4          Efrat           4         7     2     121   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       2         11    60    22    Healer  
+4          Efrat           4         7     2     121   Warrior  
 
 -------------------------------------------
 Start of round 50:
@@ -1440,10 +1440,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       2         11    62    17    Wizard  
-4          Efrat           4         7     2     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       2         11    62    17    Healer  
+4          Efrat           4         7     2     131   Warrior  
 
 -------------------------------------------
 Start of round 51:
@@ -1462,10 +1462,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       2         11    64    12    Wizard  
-4          Efrat           4         7     2     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       2         11    64    12    Healer  
+4          Efrat           4         7     2     131   Warrior  
 
 -------------------------------------------
 Start of round 52:
@@ -1477,10 +1477,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       2         11    54    12    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       2         11    54    12    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 53:
@@ -1490,10 +1490,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       2         11    44    12    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       2         11    44    12    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 54:
@@ -1503,10 +1503,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       2         11    44    22    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       2         11    44    22    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 55:
@@ -1516,36 +1516,36 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       2         11    44    32    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       2         11    44    32    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 56:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       2         11    64    32    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       2         11    64    32    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 57:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       3         11    64    34    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       3         11    64    34    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 58:
@@ -1555,10 +1555,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       3         11    64    44    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       3         11    64    44    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 59:
@@ -1568,10 +1568,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       3         11    54    44    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       3         11    54    44    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 60:
@@ -1589,10 +1589,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       3         12    54    34    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       3         12    54    34    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 61:
@@ -1610,23 +1610,23 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       3         13    54    24    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       3         13    54    24    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 62:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       4         13    54    26    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       4         13    54    26    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 63:
@@ -1643,10 +1643,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       4         14    54    16    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       4         14    54    16    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 64:
@@ -1656,10 +1656,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       4         14    54    26    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       4         14    54    26    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 65:
@@ -1676,10 +1676,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       4         14    54    26    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       4         14    54    26    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 66:
@@ -1689,10 +1689,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       4         14    44    26    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       4         14    44    26    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 67:
@@ -1702,10 +1702,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       4         14    34    26    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       4         14    34    26    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 68:
@@ -1715,10 +1715,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       4         14    24    26    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       4         14    24    26    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 69:
@@ -1728,10 +1728,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       4         14    14    26    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       4         14    14    26    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 70:
@@ -1741,10 +1741,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       4         14    14    36    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       4         14    14    36    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 71:
@@ -1754,36 +1754,36 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       4         14    14    46    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       4         14    14    46    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 72:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       4         14    34    46    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       4         14    34    46    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 73:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       5         14    34    48    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       5         14    34    48    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 74:
@@ -1793,10 +1793,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       5         14    34    58    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       5         14    34    58    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 75:
@@ -1806,10 +1806,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       5         14    24    58    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       5         14    24    58    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 76:
@@ -1828,10 +1828,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       5         14    24    58    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       5         14    24    58    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 77:
@@ -1848,23 +1848,23 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       5         15    24    48    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       5         15    24    48    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 78:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       6         15    24    50    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       6         15    24    50    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 79:
@@ -1883,10 +1883,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       6         15    24    50    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       6         15    24    50    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 80:
@@ -1896,10 +1896,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       6         15    24    60    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       6         15    24    60    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 81:
@@ -1916,10 +1916,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       6         15    24    60    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       6         15    24    60    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 82:
@@ -1929,10 +1929,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       6         15    14    60    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       6         15    14    60    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 83:
@@ -1942,10 +1942,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       6         15    4     60    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       6         15    4     60    Healer  
+4          Efrat           4         7     0     131   Warrior  
 
 -------------------------------------------
 Start of round 84:
@@ -1956,7 +1956,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     16    6     Rogue  
-2          GalLalush       10        6     20    436   Rogue  
-3          GalLalush       6         15    0     60    Wizard  
-4          Efrat           4         7     0     131   Fighter  
+1          Efrat           10        6     16    6     Ninja  
+2          GalLalush       10        6     20    436   Ninja  
+3          GalLalush       6         15    0     60    Healer  
+4          Efrat           4         7     0     131   Warrior  

@@ -176,12 +176,12 @@ Omerz has 10 coins
 Omerz has paid 5 coins for 1 health potion!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   5     Wizard  
-2          TomerM          2         5     100   12    Fighter  
+1          Omerz           1         5     100   5     Healer  
+2          TomerM          2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -193,8 +193,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    5     Wizard  
-2          TomerM          2         5     100   12    Fighter  
+1          Omerz           1         5     90    5     Healer  
+2          TomerM          2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -202,12 +202,12 @@ Start of round 3:
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     100   14    Fighter  
-2          Omerz           1         5     0     5     Wizard  
+1          TomerM          3         5     100   14    Warrior  
+2          Omerz           1         5     0     5     Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -218,5 +218,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     0     14    Fighter  
-2          Omerz           1         5     0     5     Wizard  
+1          TomerM          3         5     0     14    Warrior  
+2          Omerz           1         5     0     5     Healer  

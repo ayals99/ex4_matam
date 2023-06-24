@@ -655,8 +655,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     100   0     Wizard  
-2          GalLalush       1         5     100   10    Fighter  
+1          Omerz           1         6     100   0     Healer  
+2          GalLalush       1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -664,12 +664,12 @@ Start of round 2:
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     90    0     Wizard  
-2          GalLalush       2         5     100   12    Fighter  
+1          Omerz           1         6     90    0     Healer  
+2          GalLalush       2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -686,12 +686,12 @@ You dont have enough coins for this purchase. Please try again.
 Omerz has paid 0 coins for 1 force boost!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     90    0     Wizard  
-2          GalLalush       3         5     100   14    Fighter  
+1          Omerz           1         6     90    0     Healer  
+2          GalLalush       3         5     100   14    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -704,5 +704,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     0     14    Fighter  
-2          Omerz           1         6     0     0     Wizard  
+1          GalLalush       3         5     0     14    Warrior  
+2          Omerz           1         6     0     0     Healer  

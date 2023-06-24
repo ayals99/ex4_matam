@@ -214,15 +214,15 @@ You've won the scuffle without losing any health points.
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Fighter  
-2          Omerz           1         5     100   20    Fighter  
-3          Daniel          1         5     100   10    Fighter  
-4          TomerM          1         5     90    10    Rogue  
-5          Amirmann        2         5     100   12    Wizard  
+1          Amirmann        1         5     100   10    Warrior  
+2          Omerz           1         5     100   20    Warrior  
+3          Daniel          1         5     100   10    Warrior  
+4          TomerM          1         5     90    10    Ninja  
+5          Amirmann        2         5     100   12    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -248,11 +248,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Fighter  
-2          Omerz           1         5     100   30    Fighter  
-3          Daniel          1         5     100   20    Fighter  
-4          TomerM          1         6     90    0     Rogue  
-5          Amirmann        2         5     90    12    Wizard  
+1          Amirmann        1         5     100   10    Warrior  
+2          Omerz           1         5     100   30    Warrior  
+3          Daniel          1         5     100   20    Warrior  
+4          TomerM          1         6     90    0     Ninja  
+5          Amirmann        2         5     90    12    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -278,11 +278,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Fighter  
-2          Daniel          1         5     100   15    Fighter  
-3          Amirmann        2         5     90    22    Wizard  
-4          TomerM          1         6     0     0     Rogue  
-5          Omerz           1         5     0     30    Fighter  
+1          Amirmann        1         5     100   10    Warrior  
+2          Daniel          1         5     100   15    Warrior  
+3          Amirmann        2         5     90    22    Healer  
+4          TomerM          1         6     0     0     Ninja  
+5          Omerz           1         5     0     30    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -303,11 +303,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     92    17    Wizard  
-2          Daniel          1         5     0     15    Fighter  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         6     0     0     Rogue  
-5          Omerz           1         5     0     30    Fighter  
+1          Amirmann        2         5     92    17    Healer  
+2          Daniel          1         5     0     15    Warrior  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         6     0     0     Ninja  
+5          Omerz           1         5     0     30    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -317,11 +317,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     82    17    Wizard  
-2          Daniel          1         5     0     15    Fighter  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         6     0     0     Rogue  
-5          Omerz           1         5     0     30    Fighter  
+1          Amirmann        2         5     82    17    Healer  
+2          Daniel          1         5     0     15    Warrior  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         6     0     0     Ninja  
+5          Omerz           1         5     0     30    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -332,8 +332,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     0     17    Wizard  
-2          Daniel          1         5     0     15    Fighter  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         6     0     0     Rogue  
-5          Omerz           1         5     0     30    Fighter  
+1          Amirmann        2         5     0     17    Healer  
+2          Daniel          1         5     0     15    Warrior  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         6     0     0     Ninja  
+5          Omerz           1         5     0     30    Warrior  

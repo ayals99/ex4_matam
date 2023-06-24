@@ -62,16 +62,16 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   10    Fighter  
-2          Omerz           1         5     100   10    Rogue  
-3          TomerM          1         5     90    10    Wizard  
-4          Daniel          1         5     100   10    Wizard  
+1          GalLalush       1         5     100   10    Warrior  
+2          Omerz           1         5     100   10    Ninja  
+3          TomerM          1         5     90    10    Healer  
+4          Daniel          1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -85,16 +85,16 @@ You have entered an invalid input. Please try again.
 Omerz has paid 10 coins for 1 force boost!
 Safe travels!
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   12    Fighter  
-2          Omerz           1         6     100   0     Rogue  
-3          TomerM          1         5     100   10    Wizard  
-4          Daniel          1         5     100   10    Wizard  
+1          GalLalush       2         5     100   12    Warrior  
+2          Omerz           1         6     100   0     Ninja  
+3          TomerM          1         5     100   10    Healer  
+4          Daniel          1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -113,14 +113,14 @@ TomerM has 10 coins
 TomerM has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    12    Fighter  
-2          Omerz           1         6     90    0     Rogue  
-3          TomerM          1         5     100   5     Wizard  
-4          Daniel          2         5     100   12    Wizard  
+1          GalLalush       2         5     90    12    Warrior  
+2          Omerz           1         6     90    0     Ninja  
+3          TomerM          1         5     100   5     Healer  
+4          Daniel          2         5     100   12    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -138,16 +138,16 @@ Safe travels!
 Start of Omerz's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     90    2     Fighter  
-2          Omerz           1         6     90    0     Rogue  
-3          TomerM          1         5     100   5     Wizard  
-4          Daniel          2         5     90    12    Wizard  
+1          GalLalush       2         6     90    2     Warrior  
+2          Omerz           1         6     90    0     Ninja  
+3          TomerM          1         5     100   5     Healer  
+4          Daniel          2         5     90    12    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -167,7 +167,7 @@ You dont have enough coins for this purchase. Please try again.
 Omerz has paid 0 coins for 1 health potion!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -181,10 +181,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     90    2     Fighter  
-2          Omerz           1         6     90    0     Rogue  
-3          TomerM          2         5     100   7     Wizard  
-4          Daniel          2         5     92    7     Wizard  
+1          GalLalush       2         6     90    2     Warrior  
+2          Omerz           1         6     90    0     Ninja  
+3          TomerM          2         5     100   7     Healer  
+4          Daniel          2         5     92    7     Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -200,10 +200,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     90    2     Fighter  
-2          Omerz           1         6     90    0     Rogue  
-3          TomerM          2         5     90    7     Wizard  
-4          Daniel          2         5     82    7     Wizard  
+1          GalLalush       2         6     90    2     Warrior  
+2          Omerz           1         6     90    0     Ninja  
+3          TomerM          2         5     90    7     Healer  
+4          Daniel          2         5     82    7     Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -218,7 +218,7 @@ GalLalush has 2 coins
 GalLalush has paid 0 coins 
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -230,14 +230,14 @@ You have entered an invalid input. Please try again.
 TomerM has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     90    2     Fighter  
-2          Omerz           2         6     90    4     Rogue  
-3          TomerM          2         5     92    2     Wizard  
-4          Daniel          2         5     100   7     Wizard  
+1          GalLalush       2         6     90    2     Warrior  
+2          Omerz           2         6     90    4     Ninja  
+3          TomerM          2         5     92    2     Healer  
+4          Daniel          2         5     100   7     Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -260,16 +260,16 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     90    2     Fighter  
-2          Omerz           2         6     90    4     Rogue  
-3          TomerM          2         5     82    2     Wizard  
-4          Daniel          2         5     100   7     Wizard  
+1          GalLalush       2         6     90    2     Warrior  
+2          Omerz           2         6     90    4     Ninja  
+3          TomerM          2         5     82    2     Healer  
+4          Daniel          2         5     100   7     Healer  
 
 -------------------------------------------
 Start of round 9:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -282,16 +282,16 @@ You dont have enough coins for this purchase. Please try again.
 Omerz has paid 0 coins for 1 force boost!
 Safe travels!
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     90    4     Fighter  
-2          Omerz           2         6     90    4     Rogue  
-3          TomerM          2         5     100   2     Wizard  
-4          Daniel          2         5     100   7     Wizard  
+1          GalLalush       3         6     90    4     Warrior  
+2          Omerz           2         6     90    4     Ninja  
+3          TomerM          2         5     100   2     Healer  
+4          Daniel          2         5     100   7     Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -311,14 +311,14 @@ You dont have enough coins for this purchase. Please try again.
 TomerM has paid 0 coins for 1 health potion!
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     80    4     Fighter  
-2          Omerz           2         6     80    4     Rogue  
-3          TomerM          2         5     100   2     Wizard  
-4          Daniel          3         5     100   9     Wizard  
+1          GalLalush       3         6     80    4     Warrior  
+2          Omerz           2         6     80    4     Ninja  
+3          TomerM          2         5     100   2     Healer  
+4          Daniel          3         5     100   9     Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -335,16 +335,16 @@ Safe travels!
 Start of Omerz's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     80    4     Fighter  
-2          Omerz           2         6     80    4     Rogue  
-3          TomerM          2         5     100   2     Wizard  
-4          Daniel          3         5     90    9     Wizard  
+1          GalLalush       3         6     80    4     Warrior  
+2          Omerz           2         6     80    4     Ninja  
+3          TomerM          2         5     100   2     Healer  
+4          Daniel          3         5     90    9     Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -362,7 +362,7 @@ You dont have enough coins for this purchase. Please try again.
 Omerz has paid 0 coins for 1 health potion!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -375,10 +375,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     80    4     Fighter  
-2          Omerz           2         6     80    4     Rogue  
-3          TomerM          3         5     100   4     Wizard  
-4          Daniel          3         5     92    4     Wizard  
+1          GalLalush       3         6     80    4     Warrior  
+2          Omerz           2         6     80    4     Ninja  
+3          TomerM          3         5     100   4     Healer  
+4          Daniel          3         5     92    4     Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -394,10 +394,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     80    4     Fighter  
-2          Omerz           2         6     80    4     Rogue  
-3          TomerM          3         5     90    4     Wizard  
-4          Daniel          3         5     82    4     Wizard  
+1          GalLalush       3         6     80    4     Warrior  
+2          Omerz           2         6     80    4     Ninja  
+3          TomerM          3         5     90    4     Healer  
+4          Daniel          3         5     82    4     Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -413,7 +413,7 @@ You dont have enough coins for this purchase. Please try again.
 GalLalush has paid 0 coins for 1 health potion!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -425,14 +425,14 @@ You dont have enough coins for this purchase. Please try again.
 TomerM has paid 0 coins for 1 health potion!
 Safe travels!
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     80    4     Fighter  
-2          Omerz           3         6     80    8     Rogue  
-3          TomerM          3         5     90    4     Wizard  
-4          Daniel          3         5     100   4     Wizard  
+1          GalLalush       3         6     80    4     Warrior  
+2          Omerz           3         6     80    8     Ninja  
+3          TomerM          3         5     90    4     Healer  
+4          Daniel          3         5     100   4     Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -456,16 +456,16 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     80    4     Fighter  
-2          Omerz           3         6     80    8     Rogue  
-3          TomerM          3         5     80    4     Wizard  
-4          Daniel          3         5     100   4     Wizard  
+1          GalLalush       3         6     80    4     Warrior  
+2          Omerz           3         6     80    8     Ninja  
+3          TomerM          3         5     80    4     Healer  
+4          Daniel          3         5     100   4     Healer  
 
 -------------------------------------------
 Start of round 16:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -476,16 +476,16 @@ Omerz has 8 coins
 Omerz has paid 5 coins for 1 health potion!
 Safe travels!
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     80    6     Fighter  
-2          Omerz           3         6     81    3     Rogue  
-3          TomerM          3         5     100   4     Wizard  
-4          Daniel          3         5     100   4     Wizard  
+1          GalLalush       4         6     80    6     Warrior  
+2          Omerz           3         6     81    3     Ninja  
+3          TomerM          3         5     100   4     Healer  
+4          Daniel          3         5     100   4     Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -506,14 +506,14 @@ You have entered an invalid input. Please try again.
 TomerM has paid 0 coins 
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     70    6     Fighter  
-2          Omerz           3         6     71    3     Rogue  
-3          TomerM          3         5     100   4     Wizard  
-4          Daniel          4         5     100   6     Wizard  
+1          GalLalush       4         6     70    6     Warrior  
+2          Omerz           3         6     71    3     Ninja  
+3          TomerM          3         5     100   4     Healer  
+4          Daniel          4         5     100   6     Healer  
 
 -------------------------------------------
 Start of round 18:
@@ -530,16 +530,16 @@ Safe travels!
 Start of Omerz's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     70    6     Fighter  
-2          Omerz           3         6     71    3     Rogue  
-3          TomerM          3         5     100   4     Wizard  
-4          Daniel          4         5     90    6     Wizard  
+1          GalLalush       4         6     70    6     Warrior  
+2          Omerz           3         6     71    3     Ninja  
+3          TomerM          3         5     100   4     Healer  
+4          Daniel          4         5     90    6     Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -557,7 +557,7 @@ You dont have enough coins for this purchase. Please try again.
 Omerz has paid 0 coins for 1 force boost!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -572,10 +572,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     70    6     Fighter  
-2          Omerz           3         6     71    3     Rogue  
-3          TomerM          4         5     100   6     Wizard  
-4          Daniel          4         5     90    6     Wizard  
+1          GalLalush       4         6     70    6     Warrior  
+2          Omerz           3         6     71    3     Ninja  
+3          TomerM          4         5     100   6     Healer  
+4          Daniel          4         5     90    6     Healer  
 
 -------------------------------------------
 Start of round 20:
@@ -591,10 +591,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     70    6     Fighter  
-2          Omerz           3         6     71    3     Rogue  
-3          TomerM          4         5     90    6     Wizard  
-4          Daniel          4         5     80    6     Wizard  
+1          GalLalush       4         6     70    6     Warrior  
+2          Omerz           3         6     71    3     Ninja  
+3          TomerM          4         5     90    6     Healer  
+4          Daniel          4         5     80    6     Healer  
 
 -------------------------------------------
 Start of round 21:
@@ -611,7 +611,7 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -625,14 +625,14 @@ You dont have enough coins for this purchase. Please try again.
 TomerM has paid 0 coins for 1 force boost!
 Safe travels!
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     71    1     Fighter  
-2          Omerz           4         6     71    7     Rogue  
-3          TomerM          4         5     90    6     Wizard  
-4          Daniel          4         5     100   6     Wizard  
+1          GalLalush       4         6     71    1     Warrior  
+2          Omerz           4         6     71    7     Ninja  
+3          TomerM          4         5     90    6     Healer  
+4          Daniel          4         5     100   6     Healer  
 
 -------------------------------------------
 Start of round 22:
@@ -658,16 +658,16 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     71    1     Fighter  
-2          Omerz           4         6     71    7     Rogue  
-3          TomerM          4         5     80    6     Wizard  
-4          Daniel          4         5     100   6     Wizard  
+1          GalLalush       4         6     71    1     Warrior  
+2          Omerz           4         6     71    7     Ninja  
+3          TomerM          4         5     80    6     Healer  
+4          Daniel          4         5     100   6     Healer  
 
 -------------------------------------------
 Start of round 23:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -680,16 +680,16 @@ You have entered an invalid input. Please try again.
 Omerz has paid 0 coins 
 Safe travels!
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         6     71    3     Fighter  
-2          Omerz           4         6     71    7     Rogue  
-3          TomerM          4         5     100   6     Wizard  
-4          Daniel          4         5     100   6     Wizard  
+1          GalLalush       5         6     71    3     Warrior  
+2          Omerz           4         6     71    7     Ninja  
+3          TomerM          4         5     100   6     Healer  
+4          Daniel          4         5     100   6     Healer  
 
 -------------------------------------------
 Start of round 24:
@@ -709,14 +709,14 @@ You have entered an invalid input. Please try again.
 TomerM has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         6     61    3     Fighter  
-2          Omerz           4         6     61    7     Rogue  
-3          TomerM          4         5     100   1     Wizard  
-4          Daniel          5         5     100   8     Wizard  
+1          GalLalush       5         6     61    3     Warrior  
+2          Omerz           4         6     61    7     Ninja  
+3          TomerM          4         5     100   1     Healer  
+4          Daniel          5         5     100   8     Healer  
 
 -------------------------------------------
 Start of round 25:
@@ -734,16 +734,16 @@ Safe travels!
 Start of Omerz's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         6     61    3     Fighter  
-2          Omerz           4         6     61    7     Rogue  
-3          TomerM          4         5     100   1     Wizard  
-4          Daniel          5         5     90    8     Wizard  
+1          GalLalush       5         6     61    3     Warrior  
+2          Omerz           4         6     61    7     Ninja  
+3          TomerM          4         5     100   1     Healer  
+4          Daniel          5         5     90    8     Healer  
 
 -------------------------------------------
 Start of round 26:
@@ -761,7 +761,7 @@ You dont have enough coins for this purchase. Please try again.
 Omerz has paid 0 coins for 1 force boost!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -775,10 +775,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         6     61    3     Fighter  
-2          Omerz           4         6     61    7     Rogue  
-3          TomerM          5         5     100   3     Wizard  
-4          Daniel          5         5     90    8     Wizard  
+1          GalLalush       5         6     61    3     Warrior  
+2          Omerz           4         6     61    7     Ninja  
+3          TomerM          5         5     100   3     Healer  
+4          Daniel          5         5     90    8     Healer  
 
 -------------------------------------------
 Start of round 27:
@@ -794,10 +794,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         6     61    3     Fighter  
-2          Omerz           4         6     61    7     Rogue  
-3          TomerM          5         5     90    3     Wizard  
-4          Daniel          5         5     80    8     Wizard  
+1          GalLalush       5         6     61    3     Warrior  
+2          Omerz           4         6     61    7     Ninja  
+3          TomerM          5         5     90    3     Healer  
+4          Daniel          5         5     80    8     Healer  
 
 -------------------------------------------
 Start of round 28:
@@ -813,7 +813,7 @@ You dont have enough coins for this purchase. Please try again.
 GalLalush has paid 0 coins for 1 force boost!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -827,14 +827,14 @@ You dont have enough coins for this purchase. Please try again.
 TomerM has paid 0 coins for 1 health potion!
 Safe travels!
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         6     61    3     Fighter  
-2          Omerz           5         6     61    11    Rogue  
-3          TomerM          5         5     90    3     Wizard  
-4          Daniel          5         5     100   8     Wizard  
+1          GalLalush       5         6     61    3     Warrior  
+2          Omerz           5         6     61    11    Ninja  
+3          TomerM          5         5     90    3     Healer  
+4          Daniel          5         5     100   8     Healer  
 
 -------------------------------------------
 Start of round 29:
@@ -860,16 +860,16 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         6     61    3     Fighter  
-2          Omerz           5         6     61    11    Rogue  
-3          TomerM          5         5     80    3     Wizard  
-4          Daniel          5         5     100   8     Wizard  
+1          GalLalush       5         6     61    3     Warrior  
+2          Omerz           5         6     61    11    Ninja  
+3          TomerM          5         5     80    3     Healer  
+4          Daniel          5         5     100   8     Healer  
 
 -------------------------------------------
 Start of round 30:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -880,16 +880,16 @@ Omerz has 11 coins
 Omerz has paid 5 coins for 1 health potion!
 Safe travels!
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         6     61    5     Fighter  
-2          Omerz           5         6     62    6     Rogue  
-3          TomerM          5         5     100   3     Wizard  
-4          Daniel          5         5     100   8     Wizard  
+1          GalLalush       6         6     61    5     Warrior  
+2          Omerz           5         6     62    6     Ninja  
+3          TomerM          5         5     100   3     Healer  
+4          Daniel          5         5     100   8     Healer  
 
 -------------------------------------------
 Start of round 31:
@@ -909,14 +909,14 @@ You dont have enough coins for this purchase. Please try again.
 TomerM has paid 0 coins for 1 health potion!
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         6     51    5     Fighter  
-2          Omerz           5         6     52    6     Rogue  
-3          TomerM          5         5     100   3     Wizard  
-4          Daniel          6         5     100   10    Wizard  
+1          GalLalush       6         6     51    5     Warrior  
+2          Omerz           5         6     52    6     Ninja  
+3          TomerM          5         5     100   3     Healer  
+4          Daniel          6         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 32:
@@ -933,16 +933,16 @@ Safe travels!
 Start of Omerz's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         6     51    5     Fighter  
-2          Omerz           5         6     52    6     Rogue  
-3          TomerM          5         5     100   3     Wizard  
-4          Daniel          6         5     90    10    Wizard  
+1          GalLalush       6         6     51    5     Warrior  
+2          Omerz           5         6     52    6     Ninja  
+3          TomerM          5         5     100   3     Healer  
+4          Daniel          6         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 33:
@@ -960,7 +960,7 @@ You have entered an invalid input. Please try again.
 Omerz has paid 5 coins for 1 health potion!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -973,10 +973,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         6     51    5     Fighter  
-2          Omerz           5         6     53    1     Rogue  
-3          TomerM          6         5     100   5     Wizard  
-4          Daniel          6         5     90    10    Wizard  
+1          GalLalush       6         6     51    5     Warrior  
+2          Omerz           5         6     53    1     Ninja  
+3          TomerM          6         5     100   5     Healer  
+4          Daniel          6         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 34:
@@ -992,10 +992,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         6     51    5     Fighter  
-2          Omerz           5         6     53    1     Rogue  
-3          TomerM          6         5     90    5     Wizard  
-4          Daniel          6         5     80    10    Wizard  
+1          GalLalush       6         6     51    5     Warrior  
+2          Omerz           5         6     53    1     Ninja  
+3          TomerM          6         5     90    5     Healer  
+4          Daniel          6         5     80    10    Healer  
 
 -------------------------------------------
 Start of round 35:
@@ -1010,7 +1010,7 @@ GalLalush has 5 coins
 GalLalush has paid 0 coins 
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1022,14 +1022,14 @@ You have entered an invalid input. Please try again.
 TomerM has paid 0 coins 
 Safe travels!
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         6     51    5     Fighter  
-2          Omerz           6         6     53    5     Rogue  
-3          TomerM          6         5     90    5     Wizard  
-4          Daniel          6         5     100   10    Wizard  
+1          GalLalush       6         6     51    5     Warrior  
+2          Omerz           6         6     53    5     Ninja  
+3          TomerM          6         5     90    5     Healer  
+4          Daniel          6         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 36:
@@ -1054,16 +1054,16 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         6     51    5     Fighter  
-2          Omerz           6         6     53    5     Rogue  
-3          TomerM          6         5     80    5     Wizard  
-4          Daniel          6         5     100   5     Wizard  
+1          GalLalush       6         6     51    5     Warrior  
+2          Omerz           6         6     53    5     Ninja  
+3          TomerM          6         5     80    5     Healer  
+4          Daniel          6         5     100   5     Healer  
 
 -------------------------------------------
 Start of round 37:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1074,16 +1074,16 @@ Omerz has 5 coins
 Omerz has paid 0 coins 
 Safe travels!
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         6     51    7     Fighter  
-2          Omerz           6         6     53    5     Rogue  
-3          TomerM          6         5     100   5     Wizard  
-4          Daniel          6         5     100   5     Wizard  
+1          GalLalush       7         6     51    7     Warrior  
+2          Omerz           6         6     53    5     Ninja  
+3          TomerM          6         5     100   5     Healer  
+4          Daniel          6         5     100   5     Healer  
 
 -------------------------------------------
 Start of round 38:
@@ -1103,14 +1103,14 @@ You have entered an invalid input. Please try again.
 TomerM has paid 0 coins 
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         6     41    7     Fighter  
-2          Omerz           6         6     43    5     Rogue  
-3          TomerM          6         5     100   5     Wizard  
-4          Daniel          7         5     100   7     Wizard  
+1          GalLalush       7         6     41    7     Warrior  
+2          Omerz           6         6     43    5     Ninja  
+3          TomerM          6         5     100   5     Healer  
+4          Daniel          7         5     100   7     Healer  
 
 -------------------------------------------
 Start of round 39:
@@ -1128,16 +1128,16 @@ Safe travels!
 Start of Omerz's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         6     42    2     Fighter  
-2          Omerz           6         6     43    5     Rogue  
-3          TomerM          6         5     100   5     Wizard  
-4          Daniel          7         5     90    7     Wizard  
+1          GalLalush       7         6     42    2     Warrior  
+2          Omerz           6         6     43    5     Ninja  
+3          TomerM          6         5     100   5     Healer  
+4          Daniel          7         5     90    7     Healer  
 
 -------------------------------------------
 Start of round 40:
@@ -1155,7 +1155,7 @@ You dont have enough coins for this purchase. Please try again.
 Omerz has paid 0 coins for 1 force boost!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1169,10 +1169,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         6     42    2     Fighter  
-2          Omerz           6         6     43    5     Rogue  
-3          TomerM          7         5     100   7     Wizard  
-4          Daniel          7         5     90    7     Wizard  
+1          GalLalush       7         6     42    2     Warrior  
+2          Omerz           6         6     43    5     Ninja  
+3          TomerM          7         5     100   7     Healer  
+4          Daniel          7         5     90    7     Healer  
 
 -------------------------------------------
 Start of round 41:
@@ -1188,10 +1188,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         6     42    2     Fighter  
-2          Omerz           6         6     43    5     Rogue  
-3          TomerM          7         5     90    7     Wizard  
-4          Daniel          7         5     80    7     Wizard  
+1          GalLalush       7         6     42    2     Warrior  
+2          Omerz           6         6     43    5     Ninja  
+3          TomerM          7         5     90    7     Healer  
+4          Daniel          7         5     80    7     Healer  
 
 -------------------------------------------
 Start of round 42:
@@ -1207,7 +1207,7 @@ You dont have enough coins for this purchase. Please try again.
 GalLalush has paid 0 coins for 1 health potion!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1219,14 +1219,14 @@ You have entered an invalid input. Please try again.
 TomerM has paid 0 coins 
 Safe travels!
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         6     42    2     Fighter  
-2          Omerz           7         6     43    9     Rogue  
-3          TomerM          7         5     90    7     Wizard  
-4          Daniel          7         5     100   7     Wizard  
+1          GalLalush       7         6     42    2     Warrior  
+2          Omerz           7         6     43    9     Ninja  
+3          TomerM          7         5     90    7     Healer  
+4          Daniel          7         5     100   7     Healer  
 
 -------------------------------------------
 Start of round 43:
@@ -1251,16 +1251,16 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         6     42    2     Fighter  
-2          Omerz           7         6     43    9     Rogue  
-3          TomerM          7         5     80    7     Wizard  
-4          Daniel          7         5     100   2     Wizard  
+1          GalLalush       7         6     42    2     Warrior  
+2          Omerz           7         6     43    9     Ninja  
+3          TomerM          7         5     80    7     Healer  
+4          Daniel          7         5     100   2     Healer  
 
 -------------------------------------------
 Start of round 44:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1273,16 +1273,16 @@ You have entered an invalid input. Please try again.
 Omerz has paid 5 coins for 1 health potion!
 Safe travels!
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       8         6     42    4     Fighter  
-2          Omerz           7         6     44    4     Rogue  
-3          TomerM          7         5     100   7     Wizard  
-4          Daniel          7         5     100   2     Wizard  
+1          GalLalush       8         6     42    4     Warrior  
+2          Omerz           7         6     44    4     Ninja  
+3          TomerM          7         5     100   7     Healer  
+4          Daniel          7         5     100   2     Healer  
 
 -------------------------------------------
 Start of round 45:
@@ -1304,14 +1304,14 @@ You dont have enough coins for this purchase. Please try again.
 TomerM has paid 0 coins for 1 force boost!
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       8         6     32    4     Fighter  
-2          Omerz           7         6     34    4     Rogue  
-3          TomerM          7         5     100   7     Wizard  
-4          Daniel          8         5     100   4     Wizard  
+1          GalLalush       8         6     32    4     Warrior  
+2          Omerz           7         6     34    4     Ninja  
+3          TomerM          7         5     100   7     Healer  
+4          Daniel          8         5     100   4     Healer  
 
 -------------------------------------------
 Start of round 46:
@@ -1331,16 +1331,16 @@ Safe travels!
 Start of Omerz's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       8         6     32    4     Fighter  
-2          Omerz           7         6     34    4     Rogue  
-3          TomerM          7         5     100   7     Wizard  
-4          Daniel          8         5     90    4     Wizard  
+1          GalLalush       8         6     32    4     Warrior  
+2          Omerz           7         6     34    4     Ninja  
+3          TomerM          7         5     100   7     Healer  
+4          Daniel          8         5     90    4     Healer  
 
 -------------------------------------------
 Start of round 47:
@@ -1358,7 +1358,7 @@ You dont have enough coins for this purchase. Please try again.
 Omerz has paid 0 coins for 1 force boost!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1374,10 +1374,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       8         6     32    4     Fighter  
-2          Omerz           7         6     34    4     Rogue  
-3          TomerM          8         5     100   9     Wizard  
-4          Daniel          8         5     90    4     Wizard  
+1          GalLalush       8         6     32    4     Warrior  
+2          Omerz           7         6     34    4     Ninja  
+3          TomerM          8         5     100   9     Healer  
+4          Daniel          8         5     90    4     Healer  
 
 -------------------------------------------
 Start of round 48:
@@ -1393,10 +1393,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       8         6     32    4     Fighter  
-2          Omerz           7         6     34    4     Rogue  
-3          TomerM          8         5     90    9     Wizard  
-4          Daniel          8         5     80    4     Wizard  
+1          GalLalush       8         6     32    4     Warrior  
+2          Omerz           7         6     34    4     Ninja  
+3          TomerM          8         5     90    9     Healer  
+4          Daniel          8         5     80    4     Healer  
 
 -------------------------------------------
 Start of round 49:
@@ -1414,7 +1414,7 @@ You dont have enough coins for this purchase. Please try again.
 GalLalush has paid 0 coins for 1 force boost!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1426,14 +1426,14 @@ You have entered an invalid input. Please try again.
 TomerM has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       8         6     32    4     Fighter  
-2          Omerz           8         6     34    8     Rogue  
-3          TomerM          8         5     92    4     Wizard  
-4          Daniel          8         5     100   4     Wizard  
+1          GalLalush       8         6     32    4     Warrior  
+2          Omerz           8         6     34    8     Ninja  
+3          TomerM          8         5     92    4     Healer  
+4          Daniel          8         5     100   4     Healer  
 
 -------------------------------------------
 Start of round 50:
@@ -1458,16 +1458,16 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       8         6     32    4     Fighter  
-2          Omerz           8         6     34    8     Rogue  
-3          TomerM          8         5     82    4     Wizard  
-4          Daniel          8         5     100   4     Wizard  
+1          GalLalush       8         6     32    4     Warrior  
+2          Omerz           8         6     34    8     Ninja  
+3          TomerM          8         5     82    4     Healer  
+4          Daniel          8         5     100   4     Healer  
 
 -------------------------------------------
 Start of round 51:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1481,16 +1481,16 @@ You dont have enough coins for this purchase. Please try again.
 Omerz has paid 0 coins for 1 force boost!
 Safe travels!
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         6     32    6     Fighter  
-2          Omerz           8         6     34    8     Rogue  
-3          TomerM          8         5     100   4     Wizard  
-4          Daniel          8         5     100   4     Wizard  
+1          GalLalush       9         6     32    6     Warrior  
+2          Omerz           8         6     34    8     Ninja  
+3          TomerM          8         5     100   4     Healer  
+4          Daniel          8         5     100   4     Healer  
 
 -------------------------------------------
 Start of round 52:
@@ -1511,14 +1511,14 @@ You dont have enough coins for this purchase. Please try again.
 TomerM has paid 0 coins for 1 health potion!
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         6     22    6     Fighter  
-2          Omerz           8         6     24    8     Rogue  
-3          TomerM          8         5     100   4     Wizard  
-4          Daniel          9         5     100   6     Wizard  
+1          GalLalush       9         6     22    6     Warrior  
+2          Omerz           8         6     24    8     Ninja  
+3          TomerM          8         5     100   4     Healer  
+4          Daniel          9         5     100   6     Healer  
 
 -------------------------------------------
 Start of round 53:
@@ -1538,16 +1538,16 @@ Safe travels!
 Start of Omerz's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         6     22    6     Fighter  
-2          Omerz           8         6     24    8     Rogue  
-3          TomerM          8         5     100   4     Wizard  
-4          Daniel          9         5     90    6     Wizard  
+1          GalLalush       9         6     22    6     Warrior  
+2          Omerz           8         6     24    8     Ninja  
+3          TomerM          8         5     100   4     Healer  
+4          Daniel          9         5     90    6     Healer  
 
 -------------------------------------------
 Start of round 54:
@@ -1566,7 +1566,7 @@ You have entered an invalid input. Please try again.
 Omerz has paid 0 coins 
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1579,10 +1579,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         6     22    6     Fighter  
-2          Omerz           8         6     24    8     Rogue  
-3          TomerM          9         5     100   6     Wizard  
-4          Daniel          9         5     92    1     Wizard  
+1          GalLalush       9         6     22    6     Warrior  
+2          Omerz           8         6     24    8     Ninja  
+3          TomerM          9         5     100   6     Healer  
+4          Daniel          9         5     92    1     Healer  
 
 -------------------------------------------
 Start of round 55:
@@ -1598,10 +1598,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         6     22    6     Fighter  
-2          Omerz           8         6     24    8     Rogue  
-3          TomerM          9         5     90    6     Wizard  
-4          Daniel          9         5     82    1     Wizard  
+1          GalLalush       9         6     22    6     Warrior  
+2          Omerz           8         6     24    8     Ninja  
+3          TomerM          9         5     90    6     Healer  
+4          Daniel          9         5     82    1     Healer  
 
 -------------------------------------------
 Start of round 56:
@@ -1618,7 +1618,7 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 0 coins 
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1631,14 +1631,14 @@ You have entered an invalid input. Please try again.
 TomerM has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         6     22    6     Fighter  
-2          Omerz           9         6     24    12    Rogue  
-3          TomerM          9         5     92    1     Wizard  
-4          Daniel          9         5     100   1     Wizard  
+1          GalLalush       9         6     22    6     Warrior  
+2          Omerz           9         6     24    12    Ninja  
+3          TomerM          9         5     92    1     Healer  
+4          Daniel          9         5     100   1     Healer  
 
 -------------------------------------------
 Start of round 57:
@@ -1664,16 +1664,16 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         6     22    6     Fighter  
-2          Omerz           9         6     24    12    Rogue  
-3          TomerM          9         5     82    1     Wizard  
-4          Daniel          9         5     100   1     Wizard  
+1          GalLalush       9         6     22    6     Warrior  
+2          Omerz           9         6     24    12    Ninja  
+3          TomerM          9         5     82    1     Healer  
+4          Daniel          9         5     100   1     Healer  
 
 -------------------------------------------
 Start of round 58:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1685,16 +1685,16 @@ You have entered an invalid input. Please try again.
 Omerz has paid 10 coins for 1 force boost!
 Safe travels!
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        6     22    8     Fighter  
-2          Omerz           9         7     24    2     Rogue  
-3          TomerM          9         5     100   1     Wizard  
-4          Daniel          9         5     100   1     Wizard  
+1          GalLalush       10        6     22    8     Warrior  
+2          Omerz           9         7     24    2     Ninja  
+3          TomerM          9         5     100   1     Healer  
+4          Daniel          9         5     100   1     Healer  
 
 -------------------------------------------
 Start of round 59:
@@ -1717,16 +1717,16 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        6     22    8     Fighter  
-2          Omerz           9         7     24    2     Rogue  
-3          TomerM          9         5     90    1     Wizard  
-4          Daniel          9         5     100   1     Wizard  
+1          GalLalush       10        6     22    8     Warrior  
+2          Omerz           9         7     24    2     Ninja  
+3          TomerM          9         5     90    1     Healer  
+4          Daniel          9         5     100   1     Healer  
 
 -------------------------------------------
 Start of round 60:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1737,29 +1737,29 @@ TomerM has 1 coins
 TomerM has paid 0 coins 
 Safe travels!
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        6     22    8     Fighter  
-2          Omerz           10        7     24    6     Rogue  
-3          TomerM          9         5     90    1     Wizard  
-4          Daniel          9         5     100   1     Wizard  
+1          GalLalush       10        6     22    8     Warrior  
+2          Omerz           10        7     24    6     Ninja  
+3          TomerM          9         5     90    1     Healer  
+4          Daniel          9         5     100   1     Healer  
 
 -------------------------------------------
 Start of round 61:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        6     22    8     Fighter  
-2          Omerz           10        7     24    6     Rogue  
-3          TomerM          9         5     100   1     Wizard  
-4          Daniel          9         5     90    1     Wizard  
+1          GalLalush       10        6     22    8     Warrior  
+2          Omerz           10        7     24    6     Ninja  
+3          TomerM          9         5     100   1     Healer  
+4          Daniel          9         5     90    1     Healer  
 
 -------------------------------------------
 Start of round 62:
@@ -1780,16 +1780,16 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        6     22    8     Fighter  
-2          Omerz           10        7     24    6     Rogue  
-3          TomerM          9         5     90    1     Wizard  
-4          Daniel          9         5     90    1     Wizard  
+1          GalLalush       10        6     22    8     Warrior  
+2          Omerz           10        7     24    6     Ninja  
+3          TomerM          9         5     90    1     Healer  
+4          Daniel          9         5     90    1     Healer  
 
 -------------------------------------------
 Start of round 63:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1804,36 +1804,36 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        6     22    8     Fighter  
-2          Omerz           10        7     24    6     Rogue  
-3          TomerM          10        5     90    3     Wizard  
-4          Daniel          9         5     90    1     Wizard  
+1          GalLalush       10        6     22    8     Warrior  
+2          Omerz           10        7     24    6     Ninja  
+3          TomerM          10        5     90    3     Healer  
+4          Daniel          9         5     90    1     Healer  
 
 -------------------------------------------
 Start of round 64:
 
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        6     22    8     Fighter  
-2          Omerz           10        7     24    6     Rogue  
-3          TomerM          10        5     90    3     Wizard  
-4          Daniel          9         5     100   1     Wizard  
+1          GalLalush       10        6     22    8     Warrior  
+2          Omerz           10        7     24    6     Ninja  
+3          TomerM          10        5     90    3     Healer  
+4          Daniel          9         5     100   1     Healer  
 
 -------------------------------------------
 Start of round 65:
 
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        6     22    8     Fighter  
-2          Omerz           10        7     24    6     Rogue  
-3          TomerM          10        5     90    3     Wizard  
-4          Daniel          9         5     100   1     Wizard  
+1          GalLalush       10        6     22    8     Warrior  
+2          Omerz           10        7     24    6     Ninja  
+3          TomerM          10        5     90    3     Healer  
+4          Daniel          9         5     100   1     Healer  
 
 -------------------------------------------
 Start of round 66:
@@ -1843,10 +1843,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        6     22    8     Fighter  
-2          Omerz           10        7     24    6     Rogue  
-3          TomerM          10        5     90    3     Wizard  
-4          Daniel          9         5     90    1     Wizard  
+1          GalLalush       10        6     22    8     Warrior  
+2          Omerz           10        7     24    6     Ninja  
+3          TomerM          10        5     90    3     Healer  
+4          Daniel          9         5     90    1     Healer  
 
 -------------------------------------------
 Start of round 67:
@@ -1856,10 +1856,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        6     22    8     Fighter  
-2          Omerz           10        7     24    6     Rogue  
-3          TomerM          10        5     90    3     Wizard  
-4          Daniel          9         5     80    1     Wizard  
+1          GalLalush       10        6     22    8     Warrior  
+2          Omerz           10        7     24    6     Ninja  
+3          TomerM          10        5     90    3     Healer  
+4          Daniel          9         5     80    1     Healer  
 
 -------------------------------------------
 Start of round 68:
@@ -1878,21 +1878,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        6     22    8     Fighter  
-2          Omerz           10        7     24    6     Rogue  
-3          TomerM          10        5     90    3     Wizard  
-4          Daniel          9         5     80    1     Wizard  
+1          GalLalush       10        6     22    8     Warrior  
+2          Omerz           10        7     24    6     Ninja  
+3          TomerM          10        5     90    3     Healer  
+4          Daniel          9         5     80    1     Healer  
 
 -------------------------------------------
 Start of round 69:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        6     22    8     Fighter  
-2          Omerz           10        7     24    6     Rogue  
-3          TomerM          10        5     90    3     Wizard  
-4          Daniel          10        5     80    3     Wizard  
+1          GalLalush       10        6     22    8     Warrior  
+2          Omerz           10        7     24    6     Ninja  
+3          TomerM          10        5     90    3     Healer  
+4          Daniel          10        5     80    3     Healer  

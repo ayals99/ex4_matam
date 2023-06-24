@@ -968,17 +968,17 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    10    Rogue  
-2          Omerz           1         5     100   20    Wizard  
-3          TomerM          1         4     90    10    Rogue  
+1          Omerz           1         4     90    10    Ninja  
+2          Omerz           1         5     100   20    Healer  
+3          TomerM          1         4     90    10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -1000,9 +1000,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    0     Rogue  
-2          Omerz           1         5     100   30    Wizard  
-3          TomerM          1         4     90    30    Rogue  
+1          Omerz           1         5     90    0     Ninja  
+2          Omerz           1         5     100   30    Healer  
+3          TomerM          1         4     90    30    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -1024,9 +1024,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    0     Rogue  
-2          Omerz           1         5     90    30    Wizard  
-3          TomerM          1         4     91    25    Rogue  
+1          Omerz           1         5     90    0     Ninja  
+2          Omerz           1         5     90    30    Healer  
+3          TomerM          1         4     91    25    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -1058,9 +1058,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    0     Rogue  
-2          Omerz           1         6     90    20    Wizard  
-3          TomerM          1         4     81    25    Rogue  
+1          Omerz           1         5     90    0     Ninja  
+2          Omerz           1         6     90    20    Healer  
+3          TomerM          1         4     81    25    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -1068,15 +1068,15 @@ Start of round 5:
 Start of Omerz's turn: 
 Nothing happened.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    0     Rogue  
-2          Omerz           1         5     80    20    Wizard  
-3          TomerM          1         4     71    25    Rogue  
+1          Omerz           1         5     90    0     Ninja  
+2          Omerz           1         5     80    20    Healer  
+3          TomerM          1         4     71    25    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -1097,9 +1097,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    20    Rogue  
-2          Omerz           1         5     70    20    Wizard  
-3          TomerM          1         4     72    20    Rogue  
+1          Omerz           1         5     90    20    Ninja  
+2          Omerz           1         5     70    20    Healer  
+3          TomerM          1         4     72    20    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -1121,9 +1121,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    20    Rogue  
-2          Omerz           1         5     70    30    Wizard  
-3          TomerM          1         4     72    20    Rogue  
+1          Omerz           1         5     90    20    Ninja  
+2          Omerz           1         5     70    30    Healer  
+3          TomerM          1         4     72    20    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -1131,15 +1131,15 @@ Start of round 8:
 Start of Omerz's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    20    Rogue  
-2          Omerz           1         5     90    30    Wizard  
-3          TomerM          1         4     72    20    Rogue  
+1          Omerz           1         5     90    20    Ninja  
+2          Omerz           1         5     90    30    Healer  
+3          TomerM          1         4     72    20    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -1147,15 +1147,15 @@ Start of round 9:
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     80    20    Rogue  
-2          Omerz           1         5     100   30    Wizard  
-3          TomerM          1         4     72    40    Rogue  
+1          Omerz           1         5     80    20    Ninja  
+2          Omerz           1         5     100   30    Healer  
+3          TomerM          1         4     72    40    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -1163,15 +1163,15 @@ Start of round 10:
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    30    Wizard  
-2          TomerM          1         4     0     40    Rogue  
-3          Omerz           1         5     0     20    Rogue  
+1          Omerz           1         4     90    30    Healer  
+2          TomerM          1         4     0     40    Ninja  
+3          Omerz           1         5     0     20    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -1181,9 +1181,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    40    Wizard  
-2          TomerM          1         4     0     40    Rogue  
-3          Omerz           1         5     0     20    Rogue  
+1          Omerz           1         4     90    40    Healer  
+2          TomerM          1         4     0     40    Ninja  
+3          Omerz           1         5     0     20    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -1194,6 +1194,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     0     40    Wizard  
-2          TomerM          1         4     0     40    Rogue  
-3          Omerz           1         5     0     20    Rogue  
+1          Omerz           1         4     0     40    Healer  
+2          TomerM          1         4     0     40    Ninja  
+3          Omerz           1         5     0     20    Ninja  

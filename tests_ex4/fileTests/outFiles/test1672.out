@@ -569,10 +569,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Fighter  
-2          Amirmann        1         5     100   20    Wizard  
-3          Efrat           1         5     100   20    Fighter  
-4          Efrat           1         5     90    10    Wizard  
+1          Daniel          1         5     100   10    Warrior  
+2          Amirmann        1         5     100   20    Healer  
+3          Efrat           1         5     100   20    Warrior  
+4          Efrat           1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -596,10 +596,10 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          Efrat           1         5     0     20    Fighter  
-4          Amirmann        1         5     0     20    Wizard  
+1          Daniel          1         5     100   10    Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          Efrat           1         5     0     20    Warrior  
+4          Amirmann        1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -616,23 +616,23 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         6     100   0     Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          Efrat           1         5     0     20    Fighter  
-4          Amirmann        1         5     0     20    Wizard  
+1          Daniel          1         6     100   0     Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          Efrat           1         5     0     20    Warrior  
+4          Amirmann        1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     100   2     Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          Efrat           1         5     0     20    Fighter  
-4          Amirmann        1         5     0     20    Wizard  
+1          Daniel          2         6     100   2     Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          Efrat           1         5     0     20    Warrior  
+4          Amirmann        1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -642,23 +642,23 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     100   2     Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          Efrat           1         5     0     20    Fighter  
-4          Amirmann        1         5     0     20    Wizard  
+1          Daniel          2         6     100   2     Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          Efrat           1         5     0     20    Warrior  
+4          Amirmann        1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     100   4     Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          Efrat           1         5     0     20    Fighter  
-4          Amirmann        1         5     0     20    Wizard  
+1          Daniel          3         6     100   4     Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          Efrat           1         5     0     20    Warrior  
+4          Amirmann        1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -668,10 +668,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     100   4     Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          Efrat           1         5     0     20    Fighter  
-4          Amirmann        1         5     0     20    Wizard  
+1          Daniel          3         6     100   4     Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          Efrat           1         5     0     20    Warrior  
+4          Amirmann        1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -682,7 +682,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     0     4     Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          Efrat           1         5     0     20    Fighter  
-4          Amirmann        1         5     0     20    Wizard  
+1          Daniel          3         6     0     4     Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          Efrat           1         5     0     20    Warrior  
+4          Amirmann        1         5     0     20    Healer  

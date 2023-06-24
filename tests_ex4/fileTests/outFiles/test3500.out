@@ -525,8 +525,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   5     Rogue  
-2          GalLalush       1         6     100   0     Wizard  
+1          TomerM          1         5     100   5     Ninja  
+2          GalLalush       1         6     100   0     Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -534,23 +534,23 @@ Start of round 2:
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     100   2     Wizard  
-2          TomerM          1         5     0     5     Rogue  
+1          GalLalush       2         6     100   2     Healer  
+2          TomerM          1         5     0     5     Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     100   4     Wizard  
-2          TomerM          1         5     0     5     Rogue  
+1          GalLalush       3         6     100   4     Healer  
+2          TomerM          1         5     0     5     Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -561,5 +561,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     0     4     Wizard  
-2          TomerM          1         5     0     5     Rogue  
+1          GalLalush       3         6     0     4     Healer  
+2          TomerM          1         5     0     5     Ninja  

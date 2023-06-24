@@ -213,7 +213,7 @@ You have entered an invalid class. Please try again.
 Start of round 1:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 Start of TomerM's turn: 
@@ -241,11 +241,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Wizard  
-2          TomerM          1         5     100   5     Rogue  
-3          Omerz           1         5     100   5     Rogue  
-4          GalLalush       1         5     100   10    Rogue  
-5          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         5     100   10    Healer  
+2          TomerM          1         5     100   5     Ninja  
+3          Omerz           1         5     100   5     Ninja  
+4          GalLalush       1         5     100   10    Ninja  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -277,11 +277,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Wizard  
-2          TomerM          1         5     100   25    Rogue  
-3          Omerz           1         5     100   0     Rogue  
-4          GalLalush       1         5     100   10    Rogue  
-5          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         6     100   0     Healer  
+2          TomerM          1         5     100   25    Ninja  
+3          Omerz           1         5     100   0     Ninja  
+4          GalLalush       1         5     100   10    Ninja  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -314,11 +314,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         6     100   15    Rogue  
-2          Omerz           1         5     100   0     Rogue  
-3          GalLalush       1         5     100   10    Rogue  
-4          Efrat           1         6     0     0     Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          TomerM          1         6     100   15    Ninja  
+2          Omerz           1         5     100   0     Ninja  
+3          GalLalush       1         5     100   10    Ninja  
+4          Efrat           1         6     0     0     Healer  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -347,11 +347,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         6     100   10    Rogue  
-2          Omerz           1         5     100   20    Rogue  
-3          GalLalush       1         5     100   5     Rogue  
-4          Efrat           1         6     0     0     Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          TomerM          1         6     100   10    Ninja  
+2          Omerz           1         5     100   20    Ninja  
+3          GalLalush       1         5     100   5     Ninja  
+4          Efrat           1         6     0     0     Healer  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -373,11 +373,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         6     100   10    Rogue  
-2          GalLalush       1         5     100   5     Rogue  
-3          Omerz           1         5     0     20    Rogue  
-4          Efrat           1         6     0     0     Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          TomerM          1         6     100   10    Ninja  
+2          GalLalush       1         5     100   5     Ninja  
+3          Omerz           1         5     0     20    Ninja  
+4          Efrat           1         6     0     0     Healer  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -398,11 +398,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         6     100   5     Rogue  
-2          GalLalush       1         5     100   5     Rogue  
-3          Omerz           1         5     0     20    Rogue  
-4          Efrat           1         6     0     0     Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          TomerM          1         6     100   5     Ninja  
+2          GalLalush       1         5     100   5     Ninja  
+3          Omerz           1         5     0     20    Ninja  
+4          Efrat           1         6     0     0     Healer  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -424,11 +424,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         6     100   5     Rogue  
-2          GalLalush       1         5     100   25    Rogue  
-3          Omerz           1         5     0     20    Rogue  
-4          Efrat           1         6     0     0     Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          TomerM          1         6     100   5     Ninja  
+2          GalLalush       1         5     100   25    Ninja  
+3          Omerz           1         5     0     20    Ninja  
+4          Efrat           1         6     0     0     Healer  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -447,11 +447,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         6     100   0     Rogue  
-2          GalLalush       1         5     100   25    Rogue  
-3          Omerz           1         5     0     20    Rogue  
-4          Efrat           1         6     0     0     Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          TomerM          1         6     100   0     Ninja  
+2          GalLalush       1         5     100   25    Ninja  
+3          Omerz           1         5     0     20    Ninja  
+4          Efrat           1         6     0     0     Healer  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -471,11 +471,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   15    Rogue  
-2          TomerM          1         6     0     0     Rogue  
-3          Omerz           1         5     0     20    Rogue  
-4          Efrat           1         6     0     0     Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         6     100   15    Ninja  
+2          TomerM          1         6     0     0     Ninja  
+3          Omerz           1         5     0     20    Ninja  
+4          Efrat           1         6     0     0     Healer  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -494,11 +494,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         7     100   5     Rogue  
-2          TomerM          1         6     0     0     Rogue  
-3          Omerz           1         5     0     20    Rogue  
-4          Efrat           1         6     0     0     Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         7     100   5     Ninja  
+2          TomerM          1         6     0     0     Ninja  
+3          Omerz           1         5     0     20    Ninja  
+4          Efrat           1         6     0     0     Healer  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -508,11 +508,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         7     100   5     Rogue  
-2          TomerM          1         6     0     0     Rogue  
-3          Omerz           1         5     0     20    Rogue  
-4          Efrat           1         6     0     0     Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         7     100   5     Ninja  
+2          TomerM          1         6     0     0     Ninja  
+3          Omerz           1         5     0     20    Ninja  
+4          Efrat           1         6     0     0     Healer  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -532,11 +532,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         7     100   5     Rogue  
-2          TomerM          1         6     0     0     Rogue  
-3          Omerz           1         5     0     20    Rogue  
-4          Efrat           1         6     0     0     Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         7     100   5     Ninja  
+2          TomerM          1         6     0     0     Ninja  
+3          Omerz           1         5     0     20    Ninja  
+4          Efrat           1         6     0     0     Healer  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -546,11 +546,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         7     100   25    Rogue  
-2          TomerM          1         6     0     0     Rogue  
-3          Omerz           1         5     0     20    Rogue  
-4          Efrat           1         6     0     0     Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         7     100   25    Ninja  
+2          TomerM          1         6     0     0     Ninja  
+3          Omerz           1         5     0     20    Ninja  
+4          Efrat           1         6     0     0     Healer  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -569,11 +569,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         7     100   20    Rogue  
-2          TomerM          1         6     0     0     Rogue  
-3          Omerz           1         5     0     20    Rogue  
-4          Efrat           1         6     0     0     Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         7     100   20    Ninja  
+2          TomerM          1         6     0     0     Ninja  
+3          Omerz           1         5     0     20    Ninja  
+4          Efrat           1         6     0     0     Healer  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -583,11 +583,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         7     100   20    Rogue  
-2          TomerM          1         6     0     0     Rogue  
-3          Omerz           1         5     0     20    Rogue  
-4          Efrat           1         6     0     0     Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         7     100   20    Ninja  
+2          TomerM          1         6     0     0     Ninja  
+3          Omerz           1         5     0     20    Ninja  
+4          Efrat           1         6     0     0     Healer  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -598,8 +598,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         7     0     20    Rogue  
-2          TomerM          1         6     0     0     Rogue  
-3          Omerz           1         5     0     20    Rogue  
-4          Efrat           1         6     0     0     Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         7     0     20    Ninja  
+2          TomerM          1         6     0     0     Ninja  
+3          Omerz           1         5     0     20    Ninja  
+4          Efrat           1         6     0     0     Healer  
+5          TomerM          1         5     0     10    Ninja  

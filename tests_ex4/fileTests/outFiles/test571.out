@@ -813,9 +813,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          Daniel          1         5     100   10    Fighter  
-3          Omerz           1         5     100   10    Fighter  
+1          GalLalush       1         5     90    10    Ninja  
+2          Daniel          1         5     100   10    Warrior  
+3          Omerz           1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -829,9 +829,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          Omerz           1         5     100   20    Fighter  
-3          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         5     90    10    Ninja  
+2          Omerz           1         5     100   20    Warrior  
+3          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -839,27 +839,27 @@ Start of round 3:
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     80    10    Rogue  
-2          Omerz           2         5     100   22    Fighter  
-3          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         5     80    10    Ninja  
+2          Omerz           2         5     100   22    Warrior  
+3          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     70    10    Rogue  
-2          Omerz           2         5     90    22    Fighter  
-3          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         4     70    10    Ninja  
+2          Omerz           2         5     90    22    Warrior  
+3          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -871,9 +871,9 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     70    10    Rogue  
-2          Omerz           2         5     0     22    Fighter  
-3          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         4     70    10    Ninja  
+2          Omerz           2         5     0     22    Warrior  
+3          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -884,6 +884,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     0     10    Rogue  
-2          Omerz           2         5     0     22    Fighter  
-3          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         4     0     10    Ninja  
+2          Omerz           2         5     0     22    Warrior  
+3          Daniel          1         5     0     10    Warrior  

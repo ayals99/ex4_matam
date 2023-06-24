@@ -237,7 +237,7 @@ Start of round 1:
 Start of Omerz's turn: 
 Nothing happened.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of GalLalush's turn: 
@@ -255,11 +255,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Rogue  
-2          Daniel          2         5     100   12    Fighter  
-3          GalLalush       1         5     90    10    Wizard  
-4          Efrat           1         6     100   0     Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           1         5     100   10    Ninja  
+2          Daniel          2         5     100   12    Warrior  
+3          GalLalush       1         5     90    10    Healer  
+4          Efrat           1         6     100   0     Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -267,19 +267,19 @@ Start of round 2:
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    10    Rogue  
-2          Daniel          3         5     100   14    Fighter  
-3          GalLalush       1         5     100   10    Wizard  
-4          Efrat           2         6     100   4     Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           1         5     90    10    Ninja  
+2          Daniel          3         5     100   14    Warrior  
+3          GalLalush       1         5     100   10    Healer  
+4          Efrat           2         6     100   4     Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -295,11 +295,11 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     100   14    Fighter  
-2          GalLalush       1         5     90    10    Wizard  
-3          Efrat           2         6     0     4     Rogue  
-4          Omerz           1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          3         5     100   14    Warrior  
+2          GalLalush       1         5     90    10    Healer  
+3          Efrat           2         6     0     4     Ninja  
+4          Omerz           1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -320,11 +320,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     90    0     Wizard  
-2          Daniel          3         5     0     14    Fighter  
-3          Efrat           2         6     0     4     Rogue  
-4          Omerz           1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         6     90    0     Healer  
+2          Daniel          3         5     0     14    Warrior  
+3          Efrat           2         6     0     4     Ninja  
+4          Omerz           1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -344,25 +344,25 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     90    0     Wizard  
-2          Daniel          3         5     0     14    Fighter  
-3          Efrat           2         6     0     4     Rogue  
-4          Omerz           1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         6     90    0     Healer  
+2          Daniel          3         5     0     14    Warrior  
+3          Efrat           2         6     0     4     Ninja  
+4          Omerz           1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   0     Wizard  
-2          Daniel          3         5     0     14    Fighter  
-3          Efrat           2         6     0     4     Rogue  
-4          Omerz           1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         6     100   0     Healer  
+2          Daniel          3         5     0     14    Warrior  
+3          Efrat           2         6     0     4     Ninja  
+4          Omerz           1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -372,11 +372,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   10    Wizard  
-2          Daniel          3         5     0     14    Fighter  
-3          Efrat           2         6     0     4     Rogue  
-4          Omerz           1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         6     100   10    Healer  
+2          Daniel          3         5     0     14    Warrior  
+3          Efrat           2         6     0     4     Ninja  
+4          Omerz           1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -386,11 +386,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     90    10    Wizard  
-2          Daniel          3         5     0     14    Fighter  
-3          Efrat           2         6     0     4     Rogue  
-4          Omerz           1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         6     90    10    Healer  
+2          Daniel          3         5     0     14    Warrior  
+3          Efrat           2         6     0     4     Ninja  
+4          Omerz           1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -400,11 +400,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     80    10    Wizard  
-2          Daniel          3         5     0     14    Fighter  
-3          Efrat           2         6     0     4     Rogue  
-4          Omerz           1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         6     80    10    Healer  
+2          Daniel          3         5     0     14    Warrior  
+3          Efrat           2         6     0     4     Ninja  
+4          Omerz           1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -414,39 +414,39 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     70    10    Wizard  
-2          Daniel          3         5     0     14    Fighter  
-3          Efrat           2         6     0     4     Rogue  
-4          Omerz           1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         6     70    10    Healer  
+2          Daniel          3         5     0     14    Warrior  
+3          Efrat           2         6     0     4     Ninja  
+4          Omerz           1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 11:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     90    10    Wizard  
-2          Daniel          3         5     0     14    Fighter  
-3          Efrat           2         6     0     4     Rogue  
-4          Omerz           1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         6     90    10    Healer  
+2          Daniel          3         5     0     14    Warrior  
+3          Efrat           2         6     0     4     Ninja  
+4          Omerz           1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 12:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     90    12    Wizard  
-2          Daniel          3         5     0     14    Fighter  
-3          Efrat           2         6     0     4     Rogue  
-4          Omerz           1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          GalLalush       2         6     90    12    Healer  
+2          Daniel          3         5     0     14    Warrior  
+3          Efrat           2         6     0     4     Ninja  
+4          Omerz           1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -457,8 +457,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     0     12    Wizard  
-2          Daniel          3         5     0     14    Fighter  
-3          Efrat           2         6     0     4     Rogue  
-4          Omerz           1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          GalLalush       2         6     0     12    Healer  
+2          Daniel          3         5     0     14    Warrior  
+3          Efrat           2         6     0     4     Ninja  
+4          Omerz           1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  

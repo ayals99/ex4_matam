@@ -1433,18 +1433,18 @@ Start of round 1:
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          Daniel          2         5     100   12    Fighter  
-3          Omerz           1         5     90    10    Fighter  
-4          GalLalush       1         5     100   10    Wizard  
+1          GalLalush       1         5     90    10    Ninja  
+2          Daniel          2         5     100   12    Warrior  
+3          Omerz           1         5     90    10    Warrior  
+4          GalLalush       1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -1456,14 +1456,14 @@ You fell into the trap, lose 10 health points.
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          Daniel          2         5     90    12    Fighter  
-3          Omerz           1         5     90    10    Fighter  
-4          GalLalush       1         4     90    10    Wizard  
+1          GalLalush       1         5     90    10    Ninja  
+2          Daniel          2         5     90    12    Warrior  
+3          Omerz           1         5     90    10    Warrior  
+4          GalLalush       1         4     90    10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -1479,10 +1479,10 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          Daniel          2         5     90    12    Fighter  
-3          GalLalush       1         4     0     10    Wizard  
-4          Omerz           1         5     0     10    Fighter  
+1          GalLalush       1         5     90    10    Ninja  
+2          Daniel          2         5     90    12    Warrior  
+3          GalLalush       1         4     0     10    Healer  
+4          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -1503,10 +1503,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          Daniel          2         5     90    12    Fighter  
-3          GalLalush       1         4     0     10    Wizard  
-4          Omerz           1         5     0     10    Fighter  
+1          GalLalush       1         5     90    10    Ninja  
+2          Daniel          2         5     90    12    Warrior  
+3          GalLalush       1         4     0     10    Healer  
+4          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -1525,10 +1525,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          Daniel          2         5     90    12    Fighter  
-3          GalLalush       1         4     0     10    Wizard  
-4          Omerz           1         5     0     10    Fighter  
+1          GalLalush       1         5     90    10    Ninja  
+2          Daniel          2         5     90    12    Warrior  
+3          GalLalush       1         4     0     10    Healer  
+4          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -1544,14 +1544,14 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     91    5     Rogue  
-2          Daniel          3         5     90    14    Fighter  
-3          GalLalush       1         4     0     10    Wizard  
-4          Omerz           1         5     0     10    Fighter  
+1          GalLalush       1         5     91    5     Ninja  
+2          Daniel          3         5     90    14    Warrior  
+3          GalLalush       1         4     0     10    Healer  
+4          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -1563,25 +1563,25 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     81    5     Rogue  
-2          Daniel          3         5     90    24    Fighter  
-3          GalLalush       1         4     0     10    Wizard  
-4          Omerz           1         5     0     10    Fighter  
+1          GalLalush       1         5     81    5     Ninja  
+2          Daniel          3         5     90    24    Warrior  
+3          GalLalush       1         4     0     10    Healer  
+4          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     81    9     Rogue  
-2          Daniel          3         5     0     24    Fighter  
-3          GalLalush       1         4     0     10    Wizard  
-4          Omerz           1         5     0     10    Fighter  
+1          GalLalush       2         5     81    9     Ninja  
+2          Daniel          3         5     0     24    Warrior  
+3          GalLalush       1         4     0     10    Healer  
+4          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -1591,10 +1591,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     81    9     Rogue  
-2          Daniel          3         5     0     24    Fighter  
-3          GalLalush       1         4     0     10    Wizard  
-4          Omerz           1         5     0     10    Fighter  
+1          GalLalush       2         5     81    9     Ninja  
+2          Daniel          3         5     0     24    Warrior  
+3          GalLalush       1         4     0     10    Healer  
+4          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -1605,7 +1605,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     0     9     Rogue  
-2          Daniel          3         5     0     24    Fighter  
-3          GalLalush       1         4     0     10    Wizard  
-4          Omerz           1         5     0     10    Fighter  
+1          GalLalush       2         5     0     9     Ninja  
+2          Daniel          3         5     0     24    Warrior  
+3          GalLalush       1         4     0     10    Healer  
+4          Omerz           1         5     0     10    Warrior  

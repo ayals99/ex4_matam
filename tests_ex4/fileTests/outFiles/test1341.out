@@ -156,14 +156,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     90    10    Wizard  
-2          Omerz           1         4     90    10    Rogue  
+1          Daniel          1         4     90    10    Healer  
+2          Omerz           1         4     90    10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -182,8 +182,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    10    Rogue  
-2          Daniel          1         4     0     10    Wizard  
+1          Omerz           1         4     90    10    Ninja  
+2          Daniel          1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -193,19 +193,19 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    10    Rogue  
-2          Daniel          1         4     0     10    Wizard  
+1          Omerz           1         4     90    10    Ninja  
+2          Daniel          1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Goblin.
+Player Omerz has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     80    10    Rogue  
-2          Daniel          1         4     0     10    Wizard  
+1          Omerz           1         4     80    10    Ninja  
+2          Daniel          1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -216,5 +216,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     0     10    Rogue  
-2          Daniel          1         4     0     10    Wizard  
+1          Omerz           1         4     0     10    Ninja  
+2          Daniel          1         4     0     10    Healer  

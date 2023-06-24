@@ -160,15 +160,15 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   20    Wizard  
-2          Amirmann        1         5     90    10    Fighter  
-3          Efrat           1         5     90    10    Fighter  
+1          Daniel          1         5     100   20    Healer  
+2          Amirmann        1         5     90    10    Warrior  
+3          Efrat           1         5     90    10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
@@ -176,9 +176,9 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     90    20    Wizard  
-2          Amirmann        1         5     90    20    Fighter  
-3          Efrat           1         5     0     10    Fighter  
+1          Daniel          1         4     90    20    Healer  
+2          Amirmann        1         5     90    20    Warrior  
+3          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -190,9 +190,9 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     80    20    Wizard  
-2          Amirmann        1         5     0     20    Fighter  
-3          Efrat           1         5     0     10    Fighter  
+1          Daniel          1         4     80    20    Healer  
+2          Amirmann        1         5     0     20    Warrior  
+3          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -203,6 +203,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     0     20    Wizard  
-2          Amirmann        1         5     0     20    Fighter  
-3          Efrat           1         5     0     10    Fighter  
+1          Daniel          1         4     0     20    Healer  
+2          Amirmann        1         5     0     20    Warrior  
+3          Efrat           1         5     0     10    Warrior  

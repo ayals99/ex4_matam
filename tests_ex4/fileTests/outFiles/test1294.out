@@ -124,8 +124,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    10    Fighter  
-2          Omerz           1         5     90    10    Wizard  
+1          Omerz           1         5     90    10    Warrior  
+2          Omerz           1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -141,38 +141,38 @@ You have entered an invalid input. Please try again.
 Omerz has paid 10 coins for 1 force boost!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     90    0     Fighter  
-2          Omerz           1         4     80    10    Wizard  
+1          Omerz           1         6     90    0     Warrior  
+2          Omerz           1         4     80    10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Goblin.
+Player Omerz has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         6     90    2     Fighter  
-2          Omerz           1         4     70    10    Wizard  
+1          Omerz           2         6     90    2     Warrior  
+2          Omerz           1         4     70    10    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         6     90    4     Fighter  
-2          Omerz           1         4     60    10    Wizard  
+1          Omerz           3         6     90    4     Warrior  
+2          Omerz           1         4     60    10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -184,21 +184,21 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         6     90    14    Fighter  
-2          Omerz           1         4     50    10    Wizard  
+1          Omerz           3         6     90    14    Warrior  
+2          Omerz           1         4     50    10    Healer  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         6     90    16    Fighter  
-2          Omerz           1         4     40    10    Wizard  
+1          Omerz           4         6     90    16    Warrior  
+2          Omerz           1         4     40    10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -206,12 +206,12 @@ Start of round 7:
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Goblin.
+Player Omerz has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         6     90    26    Fighter  
-2          Omerz           1         4     30    10    Wizard  
+1          Omerz           4         6     90    26    Warrior  
+2          Omerz           1         4     30    10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -219,12 +219,12 @@ Start of round 8:
 Start of Omerz's turn: 
 Nothing happened.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Goblin.
+Player Omerz has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         6     90    26    Fighter  
-2          Omerz           1         4     20    10    Wizard  
+1          Omerz           4         6     90    26    Warrior  
+2          Omerz           1         4     20    10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -232,12 +232,12 @@ Start of round 9:
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         6     80    26    Fighter  
-2          Omerz           1         4     40    10    Wizard  
+1          Omerz           4         6     80    26    Warrior  
+2          Omerz           1         4     40    10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -249,8 +249,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     30    10    Wizard  
-2          Omerz           4         6     0     26    Fighter  
+1          Omerz           1         4     30    10    Healer  
+2          Omerz           4         6     0     26    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -260,8 +260,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     20    10    Wizard  
-2          Omerz           4         6     0     26    Fighter  
+1          Omerz           1         4     20    10    Healer  
+2          Omerz           4         6     0     26    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -280,39 +280,39 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     22    5     Wizard  
-2          Omerz           4         6     0     26    Fighter  
+1          Omerz           1         4     22    5     Healer  
+2          Omerz           4         6     0     26    Warrior  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     12    5     Wizard  
-2          Omerz           4         6     0     26    Fighter  
+1          Omerz           1         3     12    5     Healer  
+2          Omerz           4         6     0     26    Warrior  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         2     2     5     Wizard  
-2          Omerz           4         6     0     26    Fighter  
+1          Omerz           1         2     2     5     Healer  
+2          Omerz           4         6     0     26    Warrior  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Goblin.
+Player Omerz has been defeated by a Gremlin.
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         2     0     5     Wizard  
-2          Omerz           4         6     0     26    Fighter  
+1          Omerz           1         2     0     5     Healer  
+2          Omerz           4         6     0     26    Warrior  

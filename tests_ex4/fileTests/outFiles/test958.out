@@ -1339,9 +1339,9 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 Nothing happened.
 Start of GalLalush's turn: 
@@ -1351,11 +1351,11 @@ Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     90    10    Rogue  
-2          Daniel          2         5     100   12    Fighter  
-3          Daniel          1         5     100   10    Rogue  
-4          GalLalush       1         5     100   20    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         4     90    10    Ninja  
+2          Daniel          2         5     100   12    Warrior  
+3          Daniel          1         5     100   10    Ninja  
+4          GalLalush       1         5     100   20    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -1365,17 +1365,17 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     90    30    Rogue  
-2          Daniel          1         4     90    10    Rogue  
-3          GalLalush       1         5     90    20    Fighter  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         4     90    30    Ninja  
+2          Daniel          1         4     90    10    Ninja  
+3          GalLalush       1         5     90    20    Warrior  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -1383,49 +1383,49 @@ Start of round 3:
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     80    10    Rogue  
-2          GalLalush       1         5     80    20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     80    10    Ninja  
+2          GalLalush       1         5     80    20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Goblin.
+Player Daniel has been defeated by a Gremlin.
 Start of GalLalush's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     70    10    Rogue  
-2          GalLalush       1         5     80    20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     70    10    Ninja  
+2          GalLalush       1         5     80    20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Goblin.
+Player Daniel has been defeated by a Gremlin.
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     60    10    Rogue  
-2          GalLalush       1         5     70    20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     60    10    Ninja  
+2          GalLalush       1         5     70    20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -1444,11 +1444,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     60    10    Rogue  
-2          GalLalush       1         5     70    20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     60    10    Ninja  
+2          GalLalush       1         5     70    20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -1467,11 +1467,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     60    10    Rogue  
-2          GalLalush       1         5     70    20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     60    10    Ninja  
+2          GalLalush       1         5     70    20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -1483,11 +1483,11 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     60    30    Rogue  
-2          GalLalush       1         5     0     20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     60    30    Ninja  
+2          GalLalush       1         5     0     20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -1497,11 +1497,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     50    30    Rogue  
-2          GalLalush       1         5     0     20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     50    30    Ninja  
+2          GalLalush       1         5     0     20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -1511,11 +1511,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     50    30    Rogue  
-2          GalLalush       1         5     0     20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     50    30    Ninja  
+2          GalLalush       1         5     0     20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -1525,11 +1525,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     40    30    Rogue  
-2          GalLalush       1         5     0     20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     40    30    Ninja  
+2          GalLalush       1         5     0     20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -1539,11 +1539,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     40    30    Rogue  
-2          GalLalush       1         5     0     20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     40    30    Ninja  
+2          GalLalush       1         5     0     20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -1553,11 +1553,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     30    30    Rogue  
-2          GalLalush       1         5     0     20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     30    30    Ninja  
+2          GalLalush       1         5     0     20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -1567,11 +1567,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     30    30    Rogue  
-2          GalLalush       1         5     0     20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     30    30    Ninja  
+2          GalLalush       1         5     0     20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -1581,11 +1581,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     30    30    Rogue  
-2          GalLalush       1         5     0     20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     30    30    Ninja  
+2          GalLalush       1         5     0     20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -1595,11 +1595,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     20    30    Rogue  
-2          GalLalush       1         5     0     20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     20    30    Ninja  
+2          GalLalush       1         5     0     20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 17:
@@ -1610,8 +1610,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     0     30    Rogue  
-2          GalLalush       1         5     0     20    Fighter  
-3          GalLalush       1         4     0     30    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          TomerM          1         5     0     10    Rogue  
+1          Daniel          1         3     0     30    Ninja  
+2          GalLalush       1         5     0     20    Warrior  
+3          GalLalush       1         4     0     30    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          TomerM          1         5     0     10    Ninja  

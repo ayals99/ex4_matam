@@ -269,15 +269,15 @@ You fell into the trap, lose 10 health points.
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Wizard  
-2          GalLalush       1         5     100   20    Fighter  
-3          TomerM          1         5     90    10    Fighter  
-4          GalLalush       1         4     90    10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          TomerM          1         5     90    10    Healer  
+2          GalLalush       1         5     100   20    Warrior  
+3          TomerM          1         5     90    10    Warrior  
+4          GalLalush       1         4     90    10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -293,11 +293,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    20    Wizard  
-2          GalLalush       1         5     100   20    Fighter  
-3          GalLalush       1         4     90    10    Rogue  
-4          TomerM          1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          TomerM          1         5     90    20    Healer  
+2          GalLalush       1         5     100   20    Warrior  
+3          GalLalush       1         4     90    10    Ninja  
+4          TomerM          1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -311,11 +311,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    30    Wizard  
-2          GalLalush       1         5     90    20    Fighter  
-3          GalLalush       1         4     80    10    Rogue  
-4          TomerM          1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          TomerM          1         5     90    30    Healer  
+2          GalLalush       1         5     90    20    Warrior  
+3          GalLalush       1         4     80    10    Ninja  
+4          TomerM          1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -330,17 +330,17 @@ TomerM has 30 coins
 TomerM has paid 5 coins for 1 health potion!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     92    25    Wizard  
-2          GalLalush       2         5     90    22    Fighter  
-3          GalLalush       1         4     80    30    Rogue  
-4          TomerM          1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          TomerM          1         5     92    25    Healer  
+2          GalLalush       2         5     90    22    Warrior  
+3          GalLalush       1         4     80    30    Ninja  
+4          TomerM          1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -350,15 +350,15 @@ Player TomerM has been defeated by a Dragon.
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Goblin.
+Player GalLalush has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     80    22    Fighter  
-2          GalLalush       1         4     70    30    Rogue  
-3          TomerM          1         5     0     25    Wizard  
-4          TomerM          1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          GalLalush       2         5     80    22    Warrior  
+2          GalLalush       1         4     70    30    Ninja  
+3          TomerM          1         5     0     25    Healer  
+4          TomerM          1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -370,11 +370,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     70    50    Rogue  
-2          GalLalush       2         5     0     22    Fighter  
-3          TomerM          1         5     0     25    Wizard  
-4          TomerM          1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         4     70    50    Ninja  
+2          GalLalush       2         5     0     22    Warrior  
+3          TomerM          1         5     0     25    Healer  
+4          TomerM          1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -385,8 +385,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     0     50    Rogue  
-2          GalLalush       2         5     0     22    Fighter  
-3          TomerM          1         5     0     25    Wizard  
-4          TomerM          1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          GalLalush       1         4     0     50    Ninja  
+2          GalLalush       2         5     0     22    Warrior  
+3          TomerM          1         5     0     25    Healer  
+4          TomerM          1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  

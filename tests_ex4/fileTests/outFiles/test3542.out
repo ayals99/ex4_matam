@@ -687,13 +687,13 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
 Nothing happened.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Wizard  
-2          Efrat           1         5     100   10    Rogue  
-3          Omerz           2         5     100   12    Wizard  
+1          Efrat           1         5     100   20    Healer  
+2          Efrat           1         5     100   10    Ninja  
+3          Omerz           2         5     100   12    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -716,9 +716,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    20    Wizard  
-2          Omerz           2         6     100   2     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Efrat           1         5     90    20    Healer  
+2          Omerz           2         6     100   2     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -739,9 +739,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    30    Wizard  
-2          Omerz           2         6     100   2     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Efrat           1         5     90    30    Healer  
+2          Omerz           2         6     100   2     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -749,39 +749,39 @@ Start of round 4:
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    40    Wizard  
-2          Omerz           3         6     100   4     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Efrat           1         5     90    40    Healer  
+2          Omerz           3         6     100   4     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     80    40    Wizard  
-2          Omerz           3         6     0     4     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Efrat           1         4     80    40    Healer  
+2          Omerz           3         6     0     4     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     100   40    Wizard  
-2          Omerz           3         6     0     4     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Efrat           1         4     100   40    Healer  
+2          Omerz           3         6     0     4     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -792,6 +792,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     0     40    Wizard  
-2          Omerz           3         6     0     4     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Efrat           1         4     0     40    Healer  
+2          Omerz           3         6     0     4     Healer  
+3          Efrat           1         5     0     10    Ninja  

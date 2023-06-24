@@ -456,9 +456,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   0     Rogue  
-2          Efrat           1         5     100   10    Rogue  
-3          Amirmann        1         5     100   20    Fighter  
+1          GalLalush       1         6     100   0     Ninja  
+2          Efrat           1         5     100   10    Ninja  
+3          Amirmann        1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -468,13 +468,13 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   20    Rogue  
-2          Efrat           1         5     100   10    Rogue  
-3          Amirmann        2         5     100   22    Fighter  
+1          GalLalush       1         6     100   20    Ninja  
+2          Efrat           1         5     100   10    Ninja  
+3          Amirmann        2         5     100   22    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -488,23 +488,23 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   20    Rogue  
-2          Amirmann        2         5     100   22    Fighter  
-3          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         6     100   20    Ninja  
+2          Amirmann        2         5     100   22    Warrior  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     100   24    Rogue  
-2          Amirmann        2         5     100   22    Fighter  
-3          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         6     100   24    Ninja  
+2          Amirmann        2         5     100   22    Warrior  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -512,13 +512,13 @@ Start of round 5:
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     100   44    Rogue  
-2          Amirmann        3         5     100   24    Fighter  
-3          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         6     100   44    Ninja  
+2          Amirmann        3         5     100   24    Warrior  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -526,37 +526,37 @@ Start of round 6:
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     100   26    Fighter  
-2          GalLalush       2         6     0     44    Rogue  
-3          Efrat           1         5     0     10    Rogue  
+1          Amirmann        4         5     100   26    Warrior  
+2          GalLalush       2         6     0     44    Ninja  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     100   28    Fighter  
-2          GalLalush       2         6     0     44    Rogue  
-3          Efrat           1         5     0     10    Rogue  
+1          Amirmann        5         5     100   28    Warrior  
+2          GalLalush       2         6     0     44    Ninja  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     100   30    Fighter  
-2          GalLalush       2         6     0     44    Rogue  
-3          Efrat           1         5     0     10    Rogue  
+1          Amirmann        6         5     100   30    Warrior  
+2          GalLalush       2         6     0     44    Ninja  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -566,9 +566,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     100   30    Fighter  
-2          GalLalush       2         6     0     44    Rogue  
-3          Efrat           1         5     0     10    Rogue  
+1          Amirmann        6         5     100   30    Warrior  
+2          GalLalush       2         6     0     44    Ninja  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -587,9 +587,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     100   30    Fighter  
-2          GalLalush       2         6     0     44    Rogue  
-3          Efrat           1         5     0     10    Rogue  
+1          Amirmann        6         5     100   30    Warrior  
+2          GalLalush       2         6     0     44    Ninja  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -599,45 +599,45 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     100   40    Fighter  
-2          GalLalush       2         6     0     44    Rogue  
-3          Efrat           1         5     0     10    Rogue  
+1          Amirmann        6         5     100   40    Warrior  
+2          GalLalush       2         6     0     44    Ninja  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        7         5     100   42    Fighter  
-2          GalLalush       2         6     0     44    Rogue  
-3          Efrat           1         5     0     10    Rogue  
+1          Amirmann        7         5     100   42    Warrior  
+2          GalLalush       2         6     0     44    Ninja  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        8         5     100   44    Fighter  
-2          GalLalush       2         6     0     44    Rogue  
-3          Efrat           1         5     0     10    Rogue  
+1          Amirmann        8         5     100   44    Warrior  
+2          GalLalush       2         6     0     44    Ninja  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        9         5     100   46    Fighter  
-2          GalLalush       2         6     0     44    Rogue  
-3          Efrat           1         5     0     10    Rogue  
+1          Amirmann        9         5     100   46    Warrior  
+2          GalLalush       2         6     0     44    Ninja  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -656,9 +656,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        9         6     100   36    Fighter  
-2          GalLalush       2         6     0     44    Rogue  
-3          Efrat           1         5     0     10    Rogue  
+1          Amirmann        9         6     100   36    Warrior  
+2          GalLalush       2         6     0     44    Ninja  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -668,9 +668,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        9         6     90    36    Fighter  
-2          GalLalush       2         6     0     44    Rogue  
-3          Efrat           1         5     0     10    Rogue  
+1          Amirmann        9         6     90    36    Warrior  
+2          GalLalush       2         6     0     44    Ninja  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 17:
@@ -680,19 +680,19 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        9         6     80    36    Fighter  
-2          GalLalush       2         6     0     44    Rogue  
-3          Efrat           1         5     0     10    Rogue  
+1          Amirmann        9         6     80    36    Warrior  
+2          GalLalush       2         6     0     44    Ninja  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 18:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        10        6     80    38    Fighter  
-2          GalLalush       2         6     0     44    Rogue  
-3          Efrat           1         5     0     10    Rogue  
+1          Amirmann        10        6     80    38    Warrior  
+2          GalLalush       2         6     0     44    Ninja  
+3          Efrat           1         5     0     10    Ninja  

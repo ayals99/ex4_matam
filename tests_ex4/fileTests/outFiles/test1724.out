@@ -546,11 +546,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Fighter  
-2          GalLalush       1         5     90    10    Fighter  
-3          TomerM          1         6     100   0     Fighter  
-4          TomerM          1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     90    10    Warrior  
+2          GalLalush       1         5     90    10    Warrior  
+3          TomerM          1         6     100   0     Warrior  
+4          TomerM          1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -564,11 +564,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Fighter  
-2          TomerM          1         6     90    0     Fighter  
-3          GalLalush       1         5     0     10    Fighter  
-4          TomerM          1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     90    10    Warrior  
+2          TomerM          1         6     90    0     Warrior  
+3          GalLalush       1         5     0     10    Warrior  
+4          TomerM          1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -580,25 +580,25 @@ Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     80    10    Fighter  
-2          TomerM          1         6     0     0     Fighter  
-3          GalLalush       1         5     0     10    Fighter  
-4          TomerM          1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     80    10    Warrior  
+2          TomerM          1         6     0     0     Warrior  
+3          GalLalush       1         5     0     10    Warrior  
+4          TomerM          1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     80    12    Fighter  
-2          TomerM          1         6     0     0     Fighter  
-3          GalLalush       1         5     0     10    Fighter  
-4          TomerM          1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         5     80    12    Warrior  
+2          TomerM          1         6     0     0     Warrior  
+3          GalLalush       1         5     0     10    Warrior  
+4          TomerM          1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -608,11 +608,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     80    12    Fighter  
-2          TomerM          1         6     0     0     Fighter  
-3          GalLalush       1         5     0     10    Fighter  
-4          TomerM          1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         5     80    12    Warrior  
+2          TomerM          1         6     0     0     Warrior  
+3          GalLalush       1         5     0     10    Warrior  
+4          TomerM          1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -622,11 +622,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     80    22    Fighter  
-2          TomerM          1         6     0     0     Fighter  
-3          GalLalush       1         5     0     10    Fighter  
-4          TomerM          1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         5     80    22    Warrior  
+2          TomerM          1         6     0     0     Warrior  
+3          GalLalush       1         5     0     10    Warrior  
+4          TomerM          1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -637,8 +637,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     0     22    Fighter  
-2          TomerM          1         6     0     0     Fighter  
-3          GalLalush       1         5     0     10    Fighter  
-4          TomerM          1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         5     0     22    Warrior  
+2          TomerM          1         6     0     0     Warrior  
+3          GalLalush       1         5     0     10    Warrior  
+4          TomerM          1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Ninja  

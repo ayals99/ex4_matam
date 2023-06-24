@@ -156,20 +156,20 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Wizard  
-2          Omerz           1         4     90    10    Rogue  
+1          Efrat           2         5     100   12    Healer  
+2          Omerz           1         4     90    10    Ninja  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -182,8 +182,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Wizard  
-2          Omerz           1         4     90    10    Rogue  
+1          Efrat           2         5     100   12    Healer  
+2          Omerz           1         4     90    10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -195,19 +195,19 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    10    Rogue  
-2          Efrat           2         5     0     12    Wizard  
+1          Omerz           1         4     90    10    Ninja  
+2          Efrat           2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Goblin.
+Player Omerz has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     80    10    Rogue  
-2          Efrat           2         5     0     12    Wizard  
+1          Omerz           1         4     80    10    Ninja  
+2          Efrat           2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -218,5 +218,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     0     10    Rogue  
-2          Efrat           2         5     0     12    Wizard  
+1          Omerz           1         4     0     10    Ninja  
+2          Efrat           2         5     0     12    Healer  

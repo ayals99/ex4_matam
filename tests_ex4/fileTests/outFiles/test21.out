@@ -148,7 +148,7 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
@@ -160,11 +160,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     90    10    Rogue  
-2          Omerz           1         5     100   20    Fighter  
-3          Daniel          1         5     100   20    Fighter  
-4          GalLalush       1         5     90    10    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         4     90    10    Ninja  
+2          Omerz           1         5     100   20    Warrior  
+3          Daniel          1         5     100   20    Warrior  
+4          GalLalush       1         5     90    10    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -172,19 +172,19 @@ Start of round 2:
 Start of Daniel's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 Nothing happened.
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     80    10    Rogue  
-2          Omerz           2         5     100   22    Fighter  
-3          Daniel          1         5     100   20    Fighter  
-4          GalLalush       1         5     100   10    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         4     80    10    Ninja  
+2          Omerz           2         5     100   22    Warrior  
+3          Daniel          1         5     100   20    Warrior  
+4          GalLalush       1         5     100   10    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -209,11 +209,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     80    10    Rogue  
-2          Omerz           2         5     100   32    Fighter  
-3          Daniel          1         5     100   15    Fighter  
-4          GalLalush       1         5     90    10    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         4     80    10    Ninja  
+2          Omerz           2         5     100   32    Warrior  
+3          Daniel          1         5     100   15    Warrior  
+4          GalLalush       1         5     90    10    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -243,15 +243,15 @@ You have entered an invalid input. Please try again.
 Daniel has paid 0 coins 
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     80    10    Rogue  
-2          Omerz           2         5     100   32    Fighter  
-3          Daniel          1         5     100   15    Fighter  
-4          GalLalush       2         5     90    12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         4     80    10    Ninja  
+2          Omerz           2         5     100   32    Warrior  
+3          Daniel          1         5     100   15    Warrior  
+4          GalLalush       2         5     90    12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -267,7 +267,7 @@ You have entered an invalid input. Please try again.
 Daniel has paid 0 coins 
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
@@ -275,11 +275,11 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     80    10    Rogue  
-2          Omerz           3         5     100   34    Fighter  
-3          Daniel          1         5     100   25    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         4     80    10    Ninja  
+2          Omerz           3         5     100   34    Warrior  
+3          Daniel          1         5     100   25    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -293,17 +293,17 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     80    30    Rogue  
-2          Omerz           3         5     100   34    Fighter  
-3          Daniel          1         5     100   25    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         4     80    30    Ninja  
+2          Omerz           3         5     100   34    Warrior  
+3          Daniel          1         5     100   25    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of Omerz's turn: 
 Nothing happened.
 Start of Daniel's turn: 
@@ -311,11 +311,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     70    30    Rogue  
-2          Omerz           3         5     100   34    Fighter  
-3          Daniel          1         5     100   25    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         3     70    30    Ninja  
+2          Omerz           3         5     100   34    Warrior  
+3          Daniel          1         5     100   25    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -337,11 +337,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     70    30    Rogue  
-2          Omerz           3         5     100   44    Fighter  
-3          Daniel          1         5     100   20    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         3     70    30    Ninja  
+2          Omerz           3         5     100   44    Warrior  
+3          Daniel          1         5     100   20    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -362,11 +362,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     70    30    Rogue  
-2          Omerz           3         5     100   44    Fighter  
-3          Daniel          1         5     100   15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         3     70    30    Ninja  
+2          Omerz           3         5     100   44    Warrior  
+3          Daniel          1         5     100   15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -381,7 +381,7 @@ Daniel has 30 coins
 Daniel has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -394,17 +394,17 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     71    25    Rogue  
-2          Omerz           4         5     100   46    Fighter  
-3          Daniel          1         5     100   15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         3     71    25    Ninja  
+2          Omerz           4         5     100   46    Warrior  
+3          Daniel          1         5     100   15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
@@ -412,11 +412,11 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     61    25    Rogue  
-2          Omerz           4         5     100   56    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     61    25    Ninja  
+2          Omerz           4         5     100   56    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -428,11 +428,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     61    45    Rogue  
-2          Omerz           4         5     100   56    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     61    45    Ninja  
+2          Omerz           4         5     100   56    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -440,15 +440,15 @@ Start of round 13:
 Start of Daniel's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     51    45    Rogue  
-2          Omerz           5         5     100   58    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     51    45    Ninja  
+2          Omerz           5         5     100   58    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -460,11 +460,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     51    45    Rogue  
-2          Omerz           5         5     100   58    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     51    45    Ninja  
+2          Omerz           5         5     100   58    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 15:
@@ -476,11 +476,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     51    45    Rogue  
-2          Omerz           5         5     100   68    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     51    45    Ninja  
+2          Omerz           5         5     100   68    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -501,11 +501,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     51    45    Rogue  
-2          Omerz           5         5     90    68    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     51    45    Ninja  
+2          Omerz           5         5     90    68    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 17:
@@ -526,11 +526,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     51    45    Rogue  
-2          Omerz           5         5     90    68    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     51    45    Ninja  
+2          Omerz           5         5     90    68    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 18:
@@ -546,15 +546,15 @@ You have entered an invalid input. Please try again.
 Daniel has paid 10 coins for 1 force boost!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     51    35    Rogue  
-2          Omerz           6         5     90    70    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         3     51    35    Ninja  
+2          Omerz           6         5     90    70    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 19:
@@ -570,15 +570,15 @@ You have entered an invalid input. Please try again.
 Daniel has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     52    30    Rogue  
-2          Omerz           7         5     90    72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         3     52    30    Ninja  
+2          Omerz           7         5     90    72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 20:
@@ -590,11 +590,11 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     52    50    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         3     52    50    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 21:
@@ -604,11 +604,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     52    70    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         3     52    70    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 22:
@@ -618,11 +618,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     42    70    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         3     42    70    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 23:
@@ -632,25 +632,25 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     32    70    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         3     32    70    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 24:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     22    70    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     22    70    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 25:
@@ -660,11 +660,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     22    70    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     22    70    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 26:
@@ -674,11 +674,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     22    70    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     22    70    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 27:
@@ -688,11 +688,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     22    70    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     22    70    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 28:
@@ -702,11 +702,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     22    90    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     22    90    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 29:
@@ -725,11 +725,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     22    90    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     22    90    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 30:
@@ -739,11 +739,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     22    90    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     22    90    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 31:
@@ -753,11 +753,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     22    90    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     22    90    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 32:
@@ -774,11 +774,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     22    90    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     22    90    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 33:
@@ -795,25 +795,25 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     22    90    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     22    90    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 34:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Goblin.
+Player Daniel has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     12    90    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     12    90    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 35:
@@ -831,25 +831,25 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         2     12    90    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         2     12    90    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 36:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         1     2     90    Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         1     2     90    Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 37:
@@ -859,11 +859,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         1     2     110   Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         1     2     110   Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 38:
@@ -874,8 +874,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         1     0     110   Rogue  
-2          Omerz           7         5     0     72    Fighter  
-3          Daniel          1         5     0     15    Fighter  
-4          GalLalush       2         5     0     12    Wizard  
-5          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         1     0     110   Ninja  
+2          Omerz           7         5     0     72    Warrior  
+3          Daniel          1         5     0     15    Warrior  
+4          GalLalush       2         5     0     12    Healer  
+5          Daniel          1         5     0     10    Warrior  

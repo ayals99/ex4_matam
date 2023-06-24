@@ -152,12 +152,12 @@ Start of round 1:
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    10    Wizard  
-2          Omerz           1         4     90    10    Wizard  
+1          Efrat           1         5     90    10    Healer  
+2          Omerz           1         4     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -178,21 +178,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     80    10    Wizard  
-2          Omerz           1         4     92    5     Wizard  
+1          Efrat           1         5     80    10    Healer  
+2          Omerz           1         4     92    5     Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     80    12    Wizard  
-2          Omerz           1         4     0     5     Wizard  
+1          Efrat           2         5     80    12    Healer  
+2          Omerz           1         4     0     5     Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -203,5 +203,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     0     12    Wizard  
-2          Omerz           1         4     0     5     Wizard  
+1          Efrat           2         5     0     12    Healer  
+2          Omerz           1         4     0     5     Healer  

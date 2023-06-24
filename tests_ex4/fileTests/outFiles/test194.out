@@ -119,14 +119,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   12    Fighter  
-2          Amirmann        1         5     0     10    Rogue  
+1          Daniel          2         5     100   12    Warrior  
+2          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -136,8 +136,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   12    Fighter  
-2          Amirmann        1         5     0     10    Rogue  
+1          Daniel          2         5     100   12    Warrior  
+2          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -148,5 +148,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     0     12    Fighter  
-2          Amirmann        1         5     0     10    Rogue  
+1          Daniel          2         5     0     12    Warrior  
+2          Amirmann        1         5     0     10    Ninja  

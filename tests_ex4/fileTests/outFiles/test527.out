@@ -220,9 +220,9 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Rogue  
-2          Daniel          1         5     90    10    Fighter  
-3          Omerz           1         5     0     10    Fighter  
+1          Efrat           1         5     100   10    Ninja  
+2          Daniel          1         5     90    10    Warrior  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -234,23 +234,23 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Rogue  
-2          Daniel          1         5     90    10    Fighter  
-3          Omerz           1         5     0     10    Fighter  
+1          Efrat           1         5     100   10    Ninja  
+2          Daniel          1         5     90    10    Warrior  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     90    10    Rogue  
-2          Daniel          1         5     90    20    Fighter  
-3          Omerz           1         5     0     10    Fighter  
+1          Efrat           1         4     90    10    Ninja  
+2          Daniel          1         5     90    20    Warrior  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -262,21 +262,21 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     90    20    Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Omerz           1         5     0     10    Fighter  
+1          Daniel          1         5     90    20    Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    22    Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Omerz           1         5     0     10    Fighter  
+1          Daniel          2         5     90    22    Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -286,9 +286,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    22    Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Omerz           1         5     0     10    Fighter  
+1          Daniel          2         5     90    22    Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -298,21 +298,21 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    22    Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Omerz           1         5     0     10    Fighter  
+1          Daniel          2         5     90    22    Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     90    24    Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Omerz           1         5     0     10    Fighter  
+1          Daniel          3         5     90    24    Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -322,9 +322,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     80    24    Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Omerz           1         5     0     10    Fighter  
+1          Daniel          3         5     80    24    Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -334,21 +334,21 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     80    34    Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Omerz           1         5     0     10    Fighter  
+1          Daniel          3         5     80    34    Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     80    36    Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Omerz           1         5     0     10    Fighter  
+1          Daniel          4         5     80    36    Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -359,6 +359,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     0     36    Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Omerz           1         5     0     10    Fighter  
+1          Daniel          4         5     0     36    Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Omerz           1         5     0     10    Warrior  

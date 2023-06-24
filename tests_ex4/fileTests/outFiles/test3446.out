@@ -169,7 +169,7 @@ Efrat has 10 coins
 Efrat has paid 5 coins for 1 health potion!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 Start of Daniel's turn: 
@@ -188,19 +188,19 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   5     Fighter  
-2          GalLalush       2         5     100   12    Fighter  
-3          Omerz           1         5     90    10    Fighter  
-4          Daniel          1         5     100   10    Fighter  
-5          Amirmann        1         5     100   5     Wizard  
+1          Efrat           1         5     100   5     Warrior  
+2          GalLalush       2         5     100   12    Warrior  
+3          Omerz           1         5     90    10    Warrior  
+4          Daniel          1         5     100   10    Warrior  
+5          Amirmann        1         5     100   5     Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
@@ -213,37 +213,37 @@ Daniel has 10 coins
 Daniel has paid 10 coins for 1 force boost!
 Safe travels!
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   7     Fighter  
-2          GalLalush       3         5     100   14    Fighter  
-3          Omerz           1         5     90    20    Fighter  
-4          Daniel          1         6     100   0     Fighter  
-5          Amirmann        1         4     90    5     Wizard  
+1          Efrat           2         5     100   7     Warrior  
+2          GalLalush       3         5     100   14    Warrior  
+3          Omerz           1         5     90    20    Warrior  
+4          Daniel          1         6     100   0     Warrior  
+5          Amirmann        1         4     90    5     Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 Nothing happened.
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     100   9     Fighter  
-2          GalLalush       3         5     100   14    Fighter  
-3          Omerz           2         5     90    22    Fighter  
-4          Daniel          2         6     100   2     Fighter  
-5          Amirmann        1         3     80    5     Wizard  
+1          Efrat           3         5     100   9     Warrior  
+2          GalLalush       3         5     100   14    Warrior  
+3          Omerz           2         5     90    22    Warrior  
+4          Daniel          2         6     100   2     Warrior  
+5          Amirmann        1         3     80    5     Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -255,17 +255,17 @@ Nothing happened.
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     100   14    Fighter  
-2          Daniel          3         6     100   4     Fighter  
-3          Amirmann        1         3     70    5     Wizard  
-4          Omerz           2         5     0     22    Fighter  
-5          Efrat           3         5     0     9     Fighter  
+1          GalLalush       3         5     100   14    Warrior  
+2          Daniel          3         6     100   4     Warrior  
+3          Amirmann        1         3     70    5     Healer  
+4          Omerz           2         5     0     22    Warrior  
+5          Efrat           3         5     0     9     Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -283,15 +283,15 @@ Safe travels!
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     100   14    Fighter  
-2          Amirmann        1         3     90    5     Wizard  
-3          Daniel          3         6     0     4     Fighter  
-4          Omerz           2         5     0     22    Fighter  
-5          Efrat           3         5     0     9     Fighter  
+1          GalLalush       3         5     100   14    Warrior  
+2          Amirmann        1         3     90    5     Healer  
+3          Daniel          3         6     0     4     Warrior  
+4          Omerz           2         5     0     22    Warrior  
+5          Efrat           3         5     0     9     Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -313,11 +313,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     100   24    Fighter  
-2          Amirmann        1         3     90    5     Wizard  
-3          Daniel          3         6     0     4     Fighter  
-4          Omerz           2         5     0     22    Fighter  
-5          Efrat           3         5     0     9     Fighter  
+1          GalLalush       3         5     100   24    Warrior  
+2          Amirmann        1         3     90    5     Healer  
+3          Daniel          3         6     0     4     Warrior  
+4          Omerz           2         5     0     22    Warrior  
+5          Efrat           3         5     0     9     Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -337,11 +337,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     100   19    Fighter  
-2          Amirmann        1         3     80    5     Wizard  
-3          Daniel          3         6     0     4     Fighter  
-4          Omerz           2         5     0     22    Fighter  
-5          Efrat           3         5     0     9     Fighter  
+1          GalLalush       3         5     100   19    Warrior  
+2          Amirmann        1         3     80    5     Healer  
+3          Daniel          3         6     0     4     Warrior  
+4          Omerz           2         5     0     22    Warrior  
+5          Efrat           3         5     0     9     Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -363,11 +363,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     80    5     Wizard  
-2          GalLalush       3         5     0     19    Fighter  
-3          Daniel          3         6     0     4     Fighter  
-4          Omerz           2         5     0     22    Fighter  
-5          Efrat           3         5     0     9     Fighter  
+1          Amirmann        1         3     80    5     Healer  
+2          GalLalush       3         5     0     19    Warrior  
+3          Daniel          3         6     0     4     Warrior  
+4          Omerz           2         5     0     22    Warrior  
+5          Efrat           3         5     0     9     Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -378,8 +378,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     0     5     Wizard  
-2          GalLalush       3         5     0     19    Fighter  
-3          Daniel          3         6     0     4     Fighter  
-4          Omerz           2         5     0     22    Fighter  
-5          Efrat           3         5     0     9     Fighter  
+1          Amirmann        1         3     0     5     Healer  
+2          GalLalush       3         5     0     19    Warrior  
+3          Daniel          3         6     0     4     Warrior  
+4          Omerz           2         5     0     22    Warrior  
+5          Efrat           3         5     0     9     Warrior  

@@ -126,21 +126,21 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   20    Wizard  
-2          Amirmann        1         5     100   20    Fighter  
+1          Omerz           1         5     100   20    Healer  
+2          Amirmann        1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    20    Wizard  
-2          Amirmann        1         5     0     20    Fighter  
+1          Omerz           1         4     90    20    Healer  
+2          Amirmann        1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -150,19 +150,19 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    30    Wizard  
-2          Amirmann        1         5     0     20    Fighter  
+1          Omerz           1         4     90    30    Healer  
+2          Amirmann        1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Goblin.
+Player Omerz has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     80    30    Wizard  
-2          Amirmann        1         5     0     20    Fighter  
+1          Omerz           1         4     80    30    Healer  
+2          Amirmann        1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -173,5 +173,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     0     30    Wizard  
-2          Amirmann        1         5     0     20    Fighter  
+1          Omerz           1         4     0     30    Healer  
+2          Amirmann        1         5     0     20    Warrior  

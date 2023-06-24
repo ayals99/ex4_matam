@@ -64,21 +64,21 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Fighter  
-2          Daniel          1         5     100   10    Fighter  
+1          Omerz           1         5     100   10    Warrior  
+2          Daniel          1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   12    Fighter  
-2          Daniel          1         5     100   10    Fighter  
+1          Omerz           2         5     100   12    Warrior  
+2          Daniel          1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -90,41 +90,41 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Fighter  
-2          Omerz           2         5     0     12    Fighter  
+1          Daniel          1         5     100   10    Warrior  
+2          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   12    Fighter  
-2          Omerz           2         5     0     12    Fighter  
+1          Daniel          2         5     100   12    Warrior  
+2          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     100   14    Fighter  
-2          Omerz           2         5     0     12    Fighter  
+1          Daniel          3         5     100   14    Warrior  
+2          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     100   16    Fighter  
-2          Omerz           2         5     0     12    Fighter  
+1          Daniel          4         5     100   16    Warrior  
+2          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -142,19 +142,19 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     100   16    Fighter  
-2          Omerz           2         5     0     12    Fighter  
+1          Daniel          4         5     100   16    Warrior  
+2          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     100   18    Fighter  
-2          Omerz           2         5     0     12    Fighter  
+1          Daniel          5         5     100   18    Warrior  
+2          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -164,19 +164,19 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     100   18    Fighter  
-2          Omerz           2         5     0     12    Fighter  
+1          Daniel          5         5     100   18    Warrior  
+2          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         5     100   20    Fighter  
-2          Omerz           2         5     0     12    Fighter  
+1          Daniel          6         5     100   20    Warrior  
+2          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -186,8 +186,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         5     100   20    Fighter  
-2          Omerz           2         5     0     12    Fighter  
+1          Daniel          6         5     100   20    Warrior  
+2          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -197,8 +197,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         5     90    20    Fighter  
-2          Omerz           2         5     0     12    Fighter  
+1          Daniel          6         5     90    20    Warrior  
+2          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -208,8 +208,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         5     90    20    Fighter  
-2          Omerz           2         5     0     12    Fighter  
+1          Daniel          6         5     90    20    Warrior  
+2          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -220,5 +220,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         5     0     20    Fighter  
-2          Omerz           2         5     0     12    Fighter  
+1          Daniel          6         5     0     20    Warrior  
+2          Omerz           2         5     0     12    Warrior  

@@ -996,9 +996,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Fighter  
-2          Daniel          1         5     90    10    Fighter  
-3          TomerM          1         5     100   30    Rogue  
+1          Efrat           1         5     100   10    Warrior  
+2          Daniel          1         5     90    10    Warrior  
+3          TomerM          1         5     100   30    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -1006,15 +1006,15 @@ Start of round 2:
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    12    Fighter  
-2          TomerM          1         5     0     30    Rogue  
-3          Efrat           1         5     0     10    Fighter  
+1          Daniel          2         5     90    12    Warrior  
+2          TomerM          1         5     0     30    Ninja  
+3          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -1024,9 +1024,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     80    12    Fighter  
-2          TomerM          1         5     0     30    Rogue  
-3          Efrat           1         5     0     10    Fighter  
+1          Daniel          2         5     80    12    Warrior  
+2          TomerM          1         5     0     30    Ninja  
+3          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -1037,6 +1037,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     0     12    Fighter  
-2          TomerM          1         5     0     30    Rogue  
-3          Efrat           1         5     0     10    Fighter  
+1          Daniel          2         5     0     12    Warrior  
+2          TomerM          1         5     0     30    Ninja  
+3          Efrat           1         5     0     10    Warrior  

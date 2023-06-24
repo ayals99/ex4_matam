@@ -84,7 +84,7 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -97,8 +97,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   14    Rogue  
-2          Amirmann        1         5     100   10    Wizard  
+1          Amirmann        2         5     100   14    Ninja  
+2          Amirmann        1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -110,8 +110,8 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   14    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        2         5     100   14    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -121,19 +121,19 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   14    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        2         5     100   14    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   18    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        3         5     100   18    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -143,8 +143,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   38    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        3         5     100   38    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -163,8 +163,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     100   28    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        3         6     100   28    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -174,8 +174,8 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     100   28    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        3         6     100   28    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -185,8 +185,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     90    28    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        3         6     90    28    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -204,8 +204,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     91    23    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        3         6     91    23    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -216,5 +216,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     0     23    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        3         6     0     23    Ninja  
+2          Amirmann        1         5     0     10    Healer  

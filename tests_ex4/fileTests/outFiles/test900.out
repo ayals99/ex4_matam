@@ -271,27 +271,27 @@ Player GalLalush has been defeated by a Dragon.
 Start of TomerM's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   10    Fighter  
-2          Efrat           1         4     90    10    Wizard  
-3          GalLalush       1         5     0     10    Rogue  
+1          TomerM          1         5     100   10    Warrior  
+2          Efrat           1         4     90    10    Healer  
+3          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   12    Fighter  
-2          Efrat           1         4     80    10    Wizard  
-3          GalLalush       1         5     0     10    Rogue  
+1          TomerM          2         5     100   12    Warrior  
+2          Efrat           1         4     80    10    Healer  
+3          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -312,9 +312,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   12    Fighter  
-2          Efrat           1         4     70    10    Wizard  
-3          GalLalush       1         5     0     10    Rogue  
+1          TomerM          2         5     100   12    Warrior  
+2          Efrat           1         4     70    10    Healer  
+3          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -326,9 +326,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   12    Fighter  
-2          Efrat           1         4     60    10    Wizard  
-3          GalLalush       1         5     0     10    Rogue  
+1          TomerM          2         5     100   12    Warrior  
+2          Efrat           1         4     60    10    Healer  
+3          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -341,6 +341,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     0     10    Wizard  
-2          TomerM          2         5     0     12    Fighter  
-3          GalLalush       1         5     0     10    Rogue  
+1          Efrat           1         4     0     10    Healer  
+2          TomerM          2         5     0     12    Warrior  
+3          GalLalush       1         5     0     10    Ninja  

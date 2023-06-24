@@ -316,16 +316,16 @@ Player Daniel has been defeated by a Dragon.
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Fighter  
-2          Omerz           1         5     100   10    Wizard  
-3          Daniel          1         5     100   10    Fighter  
-4          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         5     100   20    Warrior  
+2          Omerz           1         5     100   10    Healer  
+3          Daniel          1         5     100   10    Warrior  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -333,16 +333,16 @@ Start of round 2:
 Start of Amirmann's turn: 
 Nothing happened.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Fighter  
-2          Omerz           1         5     100   10    Wizard  
-3          Daniel          1         5     0     10    Fighter  
-4          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         5     100   20    Warrior  
+2          Omerz           1         5     100   10    Healer  
+3          Daniel          1         5     0     10    Warrior  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -350,14 +350,14 @@ Start of round 3:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   30    Fighter  
-2          Omerz           2         5     100   12    Wizard  
-3          Daniel          1         5     0     10    Fighter  
-4          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         5     100   30    Warrior  
+2          Omerz           2         5     100   12    Healer  
+3          Daniel          1         5     0     10    Warrior  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -383,10 +383,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   25    Fighter  
-2          Omerz           2         6     100   2     Wizard  
-3          Daniel          1         5     0     10    Fighter  
-4          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         5     100   25    Warrior  
+2          Omerz           2         6     100   2     Healer  
+3          Daniel          1         5     0     10    Warrior  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -408,10 +408,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    25    Fighter  
-2          Omerz           2         6     100   2     Wizard  
-3          Daniel          1         5     0     10    Fighter  
-4          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         5     90    25    Warrior  
+2          Omerz           2         6     100   2     Healer  
+3          Daniel          1         5     0     10    Warrior  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -419,14 +419,14 @@ Start of round 6:
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     90    2     Wizard  
-2          Amirmann        1         5     0     25    Fighter  
-3          Daniel          1         5     0     10    Fighter  
-4          Daniel          1         5     0     10    Rogue  
+1          Omerz           2         5     90    2     Healer  
+2          Amirmann        1         5     0     25    Warrior  
+3          Daniel          1         5     0     10    Warrior  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -437,7 +437,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     0     2     Wizard  
-2          Amirmann        1         5     0     25    Fighter  
-3          Daniel          1         5     0     10    Fighter  
-4          Daniel          1         5     0     10    Rogue  
+1          Omerz           2         5     0     2     Healer  
+2          Amirmann        1         5     0     25    Warrior  
+3          Daniel          1         5     0     10    Warrior  
+4          Daniel          1         5     0     10    Ninja  

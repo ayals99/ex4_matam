@@ -746,25 +746,25 @@ Start of round 1:
 Start of Amirmann's turn: 
 You've won the scuffle without losing any health points.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Fighter  
-2          Daniel          1         5     100   10    Wizard  
+1          Amirmann        1         5     100   10    Warrior  
+2          Daniel          1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Fighter  
-2          Daniel          2         5     100   12    Wizard  
+1          Amirmann        2         5     100   12    Warrior  
+2          Daniel          2         5     100   12    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -772,12 +772,12 @@ Start of round 3:
 Start of Amirmann's turn: 
 You've won the scuffle without losing any health points.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Fighter  
-2          Daniel          2         4     90    12    Wizard  
+1          Amirmann        2         5     100   12    Warrior  
+2          Daniel          2         4     90    12    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -789,8 +789,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Fighter  
-2          Daniel          2         4     90    22    Wizard  
+1          Amirmann        2         5     100   12    Warrior  
+2          Daniel          2         4     90    22    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -798,12 +798,12 @@ Start of round 5:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   22    Fighter  
-2          Daniel          2         3     80    22    Wizard  
+1          Amirmann        2         5     100   22    Warrior  
+2          Daniel          2         3     80    22    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -815,8 +815,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   22    Fighter  
-2          Daniel          2         3     70    22    Wizard  
+1          Amirmann        2         5     100   22    Warrior  
+2          Daniel          2         3     70    22    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -828,30 +828,30 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     90    22    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        2         5     90    22    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     90    24    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        3         5     90    24    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     90    26    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        4         5     90    26    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -861,8 +861,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     90    26    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        4         5     90    26    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -872,8 +872,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     80    26    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        4         5     80    26    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -883,8 +883,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     80    26    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        4         5     80    26    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -894,8 +894,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     80    26    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        4         5     80    26    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -905,8 +905,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     80    26    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        4         5     80    26    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -925,8 +925,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     81    21    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        4         5     81    21    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -936,8 +936,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     81    21    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        4         5     81    21    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -947,8 +947,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     81    21    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        4         5     81    21    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 18:
@@ -958,8 +958,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     81    21    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        4         5     81    21    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -969,19 +969,19 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     71    21    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        4         5     71    21    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 20:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     71    23    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        5         5     71    23    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 21:
@@ -991,8 +991,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     71    23    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        5         5     71    23    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 22:
@@ -1002,19 +1002,19 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     71    23    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        5         5     71    23    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 23:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     71    25    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        6         5     71    25    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 24:
@@ -1024,8 +1024,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     71    25    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        6         5     71    25    Warrior  
+2          Daniel          2         3     0     22    Healer  
 
 -------------------------------------------
 Start of round 25:
@@ -1036,5 +1036,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     0     25    Fighter  
-2          Daniel          2         3     0     22    Wizard  
+1          Amirmann        6         5     0     25    Warrior  
+2          Daniel          2         3     0     22    Healer  

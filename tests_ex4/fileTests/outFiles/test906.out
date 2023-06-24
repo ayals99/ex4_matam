@@ -130,7 +130,7 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
@@ -138,9 +138,9 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Wizard  
-2          Daniel          1         5     100   20    Wizard  
-3          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        2         5     100   12    Healer  
+2          Daniel          1         5     100   20    Healer  
+3          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -159,9 +159,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     100   2     Wizard  
-2          Daniel          1         5     100   30    Wizard  
-3          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        2         6     100   2     Healer  
+2          Daniel          1         5     100   30    Healer  
+3          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -177,13 +177,13 @@ You dont have enough coins for this purchase. Please try again.
 Amirmann has paid 0 coins for 1 health potion!
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     100   2     Wizard  
-2          Daniel          2         5     100   32    Wizard  
-3          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        2         6     100   2     Healer  
+2          Daniel          2         5     100   32    Healer  
+3          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -195,9 +195,9 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     100   12    Wizard  
-2          Daniel          2         5     0     32    Wizard  
-3          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        2         6     100   12    Healer  
+2          Daniel          2         5     0     32    Healer  
+3          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -215,9 +215,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     100   12    Wizard  
-2          Daniel          2         5     0     32    Wizard  
-3          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        2         6     100   12    Healer  
+2          Daniel          2         5     0     32    Healer  
+3          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -227,9 +227,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     100   22    Wizard  
-2          Daniel          2         5     0     32    Wizard  
-3          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        2         6     100   22    Healer  
+2          Daniel          2         5     0     32    Healer  
+3          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -246,21 +246,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         7     100   12    Wizard  
-2          Daniel          2         5     0     32    Wizard  
-3          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        2         7     100   12    Healer  
+2          Daniel          2         5     0     32    Healer  
+3          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         7     100   14    Wizard  
-2          Daniel          2         5     0     32    Wizard  
-3          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        3         7     100   14    Healer  
+2          Daniel          2         5     0     32    Healer  
+3          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -270,9 +270,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         7     100   24    Wizard  
-2          Daniel          2         5     0     32    Wizard  
-3          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        3         7     100   24    Healer  
+2          Daniel          2         5     0     32    Healer  
+3          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -283,6 +283,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         7     0     24    Wizard  
-2          Daniel          2         5     0     32    Wizard  
-3          Amirmann        1         5     0     10    Wizard  
+1          Amirmann        3         7     0     24    Healer  
+2          Daniel          2         5     0     32    Healer  
+3          Amirmann        1         5     0     10    Healer  

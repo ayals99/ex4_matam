@@ -555,8 +555,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Rogue  
-2          Amirmann        1         5     90    10    Fighter  
+1          Amirmann        1         5     100   10    Ninja  
+2          Amirmann        1         5     90    10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -577,8 +577,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Rogue  
-2          Amirmann        1         6     90    0     Fighter  
+1          Amirmann        1         5     100   10    Ninja  
+2          Amirmann        1         6     90    0     Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -590,8 +590,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Rogue  
-2          Amirmann        1         6     90    0     Fighter  
+1          Amirmann        1         5     100   10    Ninja  
+2          Amirmann        1         6     90    0     Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -612,8 +612,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   0     Rogue  
-2          Amirmann        1         6     90    0     Fighter  
+1          Amirmann        1         6     100   0     Ninja  
+2          Amirmann        1         6     90    0     Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -635,8 +635,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     90    0     Fighter  
-2          Amirmann        1         6     0     0     Rogue  
+1          Amirmann        1         6     90    0     Warrior  
+2          Amirmann        1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -646,8 +646,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     90    0     Fighter  
-2          Amirmann        1         6     0     0     Rogue  
+1          Amirmann        1         6     90    0     Warrior  
+2          Amirmann        1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -657,8 +657,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     90    0     Fighter  
-2          Amirmann        1         6     0     0     Rogue  
+1          Amirmann        1         6     90    0     Warrior  
+2          Amirmann        1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -668,8 +668,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     80    0     Fighter  
-2          Amirmann        1         6     0     0     Rogue  
+1          Amirmann        1         6     80    0     Warrior  
+2          Amirmann        1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -679,19 +679,19 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     70    0     Fighter  
-2          Amirmann        1         6     0     0     Rogue  
+1          Amirmann        1         6     70    0     Warrior  
+2          Amirmann        1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     70    2     Fighter  
-2          Amirmann        1         6     0     0     Rogue  
+1          Amirmann        2         6     70    2     Warrior  
+2          Amirmann        1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -702,5 +702,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     0     2     Fighter  
-2          Amirmann        1         6     0     0     Rogue  
+1          Amirmann        2         6     0     2     Warrior  
+2          Amirmann        1         6     0     0     Ninja  

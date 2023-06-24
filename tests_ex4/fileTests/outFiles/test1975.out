@@ -138,8 +138,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   10    Wizard  
-2          GalLalush       1         5     90    10    Rogue  
+1          TomerM          1         5     100   10    Healer  
+2          GalLalush       1         5     90    10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -147,25 +147,25 @@ Start of round 2:
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Wizard  
-2          GalLalush       2         5     90    14    Rogue  
+1          TomerM          1         5     90    10    Healer  
+2          GalLalush       2         5     90    14    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   10    Wizard  
-2          GalLalush       2         5     90    14    Rogue  
+1          TomerM          1         5     100   10    Healer  
+2          GalLalush       2         5     90    14    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -194,8 +194,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         6     100   0     Wizard  
-2          GalLalush       2         5     90    14    Rogue  
+1          TomerM          1         6     100   0     Healer  
+2          GalLalush       2         5     90    14    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -208,5 +208,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     0     14    Rogue  
-2          TomerM          1         6     0     0     Wizard  
+1          GalLalush       2         5     0     14    Ninja  
+2          TomerM          1         6     0     0     Healer  

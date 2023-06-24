@@ -99,14 +99,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   10    Wizard  
-2          GalLalush       1         5     100   20    Wizard  
+1          TomerM          1         5     100   10    Healer  
+2          GalLalush       1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -118,19 +118,19 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   30    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          GalLalush       1         5     100   30    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   32    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          GalLalush       2         5     100   32    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -140,8 +140,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    32    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          GalLalush       2         5     90    32    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -158,19 +158,19 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     90    22    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          GalLalush       2         6     90    22    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     100   22    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          GalLalush       2         6     100   22    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -187,8 +187,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         7     100   12    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          GalLalush       2         7     100   12    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -198,19 +198,19 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         7     90    12    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          GalLalush       2         7     90    12    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         7     100   12    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          GalLalush       2         7     100   12    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -220,8 +220,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         7     90    12    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          GalLalush       2         7     90    12    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -232,5 +232,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         7     0     12    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          GalLalush       2         7     0     12    Healer  
+2          TomerM          1         5     0     10    Healer  

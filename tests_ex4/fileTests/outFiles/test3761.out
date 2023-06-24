@@ -178,20 +178,20 @@ Please insert the player name and class:
 Start of round 1:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Wizard  
-2          Daniel          1         5     100   10    Fighter  
-3          GalLalush       2         5     100   12    Fighter  
-4          Daniel          1         5     0     10    Rogue  
+1          Efrat           1         5     100   10    Healer  
+2          Daniel          1         5     100   10    Warrior  
+3          GalLalush       2         5     100   12    Warrior  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -205,16 +205,16 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   20    Fighter  
-2          GalLalush       2         5     100   22    Fighter  
-3          Efrat           1         5     0     10    Wizard  
-4          Daniel          1         5     0     10    Rogue  
+1          Daniel          1         5     100   20    Warrior  
+2          GalLalush       2         5     100   22    Warrior  
+3          Efrat           1         5     0     10    Healer  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -227,10 +227,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   22    Fighter  
-2          GalLalush       2         6     100   12    Fighter  
-3          Efrat           1         5     0     10    Wizard  
-4          Daniel          1         5     0     10    Rogue  
+1          Daniel          2         5     100   22    Warrior  
+2          GalLalush       2         6     100   12    Warrior  
+3          Efrat           1         5     0     10    Healer  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -242,10 +242,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   32    Fighter  
-2          GalLalush       2         6     100   12    Fighter  
-3          Efrat           1         5     0     10    Wizard  
-4          Daniel          1         5     0     10    Rogue  
+1          Daniel          2         5     100   32    Warrior  
+2          GalLalush       2         6     100   12    Warrior  
+3          Efrat           1         5     0     10    Healer  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -257,10 +257,10 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    32    Fighter  
-2          GalLalush       2         6     0     12    Fighter  
-3          Efrat           1         5     0     10    Wizard  
-4          Daniel          1         5     0     10    Rogue  
+1          Daniel          2         5     90    32    Warrior  
+2          GalLalush       2         6     0     12    Warrior  
+3          Efrat           1         5     0     10    Healer  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -270,10 +270,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    32    Fighter  
-2          GalLalush       2         6     0     12    Fighter  
-3          Efrat           1         5     0     10    Wizard  
-4          Daniel          1         5     0     10    Rogue  
+1          Daniel          2         5     90    32    Warrior  
+2          GalLalush       2         6     0     12    Warrior  
+3          Efrat           1         5     0     10    Healer  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -284,7 +284,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     0     32    Fighter  
-2          GalLalush       2         6     0     12    Fighter  
-3          Efrat           1         5     0     10    Wizard  
-4          Daniel          1         5     0     10    Rogue  
+1          Daniel          2         5     0     32    Warrior  
+2          GalLalush       2         6     0     12    Warrior  
+3          Efrat           1         5     0     10    Healer  
+4          Daniel          1         5     0     10    Ninja  

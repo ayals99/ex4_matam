@@ -130,7 +130,7 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Amirmann's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -143,16 +143,16 @@ You have entered an invalid input. Please try again.
 Amirmann has paid 0 coins 
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    10    Rogue  
-2          Amirmann        1         5     100   10    Fighter  
-3          GalLalush       1         4     90    10    Wizard  
-4          Efrat           1         5     90    10    Wizard  
+1          Omerz           1         4     90    10    Ninja  
+2          Amirmann        1         5     100   10    Warrior  
+3          GalLalush       1         4     90    10    Healer  
+4          Efrat           1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -171,7 +171,7 @@ You have entered an invalid input. Please try again.
 Amirmann has paid 10 coins for 1 force boost!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -186,10 +186,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     80    10    Rogue  
-2          Amirmann        1         6     100   0     Fighter  
-3          GalLalush       1         3     80    10    Wizard  
-4          Efrat           1         6     90    0     Wizard  
+1          Omerz           1         4     80    10    Ninja  
+2          Amirmann        1         6     100   0     Warrior  
+3          GalLalush       1         3     80    10    Healer  
+4          Efrat           1         6     90    0     Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -209,16 +209,16 @@ You dont have enough coins for this purchase. Please try again.
 Amirmann has paid 0 coins for 1 health potion!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     80    10    Rogue  
-2          Amirmann        1         6     100   0     Fighter  
-3          GalLalush       1         2     70    10    Wizard  
-4          Efrat           1         6     80    0     Wizard  
+1          Omerz           1         4     80    10    Ninja  
+2          Amirmann        1         6     100   0     Warrior  
+3          GalLalush       1         2     70    10    Healer  
+4          Efrat           1         6     80    0     Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -234,10 +234,10 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     80    30    Rogue  
-2          Amirmann        1         6     100   0     Fighter  
-3          GalLalush       1         2     70    20    Wizard  
-4          Efrat           1         6     0     0     Wizard  
+1          Omerz           1         4     80    30    Ninja  
+2          Amirmann        1         6     100   0     Warrior  
+3          GalLalush       1         2     70    20    Healer  
+4          Efrat           1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -251,10 +251,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     80    30    Rogue  
-2          Amirmann        1         6     100   0     Fighter  
-3          GalLalush       1         2     60    20    Wizard  
-4          Efrat           1         6     0     0     Wizard  
+1          Omerz           1         4     80    30    Ninja  
+2          Amirmann        1         6     100   0     Warrior  
+3          GalLalush       1         2     60    20    Healer  
+4          Efrat           1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -264,37 +264,37 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     80    50    Rogue  
-2          Amirmann        1         6     100   10    Fighter  
-3          GalLalush       1         1     50    20    Wizard  
-4          Efrat           1         6     0     0     Wizard  
+1          Omerz           1         4     80    50    Ninja  
+2          Amirmann        1         6     100   10    Warrior  
+3          GalLalush       1         1     50    20    Healer  
+4          Efrat           1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     70    50    Rogue  
-2          Amirmann        2         6     100   12    Fighter  
-3          GalLalush       1         1     0     20    Wizard  
-4          Efrat           1         6     0     0     Wizard  
+1          Omerz           1         3     70    50    Ninja  
+2          Amirmann        2         6     100   12    Warrior  
+3          GalLalush       1         1     0     20    Healer  
+4          Efrat           1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Goblin.
+Player Omerz has been defeated by a Gremlin.
 Start of Amirmann's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -307,10 +307,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     60    50    Rogue  
-2          Amirmann        2         7     100   2     Fighter  
-3          GalLalush       1         1     0     20    Wizard  
-4          Efrat           1         6     0     0     Wizard  
+1          Omerz           1         3     60    50    Ninja  
+2          Amirmann        2         7     100   2     Warrior  
+3          GalLalush       1         1     0     20    Healer  
+4          Efrat           1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -322,23 +322,23 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         7     100   12    Fighter  
-2          Omerz           1         3     0     50    Rogue  
-3          GalLalush       1         1     0     20    Wizard  
-4          Efrat           1         6     0     0     Wizard  
+1          Amirmann        2         7     100   12    Warrior  
+2          Omerz           1         3     0     50    Ninja  
+3          GalLalush       1         1     0     20    Healer  
+4          Efrat           1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         7     100   14    Fighter  
-2          Omerz           1         3     0     50    Rogue  
-3          GalLalush       1         1     0     20    Wizard  
-4          Efrat           1         6     0     0     Wizard  
+1          Amirmann        3         7     100   14    Warrior  
+2          Omerz           1         3     0     50    Ninja  
+3          GalLalush       1         1     0     20    Healer  
+4          Efrat           1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -348,10 +348,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         7     100   24    Fighter  
-2          Omerz           1         3     0     50    Rogue  
-3          GalLalush       1         1     0     20    Wizard  
-4          Efrat           1         6     0     0     Wizard  
+1          Amirmann        3         7     100   24    Warrior  
+2          Omerz           1         3     0     50    Ninja  
+3          GalLalush       1         1     0     20    Healer  
+4          Efrat           1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -362,7 +362,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         7     0     24    Fighter  
-2          Omerz           1         3     0     50    Rogue  
-3          GalLalush       1         1     0     20    Wizard  
-4          Efrat           1         6     0     0     Wizard  
+1          Amirmann        3         7     0     24    Warrior  
+2          Omerz           1         3     0     50    Ninja  
+3          GalLalush       1         1     0     20    Healer  
+4          Efrat           1         6     0     0     Healer  

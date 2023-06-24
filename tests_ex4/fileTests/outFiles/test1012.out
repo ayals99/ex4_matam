@@ -106,17 +106,17 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    10    Wizard  
-2          Efrat           1         4     90    10    Rogue  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           1         4     90    10    Healer  
+2          Efrat           1         4     90    10    Ninja  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -128,21 +128,21 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     90    10    Rogue  
-2          Omerz           1         4     0     10    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Efrat           1         4     90    10    Ninja  
+2          Omerz           1         4     0     10    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Goblin.
+Player Efrat has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     80    10    Rogue  
-2          Omerz           1         4     0     10    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Efrat           1         4     80    10    Ninja  
+2          Omerz           1         4     0     10    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -152,9 +152,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     70    10    Rogue  
-2          Omerz           1         4     0     10    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Efrat           1         4     70    10    Ninja  
+2          Omerz           1         4     0     10    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -164,9 +164,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     70    10    Rogue  
-2          Omerz           1         4     0     10    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Efrat           1         4     70    10    Ninja  
+2          Omerz           1         4     0     10    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -176,9 +176,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     70    10    Rogue  
-2          Omerz           1         4     0     10    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Efrat           1         4     70    10    Ninja  
+2          Omerz           1         4     0     10    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -188,9 +188,9 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     70    10    Rogue  
-2          Omerz           1         4     0     10    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Efrat           1         4     70    10    Ninja  
+2          Omerz           1         4     0     10    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -201,6 +201,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     0     10    Rogue  
-2          Omerz           1         4     0     10    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Efrat           1         4     0     10    Ninja  
+2          Omerz           1         4     0     10    Healer  
+3          Omerz           1         5     0     10    Ninja  

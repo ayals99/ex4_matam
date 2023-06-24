@@ -113,8 +113,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          Amirmann        1         5     100   20    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -124,19 +124,19 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   30    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          Amirmann        1         5     100   30    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    30    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          Amirmann        1         4     90    30    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -147,5 +147,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     0     30    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          Amirmann        1         4     0     30    Healer  
+2          TomerM          1         5     0     10    Healer  

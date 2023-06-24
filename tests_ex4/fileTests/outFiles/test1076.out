@@ -1246,8 +1246,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   10    Fighter  
-2          TomerM          1         5     100   10    Wizard  
+1          TomerM          1         5     100   10    Warrior  
+2          TomerM          1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -1259,8 +1259,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   20    Fighter  
-2          TomerM          1         5     90    10    Wizard  
+1          TomerM          1         5     100   20    Warrior  
+2          TomerM          1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -1279,21 +1279,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    20    Fighter  
-2          TomerM          1         6     90    0     Wizard  
+1          TomerM          1         5     90    20    Warrior  
+2          TomerM          1         6     90    0     Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    22    Fighter  
-2          TomerM          1         6     90    10    Wizard  
+1          TomerM          2         5     90    22    Warrior  
+2          TomerM          1         6     90    10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -1314,8 +1314,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         7     90    0     Wizard  
-2          TomerM          2         5     0     22    Fighter  
+1          TomerM          1         7     90    0     Healer  
+2          TomerM          2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -1325,8 +1325,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         7     90    10    Wizard  
-2          TomerM          2         5     0     22    Fighter  
+1          TomerM          1         7     90    10    Healer  
+2          TomerM          2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -1343,8 +1343,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         8     90    0     Wizard  
-2          TomerM          2         5     0     22    Fighter  
+1          TomerM          1         8     90    0     Healer  
+2          TomerM          2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -1354,8 +1354,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         8     80    0     Wizard  
-2          TomerM          2         5     0     22    Fighter  
+1          TomerM          1         8     80    0     Healer  
+2          TomerM          2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -1365,8 +1365,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         8     70    0     Wizard  
-2          TomerM          2         5     0     22    Fighter  
+1          TomerM          1         8     70    0     Healer  
+2          TomerM          2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -1377,5 +1377,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         8     0     0     Wizard  
-2          TomerM          2         5     0     22    Fighter  
+1          TomerM          1         8     0     0     Healer  
+2          TomerM          2         5     0     22    Warrior  

@@ -262,39 +262,39 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've won the scuffle without losing any health points.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   12    Fighter  
-2          GalLalush       1         5     100   10    Fighter  
-3          TomerM          2         5     100   12    Fighter  
-4          GalLalush       1         5     100   20    Wizard  
+1          Omerz           2         5     100   12    Warrior  
+2          GalLalush       1         5     100   10    Warrior  
+3          TomerM          2         5     100   12    Warrior  
+4          GalLalush       1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   14    Fighter  
-2          GalLalush       2         5     100   12    Fighter  
-3          TomerM          3         5     100   14    Fighter  
-4          GalLalush       1         5     90    20    Wizard  
+1          Omerz           3         5     100   14    Warrior  
+2          GalLalush       2         5     100   12    Warrior  
+3          TomerM          3         5     100   14    Warrior  
+4          GalLalush       1         5     90    20    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -304,16 +304,16 @@ You fell into the trap, lose 10 health points.
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     90    14    Fighter  
-2          TomerM          4         5     100   16    Fighter  
-3          GalLalush       1         5     80    20    Wizard  
-4          GalLalush       2         5     0     12    Fighter  
+1          Omerz           3         5     90    14    Warrior  
+2          TomerM          4         5     100   16    Warrior  
+3          GalLalush       1         5     80    20    Healer  
+4          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -334,10 +334,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     90    14    Fighter  
-2          TomerM          4         5     100   26    Fighter  
-3          GalLalush       1         6     80    10    Wizard  
-4          GalLalush       2         5     0     12    Fighter  
+1          Omerz           3         5     90    14    Warrior  
+2          TomerM          4         5     100   26    Warrior  
+3          GalLalush       1         6     80    10    Healer  
+4          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -345,16 +345,16 @@ Start of round 5:
 Start of Omerz's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     90    14    Fighter  
-2          TomerM          5         5     100   28    Fighter  
-3          GalLalush       1         6     0     10    Wizard  
-4          GalLalush       2         5     0     12    Fighter  
+1          Omerz           3         5     90    14    Warrior  
+2          TomerM          5         5     100   28    Warrior  
+3          GalLalush       1         6     0     10    Healer  
+4          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -366,49 +366,49 @@ Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     80    14    Fighter  
-2          TomerM          5         5     0     28    Fighter  
-3          GalLalush       1         6     0     10    Wizard  
-4          GalLalush       2         5     0     12    Fighter  
+1          Omerz           3         5     80    14    Warrior  
+2          TomerM          5         5     0     28    Warrior  
+3          GalLalush       1         6     0     10    Healer  
+4          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     80    16    Fighter  
-2          TomerM          5         5     0     28    Fighter  
-3          GalLalush       1         6     0     10    Wizard  
-4          GalLalush       2         5     0     12    Fighter  
+1          Omerz           4         5     80    16    Warrior  
+2          TomerM          5         5     0     28    Warrior  
+3          GalLalush       1         6     0     10    Healer  
+4          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     80    18    Fighter  
-2          TomerM          5         5     0     28    Fighter  
-3          GalLalush       1         6     0     10    Wizard  
-4          GalLalush       2         5     0     12    Fighter  
+1          Omerz           5         5     80    18    Warrior  
+2          TomerM          5         5     0     28    Warrior  
+3          GalLalush       1         6     0     10    Healer  
+4          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         5     80    20    Fighter  
-2          TomerM          5         5     0     28    Fighter  
-3          GalLalush       1         6     0     10    Wizard  
-4          GalLalush       2         5     0     12    Fighter  
+1          Omerz           6         5     80    20    Warrior  
+2          TomerM          5         5     0     28    Warrior  
+3          GalLalush       1         6     0     10    Healer  
+4          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -418,23 +418,23 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         5     80    20    Fighter  
-2          TomerM          5         5     0     28    Fighter  
-3          GalLalush       1         6     0     10    Wizard  
-4          GalLalush       2         5     0     12    Fighter  
+1          Omerz           6         5     80    20    Warrior  
+2          TomerM          5         5     0     28    Warrior  
+3          GalLalush       1         6     0     10    Healer  
+4          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           7         5     80    22    Fighter  
-2          TomerM          5         5     0     28    Fighter  
-3          GalLalush       1         6     0     10    Wizard  
-4          GalLalush       2         5     0     12    Fighter  
+1          Omerz           7         5     80    22    Warrior  
+2          TomerM          5         5     0     28    Warrior  
+3          GalLalush       1         6     0     10    Healer  
+4          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -444,23 +444,23 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           7         5     80    22    Fighter  
-2          TomerM          5         5     0     28    Fighter  
-3          GalLalush       1         6     0     10    Wizard  
-4          GalLalush       2         5     0     12    Fighter  
+1          Omerz           7         5     80    22    Warrior  
+2          TomerM          5         5     0     28    Warrior  
+3          GalLalush       1         6     0     10    Healer  
+4          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           8         5     80    24    Fighter  
-2          TomerM          5         5     0     28    Fighter  
-3          GalLalush       1         6     0     10    Wizard  
-4          GalLalush       2         5     0     12    Fighter  
+1          Omerz           8         5     80    24    Warrior  
+2          TomerM          5         5     0     28    Warrior  
+3          GalLalush       1         6     0     10    Healer  
+4          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -470,34 +470,34 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           8         5     80    34    Fighter  
-2          TomerM          5         5     0     28    Fighter  
-3          GalLalush       1         6     0     10    Wizard  
-4          GalLalush       2         5     0     12    Fighter  
+1          Omerz           8         5     80    34    Warrior  
+2          TomerM          5         5     0     28    Warrior  
+3          GalLalush       1         6     0     10    Healer  
+4          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           9         5     80    36    Fighter  
-2          TomerM          5         5     0     28    Fighter  
-3          GalLalush       1         6     0     10    Wizard  
-4          GalLalush       2         5     0     12    Fighter  
+1          Omerz           9         5     80    36    Warrior  
+2          TomerM          5         5     0     28    Warrior  
+3          GalLalush       1         6     0     10    Healer  
+4          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 16:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           10        5     80    38    Fighter  
-2          TomerM          5         5     0     28    Fighter  
-3          GalLalush       1         6     0     10    Wizard  
-4          GalLalush       2         5     0     12    Fighter  
+1          Omerz           10        5     80    38    Warrior  
+2          TomerM          5         5     0     28    Warrior  
+3          GalLalush       1         6     0     10    Healer  
+4          GalLalush       2         5     0     12    Warrior  

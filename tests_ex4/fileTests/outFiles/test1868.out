@@ -151,21 +151,21 @@ Start of round 1:
 Start of Omerz's turn: 
 Nothing happened.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Fighter  
-2          Amirmann        2         5     100   12    Wizard  
-3          Omerz           1         5     100   20    Fighter  
+1          Omerz           1         5     100   10    Warrior  
+2          Amirmann        2         5     100   12    Healer  
+3          Omerz           1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
@@ -173,9 +173,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   12    Fighter  
-2          Amirmann        2         5     100   22    Wizard  
-3          Omerz           1         5     100   20    Fighter  
+1          Omerz           2         5     100   12    Warrior  
+2          Amirmann        2         5     100   22    Healer  
+3          Omerz           1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -183,15 +183,15 @@ Start of round 3:
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   12    Fighter  
-2          Amirmann        2         4     90    22    Wizard  
-3          Omerz           1         5     100   20    Fighter  
+1          Omerz           2         5     100   12    Warrior  
+2          Amirmann        2         4     90    22    Healer  
+3          Omerz           1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -212,25 +212,25 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   22    Fighter  
-2          Amirmann        2         4     80    22    Wizard  
-3          Omerz           1         5     100   15    Fighter  
+1          Omerz           2         5     100   22    Warrior  
+2          Amirmann        2         4     80    22    Healer  
+3          Omerz           1         5     100   15    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   24    Fighter  
-2          Amirmann        2         4     100   22    Wizard  
-3          Omerz           1         5     100   25    Fighter  
+1          Omerz           3         5     100   24    Warrior  
+2          Amirmann        2         4     100   22    Healer  
+3          Omerz           1         5     100   25    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -238,15 +238,15 @@ Start of round 6:
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   24    Fighter  
-2          Amirmann        3         4     100   24    Wizard  
-3          Omerz           1         5     100   25    Fighter  
+1          Omerz           3         5     100   24    Warrior  
+2          Amirmann        3         4     100   24    Healer  
+3          Omerz           1         5     100   25    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -264,13 +264,13 @@ You have entered an invalid input. Please try again.
 Amirmann has paid 10 coins for 1 force boost!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   24    Fighter  
-2          Amirmann        3         5     100   14    Wizard  
-3          Omerz           2         5     100   27    Fighter  
+1          Omerz           3         5     100   24    Warrior  
+2          Amirmann        3         5     100   14    Healer  
+3          Omerz           2         5     100   27    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -308,9 +308,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   24    Fighter  
-2          Amirmann        3         5     100   14    Wizard  
-3          Omerz           2         6     100   17    Fighter  
+1          Omerz           3         5     100   24    Warrior  
+2          Amirmann        3         5     100   14    Healer  
+3          Omerz           2         6     100   17    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -318,15 +318,15 @@ Start of round 9:
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   34    Fighter  
-2          Amirmann        3         5     100   14    Wizard  
-3          Omerz           3         6     100   19    Fighter  
+1          Omerz           3         5     100   34    Warrior  
+2          Amirmann        3         5     100   14    Healer  
+3          Omerz           3         6     100   19    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -347,31 +347,31 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   34    Fighter  
-2          Amirmann        3         5     90    14    Wizard  
-3          Omerz           3         6     100   14    Fighter  
+1          Omerz           3         5     100   34    Warrior  
+2          Amirmann        3         5     90    14    Healer  
+3          Omerz           3         6     100   14    Warrior  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     100   36    Fighter  
-2          Amirmann        3         4     80    14    Wizard  
-3          Omerz           3         6     100   24    Fighter  
+1          Omerz           4         5     100   36    Warrior  
+2          Amirmann        3         4     80    14    Healer  
+3          Omerz           3         6     100   24    Warrior  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
@@ -386,9 +386,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     100   38    Fighter  
-2          Amirmann        3         4     70    14    Wizard  
-3          Omerz           3         6     100   24    Fighter  
+1          Omerz           5         5     100   38    Warrior  
+2          Amirmann        3         4     70    14    Healer  
+3          Omerz           3         6     100   24    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -402,47 +402,47 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     100   48    Fighter  
-2          Amirmann        3         4     60    14    Wizard  
-3          Omerz           3         6     100   34    Fighter  
+1          Omerz           5         5     100   48    Warrior  
+2          Amirmann        3         4     60    14    Healer  
+3          Omerz           3         6     100   34    Warrior  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         5     100   50    Fighter  
-2          Amirmann        3         3     50    14    Wizard  
-3          Omerz           3         6     100   34    Fighter  
+1          Omerz           6         5     100   50    Warrior  
+2          Amirmann        3         3     50    14    Healer  
+3          Omerz           3         6     100   34    Warrior  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           7         5     100   52    Fighter  
-2          Amirmann        3         3     70    14    Wizard  
-3          Omerz           3         6     100   34    Fighter  
+1          Omerz           7         5     100   52    Warrior  
+2          Amirmann        3         3     70    14    Healer  
+3          Omerz           3         6     100   34    Warrior  
 
 -------------------------------------------
 Start of round 16:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
@@ -450,9 +450,9 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           8         5     100   54    Fighter  
-2          Amirmann        3         3     60    14    Wizard  
-3          Omerz           3         6     0     34    Fighter  
+1          Omerz           8         5     100   54    Warrior  
+2          Amirmann        3         3     60    14    Healer  
+3          Omerz           3         6     0     34    Warrior  
 
 -------------------------------------------
 Start of round 17:
@@ -465,6 +465,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         3     0     14    Wizard  
-2          Omerz           8         5     0     54    Fighter  
-3          Omerz           3         6     0     34    Fighter  
+1          Amirmann        3         3     0     14    Healer  
+2          Omerz           8         5     0     54    Warrior  
+3          Omerz           3         6     0     34    Warrior  

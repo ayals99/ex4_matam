@@ -304,9 +304,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Wizard  
-2          Omerz           1         5     90    10    Wizard  
-3          Daniel          1         5     100   10    Fighter  
+1          TomerM          1         5     90    10    Healer  
+2          Omerz           1         5     90    10    Healer  
+3          Daniel          1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -334,9 +334,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     90    0     Wizard  
-2          Daniel          1         6     100   0     Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           1         6     90    0     Healer  
+2          Daniel          1         6     100   0     Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -356,9 +356,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     90    0     Wizard  
-2          Daniel          1         6     100   10    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           1         6     90    0     Healer  
+2          Daniel          1         6     100   10    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -366,13 +366,13 @@ Start of round 4:
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     80    0     Wizard  
-2          Daniel          2         6     100   12    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           1         6     80    0     Healer  
+2          Daniel          2         6     100   12    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -384,9 +384,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     70    0     Wizard  
-2          Daniel          2         6     100   12    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           1         6     70    0     Healer  
+2          Daniel          2         6     100   12    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -407,15 +407,15 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     60    0     Wizard  
-2          Daniel          2         6     100   12    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           1         6     60    0     Healer  
+2          Daniel          2         6     100   12    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -430,9 +430,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         6     60    2     Wizard  
-2          Daniel          2         6     100   12    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           2         6     60    2     Healer  
+2          Daniel          2         6     100   12    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -444,51 +444,51 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         6     50    2     Wizard  
-2          Daniel          2         6     90    12    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           2         6     50    2     Healer  
+2          Daniel          2         6     90    12    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         6     70    2     Wizard  
-2          Daniel          2         6     90    12    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           2         6     70    2     Healer  
+2          Daniel          2         6     90    12    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         6     70    4     Wizard  
-2          Daniel          2         6     80    12    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           3         6     70    4     Healer  
+2          Daniel          2         6     80    12    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         6     90    4     Wizard  
-2          Daniel          2         6     80    12    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           3         6     90    4     Healer  
+2          Daniel          2         6     80    12    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -500,9 +500,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         6     80    4     Wizard  
-2          Daniel          2         6     80    12    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           3         6     80    4     Healer  
+2          Daniel          2         6     80    12    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -514,9 +514,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         6     80    14    Wizard  
-2          Daniel          2         6     80    12    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           3         6     80    14    Healer  
+2          Daniel          2         6     80    12    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -531,27 +531,27 @@ Omerz has 14 coins
 Omerz has paid 0 coins 
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         6     80    14    Wizard  
-2          Daniel          3         6     80    14    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           3         6     80    14    Healer  
+2          Daniel          3         6     80    14    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         6     80    16    Wizard  
-2          Daniel          3         6     70    14    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         6     80    16    Healer  
+2          Daniel          3         6     70    14    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -571,9 +571,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         6     80    16    Wizard  
-2          Daniel          3         6     70    14    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         6     80    16    Healer  
+2          Daniel          3         6     70    14    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -585,9 +585,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         6     70    16    Wizard  
-2          Daniel          3         6     70    24    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         6     70    16    Healer  
+2          Daniel          3         6     70    24    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 18:
@@ -607,9 +607,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     71    19    Fighter  
-2          Omerz           4         6     0     16    Wizard  
-3          TomerM          1         5     0     10    Wizard  
+1          Daniel          3         6     71    19    Warrior  
+2          Omerz           4         6     0     16    Healer  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -628,9 +628,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     71    19    Fighter  
-2          Omerz           4         6     0     16    Wizard  
-3          TomerM          1         5     0     10    Wizard  
+1          Daniel          3         6     71    19    Warrior  
+2          Omerz           4         6     0     16    Healer  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 20:
@@ -640,9 +640,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     71    29    Fighter  
-2          Omerz           4         6     0     16    Wizard  
-3          TomerM          1         5     0     10    Wizard  
+1          Daniel          3         6     71    29    Warrior  
+2          Omerz           4         6     0     16    Healer  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 21:
@@ -653,6 +653,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     0     29    Fighter  
-2          Omerz           4         6     0     16    Wizard  
-3          TomerM          1         5     0     10    Wizard  
+1          Daniel          3         6     0     29    Warrior  
+2          Omerz           4         6     0     16    Healer  
+3          TomerM          1         5     0     10    Healer  

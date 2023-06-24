@@ -564,29 +564,29 @@ Safe travels!
 Start of Amirmann's turn: 
 You fell into the trap, lose 10 health points.
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   0     Rogue  
-2          Amirmann        1         5     90    10    Wizard  
-3          GalLalush       1         4     90    10    Wizard  
+1          Amirmann        1         6     100   0     Ninja  
+2          Amirmann        1         5     90    10    Healer  
+3          GalLalush       1         4     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    0     Rogue  
-2          Amirmann        1         4     80    10    Wizard  
-3          GalLalush       1         4     90    20    Wizard  
+1          Amirmann        1         5     90    0     Ninja  
+2          Amirmann        1         4     80    10    Healer  
+3          GalLalush       1         4     90    20    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -594,43 +594,43 @@ Start of round 3:
 Start of Amirmann's turn: 
 Nothing happened.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    0     Rogue  
-2          Amirmann        1         4     70    10    Wizard  
-3          GalLalush       1         4     0     20    Wizard  
+1          Amirmann        1         5     90    0     Ninja  
+2          Amirmann        1         4     70    10    Healer  
+3          GalLalush       1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    0     Rogue  
-2          Amirmann        1         4     60    10    Wizard  
-3          GalLalush       1         4     0     20    Wizard  
+1          Amirmann        1         4     80    0     Ninja  
+2          Amirmann        1         4     60    10    Healer  
+3          GalLalush       1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     70    0     Rogue  
-2          Amirmann        1         4     50    10    Wizard  
-3          GalLalush       1         4     0     20    Wizard  
+1          Amirmann        1         4     70    0     Ninja  
+2          Amirmann        1         4     50    10    Healer  
+3          GalLalush       1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -650,9 +650,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     60    0     Rogue  
-2          Amirmann        1         5     50    0     Wizard  
-3          GalLalush       1         4     0     20    Wizard  
+1          Amirmann        1         4     60    0     Ninja  
+2          Amirmann        1         5     50    0     Healer  
+3          GalLalush       1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -664,21 +664,21 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     60    20    Rogue  
-2          Amirmann        1         5     0     0     Wizard  
-3          GalLalush       1         4     0     20    Wizard  
+1          Amirmann        1         4     60    20    Ninja  
+2          Amirmann        1         5     0     0     Healer  
+3          GalLalush       1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     50    20    Rogue  
-2          Amirmann        1         5     0     0     Wizard  
-3          GalLalush       1         4     0     20    Wizard  
+1          Amirmann        1         4     50    20    Ninja  
+2          Amirmann        1         5     0     0     Healer  
+3          GalLalush       1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -688,21 +688,21 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     40    20    Rogue  
-2          Amirmann        1         5     0     0     Wizard  
-3          GalLalush       1         4     0     20    Wizard  
+1          Amirmann        1         4     40    20    Ninja  
+2          Amirmann        1         5     0     0     Healer  
+3          GalLalush       1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     30    20    Rogue  
-2          Amirmann        1         5     0     0     Wizard  
-3          GalLalush       1         4     0     20    Wizard  
+1          Amirmann        1         4     30    20    Ninja  
+2          Amirmann        1         5     0     0     Healer  
+3          GalLalush       1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -712,9 +712,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     20    20    Rogue  
-2          Amirmann        1         5     0     0     Wizard  
-3          GalLalush       1         4     0     20    Wizard  
+1          Amirmann        1         4     20    20    Ninja  
+2          Amirmann        1         5     0     0     Healer  
+3          GalLalush       1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -724,21 +724,21 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     20    40    Rogue  
-2          Amirmann        1         5     0     0     Wizard  
-3          GalLalush       1         4     0     20    Wizard  
+1          Amirmann        1         4     20    40    Ninja  
+2          Amirmann        1         5     0     0     Healer  
+3          GalLalush       1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     10    40    Rogue  
-2          Amirmann        1         5     0     0     Wizard  
-3          GalLalush       1         4     0     20    Wizard  
+1          Amirmann        1         4     10    40    Ninja  
+2          Amirmann        1         5     0     0     Healer  
+3          GalLalush       1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -749,6 +749,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     0     40    Rogue  
-2          Amirmann        1         5     0     0     Wizard  
-3          GalLalush       1         4     0     20    Wizard  
+1          Amirmann        1         4     0     40    Ninja  
+2          Amirmann        1         5     0     0     Healer  
+3          GalLalush       1         4     0     20    Healer  

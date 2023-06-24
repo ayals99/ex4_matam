@@ -194,29 +194,29 @@ You have entered an invalid input. Please try again.
 Efrat has paid 10 coins for 1 force boost!
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Wizard  
-2          Daniel          2         5     100   12    Wizard  
-3          Omerz           1         5     0     10    Fighter  
+1          Efrat           1         6     100   0     Healer  
+2          Daniel          2         5     100   12    Healer  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    0     Wizard  
-2          Daniel          2         5     100   12    Wizard  
-3          Omerz           1         5     0     10    Fighter  
+1          Efrat           1         5     90    0     Healer  
+2          Daniel          2         5     100   12    Healer  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -224,39 +224,39 @@ Start of round 3:
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     80    0     Wizard  
-2          Daniel          2         4     90    12    Wizard  
-3          Omerz           1         5     0     10    Fighter  
+1          Efrat           1         5     80    0     Healer  
+2          Daniel          2         4     90    12    Healer  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     80    2     Wizard  
-2          Daniel          2         4     0     12    Wizard  
-3          Omerz           1         5     0     10    Fighter  
+1          Efrat           2         5     80    2     Healer  
+2          Daniel          2         4     0     12    Healer  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     80    4     Wizard  
-2          Daniel          2         4     0     12    Wizard  
-3          Omerz           1         5     0     10    Fighter  
+1          Efrat           3         5     80    4     Healer  
+2          Daniel          2         4     0     12    Healer  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -266,21 +266,21 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     80    14    Wizard  
-2          Daniel          2         4     0     12    Wizard  
-3          Omerz           1         5     0     10    Fighter  
+1          Efrat           3         5     80    14    Healer  
+2          Daniel          2         4     0     12    Healer  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         5     80    16    Wizard  
-2          Daniel          2         4     0     12    Wizard  
-3          Omerz           1         5     0     10    Fighter  
+1          Efrat           4         5     80    16    Healer  
+2          Daniel          2         4     0     12    Healer  
+3          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -291,6 +291,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         5     0     16    Wizard  
-2          Daniel          2         4     0     12    Wizard  
-3          Omerz           1         5     0     10    Fighter  
+1          Efrat           4         5     0     16    Healer  
+2          Daniel          2         4     0     12    Healer  
+3          Omerz           1         5     0     10    Warrior  

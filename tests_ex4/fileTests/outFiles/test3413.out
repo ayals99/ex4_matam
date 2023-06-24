@@ -130,34 +130,34 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Wizard  
-2          Amirmann        1         5     100   10    Fighter  
+1          Efrat           1         5     100   20    Healer  
+2          Amirmann        1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Amirmann's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Wizard  
-2          Amirmann        1         5     100   10    Fighter  
+1          Efrat           1         5     100   20    Healer  
+2          Amirmann        1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Wizard  
-2          Amirmann        2         5     100   12    Fighter  
+1          Efrat           1         5     100   20    Healer  
+2          Amirmann        2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -176,8 +176,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    20    Wizard  
-2          Amirmann        2         5     100   12    Fighter  
+1          Efrat           1         5     90    20    Healer  
+2          Amirmann        2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -197,8 +197,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     92    15    Wizard  
-2          Amirmann        2         5     100   22    Fighter  
+1          Efrat           1         5     92    15    Healer  
+2          Amirmann        2         5     100   22    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -219,8 +219,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     82    15    Wizard  
-2          Amirmann        2         5     100   22    Fighter  
+1          Efrat           1         5     82    15    Healer  
+2          Amirmann        2         5     100   22    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -240,8 +240,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     100   12    Fighter  
-2          Efrat           1         5     0     15    Wizard  
+1          Amirmann        2         6     100   12    Warrior  
+2          Efrat           1         5     0     15    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -251,8 +251,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     100   12    Fighter  
-2          Efrat           1         5     0     15    Wizard  
+1          Amirmann        2         6     100   12    Warrior  
+2          Efrat           1         5     0     15    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -263,5 +263,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     0     12    Fighter  
-2          Efrat           1         5     0     15    Wizard  
+1          Amirmann        2         6     0     12    Warrior  
+2          Efrat           1         5     0     15    Healer  

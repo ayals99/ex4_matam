@@ -197,21 +197,21 @@ Start of round 1:
 Start of TomerM's turn: 
 Nothing happened.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   10    Fighter  
-2          Daniel          1         5     100   10    Wizard  
-3          TomerM          1         5     100   20    Fighter  
-4          Amirmann        2         5     100   12    Fighter  
-5          GalLalush       1         5     0     10    Wizard  
+1          TomerM          1         5     100   10    Warrior  
+2          Daniel          1         5     100   10    Healer  
+3          TomerM          1         5     100   20    Warrior  
+4          Amirmann        2         5     100   12    Warrior  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -219,7 +219,7 @@ Start of round 2:
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You fell into the trap, lose 10 health points.
 Start of Amirmann's turn: 
@@ -227,27 +227,27 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   12    Wizard  
-2          TomerM          1         5     90    20    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
-4          TomerM          1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Wizard  
+1          Daniel          2         5     100   12    Healer  
+2          TomerM          1         5     90    20    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
+4          TomerM          1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         4     90    12    Wizard  
-2          TomerM          2         5     90    22    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
-4          TomerM          1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Wizard  
+1          Daniel          2         4     90    12    Healer  
+2          TomerM          2         5     90    22    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
+4          TomerM          1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -268,11 +268,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         4     90    12    Wizard  
-2          TomerM          2         5     90    22    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
-4          TomerM          1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Wizard  
+1          Daniel          2         4     90    12    Healer  
+2          TomerM          2         5     90    22    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
+4          TomerM          1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -284,39 +284,39 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    32    Fighter  
-2          Daniel          2         4     0     12    Wizard  
-3          Amirmann        2         5     0     12    Fighter  
-4          TomerM          1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Wizard  
+1          TomerM          2         5     90    32    Warrior  
+2          Daniel          2         4     0     12    Healer  
+3          Amirmann        2         5     0     12    Warrior  
+4          TomerM          1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    34    Fighter  
-2          Daniel          2         4     0     12    Wizard  
-3          Amirmann        2         5     0     12    Fighter  
-4          TomerM          1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Wizard  
+1          TomerM          3         5     90    34    Warrior  
+2          Daniel          2         4     0     12    Healer  
+3          Amirmann        2         5     0     12    Warrior  
+4          TomerM          1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     90    36    Fighter  
-2          Daniel          2         4     0     12    Wizard  
-3          Amirmann        2         5     0     12    Fighter  
-4          TomerM          1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Wizard  
+1          TomerM          4         5     90    36    Warrior  
+2          Daniel          2         4     0     12    Healer  
+3          Amirmann        2         5     0     12    Warrior  
+4          TomerM          1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -326,11 +326,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     90    46    Fighter  
-2          Daniel          2         4     0     12    Wizard  
-3          Amirmann        2         5     0     12    Fighter  
-4          TomerM          1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Wizard  
+1          TomerM          4         5     90    46    Warrior  
+2          Daniel          2         4     0     12    Healer  
+3          Amirmann        2         5     0     12    Warrior  
+4          TomerM          1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -340,11 +340,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     90    46    Fighter  
-2          Daniel          2         4     0     12    Wizard  
-3          Amirmann        2         5     0     12    Fighter  
-4          TomerM          1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Wizard  
+1          TomerM          4         5     90    46    Warrior  
+2          Daniel          2         4     0     12    Healer  
+3          Amirmann        2         5     0     12    Warrior  
+4          TomerM          1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -355,8 +355,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     0     46    Fighter  
-2          Daniel          2         4     0     12    Wizard  
-3          Amirmann        2         5     0     12    Fighter  
-4          TomerM          1         5     0     10    Fighter  
-5          GalLalush       1         5     0     10    Wizard  
+1          TomerM          4         5     0     46    Warrior  
+2          Daniel          2         4     0     12    Healer  
+3          Amirmann        2         5     0     12    Warrior  
+4          TomerM          1         5     0     10    Warrior  
+5          GalLalush       1         5     0     10    Healer  

@@ -227,11 +227,11 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    10    Wizard  
-2          Efrat           1         5     100   5     Fighter  
-3          Daniel          1         5     100   10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          Amirmann        1         5     90    10    Healer  
+2          Efrat           1         5     100   5     Warrior  
+3          Daniel          1         5     100   10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -253,11 +253,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     80    10    Wizard  
-2          Efrat           1         5     90    5     Fighter  
-3          Daniel          1         5     100   5     Rogue  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          Amirmann        1         5     80    10    Healer  
+2          Efrat           1         5     90    5     Warrior  
+3          Daniel          1         5     100   5     Ninja  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -271,11 +271,11 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     80    5     Fighter  
-2          Daniel          1         5     0     5     Rogue  
-3          Amirmann        1         5     0     10    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          Efrat           1         5     80    5     Warrior  
+2          Daniel          1         5     0     5     Ninja  
+3          Amirmann        1         5     0     10    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -285,11 +285,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     70    5     Fighter  
-2          Daniel          1         5     0     5     Rogue  
-3          Amirmann        1         5     0     10    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          Efrat           1         5     70    5     Warrior  
+2          Daniel          1         5     0     5     Ninja  
+3          Amirmann        1         5     0     10    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -299,11 +299,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     60    5     Fighter  
-2          Daniel          1         5     0     5     Rogue  
-3          Amirmann        1         5     0     10    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          Efrat           1         5     60    5     Warrior  
+2          Daniel          1         5     0     5     Ninja  
+3          Amirmann        1         5     0     10    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -321,11 +321,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     60    5     Fighter  
-2          Daniel          1         5     0     5     Rogue  
-3          Amirmann        1         5     0     10    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          Efrat           1         5     60    5     Warrior  
+2          Daniel          1         5     0     5     Ninja  
+3          Amirmann        1         5     0     10    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -336,8 +336,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     0     5     Fighter  
-2          Daniel          1         5     0     5     Rogue  
-3          Amirmann        1         5     0     10    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Fighter  
+1          Efrat           1         5     0     5     Warrior  
+2          Daniel          1         5     0     5     Ninja  
+3          Amirmann        1         5     0     10    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Warrior  

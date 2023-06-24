@@ -182,16 +182,16 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    10    Wizard  
-2          Efrat           1         6     100   0     Fighter  
-3          GalLalush       1         5     100   10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         5     90    10    Healer  
+2          Efrat           1         6     100   0     Warrior  
+3          GalLalush       1         5     100   10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 Nothing happened.
 Start of GalLalush's turn: 
@@ -199,10 +199,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Wizard  
-2          Efrat           1         6     100   0     Fighter  
-3          GalLalush       1         5     90    10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         5     100   10    Healer  
+2          Efrat           1         6     100   0     Warrior  
+3          GalLalush       1         5     90    10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -224,10 +224,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Wizard  
-2          Efrat           1         6     100   0     Fighter  
-3          GalLalush       1         5     80    10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         5     100   10    Healer  
+2          Efrat           1         6     100   0     Warrior  
+3          GalLalush       1         5     80    10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -250,25 +250,25 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   0     Wizard  
-2          Efrat           1         6     100   0     Fighter  
-3          GalLalush       1         5     0     10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         6     100   0     Healer  
+2          Efrat           1         6     100   0     Warrior  
+3          GalLalush       1         5     0     10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   0     Wizard  
-2          Efrat           1         6     100   0     Fighter  
-3          GalLalush       1         5     0     10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         6     100   0     Healer  
+2          Efrat           1         6     100   0     Warrior  
+3          GalLalush       1         5     0     10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -289,25 +289,25 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     90    0     Wizard  
-2          Efrat           1         6     100   0     Fighter  
-3          GalLalush       1         5     0     10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         6     90    0     Healer  
+2          Efrat           1         6     100   0     Warrior  
+3          GalLalush       1         5     0     10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   0     Wizard  
-2          Efrat           1         6     100   0     Fighter  
-3          GalLalush       1         5     0     10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         6     100   0     Healer  
+2          Efrat           1         6     100   0     Warrior  
+3          GalLalush       1         5     0     10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -327,10 +327,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   0     Wizard  
-2          Efrat           1         6     100   0     Fighter  
-3          GalLalush       1         5     0     10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         6     100   0     Healer  
+2          Efrat           1         6     100   0     Warrior  
+3          GalLalush       1         5     0     10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -342,10 +342,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Fighter  
-2          Amirmann        1         6     0     0     Wizard  
-3          GalLalush       1         5     0     10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Efrat           1         6     100   0     Warrior  
+2          Amirmann        1         6     0     0     Healer  
+3          GalLalush       1         5     0     10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -355,10 +355,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Fighter  
-2          Amirmann        1         6     0     0     Wizard  
-3          GalLalush       1         5     0     10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Efrat           1         6     100   0     Warrior  
+2          Amirmann        1         6     0     0     Healer  
+3          GalLalush       1         5     0     10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -368,10 +368,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Fighter  
-2          Amirmann        1         6     0     0     Wizard  
-3          GalLalush       1         5     0     10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Efrat           1         6     100   0     Warrior  
+2          Amirmann        1         6     0     0     Healer  
+3          GalLalush       1         5     0     10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -389,10 +389,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Fighter  
-2          Amirmann        1         6     0     0     Wizard  
-3          GalLalush       1         5     0     10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Efrat           1         6     100   0     Warrior  
+2          Amirmann        1         6     0     0     Healer  
+3          GalLalush       1         5     0     10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -402,10 +402,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Fighter  
-2          Amirmann        1         6     0     0     Wizard  
-3          GalLalush       1         5     0     10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Efrat           1         6     100   0     Warrior  
+2          Amirmann        1         6     0     0     Healer  
+3          GalLalush       1         5     0     10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -415,10 +415,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Fighter  
-2          Amirmann        1         6     0     0     Wizard  
-3          GalLalush       1         5     0     10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Efrat           1         6     100   0     Warrior  
+2          Amirmann        1         6     0     0     Healer  
+3          GalLalush       1         5     0     10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -436,10 +436,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Fighter  
-2          Amirmann        1         6     0     0     Wizard  
-3          GalLalush       1         5     0     10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Efrat           1         6     100   0     Warrior  
+2          Amirmann        1         6     0     0     Healer  
+3          GalLalush       1         5     0     10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -449,10 +449,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Fighter  
-2          Amirmann        1         6     0     0     Wizard  
-3          GalLalush       1         5     0     10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Efrat           1         6     100   0     Warrior  
+2          Amirmann        1         6     0     0     Healer  
+3          GalLalush       1         5     0     10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 17:
@@ -463,7 +463,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     0     0     Fighter  
-2          Amirmann        1         6     0     0     Wizard  
-3          GalLalush       1         5     0     10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
+1          Efrat           1         6     0     0     Warrior  
+2          Amirmann        1         6     0     0     Healer  
+3          GalLalush       1         5     0     10    Ninja  
+4          Daniel          1         5     0     10    Ninja  

@@ -172,9 +172,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   5     Wizard  
-2          Daniel          1         5     90    10    Fighter  
-3          Efrat           1         5     0     10    Rogue  
+1          Efrat           1         5     100   5     Healer  
+2          Daniel          1         5     90    10    Warrior  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -182,13 +182,13 @@ Start of round 2:
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    12    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          2         5     90    12    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -198,9 +198,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    12    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          2         5     90    12    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -210,9 +210,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     80    12    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          2         5     80    12    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -222,9 +222,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     80    12    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          2         5     80    12    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -234,21 +234,21 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     80    22    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          2         5     80    22    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     80    24    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          3         5     80    24    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -258,33 +258,33 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     70    24    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          3         5     70    24    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     70    26    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          4         5     70    26    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     70    28    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          5         5     70    28    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -301,9 +301,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     71    23    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          5         5     71    23    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -313,9 +313,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     71    23    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          5         5     71    23    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -333,9 +333,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     72    18    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          5         5     72    18    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -345,9 +345,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     72    28    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          5         5     72    28    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -357,21 +357,21 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     62    28    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          5         5     62    28    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         5     62    30    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          6         5     62    30    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 17:
@@ -381,33 +381,33 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         5     62    30    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          6         5     62    30    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 18:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          7         5     62    32    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          7         5     62    32    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 19:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          8         5     62    34    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          8         5     62    34    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 20:
@@ -426,9 +426,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          8         6     62    24    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          8         6     62    24    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 21:
@@ -439,6 +439,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          8         6     0     24    Fighter  
-2          Efrat           1         5     0     5     Wizard  
-3          Efrat           1         5     0     10    Rogue  
+1          Daniel          8         6     0     24    Warrior  
+2          Efrat           1         5     0     5     Healer  
+3          Efrat           1         5     0     10    Ninja  

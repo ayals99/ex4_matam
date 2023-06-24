@@ -401,7 +401,7 @@ Safe travels!
 Start of Omerz's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of Amirmann's turn: 
@@ -409,11 +409,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   5     Wizard  
-2          Omerz           1         5     100   10    Fighter  
-3          TomerM          1         4     90    10    Rogue  
-4          Amirmann        1         5     100   30    Rogue  
-5          Omerz           1         5     0     10    Fighter  
+1          Amirmann        1         5     100   5     Healer  
+2          Omerz           1         5     100   10    Warrior  
+3          TomerM          1         4     90    10    Ninja  
+4          Amirmann        1         5     100   30    Ninja  
+5          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -421,7 +421,7 @@ Start of round 2:
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Amirmann's turn: 
@@ -429,11 +429,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   12    Fighter  
-2          TomerM          1         4     80    10    Rogue  
-3          Amirmann        1         5     90    30    Rogue  
-4          Amirmann        1         5     0     5     Wizard  
-5          Omerz           1         5     0     10    Fighter  
+1          Omerz           2         5     100   12    Warrior  
+2          TomerM          1         4     80    10    Ninja  
+3          Amirmann        1         5     90    30    Ninja  
+4          Amirmann        1         5     0     5     Healer  
+5          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -447,11 +447,11 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     80    10    Rogue  
-2          Amirmann        1         5     0     30    Rogue  
-3          Omerz           2         5     0     12    Fighter  
-4          Amirmann        1         5     0     5     Wizard  
-5          Omerz           1         5     0     10    Fighter  
+1          TomerM          1         4     80    10    Ninja  
+2          Amirmann        1         5     0     30    Ninja  
+3          Omerz           2         5     0     12    Warrior  
+4          Amirmann        1         5     0     5     Healer  
+5          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -462,8 +462,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     0     10    Rogue  
-2          Amirmann        1         5     0     30    Rogue  
-3          Omerz           2         5     0     12    Fighter  
-4          Amirmann        1         5     0     5     Wizard  
-5          Omerz           1         5     0     10    Fighter  
+1          TomerM          1         4     0     10    Ninja  
+2          Amirmann        1         5     0     30    Ninja  
+3          Omerz           2         5     0     12    Warrior  
+4          Amirmann        1         5     0     5     Healer  
+5          Omerz           1         5     0     10    Warrior  

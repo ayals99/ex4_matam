@@ -453,16 +453,16 @@ Player Efrat has been defeated by a Dragon.
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Fighter  
-2          Efrat           2         5     100   12    Wizard  
-3          TomerM          1         5     100   10    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         5     100   20    Warrior  
+2          Efrat           2         5     100   12    Healer  
+3          TomerM          1         5     100   10    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -476,10 +476,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   30    Fighter  
-2          TomerM          1         5     90    10    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         5     100   30    Warrior  
+2          TomerM          1         5     90    10    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -487,14 +487,14 @@ Start of round 3:
 Start of Amirmann's turn: 
 You've won the scuffle without losing any health points.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   30    Fighter  
-2          TomerM          2         5     90    12    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         5     100   30    Warrior  
+2          TomerM          2         5     90    12    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -506,10 +506,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   30    Fighter  
-2          TomerM          2         5     90    22    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         5     100   30    Warrior  
+2          TomerM          2         5     90    22    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -521,10 +521,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   30    Fighter  
-2          TomerM          2         5     80    22    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         5     100   30    Warrior  
+2          TomerM          2         5     80    22    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -536,25 +536,25 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   30    Fighter  
-2          TomerM          2         5     70    22    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         5     100   30    Warrior  
+2          TomerM          2         5     70    22    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   32    Fighter  
-2          TomerM          2         5     70    32    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        2         5     100   32    Warrior  
+2          TomerM          2         5     70    32    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -566,10 +566,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   32    Fighter  
-2          TomerM          2         5     60    32    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        2         5     100   32    Warrior  
+2          TomerM          2         5     60    32    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -581,25 +581,25 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   32    Fighter  
-2          TomerM          2         5     50    32    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        2         5     100   32    Warrior  
+2          TomerM          2         5     50    32    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   34    Fighter  
-2          TomerM          2         5     70    32    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        3         5     100   34    Warrior  
+2          TomerM          2         5     70    32    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -611,25 +611,25 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   44    Fighter  
-2          TomerM          2         5     70    42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        3         5     100   44    Warrior  
+2          TomerM          2         5     70    42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     100   46    Fighter  
-2          TomerM          2         5     60    42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        4         5     100   46    Warrior  
+2          TomerM          2         5     60    42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -641,10 +641,10 @@ Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     90    46    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        4         5     90    46    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -654,23 +654,23 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     90    46    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        4         5     90    46    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     90    48    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        5         5     90    48    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -680,10 +680,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     90    48    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        5         5     90    48    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 17:
@@ -693,10 +693,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     80    48    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        5         5     80    48    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 18:
@@ -706,23 +706,23 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     70    48    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        5         5     70    48    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 19:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     70    50    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        6         5     70    50    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 20:
@@ -732,10 +732,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     70    50    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        6         5     70    50    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 21:
@@ -753,10 +753,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     70    50    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        6         5     70    50    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 22:
@@ -766,10 +766,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     70    50    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        6         5     70    50    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 23:
@@ -786,10 +786,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     70    50    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        6         5     70    50    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 24:
@@ -799,10 +799,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     70    50    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        6         5     70    50    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 25:
@@ -812,10 +812,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     70    60    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        6         5     70    60    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 26:
@@ -835,10 +835,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     70    60    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        6         5     70    60    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 27:
@@ -849,7 +849,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     0     60    Fighter  
-2          TomerM          2         5     0     42    Wizard  
-3          Efrat           2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
+1          Amirmann        6         5     0     60    Warrior  
+2          TomerM          2         5     0     42    Healer  
+3          Efrat           2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  

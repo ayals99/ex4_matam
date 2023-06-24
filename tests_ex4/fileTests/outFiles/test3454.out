@@ -126,15 +126,15 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    10    Wizard  
-2          Daniel          1         5     100   20    Fighter  
-3          Amirmann        1         5     100   10    Fighter  
+1          Omerz           1         5     90    10    Healer  
+2          Daniel          1         5     100   20    Warrior  
+3          Amirmann        1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
@@ -142,9 +142,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     80    10    Wizard  
-2          Daniel          1         5     100   30    Fighter  
-3          Amirmann        1         5     100   20    Fighter  
+1          Omerz           1         4     80    10    Healer  
+2          Daniel          1         5     100   30    Warrior  
+3          Amirmann        1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -154,13 +154,13 @@ Player Omerz has been defeated by a Dragon.
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     90    30    Fighter  
-2          Amirmann        2         5     100   22    Fighter  
-3          Omerz           1         4     0     10    Wizard  
+1          Daniel          1         5     90    30    Warrior  
+2          Amirmann        2         5     100   22    Warrior  
+3          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -179,9 +179,9 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         6     90    20    Fighter  
-2          Amirmann        2         5     0     22    Fighter  
-3          Omerz           1         4     0     10    Wizard  
+1          Daniel          1         6     90    20    Warrior  
+2          Amirmann        2         5     0     22    Warrior  
+3          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -191,9 +191,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         6     90    20    Fighter  
-2          Amirmann        2         5     0     22    Fighter  
-3          Omerz           1         4     0     10    Wizard  
+1          Daniel          1         6     90    20    Warrior  
+2          Amirmann        2         5     0     22    Warrior  
+3          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -203,9 +203,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         6     90    20    Fighter  
-2          Amirmann        2         5     0     22    Fighter  
-3          Omerz           1         4     0     10    Wizard  
+1          Daniel          1         6     90    20    Warrior  
+2          Amirmann        2         5     0     22    Warrior  
+3          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -223,21 +223,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         6     90    20    Fighter  
-2          Amirmann        2         5     0     22    Fighter  
-3          Omerz           1         4     0     10    Wizard  
+1          Daniel          1         6     90    20    Warrior  
+2          Amirmann        2         5     0     22    Warrior  
+3          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     90    22    Fighter  
-2          Amirmann        2         5     0     22    Fighter  
-3          Omerz           1         4     0     10    Wizard  
+1          Daniel          2         6     90    22    Warrior  
+2          Amirmann        2         5     0     22    Warrior  
+3          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -256,9 +256,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     91    17    Fighter  
-2          Amirmann        2         5     0     22    Fighter  
-3          Omerz           1         4     0     10    Wizard  
+1          Daniel          2         6     91    17    Warrior  
+2          Amirmann        2         5     0     22    Warrior  
+3          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -275,9 +275,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         7     91    7     Fighter  
-2          Amirmann        2         5     0     22    Fighter  
-3          Omerz           1         4     0     10    Wizard  
+1          Daniel          2         7     91    7     Warrior  
+2          Amirmann        2         5     0     22    Warrior  
+3          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -287,9 +287,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         7     91    7     Fighter  
-2          Amirmann        2         5     0     22    Fighter  
-3          Omerz           1         4     0     10    Wizard  
+1          Daniel          2         7     91    7     Warrior  
+2          Amirmann        2         5     0     22    Warrior  
+3          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -299,9 +299,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         7     91    7     Fighter  
-2          Amirmann        2         5     0     22    Fighter  
-3          Omerz           1         4     0     10    Wizard  
+1          Daniel          2         7     91    7     Warrior  
+2          Amirmann        2         5     0     22    Warrior  
+3          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -320,21 +320,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         7     91    7     Fighter  
-2          Amirmann        2         5     0     22    Fighter  
-3          Omerz           1         4     0     10    Wizard  
+1          Daniel          2         7     91    7     Warrior  
+2          Amirmann        2         5     0     22    Warrior  
+3          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         7     91    9     Fighter  
-2          Amirmann        2         5     0     22    Fighter  
-3          Omerz           1         4     0     10    Wizard  
+1          Daniel          3         7     91    9     Warrior  
+2          Amirmann        2         5     0     22    Warrior  
+3          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -353,9 +353,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         7     92    4     Fighter  
-2          Amirmann        2         5     0     22    Fighter  
-3          Omerz           1         4     0     10    Wizard  
+1          Daniel          3         7     92    4     Warrior  
+2          Amirmann        2         5     0     22    Warrior  
+3          Omerz           1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -366,6 +366,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         7     0     4     Fighter  
-2          Amirmann        2         5     0     22    Fighter  
-3          Omerz           1         4     0     10    Wizard  
+1          Daniel          3         7     0     4     Warrior  
+2          Amirmann        2         5     0     22    Warrior  
+3          Omerz           1         4     0     10    Healer  

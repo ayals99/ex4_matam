@@ -1053,15 +1053,15 @@ Start of round 1:
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   20    Fighter  
-2          Amirmann        2         5     100   12    Fighter  
-3          Daniel          1         5     100   10    Fighter  
+1          TomerM          1         5     100   20    Warrior  
+2          Amirmann        2         5     100   12    Warrior  
+3          Daniel          1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -1075,9 +1075,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   20    Fighter  
-2          Amirmann        2         5     100   22    Fighter  
-3          Daniel          1         5     100   20    Fighter  
+1          TomerM          1         5     100   20    Warrior  
+2          Amirmann        2         5     100   22    Warrior  
+3          Daniel          1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -1091,15 +1091,15 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   20    Fighter  
-2          Amirmann        2         5     100   22    Fighter  
-3          Daniel          1         5     100   20    Fighter  
+1          TomerM          1         5     100   20    Warrior  
+2          Amirmann        2         5     100   22    Warrior  
+3          Daniel          1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1115,15 +1115,15 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   22    Fighter  
-2          Amirmann        2         6     100   12    Fighter  
-3          Daniel          1         5     90    20    Fighter  
+1          TomerM          2         5     100   22    Warrior  
+2          Amirmann        2         6     100   12    Warrior  
+3          Daniel          1         5     90    20    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 You fell into the trap, lose 10 health points.
 Start of Daniel's turn: 
@@ -1138,9 +1138,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     100   24    Fighter  
-2          Amirmann        2         6     90    12    Fighter  
-3          Daniel          1         5     90    20    Fighter  
+1          TomerM          3         5     100   24    Warrior  
+2          Amirmann        2         6     90    12    Warrior  
+3          Daniel          1         5     90    20    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -1150,13 +1150,13 @@ You've won the scuffle without losing any health points.
 Start of Amirmann's turn: 
 You've won the scuffle without losing any health points.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     100   24    Fighter  
-2          Amirmann        2         6     90    12    Fighter  
-3          Daniel          2         5     90    22    Fighter  
+1          TomerM          3         5     100   24    Warrior  
+2          Amirmann        2         6     90    12    Warrior  
+3          Daniel          2         5     90    22    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -1164,15 +1164,15 @@ Start of round 7:
 Start of TomerM's turn: 
 Nothing happened.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     100   24    Fighter  
-2          Amirmann        3         6     90    14    Fighter  
-3          Daniel          2         5     80    22    Fighter  
+1          TomerM          3         5     100   24    Warrior  
+2          Amirmann        3         6     90    14    Warrior  
+3          Daniel          2         5     80    22    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -1186,15 +1186,15 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     100   24    Fighter  
-2          Amirmann        3         6     90    24    Fighter  
-3          Daniel          2         5     0     22    Fighter  
+1          TomerM          3         5     100   24    Warrior  
+2          Amirmann        3         6     90    24    Warrior  
+3          Daniel          2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 9:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1209,9 +1209,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     100   26    Fighter  
-2          Amirmann        3         6     90    24    Fighter  
-3          Daniel          2         5     0     22    Fighter  
+1          TomerM          4         5     100   26    Warrior  
+2          Amirmann        3         6     90    24    Warrior  
+3          Daniel          2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -1223,9 +1223,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     90    24    Fighter  
-2          TomerM          4         5     0     26    Fighter  
-3          Daniel          2         5     0     22    Fighter  
+1          Amirmann        3         6     90    24    Warrior  
+2          TomerM          4         5     0     26    Warrior  
+3          Daniel          2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -1235,9 +1235,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     90    34    Fighter  
-2          TomerM          4         5     0     26    Fighter  
-3          Daniel          2         5     0     22    Fighter  
+1          Amirmann        3         6     90    34    Warrior  
+2          TomerM          4         5     0     26    Warrior  
+3          Daniel          2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -1247,21 +1247,21 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     90    34    Fighter  
-2          TomerM          4         5     0     26    Fighter  
-3          Daniel          2         5     0     22    Fighter  
+1          Amirmann        3         6     90    34    Warrior  
+2          TomerM          4         5     0     26    Warrior  
+3          Daniel          2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         6     90    36    Fighter  
-2          TomerM          4         5     0     26    Fighter  
-3          Daniel          2         5     0     22    Fighter  
+1          Amirmann        4         6     90    36    Warrior  
+2          TomerM          4         5     0     26    Warrior  
+3          Daniel          2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -1272,6 +1272,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         6     0     36    Fighter  
-2          TomerM          4         5     0     26    Fighter  
-3          Daniel          2         5     0     22    Fighter  
+1          Amirmann        4         6     0     36    Warrior  
+2          TomerM          4         5     0     26    Warrior  
+3          Daniel          2         5     0     22    Warrior  

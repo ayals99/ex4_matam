@@ -1022,10 +1022,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   30    Rogue  
-2          Omerz           1         5     90    10    Rogue  
-3          GalLalush       1         5     100   20    Fighter  
-4          TomerM          1         5     0     10    Fighter  
+1          Omerz           1         5     100   30    Ninja  
+2          Omerz           1         5     90    10    Ninja  
+3          GalLalush       1         5     100   20    Warrior  
+4          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -1055,10 +1055,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     100   20    Rogue  
-2          Omerz           1         5     90    30    Rogue  
-3          GalLalush       1         5     100   20    Fighter  
-4          TomerM          1         5     0     10    Fighter  
+1          Omerz           1         6     100   20    Ninja  
+2          Omerz           1         5     90    30    Ninja  
+3          GalLalush       1         5     100   20    Warrior  
+4          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -1079,10 +1079,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    30    Rogue  
-2          GalLalush       1         5     90    20    Fighter  
-3          Omerz           1         6     0     20    Rogue  
-4          TomerM          1         5     0     10    Fighter  
+1          Omerz           1         5     90    30    Ninja  
+2          GalLalush       1         5     90    20    Warrior  
+3          Omerz           1         6     0     20    Ninja  
+4          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -1094,23 +1094,23 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    30    Fighter  
-2          Omerz           1         5     0     30    Rogue  
-3          Omerz           1         6     0     20    Rogue  
-4          TomerM          1         5     0     10    Fighter  
+1          GalLalush       1         5     90    30    Warrior  
+2          Omerz           1         5     0     30    Ninja  
+3          Omerz           1         6     0     20    Ninja  
+4          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    32    Fighter  
-2          Omerz           1         5     0     30    Rogue  
-3          Omerz           1         6     0     20    Rogue  
-4          TomerM          1         5     0     10    Fighter  
+1          GalLalush       2         5     90    32    Warrior  
+2          Omerz           1         5     0     30    Ninja  
+3          Omerz           1         6     0     20    Ninja  
+4          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -1120,10 +1120,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    32    Fighter  
-2          Omerz           1         5     0     30    Rogue  
-3          Omerz           1         6     0     20    Rogue  
-4          TomerM          1         5     0     10    Fighter  
+1          GalLalush       2         5     90    32    Warrior  
+2          Omerz           1         5     0     30    Ninja  
+3          Omerz           1         6     0     20    Ninja  
+4          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -1134,7 +1134,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     0     32    Fighter  
-2          Omerz           1         5     0     30    Rogue  
-3          Omerz           1         6     0     20    Rogue  
-4          TomerM          1         5     0     10    Fighter  
+1          GalLalush       2         5     0     32    Warrior  
+2          Omerz           1         5     0     30    Ninja  
+3          Omerz           1         6     0     20    Ninja  
+4          TomerM          1         5     0     10    Warrior  

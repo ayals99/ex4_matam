@@ -1356,23 +1356,23 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    10    Rogue  
-2          Daniel          1         4     90    10    Rogue  
-3          Daniel          1         5     100   10    Wizard  
+1          Amirmann        1         4     90    10    Ninja  
+2          Daniel          1         4     90    10    Ninja  
+3          Daniel          1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of Daniel's turn: 
@@ -1380,9 +1380,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    10    Rogue  
-2          Daniel          1         5     90    10    Wizard  
-3          Daniel          1         4     0     10    Rogue  
+1          Amirmann        1         4     80    10    Ninja  
+2          Daniel          1         5     90    10    Healer  
+3          Daniel          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -1394,9 +1394,9 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     70    10    Rogue  
-2          Daniel          1         5     0     10    Wizard  
-3          Daniel          1         4     0     10    Rogue  
+1          Amirmann        1         4     70    10    Ninja  
+2          Daniel          1         5     0     10    Healer  
+3          Daniel          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -1407,6 +1407,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     0     10    Rogue  
-2          Daniel          1         5     0     10    Wizard  
-3          Daniel          1         4     0     10    Rogue  
+1          Amirmann        1         4     0     10    Ninja  
+2          Daniel          1         5     0     10    Healer  
+3          Daniel          1         4     0     10    Ninja  

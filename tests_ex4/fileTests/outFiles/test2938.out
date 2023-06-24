@@ -540,14 +540,14 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    10    Fighter  
-2          GalLalush       1         6     100   0     Rogue  
+1          Amirmann        1         5     90    10    Warrior  
+2          GalLalush       1         6     100   0     Ninja  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -561,8 +561,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     90    12    Fighter  
-2          GalLalush       1         6     100   0     Rogue  
+1          Amirmann        2         5     90    12    Warrior  
+2          GalLalush       1         6     100   0     Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -570,12 +570,12 @@ Start of round 3:
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    0     Rogue  
-2          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       1         5     90    0     Ninja  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -585,19 +585,19 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    20    Rogue  
-2          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       1         5     90    20    Ninja  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    24    Rogue  
-2          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         5     90    24    Ninja  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -607,8 +607,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    44    Rogue  
-2          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         5     90    44    Ninja  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -618,8 +618,8 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    44    Rogue  
-2          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         5     90    44    Ninja  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -636,8 +636,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    44    Rogue  
-2          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         5     90    44    Ninja  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -647,8 +647,8 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    44    Rogue  
-2          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         5     90    44    Ninja  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -658,8 +658,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    64    Rogue  
-2          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         5     90    64    Ninja  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -670,5 +670,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     0     64    Rogue  
-2          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         5     0     64    Ninja  
+2          Amirmann        2         5     0     12    Warrior  

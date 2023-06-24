@@ -1934,15 +1934,15 @@ You have entered an invalid input. Please try again.
 Daniel has paid 0 coins 
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Fighter  
-2          GalLalush       1         6     100   0     Rogue  
-3          TomerM          1         5     100   20    Fighter  
-4          Daniel          1         5     100   10    Fighter  
-5          Daniel          2         5     100   12    Fighter  
+1          Efrat           1         5     100   10    Warrior  
+2          GalLalush       1         6     100   0     Ninja  
+3          TomerM          1         5     100   20    Warrior  
+4          Daniel          1         5     100   10    Warrior  
+5          Daniel          2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -1960,11 +1960,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   12    Fighter  
-2          Daniel          1         5     0     10    Fighter  
-3          TomerM          1         5     0     20    Fighter  
-4          GalLalush       1         6     0     0     Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Daniel          2         5     100   12    Warrior  
+2          Daniel          1         5     0     10    Warrior  
+3          TomerM          1         5     0     20    Warrior  
+4          GalLalush       1         6     0     0     Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -1975,8 +1975,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     0     12    Fighter  
-2          Daniel          1         5     0     10    Fighter  
-3          TomerM          1         5     0     20    Fighter  
-4          GalLalush       1         6     0     0     Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Daniel          2         5     0     12    Warrior  
+2          Daniel          1         5     0     10    Warrior  
+3          TomerM          1         5     0     20    Warrior  
+4          GalLalush       1         6     0     0     Ninja  
+5          Efrat           1         5     0     10    Warrior  

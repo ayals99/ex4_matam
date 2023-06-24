@@ -388,17 +388,17 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   12    Fighter  
-2          Omerz           1         5     100   10    Wizard  
-3          Efrat           1         4     90    10    Wizard  
+1          Omerz           2         5     100   12    Warrior  
+2          Omerz           1         5     100   10    Healer  
+3          Efrat           1         4     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -413,6 +413,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     0     10    Wizard  
-2          Omerz           1         5     0     10    Wizard  
-3          Omerz           2         5     0     12    Fighter  
+1          Efrat           1         4     0     10    Healer  
+2          Omerz           1         5     0     10    Healer  
+3          Omerz           2         5     0     12    Warrior  

@@ -30,14 +30,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   10    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       1         5     100   10    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -55,8 +55,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   10    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       1         5     100   10    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -74,30 +74,30 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   10    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       1         5     100   10    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   12    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       2         5     100   12    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         4     90    12    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       2         4     90    12    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -114,8 +114,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         4     90    12    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       2         4     90    12    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -126,5 +126,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         4     0     12    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       2         4     0     12    Healer  
+2          Efrat           1         5     0     10    Healer  

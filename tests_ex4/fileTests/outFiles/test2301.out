@@ -159,14 +159,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   14    Rogue  
-2          Daniel          2         5     100   14    Rogue  
+1          TomerM          2         5     100   14    Ninja  
+2          Daniel          2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -185,8 +185,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   34    Rogue  
-2          Daniel          2         5     100   9     Rogue  
+1          TomerM          2         5     100   34    Ninja  
+2          Daniel          2         5     100   9     Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -198,8 +198,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   54    Rogue  
-2          Daniel          2         5     100   9     Rogue  
+1          TomerM          2         5     100   54    Ninja  
+2          Daniel          2         5     100   9     Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -211,8 +211,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   9     Rogue  
-2          TomerM          2         5     0     54    Rogue  
+1          Daniel          2         5     100   9     Ninja  
+2          TomerM          2         5     0     54    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -223,5 +223,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     0     9     Rogue  
-2          TomerM          2         5     0     54    Rogue  
+1          Daniel          2         5     0     9     Ninja  
+2          TomerM          2         5     0     54    Ninja  

@@ -218,11 +218,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    10    Fighter  
-2          Daniel          1         5     100   10    Wizard  
-3          Amirmann        1         5     100   10    Rogue  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           1         5     90    10    Warrior  
+2          Daniel          1         5     100   10    Healer  
+3          Amirmann        1         5     100   10    Ninja  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -252,11 +252,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    10    Fighter  
-2          Daniel          1         5     100   10    Wizard  
-3          Amirmann        1         5     90    10    Rogue  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           1         5     90    10    Warrior  
+2          Daniel          1         5     100   10    Healer  
+3          Amirmann        1         5     90    10    Ninja  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -270,29 +270,29 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    20    Fighter  
-2          Daniel          1         5     100   20    Wizard  
-3          Amirmann        1         5     80    10    Rogue  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           1         5     90    20    Warrior  
+2          Daniel          1         5     100   20    Healer  
+3          Amirmann        1         5     80    10    Ninja  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     90    22    Fighter  
-2          Amirmann        2         5     80    14    Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           2         5     90    22    Warrior  
+2          Amirmann        2         5     80    14    Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -320,11 +320,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     90    22    Fighter  
-2          Amirmann        2         6     80    4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           2         5     90    22    Warrior  
+2          Amirmann        2         6     80    4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -336,25 +336,25 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     90    22    Fighter  
-2          Amirmann        2         6     0     4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           2         5     90    22    Warrior  
+2          Amirmann        2         6     0     4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     90    24    Fighter  
-2          Amirmann        2         6     0     4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           3         5     90    24    Warrior  
+2          Amirmann        2         6     0     4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -364,11 +364,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     90    34    Fighter  
-2          Amirmann        2         6     0     4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           3         5     90    34    Warrior  
+2          Amirmann        2         6     0     4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -387,11 +387,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         6     90    24    Fighter  
-2          Amirmann        2         6     0     4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           3         6     90    24    Warrior  
+2          Amirmann        2         6     0     4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -401,11 +401,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         6     90    24    Fighter  
-2          Amirmann        2         6     0     4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           3         6     90    24    Warrior  
+2          Amirmann        2         6     0     4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -415,11 +415,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         6     90    24    Fighter  
-2          Amirmann        2         6     0     4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           3         6     90    24    Warrior  
+2          Amirmann        2         6     0     4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -429,11 +429,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         6     90    24    Fighter  
-2          Amirmann        2         6     0     4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           3         6     90    24    Warrior  
+2          Amirmann        2         6     0     4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -450,25 +450,25 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         7     90    14    Fighter  
-2          Amirmann        2         6     0     4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           3         7     90    14    Warrior  
+2          Amirmann        2         6     0     4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         7     90    16    Fighter  
-2          Amirmann        2         6     0     4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           4         7     90    16    Warrior  
+2          Amirmann        2         6     0     4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 15:
@@ -486,11 +486,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         7     90    16    Fighter  
-2          Amirmann        2         6     0     4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           4         7     90    16    Warrior  
+2          Amirmann        2         6     0     4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -508,25 +508,25 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         7     91    11    Fighter  
-2          Amirmann        2         6     0     4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           4         7     91    11    Warrior  
+2          Amirmann        2         6     0     4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 17:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         7     91    13    Fighter  
-2          Amirmann        2         6     0     4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           5         7     91    13    Warrior  
+2          Amirmann        2         6     0     4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 18:
@@ -536,11 +536,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         7     91    23    Fighter  
-2          Amirmann        2         6     0     4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           5         7     91    23    Warrior  
+2          Amirmann        2         6     0     4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 19:
@@ -551,8 +551,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         7     0     23    Fighter  
-2          Amirmann        2         6     0     4     Rogue  
-3          Daniel          1         5     0     20    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Omerz           5         7     0     23    Warrior  
+2          Amirmann        2         6     0     4     Ninja  
+3          Daniel          1         5     0     20    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  

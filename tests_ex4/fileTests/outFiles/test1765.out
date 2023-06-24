@@ -76,14 +76,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   12    Wizard  
-2          Amirmann        2         5     100   14    Rogue  
+1          TomerM          2         5     100   12    Healer  
+2          Amirmann        2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -95,8 +95,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    12    Wizard  
-2          Amirmann        2         5     90    14    Rogue  
+1          TomerM          2         5     90    12    Healer  
+2          Amirmann        2         5     90    14    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -115,8 +115,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     80    12    Wizard  
-2          Amirmann        2         5     90    14    Rogue  
+1          TomerM          2         5     80    12    Healer  
+2          Amirmann        2         5     90    14    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -137,8 +137,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         6     80    2     Wizard  
-2          Amirmann        2         5     90    14    Rogue  
+1          TomerM          2         6     80    2     Healer  
+2          Amirmann        2         5     90    14    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -150,8 +150,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         6     70    2     Wizard  
-2          Amirmann        2         5     80    14    Rogue  
+1          TomerM          2         6     70    2     Healer  
+2          Amirmann        2         5     80    14    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -163,8 +163,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     70    14    Rogue  
-2          TomerM          2         6     0     2     Wizard  
+1          Amirmann        2         5     70    14    Ninja  
+2          TomerM          2         6     0     2     Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -174,19 +174,19 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     70    14    Rogue  
-2          TomerM          2         6     0     2     Wizard  
+1          Amirmann        2         5     70    14    Ninja  
+2          TomerM          2         6     0     2     Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         4     60    14    Rogue  
-2          TomerM          2         6     0     2     Wizard  
+1          Amirmann        2         4     60    14    Ninja  
+2          TomerM          2         6     0     2     Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -196,30 +196,30 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         4     60    14    Rogue  
-2          TomerM          2         6     0     2     Wizard  
+1          Amirmann        2         4     60    14    Ninja  
+2          TomerM          2         6     0     2     Healer  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         3     50    14    Rogue  
-2          TomerM          2         6     0     2     Wizard  
+1          Amirmann        2         3     50    14    Ninja  
+2          TomerM          2         6     0     2     Healer  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         3     40    14    Rogue  
-2          TomerM          2         6     0     2     Wizard  
+1          Amirmann        2         3     40    14    Ninja  
+2          TomerM          2         6     0     2     Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -230,5 +230,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         3     0     14    Rogue  
-2          TomerM          2         6     0     2     Wizard  
+1          Amirmann        2         3     0     14    Ninja  
+2          TomerM          2         6     0     2     Healer  

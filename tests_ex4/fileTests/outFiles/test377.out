@@ -130,19 +130,19 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Wizard  
-2          Amirmann        1         5     0     10    Fighter  
+1          Daniel          1         5     100   10    Healer  
+2          Amirmann        1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     90    10    Wizard  
-2          Amirmann        1         5     0     10    Fighter  
+1          Daniel          1         4     90    10    Healer  
+2          Amirmann        1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -153,5 +153,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     0     10    Wizard  
-2          Amirmann        1         5     0     10    Fighter  
+1          Daniel          1         4     0     10    Healer  
+2          Amirmann        1         5     0     10    Warrior  

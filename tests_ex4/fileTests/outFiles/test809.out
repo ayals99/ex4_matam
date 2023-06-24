@@ -317,21 +317,21 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   10    Fighter  
-2          Amirmann        1         5     90    10    Wizard  
+1          GalLalush       1         5     100   10    Warrior  
+2          Amirmann        1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   12    Fighter  
-2          Amirmann        2         5     90    12    Wizard  
+1          GalLalush       2         5     100   12    Warrior  
+2          Amirmann        2         5     90    12    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -339,12 +339,12 @@ Start of round 3:
 Start of GalLalush's turn: 
 You've won the scuffle without losing any health points.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   12    Fighter  
-2          Amirmann        2         4     80    12    Wizard  
+1          GalLalush       2         5     100   12    Warrior  
+2          Amirmann        2         4     80    12    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -356,8 +356,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    12    Fighter  
-2          Amirmann        2         4     70    12    Wizard  
+1          GalLalush       2         5     90    12    Warrior  
+2          Amirmann        2         4     70    12    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -369,21 +369,21 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     80    12    Fighter  
-2          Amirmann        2         4     60    12    Wizard  
+1          GalLalush       2         5     80    12    Warrior  
+2          Amirmann        2         4     60    12    Healer  
 
 -------------------------------------------
 Start of round 6:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     80    14    Fighter  
-2          Amirmann        2         4     50    12    Wizard  
+1          GalLalush       3         5     80    14    Warrior  
+2          Amirmann        2         4     50    12    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -404,8 +404,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     80    4     Fighter  
-2          Amirmann        2         4     50    22    Wizard  
+1          GalLalush       3         6     80    4     Warrior  
+2          Amirmann        2         4     50    22    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -422,12 +422,12 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 0 coins 
 Safe travels!
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     80    4     Fighter  
-2          Amirmann        2         4     70    22    Wizard  
+1          GalLalush       3         6     80    4     Warrior  
+2          Amirmann        2         4     70    22    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -439,30 +439,30 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     70    4     Fighter  
-2          Amirmann        2         4     0     22    Wizard  
+1          GalLalush       3         6     70    4     Warrior  
+2          Amirmann        2         4     0     22    Healer  
 
 -------------------------------------------
 Start of round 10:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     70    6     Fighter  
-2          Amirmann        2         4     0     22    Wizard  
+1          GalLalush       4         6     70    6     Warrior  
+2          Amirmann        2         4     0     22    Healer  
 
 -------------------------------------------
 Start of round 11:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         6     70    8     Fighter  
-2          Amirmann        2         4     0     22    Wizard  
+1          GalLalush       5         6     70    8     Warrior  
+2          Amirmann        2         4     0     22    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -473,5 +473,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         6     0     8     Fighter  
-2          Amirmann        2         4     0     22    Wizard  
+1          GalLalush       5         6     0     8     Warrior  
+2          Amirmann        2         4     0     22    Healer  

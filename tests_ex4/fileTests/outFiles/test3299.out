@@ -1326,21 +1326,21 @@ Start of round 1:
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   20    Wizard  
-2          GalLalush       2         5     100   14    Rogue  
-3          Omerz           1         5     100   10    Rogue  
+1          Omerz           1         5     100   20    Healer  
+2          GalLalush       2         5     100   14    Ninja  
+3          Omerz           1         5     100   10    Ninja  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1357,9 +1357,9 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   22    Wizard  
-2          GalLalush       2         5     100   14    Rogue  
-3          Omerz           1         5     100   10    Rogue  
+1          Omerz           2         5     100   22    Healer  
+2          GalLalush       2         5     100   14    Ninja  
+3          Omerz           1         5     100   10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -1378,19 +1378,19 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 0 coins 
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     90    22    Wizard  
-2          GalLalush       2         5     100   14    Rogue  
-3          Omerz           2         5     100   14    Rogue  
+1          Omerz           2         5     90    22    Healer  
+2          GalLalush       2         5     100   14    Ninja  
+3          Omerz           2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 Nothing happened.
 Start of Omerz's turn: 
@@ -1398,9 +1398,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     90    24    Wizard  
-2          GalLalush       2         5     100   14    Rogue  
-3          Omerz           2         5     100   14    Rogue  
+1          Omerz           3         5     90    24    Healer  
+2          GalLalush       2         5     100   14    Ninja  
+3          Omerz           2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -1414,9 +1414,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     80    24    Wizard  
-2          GalLalush       2         5     100   14    Rogue  
-3          Omerz           2         5     100   34    Rogue  
+1          Omerz           3         5     80    24    Healer  
+2          GalLalush       2         5     100   14    Ninja  
+3          Omerz           2         5     100   34    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -1424,7 +1424,7 @@ Start of round 6:
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1437,9 +1437,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     100   18    Rogue  
-2          Omerz           2         5     100   34    Rogue  
-3          Omerz           3         5     0     24    Wizard  
+1          GalLalush       3         5     100   18    Ninja  
+2          Omerz           2         5     100   34    Ninja  
+3          Omerz           3         5     0     24    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -1451,9 +1451,9 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     100   18    Rogue  
-2          Omerz           2         5     0     34    Rogue  
-3          Omerz           3         5     0     24    Wizard  
+1          GalLalush       3         5     100   18    Ninja  
+2          Omerz           2         5     0     34    Ninja  
+3          Omerz           3         5     0     24    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -1463,9 +1463,9 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     100   18    Rogue  
-2          Omerz           2         5     0     34    Rogue  
-3          Omerz           3         5     0     24    Wizard  
+1          GalLalush       3         5     100   18    Ninja  
+2          Omerz           2         5     0     34    Ninja  
+3          Omerz           3         5     0     24    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -1484,21 +1484,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     100   13    Rogue  
-2          Omerz           2         5     0     34    Rogue  
-3          Omerz           3         5     0     24    Wizard  
+1          GalLalush       3         5     100   13    Ninja  
+2          Omerz           2         5     0     34    Ninja  
+3          Omerz           3         5     0     24    Healer  
 
 -------------------------------------------
 Start of round 10:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         4     90    13    Rogue  
-2          Omerz           2         5     0     34    Rogue  
-3          Omerz           3         5     0     24    Wizard  
+1          GalLalush       3         4     90    13    Ninja  
+2          Omerz           2         5     0     34    Ninja  
+3          Omerz           3         5     0     24    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -1508,9 +1508,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         4     80    13    Rogue  
-2          Omerz           2         5     0     34    Rogue  
-3          Omerz           3         5     0     24    Wizard  
+1          GalLalush       3         4     80    13    Ninja  
+2          Omerz           2         5     0     34    Ninja  
+3          Omerz           3         5     0     24    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -1530,9 +1530,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     80    3     Rogue  
-2          Omerz           2         5     0     34    Rogue  
-3          Omerz           3         5     0     24    Wizard  
+1          GalLalush       3         5     80    3     Ninja  
+2          Omerz           2         5     0     34    Ninja  
+3          Omerz           3         5     0     24    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -1542,21 +1542,21 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     80    3     Rogue  
-2          Omerz           2         5     0     34    Rogue  
-3          Omerz           3         5     0     24    Wizard  
+1          GalLalush       3         5     80    3     Ninja  
+2          Omerz           2         5     0     34    Ninja  
+3          Omerz           3         5     0     24    Healer  
 
 -------------------------------------------
 Start of round 14:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     80    7     Rogue  
-2          Omerz           2         5     0     34    Rogue  
-3          Omerz           3         5     0     24    Wizard  
+1          GalLalush       4         5     80    7     Ninja  
+2          Omerz           2         5     0     34    Ninja  
+3          Omerz           3         5     0     24    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -1566,9 +1566,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     70    7     Rogue  
-2          Omerz           2         5     0     34    Rogue  
-3          Omerz           3         5     0     24    Wizard  
+1          GalLalush       4         5     70    7     Ninja  
+2          Omerz           2         5     0     34    Ninja  
+3          Omerz           3         5     0     24    Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -1578,9 +1578,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     70    7     Rogue  
-2          Omerz           2         5     0     34    Rogue  
-3          Omerz           3         5     0     24    Wizard  
+1          GalLalush       4         5     70    7     Ninja  
+2          Omerz           2         5     0     34    Ninja  
+3          Omerz           3         5     0     24    Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -1590,9 +1590,9 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     70    7     Rogue  
-2          Omerz           2         5     0     34    Rogue  
-3          Omerz           3         5     0     24    Wizard  
+1          GalLalush       4         5     70    7     Ninja  
+2          Omerz           2         5     0     34    Ninja  
+3          Omerz           3         5     0     24    Healer  
 
 -------------------------------------------
 Start of round 18:
@@ -1602,9 +1602,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     70    7     Rogue  
-2          Omerz           2         5     0     34    Rogue  
-3          Omerz           3         5     0     24    Wizard  
+1          GalLalush       4         5     70    7     Ninja  
+2          Omerz           2         5     0     34    Ninja  
+3          Omerz           3         5     0     24    Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -1615,6 +1615,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     0     7     Rogue  
-2          Omerz           2         5     0     34    Rogue  
-3          Omerz           3         5     0     24    Wizard  
+1          GalLalush       4         5     0     7     Ninja  
+2          Omerz           2         5     0     34    Ninja  
+3          Omerz           3         5     0     24    Healer  

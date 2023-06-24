@@ -1007,19 +1007,19 @@ You fell into the trap, lose 10 health points.
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Fighter  
-2          GalLalush       1         5     100   20    Fighter  
-3          Efrat           1         4     90    10    Rogue  
-4          GalLalush       2         5     100   12    Fighter  
-5          GalLalush       1         5     0     10    Fighter  
+1          TomerM          1         5     90    10    Warrior  
+2          GalLalush       1         5     100   20    Warrior  
+3          Efrat           1         4     90    10    Ninja  
+4          GalLalush       2         5     100   12    Warrior  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -1031,15 +1031,15 @@ Nothing happened.
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Fighter  
-2          GalLalush       1         5     100   20    Fighter  
-3          Efrat           1         4     80    10    Rogue  
-4          GalLalush       3         5     100   14    Fighter  
-5          GalLalush       1         5     0     10    Fighter  
+1          TomerM          1         5     90    10    Warrior  
+2          GalLalush       1         5     100   20    Warrior  
+3          Efrat           1         4     80    10    Ninja  
+4          GalLalush       3         5     100   14    Warrior  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -1070,39 +1070,39 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     80    10    Fighter  
-2          GalLalush       1         6     100   10    Fighter  
-3          Efrat           1         5     80    0     Rogue  
-4          GalLalush       3         5     90    14    Fighter  
-5          GalLalush       1         5     0     10    Fighter  
+1          TomerM          1         5     80    10    Warrior  
+2          GalLalush       1         6     100   10    Warrior  
+3          Efrat           1         5     80    0     Ninja  
+4          GalLalush       3         5     90    14    Warrior  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
 Nothing happened.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     80    12    Fighter  
-2          GalLalush       1         6     100   20    Fighter  
-3          Efrat           1         5     80    0     Rogue  
-4          GalLalush       4         5     90    16    Fighter  
-5          GalLalush       1         5     0     10    Fighter  
+1          TomerM          2         5     80    12    Warrior  
+2          GalLalush       1         6     100   20    Warrior  
+3          Efrat           1         5     80    0     Ninja  
+4          GalLalush       4         5     90    16    Warrior  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of GalLalush's turn: 
@@ -1110,11 +1110,11 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     80    14    Fighter  
-2          GalLalush       2         6     100   22    Fighter  
-3          Efrat           1         5     80    0     Rogue  
-4          GalLalush       4         5     0     16    Fighter  
-5          GalLalush       1         5     0     10    Fighter  
+1          TomerM          3         5     80    14    Warrior  
+2          GalLalush       2         6     100   22    Warrior  
+3          Efrat           1         5     80    0     Ninja  
+4          GalLalush       4         5     0     16    Warrior  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -1122,17 +1122,17 @@ Start of round 6:
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     80    24    Fighter  
-2          GalLalush       3         6     100   24    Fighter  
-3          Efrat           1         5     0     0     Rogue  
-4          GalLalush       4         5     0     16    Fighter  
-5          GalLalush       1         5     0     10    Fighter  
+1          TomerM          3         5     80    24    Warrior  
+2          GalLalush       3         6     100   24    Warrior  
+3          Efrat           1         5     0     0     Ninja  
+4          GalLalush       4         5     0     16    Warrior  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -1144,11 +1144,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     80    34    Fighter  
-2          GalLalush       3         6     90    24    Fighter  
-3          Efrat           1         5     0     0     Rogue  
-4          GalLalush       4         5     0     16    Fighter  
-5          GalLalush       1         5     0     10    Fighter  
+1          TomerM          3         5     80    34    Warrior  
+2          GalLalush       3         6     90    24    Warrior  
+3          Efrat           1         5     0     0     Ninja  
+4          GalLalush       4         5     0     16    Warrior  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -1160,25 +1160,25 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     70    34    Fighter  
-2          GalLalush       3         6     0     24    Fighter  
-3          Efrat           1         5     0     0     Rogue  
-4          GalLalush       4         5     0     16    Fighter  
-5          GalLalush       1         5     0     10    Fighter  
+1          TomerM          3         5     70    34    Warrior  
+2          GalLalush       3         6     0     24    Warrior  
+3          Efrat           1         5     0     0     Ninja  
+4          GalLalush       4         5     0     16    Warrior  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 9:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     70    36    Fighter  
-2          GalLalush       3         6     0     24    Fighter  
-3          Efrat           1         5     0     0     Rogue  
-4          GalLalush       4         5     0     16    Fighter  
-5          GalLalush       1         5     0     10    Fighter  
+1          TomerM          4         5     70    36    Warrior  
+2          GalLalush       3         6     0     24    Warrior  
+3          Efrat           1         5     0     0     Ninja  
+4          GalLalush       4         5     0     16    Warrior  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -1188,11 +1188,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     70    46    Fighter  
-2          GalLalush       3         6     0     24    Fighter  
-3          Efrat           1         5     0     0     Rogue  
-4          GalLalush       4         5     0     16    Fighter  
-5          GalLalush       1         5     0     10    Fighter  
+1          TomerM          4         5     70    46    Warrior  
+2          GalLalush       3         6     0     24    Warrior  
+3          Efrat           1         5     0     0     Ninja  
+4          GalLalush       4         5     0     16    Warrior  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -1202,11 +1202,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     70    46    Fighter  
-2          GalLalush       3         6     0     24    Fighter  
-3          Efrat           1         5     0     0     Rogue  
-4          GalLalush       4         5     0     16    Fighter  
-5          GalLalush       1         5     0     10    Fighter  
+1          TomerM          4         5     70    46    Warrior  
+2          GalLalush       3         6     0     24    Warrior  
+3          Efrat           1         5     0     0     Ninja  
+4          GalLalush       4         5     0     16    Warrior  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -1217,8 +1217,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     0     46    Fighter  
-2          GalLalush       3         6     0     24    Fighter  
-3          Efrat           1         5     0     0     Rogue  
-4          GalLalush       4         5     0     16    Fighter  
-5          GalLalush       1         5     0     10    Fighter  
+1          TomerM          4         5     0     46    Warrior  
+2          GalLalush       3         6     0     24    Warrior  
+3          Efrat           1         5     0     0     Ninja  
+4          GalLalush       4         5     0     16    Warrior  
+5          GalLalush       1         5     0     10    Warrior  

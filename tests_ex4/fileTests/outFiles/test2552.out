@@ -91,14 +91,14 @@ You have entered an invalid class. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Wizard  
-2          Efrat           1         5     100   20    Wizard  
+1          Amirmann        2         5     100   12    Healer  
+2          Efrat           1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -117,21 +117,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   22    Wizard  
-2          Efrat           1         5     100   20    Wizard  
+1          Amirmann        2         5     100   22    Healer  
+2          Efrat           1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   22    Wizard  
-2          Efrat           1         5     100   20    Wizard  
+1          Amirmann        2         5     100   22    Healer  
+2          Efrat           1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -150,8 +150,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   22    Wizard  
-2          Efrat           1         5     90    20    Wizard  
+1          Amirmann        2         5     100   22    Healer  
+2          Efrat           1         5     90    20    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -172,8 +172,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     90    22    Wizard  
-2          Efrat           1         5     90    20    Wizard  
+1          Amirmann        2         5     90    22    Healer  
+2          Efrat           1         5     90    20    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -181,34 +181,34 @@ Start of round 6:
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Wizard  
-2          Amirmann        2         5     0     22    Wizard  
+1          Efrat           1         5     100   20    Healer  
+2          Amirmann        2         5     0     22    Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   22    Wizard  
-2          Amirmann        2         5     0     22    Wizard  
+1          Efrat           2         5     100   22    Healer  
+2          Amirmann        2         5     0     22    Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     100   24    Wizard  
-2          Amirmann        2         5     0     22    Wizard  
+1          Efrat           3         5     100   24    Healer  
+2          Amirmann        2         5     0     22    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -226,8 +226,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     100   14    Wizard  
-2          Amirmann        2         5     0     22    Wizard  
+1          Efrat           3         6     100   14    Healer  
+2          Amirmann        2         5     0     22    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -238,5 +238,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     0     14    Wizard  
-2          Amirmann        2         5     0     22    Wizard  
+1          Efrat           3         6     0     14    Healer  
+2          Amirmann        2         5     0     22    Healer  

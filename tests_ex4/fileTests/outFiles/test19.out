@@ -96,20 +96,20 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Wizard  
-2          TomerM          1         5     100   20    Fighter  
+1          Efrat           2         5     100   12    Healer  
+2          TomerM          1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -123,21 +123,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Wizard  
-2          TomerM          1         5     100   15    Fighter  
+1          Efrat           2         5     100   12    Healer  
+2          TomerM          1         5     100   15    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Wizard  
-2          TomerM          1         5     90    15    Fighter  
+1          Efrat           2         5     100   12    Healer  
+2          TomerM          1         5     90    15    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -149,8 +149,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     90    12    Wizard  
-2          TomerM          1         5     90    15    Fighter  
+1          Efrat           2         5     90    12    Healer  
+2          TomerM          1         5     90    15    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -158,12 +158,12 @@ Start of round 5:
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    17    Fighter  
-2          Efrat           2         5     0     12    Wizard  
+1          TomerM          2         5     90    17    Warrior  
+2          Efrat           2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -173,8 +173,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    17    Fighter  
-2          Efrat           2         5     0     12    Wizard  
+1          TomerM          2         5     90    17    Warrior  
+2          Efrat           2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -185,5 +185,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     0     17    Fighter  
-2          Efrat           2         5     0     12    Wizard  
+1          TomerM          2         5     0     17    Warrior  
+2          Efrat           2         5     0     12    Healer  

@@ -602,7 +602,7 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
@@ -619,9 +619,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   12    Fighter  
-2          GalLalush       1         5     100   20    Fighter  
-3          Daniel          1         6     100   0     Wizard  
+1          TomerM          2         5     100   12    Warrior  
+2          GalLalush       1         5     100   20    Warrior  
+3          Daniel          1         6     100   0     Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -635,9 +635,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   30    Fighter  
-2          Daniel          1         6     100   10    Wizard  
-3          TomerM          2         5     0     12    Fighter  
+1          GalLalush       1         5     100   30    Warrior  
+2          Daniel          1         6     100   10    Healer  
+3          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -645,13 +645,13 @@ Start of round 3:
 Start of GalLalush's turn: 
 Nothing happened.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   30    Fighter  
-2          Daniel          2         6     100   12    Wizard  
-3          TomerM          2         5     0     12    Fighter  
+1          GalLalush       1         5     100   30    Warrior  
+2          Daniel          2         6     100   12    Healer  
+3          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -672,9 +672,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   30    Fighter  
-2          Daniel          2         7     100   2     Wizard  
-3          TomerM          2         5     0     12    Fighter  
+1          GalLalush       1         5     100   30    Warrior  
+2          Daniel          2         7     100   2     Healer  
+3          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -686,9 +686,9 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   30    Fighter  
-2          Daniel          2         7     0     2     Wizard  
-3          TomerM          2         5     0     12    Fighter  
+1          GalLalush       1         5     100   30    Warrior  
+2          Daniel          2         7     0     2     Healer  
+3          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -698,9 +698,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   40    Fighter  
-2          Daniel          2         7     0     2     Wizard  
-3          TomerM          2         5     0     12    Fighter  
+1          GalLalush       1         5     100   40    Warrior  
+2          Daniel          2         7     0     2     Healer  
+3          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -711,6 +711,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     0     40    Fighter  
-2          Daniel          2         7     0     2     Wizard  
-3          TomerM          2         5     0     12    Fighter  
+1          GalLalush       1         5     0     40    Warrior  
+2          Daniel          2         7     0     2     Healer  
+3          TomerM          2         5     0     12    Warrior  

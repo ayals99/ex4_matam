@@ -768,32 +768,32 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Wizard  
-2          TomerM          1         5     100   20    Wizard  
+1          Daniel          1         5     100   10    Healer  
+2          TomerM          1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     90    10    Wizard  
-2          TomerM          1         5     0     20    Wizard  
+1          Daniel          1         4     90    10    Healer  
+2          TomerM          1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     100   10    Wizard  
-2          TomerM          1         5     0     20    Wizard  
+1          Daniel          1         4     100   10    Healer  
+2          TomerM          1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -804,5 +804,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     0     10    Wizard  
-2          TomerM          1         5     0     20    Wizard  
+1          Daniel          1         4     0     10    Healer  
+2          TomerM          1         5     0     20    Healer  

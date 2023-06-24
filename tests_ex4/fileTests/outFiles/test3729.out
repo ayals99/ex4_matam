@@ -107,9 +107,9 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Fighter  
-2          Daniel          1         5     90    10    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          1         5     90    10    Warrior  
+2          Daniel          1         5     90    10    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -128,23 +128,23 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Fighter  
-2          Daniel          1         5     91    5     Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          1         5     90    10    Warrior  
+2          Daniel          1         5     91    5     Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    12    Fighter  
-2          Daniel          1         5     81    5     Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          2         5     90    12    Warrior  
+2          Daniel          1         5     81    5     Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -152,13 +152,13 @@ Start of round 4:
 Start of TomerM's turn: 
 Nothing happened.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    12    Fighter  
-2          Daniel          1         4     71    5     Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          2         5     90    12    Warrior  
+2          Daniel          1         4     71    5     Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -170,9 +170,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    12    Fighter  
-2          Daniel          1         4     71    25    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          2         5     90    12    Warrior  
+2          Daniel          1         4     71    25    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -184,23 +184,23 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    22    Fighter  
-2          Daniel          1         4     71    45    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          2         5     90    22    Warrior  
+2          Daniel          1         4     71    45    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    24    Fighter  
-2          Daniel          1         4     0     45    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          3         5     90    24    Warrior  
+2          Daniel          1         4     0     45    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -210,9 +210,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    24    Fighter  
-2          Daniel          1         4     0     45    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          3         5     90    24    Warrior  
+2          Daniel          1         4     0     45    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -222,21 +222,21 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     80    24    Fighter  
-2          Daniel          1         4     0     45    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          3         5     80    24    Warrior  
+2          Daniel          1         4     0     45    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     80    26    Fighter  
-2          Daniel          1         4     0     45    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          4         5     80    26    Warrior  
+2          Daniel          1         4     0     45    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -246,9 +246,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     70    26    Fighter  
-2          Daniel          1         4     0     45    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          4         5     70    26    Warrior  
+2          Daniel          1         4     0     45    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -258,33 +258,33 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     70    26    Fighter  
-2          Daniel          1         4     0     45    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          4         5     70    26    Warrior  
+2          Daniel          1         4     0     45    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 13:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         5     70    28    Fighter  
-2          Daniel          1         4     0     45    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          5         5     70    28    Warrior  
+2          Daniel          1         4     0     45    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 14:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     70    30    Fighter  
-2          Daniel          1         4     0     45    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          6         5     70    30    Warrior  
+2          Daniel          1         4     0     45    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -294,9 +294,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     60    30    Fighter  
-2          Daniel          1         4     0     45    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          6         5     60    30    Warrior  
+2          Daniel          1         4     0     45    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -307,6 +307,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     0     30    Fighter  
-2          Daniel          1         4     0     45    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          TomerM          6         5     0     30    Warrior  
+2          Daniel          1         4     0     45    Ninja  
+3          Omerz           1         5     0     10    Healer  

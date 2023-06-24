@@ -80,10 +80,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   0     Wizard  
-2          TomerM          1         5     90    10    Rogue  
-3          GalLalush       1         5     90    10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         6     100   0     Healer  
+2          TomerM          1         5     90    10    Ninja  
+3          GalLalush       1         5     90    10    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -105,25 +105,25 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     90    0     Wizard  
-2          TomerM          1         5     91    5     Rogue  
-3          GalLalush       1         5     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         6     90    0     Healer  
+2          TomerM          1         5     91    5     Ninja  
+3          GalLalush       1         5     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     80    0     Wizard  
-2          TomerM          1         5     0     5     Rogue  
-3          GalLalush       1         5     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     80    0     Healer  
+2          TomerM          1         5     0     5     Ninja  
+3          GalLalush       1         5     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -140,10 +140,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     80    0     Wizard  
-2          TomerM          1         5     0     5     Rogue  
-3          GalLalush       1         5     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     80    0     Healer  
+2          TomerM          1         5     0     5     Ninja  
+3          GalLalush       1         5     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -153,10 +153,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     70    0     Wizard  
-2          TomerM          1         5     0     5     Rogue  
-3          GalLalush       1         5     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     70    0     Healer  
+2          TomerM          1         5     0     5     Ninja  
+3          GalLalush       1         5     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -166,10 +166,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     60    0     Wizard  
-2          TomerM          1         5     0     5     Rogue  
-3          GalLalush       1         5     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     60    0     Healer  
+2          TomerM          1         5     0     5     Ninja  
+3          GalLalush       1         5     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -179,10 +179,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     50    0     Wizard  
-2          TomerM          1         5     0     5     Rogue  
-3          GalLalush       1         5     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     50    0     Healer  
+2          TomerM          1         5     0     5     Ninja  
+3          GalLalush       1         5     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -201,10 +201,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     50    0     Wizard  
-2          TomerM          1         5     0     5     Rogue  
-3          GalLalush       1         5     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     50    0     Healer  
+2          TomerM          1         5     0     5     Ninja  
+3          GalLalush       1         5     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -215,7 +215,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     0     0     Wizard  
-2          TomerM          1         5     0     5     Rogue  
-3          GalLalush       1         5     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     0     0     Healer  
+2          TomerM          1         5     0     5     Ninja  
+3          GalLalush       1         5     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  

@@ -76,14 +76,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Wizard  
-2          Efrat           1         5     100   10    Rogue  
+1          Amirmann        1         5     100   10    Healer  
+2          Efrat           1         5     100   10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -102,8 +102,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    10    Wizard  
-2          Efrat           1         5     100   10    Rogue  
+1          Amirmann        1         5     90    10    Healer  
+2          Efrat           1         5     100   10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -115,8 +115,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           1         5     100   10    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -126,8 +126,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   30    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           1         5     100   30    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -146,8 +146,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   20    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           1         6     100   20    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -157,8 +157,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   20    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           1         6     100   20    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -168,8 +168,8 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   20    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           1         6     100   20    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -179,8 +179,8 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   20    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           1         6     100   20    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -198,8 +198,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         7     100   10    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           1         7     100   10    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -210,5 +210,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         7     0     10    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           1         7     0     10    Ninja  
+2          Amirmann        1         5     0     10    Healer  

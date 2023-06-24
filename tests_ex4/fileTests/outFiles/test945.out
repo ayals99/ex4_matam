@@ -1485,8 +1485,8 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           1         5     100   10    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -1504,8 +1504,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           1         5     100   10    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -1515,8 +1515,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   30    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           1         5     100   30    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -1526,19 +1526,19 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   30    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           1         5     100   30    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   34    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           2         5     100   34    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -1557,8 +1557,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   34    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           2         5     100   34    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -1568,8 +1568,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   34    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           2         5     100   34    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -1579,8 +1579,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     90    34    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           2         5     90    34    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -1590,8 +1590,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     90    54    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           2         5     90    54    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -1602,5 +1602,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     0     54    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Efrat           2         5     0     54    Ninja  
+2          Amirmann        1         5     0     10    Healer  

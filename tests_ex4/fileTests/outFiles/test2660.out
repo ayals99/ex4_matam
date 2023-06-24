@@ -142,21 +142,21 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Wizard  
-2          Omerz           1         5     100   10    Fighter  
+1          Efrat           1         6     100   0     Healer  
+2          Omerz           1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of Omerz's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    0     Wizard  
-2          Omerz           1         5     100   10    Fighter  
+1          Efrat           1         5     90    0     Healer  
+2          Omerz           1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -177,21 +177,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     80    0     Wizard  
-2          Omerz           1         5     100   5     Fighter  
+1          Efrat           1         5     80    0     Healer  
+2          Omerz           1         5     100   5     Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     70    0     Wizard  
-2          Omerz           2         5     100   7     Fighter  
+1          Efrat           1         4     70    0     Healer  
+2          Omerz           2         5     100   7     Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -208,12 +208,12 @@ You dont have enough coins for this purchase. Please try again.
 Efrat has paid 0 coins for 1 health potion!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     70    0     Wizard  
-2          Omerz           3         5     100   9     Fighter  
+1          Efrat           1         4     70    0     Healer  
+2          Omerz           3         5     100   9     Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -233,8 +233,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     60    0     Wizard  
-2          Omerz           3         5     100   9     Fighter  
+1          Efrat           1         4     60    0     Healer  
+2          Omerz           3         5     100   9     Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -246,8 +246,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   9     Fighter  
-2          Efrat           1         4     0     0     Wizard  
+1          Omerz           3         5     100   9     Warrior  
+2          Efrat           1         4     0     0     Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -258,5 +258,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     0     9     Fighter  
-2          Efrat           1         4     0     0     Wizard  
+1          Omerz           3         5     0     9     Warrior  
+2          Efrat           1         4     0     0     Healer  

@@ -700,9 +700,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Fighter  
-2          GalLalush       1         5     90    10    Wizard  
-3          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         5     100   10    Warrior  
+2          GalLalush       1         5     90    10    Healer  
+3          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -714,23 +714,23 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Fighter  
-2          GalLalush       1         5     80    10    Wizard  
-3          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         5     100   10    Warrior  
+2          GalLalush       1         5     80    10    Healer  
+3          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Fighter  
-2          GalLalush       2         5     80    12    Wizard  
-3          Daniel          1         5     0     10    Wizard  
+1          Amirmann        2         5     100   12    Warrior  
+2          GalLalush       2         5     80    12    Healer  
+3          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -743,6 +743,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     0     12    Wizard  
-2          Amirmann        2         5     0     12    Fighter  
-3          Daniel          1         5     0     10    Wizard  
+1          GalLalush       2         5     0     12    Healer  
+2          Amirmann        2         5     0     12    Warrior  
+3          Daniel          1         5     0     10    Healer  

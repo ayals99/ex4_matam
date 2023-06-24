@@ -730,15 +730,15 @@ Start of round 1:
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   20    Fighter  
-2          Amirmann        2         5     100   12    Fighter  
-3          Omerz           1         5     100   20    Wizard  
+1          GalLalush       1         5     100   20    Warrior  
+2          Amirmann        2         5     100   12    Warrior  
+3          Omerz           1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -748,27 +748,27 @@ You fell into the trap, lose 10 health points.
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    20    Fighter  
-2          Omerz           2         5     100   22    Wizard  
-3          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       1         5     90    20    Warrior  
+2          Omerz           2         5     100   22    Healer  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    22    Fighter  
-2          Omerz           2         5     100   32    Wizard  
-3          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         5     90    22    Warrior  
+2          Omerz           2         5     100   32    Healer  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -780,9 +780,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     80    22    Fighter  
-2          Omerz           2         5     90    32    Wizard  
-3          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         5     80    22    Warrior  
+2          Omerz           2         5     90    32    Healer  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -797,13 +797,13 @@ GalLalush has 22 coins
 GalLalush has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     81    17    Fighter  
-2          Omerz           3         5     90    34    Wizard  
-3          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         5     81    17    Warrior  
+2          Omerz           3         5     90    34    Healer  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -822,9 +822,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     81    17    Fighter  
-2          Omerz           3         5     92    29    Wizard  
-3          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         5     81    17    Warrior  
+2          Omerz           3         5     92    29    Healer  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -832,27 +832,27 @@ Start of round 7:
 Start of GalLalush's turn: 
 You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     81    17    Fighter  
-2          Omerz           3         4     82    29    Wizard  
-3          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         5     81    17    Warrior  
+2          Omerz           3         4     82    29    Healer  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 8:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     81    19    Fighter  
-2          Omerz           4         4     82    31    Wizard  
-3          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       3         5     81    19    Warrior  
+2          Omerz           4         4     82    31    Healer  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -860,37 +860,37 @@ Start of round 9:
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         4     100   31    Wizard  
-2          GalLalush       3         5     0     19    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
+1          Omerz           4         4     100   31    Healer  
+2          GalLalush       3         5     0     19    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         4     100   33    Wizard  
-2          GalLalush       3         5     0     19    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
+1          Omerz           5         4     100   33    Healer  
+2          GalLalush       3         5     0     19    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         4     100   33    Wizard  
-2          GalLalush       3         5     0     19    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
+1          Omerz           5         4     100   33    Healer  
+2          GalLalush       3         5     0     19    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -900,69 +900,69 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         4     90    33    Wizard  
-2          GalLalush       3         5     0     19    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
+1          Omerz           5         4     90    33    Healer  
+2          GalLalush       3         5     0     19    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         4     90    35    Wizard  
-2          GalLalush       3         5     0     19    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
+1          Omerz           6         4     90    35    Healer  
+2          GalLalush       3         5     0     19    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           7         4     90    37    Wizard  
-2          GalLalush       3         5     0     19    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
+1          Omerz           7         4     90    37    Healer  
+2          GalLalush       3         5     0     19    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           7         4     100   37    Wizard  
-2          GalLalush       3         5     0     19    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
+1          Omerz           7         4     100   37    Healer  
+2          GalLalush       3         5     0     19    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 16:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           8         4     100   39    Wizard  
-2          GalLalush       3         5     0     19    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
+1          Omerz           8         4     100   39    Healer  
+2          GalLalush       3         5     0     19    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 17:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           8         4     100   39    Wizard  
-2          GalLalush       3         5     0     19    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
+1          Omerz           8         4     100   39    Healer  
+2          GalLalush       3         5     0     19    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 18:
@@ -979,9 +979,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           8         4     100   34    Wizard  
-2          GalLalush       3         5     0     19    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
+1          Omerz           8         4     100   34    Healer  
+2          GalLalush       3         5     0     19    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 19:
@@ -991,9 +991,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           8         4     90    34    Wizard  
-2          GalLalush       3         5     0     19    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
+1          Omerz           8         4     90    34    Healer  
+2          GalLalush       3         5     0     19    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 20:
@@ -1004,6 +1004,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           8         4     0     34    Wizard  
-2          GalLalush       3         5     0     19    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
+1          Omerz           8         4     0     34    Healer  
+2          GalLalush       3         5     0     19    Warrior  
+3          Amirmann        2         5     0     12    Warrior  

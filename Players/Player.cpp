@@ -1,9 +1,8 @@
 #include "Player.h"
-#include "utilities.h"
+#include "../utilities.h"
 
 /** Constructors: */
-Player::Player(std::string& name) : m_name(name), m_level(INITIAL_LEVEL), m_force(INITIAL_FORCE),  m_coins(INITIAL_COINS), m_health(MAX_HP){
-}
+Player::Player(std::string& name) : m_name(name), m_level(INITIAL_LEVEL), m_force(INITIAL_FORCE), m_health(MAX_HP), m_coins(INITIAL_COINS) {}
 
 /** Getters:*/
 std::string Player::getName() const{

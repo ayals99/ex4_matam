@@ -1446,30 +1446,30 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    10    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           1         5     90    10    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     90    12    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           2         5     90    12    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     90    14    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           3         5     90    14    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -1479,19 +1479,19 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     80    14    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           3         5     80    14    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     80    16    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         5     80    16    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -1508,8 +1508,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     80    16    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         5     80    16    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -1519,8 +1519,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     70    16    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         5     70    16    Healer  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -1531,5 +1531,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     0     16    Wizard  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         5     0     16    Healer  
+2          TomerM          1         5     0     10    Healer  

@@ -665,14 +665,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    10    Rogue  
-2          GalLalush       1         5     90    10    Rogue  
+1          Amirmann        1         4     90    10    Ninja  
+2          GalLalush       1         5     90    10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -691,8 +691,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    30    Rogue  
-2          GalLalush       1         5     90    10    Rogue  
+1          Amirmann        1         4     90    30    Ninja  
+2          GalLalush       1         5     90    10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -704,8 +704,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    50    Rogue  
-2          GalLalush       1         5     90    10    Rogue  
+1          Amirmann        1         4     90    50    Ninja  
+2          GalLalush       1         5     90    10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -725,8 +725,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    50    Rogue  
-2          GalLalush       1         5     91    5     Rogue  
+1          Amirmann        1         4     90    50    Ninja  
+2          GalLalush       1         5     91    5     Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -738,8 +738,8 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    50    Rogue  
-2          GalLalush       1         5     91    5     Rogue  
+1          Amirmann        1         4     90    50    Ninja  
+2          GalLalush       1         5     91    5     Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -751,8 +751,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    70    Rogue  
-2          GalLalush       1         5     91    25    Rogue  
+1          Amirmann        1         4     90    70    Ninja  
+2          GalLalush       1         5     91    25    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -772,8 +772,8 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    70    Rogue  
-2          GalLalush       1         5     91    25    Rogue  
+1          Amirmann        1         4     90    70    Ninja  
+2          GalLalush       1         5     91    25    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -785,8 +785,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    70    Rogue  
-2          GalLalush       1         5     81    25    Rogue  
+1          Amirmann        1         4     90    70    Ninja  
+2          GalLalush       1         5     81    25    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -798,19 +798,19 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    70    Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         4     90    70    Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    70    Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         4     80    70    Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -820,19 +820,19 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     70    70    Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         4     70    70    Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     60    70    Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         4     60    70    Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -842,19 +842,19 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     60    90    Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         4     60    90    Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     50    90    Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         4     50    90    Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -864,8 +864,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     50    90    Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         4     50    90    Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -875,19 +875,19 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     50    90    Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         4     50    90    Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 17:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     40    90    Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         4     40    90    Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 18:
@@ -897,8 +897,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     40    110   Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         4     40    110   Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 19:
@@ -908,8 +908,8 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     40    110   Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         4     40    110   Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 20:
@@ -919,19 +919,19 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     40    130   Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         4     40    130   Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 21:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     30    130   Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         4     30    130   Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 22:
@@ -941,19 +941,19 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     30    130   Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         4     30    130   Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 23:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     20    130   Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         3     20    130   Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 24:
@@ -963,8 +963,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     20    130   Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         3     20    130   Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 25:
@@ -974,19 +974,19 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     20    150   Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         3     20    150   Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 26:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     10    150   Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         3     10    150   Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 27:
@@ -996,8 +996,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     10    150   Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         3     10    150   Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 28:
@@ -1007,17 +1007,17 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     10    170   Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         3     10    170   Ninja  
+2          GalLalush       1         5     0     25    Ninja  
 
 -------------------------------------------
 Start of round 29:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     0     170   Rogue  
-2          GalLalush       1         5     0     25    Rogue  
+1          Amirmann        1         3     0     170   Ninja  
+2          GalLalush       1         5     0     25    Ninja  

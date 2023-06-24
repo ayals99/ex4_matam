@@ -285,18 +285,18 @@ Start of round 1:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of TomerM's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Wizard  
-2          Daniel          2         5     100   12    Fighter  
-3          Daniel          1         4     90    10    Wizard  
-4          TomerM          1         5     100   10    Fighter  
+1          Amirmann        1         5     100   20    Healer  
+2          Daniel          2         5     100   12    Warrior  
+3          Daniel          1         4     90    10    Healer  
+4          TomerM          1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -313,16 +313,16 @@ Safe travels!
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   15    Wizard  
-2          Daniel          2         5     100   12    Fighter  
-3          Daniel          1         4     100   10    Wizard  
-4          TomerM          1         5     100   10    Fighter  
+1          Amirmann        1         5     100   15    Healer  
+2          Daniel          2         5     100   12    Warrior  
+3          Daniel          1         4     100   10    Healer  
+4          TomerM          1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -330,7 +330,7 @@ Start of round 3:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
@@ -338,29 +338,29 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   25    Wizard  
-2          Daniel          3         5     100   14    Fighter  
-3          Daniel          1         4     100   20    Wizard  
-4          TomerM          1         5     100   10    Fighter  
+1          Amirmann        1         5     100   25    Healer  
+2          Daniel          3         5     100   14    Warrior  
+3          Daniel          1         4     100   20    Healer  
+4          TomerM          1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    25    Wizard  
-2          Daniel          4         5     100   16    Fighter  
-3          Daniel          1         3     90    20    Wizard  
-4          TomerM          2         5     100   12    Fighter  
+1          Amirmann        1         4     90    25    Healer  
+2          Daniel          4         5     100   16    Warrior  
+3          Daniel          1         3     90    20    Healer  
+4          TomerM          2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -368,18 +368,18 @@ Start of round 5:
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     100   18    Fighter  
-2          Daniel          1         2     80    20    Wizard  
-3          TomerM          2         5     100   22    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          5         5     100   18    Warrior  
+2          Daniel          1         2     80    20    Healer  
+3          TomerM          2         5     100   22    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -395,16 +395,16 @@ You have entered an invalid input. Please try again.
 Daniel has paid 0 coins 
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     100   18    Fighter  
-2          Daniel          1         1     70    20    Wizard  
-3          TomerM          3         5     100   24    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          5         5     100   18    Warrior  
+2          Daniel          1         1     70    20    Healer  
+3          TomerM          3         5     100   24    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -412,7 +412,7 @@ Start of round 7:
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -425,10 +425,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     90    18    Fighter  
-2          Daniel          1         0     60    20    Wizard  
-3          TomerM          3         6     100   14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          5         5     90    18    Warrior  
+2          Daniel          1         0     60    20    Healer  
+3          TomerM          3         6     100   14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -436,16 +436,16 @@ Start of round 8:
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     90    18    Fighter  
-2          Daniel          1         0     80    20    Wizard  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          5         5     90    18    Warrior  
+2          Daniel          1         0     80    20    Healer  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -453,29 +453,29 @@ Start of round 9:
 Start of Daniel's turn: 
 Nothing happened.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Goblin.
+Player Daniel has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     90    18    Fighter  
-2          Daniel          1         0     70    20    Wizard  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          5         5     90    18    Warrior  
+2          Daniel          1         0     70    20    Healer  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         5     90    20    Fighter  
-2          Daniel          1         0     70    30    Wizard  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          6         5     90    20    Warrior  
+2          Daniel          1         0     70    30    Healer  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -496,10 +496,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         5     90    20    Fighter  
-2          Daniel          1         0     60    30    Wizard  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          6         5     90    20    Warrior  
+2          Daniel          1         0     60    30    Healer  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -511,10 +511,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         5     90    20    Fighter  
-2          Daniel          1         0     60    40    Wizard  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          6         5     90    20    Warrior  
+2          Daniel          1         0     60    40    Healer  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -534,23 +534,23 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         0     60    40    Wizard  
-2          Daniel          6         5     0     20    Fighter  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          1         0     60    40    Healer  
+2          Daniel          6         5     0     20    Warrior  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         0     50    40    Wizard  
-2          Daniel          6         5     0     20    Fighter  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          1         0     50    40    Healer  
+2          Daniel          6         5     0     20    Warrior  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -568,10 +568,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         1     50    30    Wizard  
-2          Daniel          6         5     0     20    Fighter  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          1         1     50    30    Healer  
+2          Daniel          6         5     0     20    Warrior  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -581,10 +581,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         1     50    40    Wizard  
-2          Daniel          6         5     0     20    Fighter  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          1         1     50    40    Healer  
+2          Daniel          6         5     0     20    Warrior  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -594,23 +594,23 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         1     50    50    Wizard  
-2          Daniel          6         5     0     20    Fighter  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          1         1     50    50    Healer  
+2          Daniel          6         5     0     20    Warrior  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 18:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         0     40    50    Wizard  
-2          Daniel          6         5     0     20    Fighter  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          1         0     40    50    Healer  
+2          Daniel          6         5     0     20    Warrior  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -620,23 +620,23 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         0     30    50    Wizard  
-2          Daniel          6         5     0     20    Fighter  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          1         0     30    50    Healer  
+2          Daniel          6         5     0     20    Warrior  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 20:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         0     20    50    Wizard  
-2          Daniel          6         5     0     20    Fighter  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          1         0     20    50    Healer  
+2          Daniel          6         5     0     20    Warrior  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 21:
@@ -655,10 +655,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         0     22    45    Wizard  
-2          Daniel          6         5     0     20    Fighter  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          1         0     22    45    Healer  
+2          Daniel          6         5     0     20    Warrior  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 22:
@@ -676,10 +676,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         1     22    35    Wizard  
-2          Daniel          6         5     0     20    Fighter  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          1         1     22    35    Healer  
+2          Daniel          6         5     0     20    Warrior  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 23:
@@ -689,10 +689,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         1     12    35    Wizard  
-2          Daniel          6         5     0     20    Fighter  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          1         1     12    35    Healer  
+2          Daniel          6         5     0     20    Warrior  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  
 
 -------------------------------------------
 Start of round 24:
@@ -703,7 +703,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         1     0     35    Wizard  
-2          Daniel          6         5     0     20    Fighter  
-3          TomerM          3         6     0     14    Fighter  
-4          Amirmann        1         4     0     25    Wizard  
+1          Daniel          1         1     0     35    Healer  
+2          Daniel          6         5     0     20    Warrior  
+3          TomerM          3         6     0     14    Warrior  
+4          Amirmann        1         4     0     25    Healer  

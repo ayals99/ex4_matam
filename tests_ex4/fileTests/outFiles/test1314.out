@@ -248,11 +248,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Wizard  
-2          Amirmann        1         5     100   10    Fighter  
-3          Omerz           1         5     100   10    Rogue  
-4          Amirmann        1         5     90    10    Wizard  
-5          GalLalush       1         5     100   10    Rogue  
+1          GalLalush       1         5     90    10    Healer  
+2          Amirmann        1         5     100   10    Warrior  
+3          Omerz           1         5     100   10    Ninja  
+4          Amirmann        1         5     90    10    Healer  
+5          GalLalush       1         5     100   10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -262,7 +262,7 @@ This is but a flesh wound. You've lost 10 health points
 Start of Amirmann's turn: 
 You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -275,15 +275,15 @@ You have entered an invalid input. Please try again.
 Amirmann has paid 0 coins 
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     80    10    Wizard  
-2          Amirmann        1         5     100   10    Fighter  
-3          Omerz           2         5     100   14    Rogue  
-4          Amirmann        1         5     90    10    Wizard  
-5          GalLalush       1         4     90    10    Rogue  
+1          GalLalush       1         5     80    10    Healer  
+2          Amirmann        1         5     100   10    Warrior  
+3          Omerz           2         5     100   14    Ninja  
+4          Amirmann        1         5     90    10    Healer  
+5          GalLalush       1         4     90    10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -300,11 +300,11 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 0 coins 
 Safe travels!
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -319,11 +319,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     80    10    Wizard  
-2          Amirmann        2         5     100   12    Fighter  
-3          Omerz           2         4     90    14    Rogue  
-4          Amirmann        1         5     100   10    Wizard  
-5          GalLalush       1         4     90    10    Rogue  
+1          GalLalush       1         5     80    10    Healer  
+2          Amirmann        2         5     100   12    Warrior  
+3          Omerz           2         4     90    14    Ninja  
+4          Amirmann        1         5     100   10    Healer  
+5          GalLalush       1         4     90    10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -335,17 +335,17 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     70    10    Wizard  
-2          Amirmann        2         5     100   22    Fighter  
-3          Omerz           2         4     90    34    Rogue  
-4          Amirmann        2         5     100   12    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          GalLalush       1         5     70    10    Healer  
+2          Amirmann        2         5     100   22    Warrior  
+3          Omerz           2         4     90    34    Ninja  
+4          Amirmann        2         5     100   12    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -370,11 +370,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   22    Fighter  
-2          Omerz           2         4     91    29    Rogue  
-3          Amirmann        2         5     90    12    Wizard  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        2         5     100   22    Warrior  
+2          Omerz           2         4     91    29    Ninja  
+3          Amirmann        2         5     90    12    Healer  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -388,11 +388,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   22    Fighter  
-2          Omerz           2         4     91    29    Rogue  
-3          Amirmann        2         5     80    12    Wizard  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        2         5     100   22    Warrior  
+2          Omerz           2         4     91    29    Ninja  
+3          Amirmann        2         5     80    12    Healer  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -400,7 +400,7 @@ Start of round 7:
 Start of Amirmann's turn: 
 You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -413,17 +413,17 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   22    Fighter  
-2          Omerz           3         4     91    33    Rogue  
-3          Amirmann        2         6     80    2     Wizard  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        2         5     100   22    Warrior  
+2          Omerz           3         4     91    33    Ninja  
+3          Amirmann        2         6     80    2     Healer  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -434,21 +434,21 @@ Omerz has 33 coins
 Omerz has paid 0 coins 
 Safe travels!
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   24    Fighter  
-2          Omerz           3         4     91    33    Rogue  
-3          Amirmann        3         6     80    4     Wizard  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        3         5     100   24    Warrior  
+2          Omerz           3         4     91    33    Ninja  
+3          Amirmann        3         6     80    4     Healer  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
 Nothing happened.
 Start of Amirmann's turn: 
@@ -465,11 +465,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     100   26    Fighter  
-2          Omerz           3         4     91    33    Rogue  
-3          Amirmann        3         6     80    4     Wizard  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        4         5     100   26    Warrior  
+2          Omerz           3         4     91    33    Ninja  
+3          Amirmann        3         6     80    4     Healer  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -483,17 +483,17 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     90    26    Fighter  
-2          Omerz           3         4     91    53    Rogue  
-3          Amirmann        3         6     80    14    Wizard  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        4         5     90    26    Warrior  
+2          Omerz           3         4     91    53    Ninja  
+3          Amirmann        3         6     80    14    Healer  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of Amirmann's turn: 
@@ -501,11 +501,11 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     90    28    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        5         5     90    28    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -515,11 +515,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     90    28    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        5         5     90    28    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -537,11 +537,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     90    28    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        5         5     90    28    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -551,11 +551,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     80    28    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        5         5     80    28    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -565,11 +565,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     80    28    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        5         5     80    28    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -579,11 +579,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     70    28    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        5         5     70    28    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 17:
@@ -593,11 +593,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     70    28    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        5         5     70    28    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 18:
@@ -607,25 +607,25 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     70    28    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        5         5     70    28    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 19:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     70    30    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        6         5     70    30    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 20:
@@ -642,25 +642,25 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     70    30    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        6         5     70    30    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 21:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        7         5     70    32    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        7         5     70    32    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 22:
@@ -678,39 +678,39 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        7         6     70    22    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        7         6     70    22    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 23:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        8         6     70    24    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        8         6     70    24    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 24:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        9         6     70    26    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        9         6     70    26    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 25:
@@ -720,11 +720,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        9         6     70    26    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        9         6     70    26    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 26:
@@ -741,11 +741,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        9         6     71    21    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        9         6     71    21    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 27:
@@ -755,11 +755,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        9         6     61    21    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        9         6     61    21    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 28:
@@ -769,11 +769,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        9         6     61    31    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        9         6     61    31    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 29:
@@ -783,23 +783,23 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        9         6     61    41    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        9         6     61    41    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 30:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        10        6     61    43    Fighter  
-2          Amirmann        3         6     0     14    Wizard  
-3          Omerz           3         4     0     53    Rogue  
-4          GalLalush       1         5     0     10    Wizard  
-5          GalLalush       1         4     0     10    Rogue  
+1          Amirmann        10        6     61    43    Warrior  
+2          Amirmann        3         6     0     14    Healer  
+3          Omerz           3         4     0     53    Ninja  
+4          GalLalush       1         5     0     10    Healer  
+5          GalLalush       1         4     0     10    Ninja  

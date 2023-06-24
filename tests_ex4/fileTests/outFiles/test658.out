@@ -199,7 +199,7 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
@@ -207,9 +207,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    10    Wizard  
-2          TomerM          1         5     100   20    Fighter  
-3          GalLalush       1         5     100   20    Wizard  
+1          Amirmann        1         4     90    10    Healer  
+2          TomerM          1         5     100   20    Warrior  
+3          GalLalush       1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -219,13 +219,13 @@ Player Amirmann has been defeated by a Dragon.
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   22    Wizard  
-2          TomerM          1         5     0     20    Fighter  
-3          Amirmann        1         4     0     10    Wizard  
+1          GalLalush       2         5     100   22    Healer  
+2          TomerM          1         5     0     20    Warrior  
+3          Amirmann        1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -235,21 +235,21 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   32    Wizard  
-2          TomerM          1         5     0     20    Fighter  
-3          Amirmann        1         4     0     10    Wizard  
+1          GalLalush       2         5     100   32    Healer  
+2          TomerM          1         5     0     20    Warrior  
+3          Amirmann        1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         4     90    32    Wizard  
-2          TomerM          1         5     0     20    Fighter  
-3          Amirmann        1         4     0     10    Wizard  
+1          GalLalush       2         4     90    32    Healer  
+2          TomerM          1         5     0     20    Warrior  
+3          Amirmann        1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -266,9 +266,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         4     92    27    Wizard  
-2          TomerM          1         5     0     20    Fighter  
-3          Amirmann        1         4     0     10    Wizard  
+1          GalLalush       2         4     92    27    Healer  
+2          TomerM          1         5     0     20    Warrior  
+3          Amirmann        1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -278,21 +278,21 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         4     82    27    Wizard  
-2          TomerM          1         5     0     20    Fighter  
-3          Amirmann        1         4     0     10    Wizard  
+1          GalLalush       2         4     82    27    Healer  
+2          TomerM          1         5     0     20    Warrior  
+3          Amirmann        1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         4     100   27    Wizard  
-2          TomerM          1         5     0     20    Fighter  
-3          Amirmann        1         4     0     10    Wizard  
+1          GalLalush       2         4     100   27    Healer  
+2          TomerM          1         5     0     20    Warrior  
+3          Amirmann        1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -302,9 +302,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         4     100   37    Wizard  
-2          TomerM          1         5     0     20    Fighter  
-3          Amirmann        1         4     0     10    Wizard  
+1          GalLalush       2         4     100   37    Healer  
+2          TomerM          1         5     0     20    Warrior  
+3          Amirmann        1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -323,9 +323,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         4     100   32    Wizard  
-2          TomerM          1         5     0     20    Fighter  
-3          Amirmann        1         4     0     10    Wizard  
+1          GalLalush       2         4     100   32    Healer  
+2          TomerM          1         5     0     20    Warrior  
+3          Amirmann        1         4     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -336,6 +336,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         4     0     32    Wizard  
-2          TomerM          1         5     0     20    Fighter  
-3          Amirmann        1         4     0     10    Wizard  
+1          GalLalush       2         4     0     32    Healer  
+2          TomerM          1         5     0     20    Warrior  
+3          Amirmann        1         4     0     10    Healer  

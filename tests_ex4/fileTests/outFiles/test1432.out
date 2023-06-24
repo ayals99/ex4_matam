@@ -1162,9 +1162,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Fighter  
-2          GalLalush       1         5     90    10    Rogue  
-3          Efrat           1         5     100   20    Wizard  
+1          TomerM          1         5     90    10    Warrior  
+2          GalLalush       1         5     90    10    Ninja  
+3          Efrat           1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -1178,21 +1178,21 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    20    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           1         5     90    20    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           1         5     100   20    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -1202,9 +1202,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   30    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           1         5     100   30    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -1214,9 +1214,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    30    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           1         5     90    30    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -1226,9 +1226,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     80    30    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           1         5     80    30    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -1238,21 +1238,21 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     70    30    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           1         5     70    30    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     60    30    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           1         4     60    30    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -1262,9 +1262,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     60    40    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           1         4     60    40    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -1274,21 +1274,21 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     50    40    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           1         4     50    40    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Goblin.
+Player Efrat has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     40    40    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           1         4     40    40    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -1299,6 +1299,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     0     40    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           1         4     0     40    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          TomerM          1         5     0     10    Warrior  

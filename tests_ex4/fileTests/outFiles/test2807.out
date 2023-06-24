@@ -48,14 +48,14 @@ You have entered an invalid class. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Fighter  
-2          Amirmann        2         5     100   12    Fighter  
+1          Amirmann        2         5     100   12    Warrior  
+2          Amirmann        2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -67,21 +67,21 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   22    Fighter  
-2          Amirmann        2         5     100   12    Fighter  
+1          Amirmann        2         5     100   22    Warrior  
+2          Amirmann        2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   24    Fighter  
-2          Amirmann        2         5     0     12    Fighter  
+1          Amirmann        3         5     100   24    Warrior  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -91,8 +91,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   34    Fighter  
-2          Amirmann        2         5     0     12    Fighter  
+1          Amirmann        3         5     100   34    Warrior  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -102,8 +102,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   44    Fighter  
-2          Amirmann        2         5     0     12    Fighter  
+1          Amirmann        3         5     100   44    Warrior  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -113,19 +113,19 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     90    44    Fighter  
-2          Amirmann        2         5     0     12    Fighter  
+1          Amirmann        3         5     90    44    Warrior  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     90    46    Fighter  
-2          Amirmann        2         5     0     12    Fighter  
+1          Amirmann        4         5     90    46    Warrior  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -135,8 +135,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     90    46    Fighter  
-2          Amirmann        2         5     0     12    Fighter  
+1          Amirmann        4         5     90    46    Warrior  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -146,8 +146,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     80    46    Fighter  
-2          Amirmann        2         5     0     12    Fighter  
+1          Amirmann        4         5     80    46    Warrior  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -157,8 +157,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     70    46    Fighter  
-2          Amirmann        2         5     0     12    Fighter  
+1          Amirmann        4         5     70    46    Warrior  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -168,8 +168,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     70    56    Fighter  
-2          Amirmann        2         5     0     12    Fighter  
+1          Amirmann        4         5     70    56    Warrior  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -180,5 +180,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     0     56    Fighter  
-2          Amirmann        2         5     0     12    Fighter  
+1          Amirmann        4         5     0     56    Warrior  
+2          Amirmann        2         5     0     12    Warrior  

@@ -167,9 +167,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Rogue  
-2          Amirmann        1         5     100   20    Wizard  
-3          Omerz           1         5     100   10    Fighter  
+1          Omerz           1         5     100   10    Ninja  
+2          Amirmann        1         5     100   20    Healer  
+3          Omerz           1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -183,9 +183,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   30    Rogue  
-2          Amirmann        1         5     90    20    Wizard  
-3          Omerz           1         5     90    10    Fighter  
+1          Omerz           1         5     100   30    Ninja  
+2          Amirmann        1         5     90    20    Healer  
+3          Omerz           1         5     90    10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -200,15 +200,15 @@ Omerz has 30 coins
 Omerz has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   25    Rogue  
-2          Amirmann        1         5     100   20    Wizard  
-3          Omerz           1         5     90    20    Fighter  
+1          Omerz           1         5     100   25    Ninja  
+2          Amirmann        1         5     100   20    Healer  
+3          Omerz           1         5     90    20    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -222,9 +222,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   25    Rogue  
-2          Amirmann        1         5     90    20    Wizard  
-3          Omerz           1         5     90    20    Fighter  
+1          Omerz           1         5     100   25    Ninja  
+2          Amirmann        1         5     90    20    Healer  
+3          Omerz           1         5     90    20    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -238,9 +238,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   45    Rogue  
-2          Amirmann        1         5     80    20    Wizard  
-3          Omerz           1         5     90    30    Fighter  
+1          Omerz           1         5     100   45    Ninja  
+2          Amirmann        1         5     80    20    Healer  
+3          Omerz           1         5     90    30    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -254,9 +254,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   45    Rogue  
-2          Amirmann        1         5     80    30    Wizard  
-3          Omerz           1         5     90    30    Fighter  
+1          Omerz           1         5     100   45    Ninja  
+2          Amirmann        1         5     80    30    Healer  
+3          Omerz           1         5     90    30    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -278,9 +278,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     100   35    Rogue  
-2          Amirmann        1         5     70    30    Wizard  
-3          Omerz           1         5     90    30    Fighter  
+1          Omerz           1         6     100   35    Ninja  
+2          Amirmann        1         5     70    30    Healer  
+3          Omerz           1         5     90    30    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -288,15 +288,15 @@ Start of round 8:
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     90    35    Rogue  
-2          Amirmann        1         4     60    30    Wizard  
-3          Omerz           1         5     80    30    Fighter  
+1          Omerz           1         6     90    35    Ninja  
+2          Amirmann        1         4     60    30    Healer  
+3          Omerz           1         5     80    30    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -306,13 +306,13 @@ This is but a flesh wound. You've lost 10 health points
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     80    35    Rogue  
-2          Amirmann        1         4     50    30    Wizard  
-3          Omerz           2         5     80    32    Fighter  
+1          Omerz           1         6     80    35    Ninja  
+2          Amirmann        1         4     50    30    Healer  
+3          Omerz           2         5     80    32    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -320,15 +320,15 @@ Start of round 10:
 Start of Omerz's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     80    35    Rogue  
-2          Amirmann        1         4     70    30    Wizard  
-3          Omerz           2         5     80    32    Fighter  
+1          Omerz           1         6     80    35    Ninja  
+2          Amirmann        1         4     70    30    Healer  
+3          Omerz           2         5     80    32    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -349,9 +349,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     81    30    Rogue  
-2          Amirmann        1         4     70    40    Wizard  
-3          Omerz           2         5     80    32    Fighter  
+1          Omerz           1         6     81    30    Ninja  
+2          Amirmann        1         4     70    40    Healer  
+3          Omerz           2         5     80    32    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -365,9 +365,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     81    50    Rogue  
-2          Amirmann        1         4     60    40    Wizard  
-3          Omerz           2         5     70    32    Fighter  
+1          Omerz           1         6     81    50    Ninja  
+2          Amirmann        1         4     60    40    Healer  
+3          Omerz           2         5     70    32    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -384,15 +384,15 @@ You have entered an invalid input. Please try again.
 Omerz has paid 0 coins 
 Safe travels!
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     81    50    Rogue  
-2          Amirmann        1         4     80    40    Wizard  
-3          Omerz           2         5     70    42    Fighter  
+1          Omerz           1         6     81    50    Ninja  
+2          Amirmann        1         4     80    40    Healer  
+3          Omerz           2         5     70    42    Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -406,9 +406,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     81    50    Rogue  
-2          Amirmann        1         4     70    40    Wizard  
-3          Omerz           2         5     70    42    Fighter  
+1          Omerz           1         6     81    50    Ninja  
+2          Amirmann        1         4     70    40    Healer  
+3          Omerz           2         5     70    42    Warrior  
 
 -------------------------------------------
 Start of round 15:
@@ -422,9 +422,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     81    70    Rogue  
-2          Amirmann        1         4     60    40    Wizard  
-3          Omerz           2         5     70    52    Fighter  
+1          Omerz           1         6     81    70    Ninja  
+2          Amirmann        1         4     60    40    Healer  
+3          Omerz           2         5     70    52    Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -438,9 +438,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     81    70    Rogue  
-2          Amirmann        1         4     60    50    Wizard  
-3          Omerz           2         5     70    52    Fighter  
+1          Omerz           1         6     81    70    Ninja  
+2          Amirmann        1         4     60    50    Healer  
+3          Omerz           2         5     70    52    Warrior  
 
 -------------------------------------------
 Start of round 17:
@@ -461,9 +461,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     82    65    Rogue  
-2          Amirmann        1         4     50    50    Wizard  
-3          Omerz           2         5     70    52    Fighter  
+1          Omerz           1         6     82    65    Ninja  
+2          Amirmann        1         4     50    50    Healer  
+3          Omerz           2         5     70    52    Warrior  
 
 -------------------------------------------
 Start of round 18:
@@ -471,15 +471,15 @@ Start of round 18:
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     72    65    Rogue  
-2          Amirmann        1         3     40    50    Wizard  
-3          Omerz           2         5     60    52    Fighter  
+1          Omerz           1         6     72    65    Ninja  
+2          Amirmann        1         3     40    50    Healer  
+3          Omerz           2         5     60    52    Warrior  
 
 -------------------------------------------
 Start of round 19:
@@ -489,13 +489,13 @@ This is but a flesh wound. You've lost 10 health points
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     62    65    Rogue  
-2          Amirmann        1         3     30    50    Wizard  
-3          Omerz           3         5     60    54    Fighter  
+1          Omerz           1         6     62    65    Ninja  
+2          Amirmann        1         3     30    50    Healer  
+3          Omerz           3         5     60    54    Warrior  
 
 -------------------------------------------
 Start of round 20:
@@ -503,15 +503,15 @@ Start of round 20:
 Start of Omerz's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     62    65    Rogue  
-2          Amirmann        1         3     50    50    Wizard  
-3          Omerz           3         5     60    54    Fighter  
+1          Omerz           1         6     62    65    Ninja  
+2          Amirmann        1         3     50    50    Healer  
+3          Omerz           3         5     60    54    Warrior  
 
 -------------------------------------------
 Start of round 21:
@@ -533,9 +533,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     62    65    Rogue  
-2          Amirmann        1         3     50    60    Wizard  
-3          Omerz           3         5     60    54    Fighter  
+1          Omerz           1         6     62    65    Ninja  
+2          Amirmann        1         3     50    60    Healer  
+3          Omerz           3         5     60    54    Warrior  
 
 -------------------------------------------
 Start of round 22:
@@ -549,9 +549,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     62    85    Rogue  
-2          Amirmann        1         3     40    60    Wizard  
-3          Omerz           3         5     50    54    Fighter  
+1          Omerz           1         6     62    85    Ninja  
+2          Amirmann        1         3     40    60    Healer  
+3          Omerz           3         5     50    54    Warrior  
 
 -------------------------------------------
 Start of round 23:
@@ -568,15 +568,15 @@ You have entered an invalid input. Please try again.
 Omerz has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     63    80    Rogue  
-2          Amirmann        1         3     60    60    Wizard  
-3          Omerz           3         5     50    64    Fighter  
+1          Omerz           1         6     63    80    Ninja  
+2          Amirmann        1         3     60    60    Healer  
+3          Omerz           3         5     50    64    Warrior  
 
 -------------------------------------------
 Start of round 24:
@@ -590,9 +590,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     63    80    Rogue  
-2          Amirmann        1         3     50    60    Wizard  
-3          Omerz           3         5     50    64    Fighter  
+1          Omerz           1         6     63    80    Ninja  
+2          Amirmann        1         3     50    60    Healer  
+3          Omerz           3         5     50    64    Warrior  
 
 -------------------------------------------
 Start of round 25:
@@ -606,9 +606,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     63    100   Rogue  
-2          Amirmann        1         3     40    60    Wizard  
-3          Omerz           3         5     50    74    Fighter  
+1          Omerz           1         6     63    100   Ninja  
+2          Amirmann        1         3     40    60    Healer  
+3          Omerz           3         5     50    74    Warrior  
 
 -------------------------------------------
 Start of round 26:
@@ -622,9 +622,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     63    100   Rogue  
-2          Amirmann        1         3     40    70    Wizard  
-3          Omerz           3         5     50    74    Fighter  
+1          Omerz           1         6     63    100   Ninja  
+2          Amirmann        1         3     40    70    Healer  
+3          Omerz           3         5     50    74    Warrior  
 
 -------------------------------------------
 Start of round 27:
@@ -645,9 +645,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         7     63    90    Rogue  
-2          Amirmann        1         3     30    70    Wizard  
-3          Omerz           3         5     50    74    Fighter  
+1          Omerz           1         7     63    90    Ninja  
+2          Amirmann        1         3     30    70    Healer  
+3          Omerz           3         5     50    74    Warrior  
 
 -------------------------------------------
 Start of round 28:
@@ -655,15 +655,15 @@ Start of round 28:
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         7     53    90    Rogue  
-2          Amirmann        1         2     20    70    Wizard  
-3          Omerz           3         5     40    74    Fighter  
+1          Omerz           1         7     53    90    Ninja  
+2          Amirmann        1         2     20    70    Healer  
+3          Omerz           3         5     40    74    Warrior  
 
 -------------------------------------------
 Start of round 29:
@@ -673,13 +673,13 @@ This is but a flesh wound. You've lost 10 health points
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         7     43    90    Rogue  
-2          Amirmann        1         2     10    70    Wizard  
-3          Omerz           4         5     40    76    Fighter  
+1          Omerz           1         7     43    90    Ninja  
+2          Amirmann        1         2     10    70    Healer  
+3          Omerz           4         5     40    76    Warrior  
 
 -------------------------------------------
 Start of round 30:
@@ -687,15 +687,15 @@ Start of round 30:
 Start of Omerz's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         7     43    90    Rogue  
-2          Amirmann        1         2     30    70    Wizard  
-3          Omerz           4         5     40    76    Fighter  
+1          Omerz           1         7     43    90    Ninja  
+2          Amirmann        1         2     30    70    Healer  
+3          Omerz           4         5     40    76    Warrior  
 
 -------------------------------------------
 Start of round 31:
@@ -718,9 +718,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         8     43    80    Rogue  
-2          Amirmann        1         2     30    80    Wizard  
-3          Omerz           4         5     40    76    Fighter  
+1          Omerz           1         8     43    80    Ninja  
+2          Amirmann        1         2     30    80    Healer  
+3          Omerz           4         5     40    76    Warrior  
 
 -------------------------------------------
 Start of round 32:
@@ -734,9 +734,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         8     43    100   Rogue  
-2          Amirmann        1         2     20    80    Wizard  
-3          Omerz           4         5     30    76    Fighter  
+1          Omerz           1         8     43    100   Ninja  
+2          Amirmann        1         2     20    80    Healer  
+3          Omerz           4         5     30    76    Warrior  
 
 -------------------------------------------
 Start of round 33:
@@ -752,15 +752,15 @@ You have entered an invalid input. Please try again.
 Omerz has paid 0 coins 
 Safe travels!
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         8     43    100   Rogue  
-2          Amirmann        1         2     40    80    Wizard  
-3          Omerz           4         5     30    86    Fighter  
+1          Omerz           1         8     43    100   Ninja  
+2          Amirmann        1         2     40    80    Healer  
+3          Omerz           4         5     30    86    Warrior  
 
 -------------------------------------------
 Start of round 34:
@@ -774,9 +774,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         8     43    100   Rogue  
-2          Amirmann        1         2     30    80    Wizard  
-3          Omerz           4         5     30    86    Fighter  
+1          Omerz           1         8     43    100   Ninja  
+2          Amirmann        1         2     30    80    Healer  
+3          Omerz           4         5     30    86    Warrior  
 
 -------------------------------------------
 Start of round 35:
@@ -790,9 +790,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         8     43    120   Rogue  
-2          Amirmann        1         2     20    80    Wizard  
-3          Omerz           4         5     30    96    Fighter  
+1          Omerz           1         8     43    120   Ninja  
+2          Amirmann        1         2     20    80    Healer  
+3          Omerz           4         5     30    96    Warrior  
 
 -------------------------------------------
 Start of round 36:
@@ -806,9 +806,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         8     43    120   Rogue  
-2          Amirmann        1         2     20    90    Wizard  
-3          Omerz           4         5     30    96    Fighter  
+1          Omerz           1         8     43    120   Ninja  
+2          Amirmann        1         2     20    90    Healer  
+3          Omerz           4         5     30    96    Warrior  
 
 -------------------------------------------
 Start of round 37:
@@ -831,9 +831,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         8     44    115   Rogue  
-2          Amirmann        1         2     10    90    Wizard  
-3          Omerz           4         5     30    96    Fighter  
+1          Omerz           1         8     44    115   Ninja  
+2          Amirmann        1         2     10    90    Healer  
+3          Omerz           4         5     30    96    Warrior  
 
 -------------------------------------------
 Start of round 38:
@@ -841,15 +841,15 @@ Start of round 38:
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         8     34    115   Rogue  
-2          Omerz           4         5     20    96    Fighter  
-3          Amirmann        1         1     0     90    Wizard  
+1          Omerz           1         8     34    115   Ninja  
+2          Omerz           4         5     20    96    Warrior  
+3          Amirmann        1         1     0     90    Healer  
 
 -------------------------------------------
 Start of round 39:
@@ -861,23 +861,23 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         8     24    115   Rogue  
-2          Omerz           4         5     20    96    Fighter  
-3          Amirmann        1         1     0     90    Wizard  
+1          Omerz           1         8     24    115   Ninja  
+2          Omerz           4         5     20    96    Warrior  
+3          Amirmann        1         1     0     90    Healer  
 
 -------------------------------------------
 Start of round 40:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         8     24    119   Rogue  
-2          Omerz           4         5     10    96    Fighter  
-3          Amirmann        1         1     0     90    Wizard  
+1          Omerz           2         8     24    119   Ninja  
+2          Omerz           4         5     10    96    Warrior  
+3          Amirmann        1         1     0     90    Healer  
 
 -------------------------------------------
 Start of round 41:
@@ -889,9 +889,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         8     24    119   Rogue  
-2          Omerz           4         5     10    96    Fighter  
-3          Amirmann        1         1     0     90    Wizard  
+1          Omerz           2         8     24    119   Ninja  
+2          Omerz           4         5     10    96    Warrior  
+3          Amirmann        1         1     0     90    Healer  
 
 -------------------------------------------
 Start of round 42:
@@ -910,9 +910,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         8     25    114   Rogue  
-2          Omerz           4         5     10    106   Fighter  
-3          Amirmann        1         1     0     90    Wizard  
+1          Omerz           2         8     25    114   Ninja  
+2          Omerz           4         5     10    106   Warrior  
+3          Amirmann        1         1     0     90    Healer  
 
 -------------------------------------------
 Start of round 43:
@@ -924,9 +924,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         8     15    114   Rogue  
-2          Omerz           4         5     10    116   Fighter  
-3          Amirmann        1         1     0     90    Wizard  
+1          Omerz           2         8     15    114   Ninja  
+2          Omerz           4         5     10    116   Warrior  
+3          Amirmann        1         1     0     90    Healer  
 
 -------------------------------------------
 Start of round 44:
@@ -938,9 +938,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         8     5     114   Rogue  
-2          Omerz           4         5     0     116   Fighter  
-3          Amirmann        1         1     0     90    Wizard  
+1          Omerz           2         8     5     114   Ninja  
+2          Omerz           4         5     0     116   Warrior  
+3          Amirmann        1         1     0     90    Healer  
 
 -------------------------------------------
 Start of round 45:
@@ -959,9 +959,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         8     5     114   Rogue  
-2          Omerz           4         5     0     116   Fighter  
-3          Amirmann        1         1     0     90    Wizard  
+1          Omerz           2         8     5     114   Ninja  
+2          Omerz           4         5     0     116   Warrior  
+3          Amirmann        1         1     0     90    Healer  
 
 -------------------------------------------
 Start of round 46:
@@ -971,9 +971,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         8     5     114   Rogue  
-2          Omerz           4         5     0     116   Fighter  
-3          Amirmann        1         1     0     90    Wizard  
+1          Omerz           2         8     5     114   Ninja  
+2          Omerz           4         5     0     116   Warrior  
+3          Amirmann        1         1     0     90    Healer  
 
 -------------------------------------------
 Start of round 47:
@@ -983,9 +983,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         8     5     134   Rogue  
-2          Omerz           4         5     0     116   Fighter  
-3          Amirmann        1         1     0     90    Wizard  
+1          Omerz           2         8     5     134   Ninja  
+2          Omerz           4         5     0     116   Warrior  
+3          Amirmann        1         1     0     90    Healer  
 
 -------------------------------------------
 Start of round 48:
@@ -995,9 +995,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         8     5     134   Rogue  
-2          Omerz           4         5     0     116   Fighter  
-3          Amirmann        1         1     0     90    Wizard  
+1          Omerz           2         8     5     134   Ninja  
+2          Omerz           4         5     0     116   Warrior  
+3          Amirmann        1         1     0     90    Healer  
 
 -------------------------------------------
 Start of round 49:
@@ -1008,6 +1008,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         8     0     134   Rogue  
-2          Omerz           4         5     0     116   Fighter  
-3          Amirmann        1         1     0     90    Wizard  
+1          Omerz           2         8     0     134   Ninja  
+2          Omerz           4         5     0     116   Warrior  
+3          Amirmann        1         1     0     90    Healer  

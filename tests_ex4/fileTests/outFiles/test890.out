@@ -476,8 +476,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   10    Rogue  
-2          Omerz           1         5     90    10    Rogue  
+1          GalLalush       1         5     100   10    Ninja  
+2          Omerz           1         5     90    10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -489,8 +489,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          Omerz           1         5     90    10    Rogue  
+1          GalLalush       1         5     90    10    Ninja  
+2          Omerz           1         5     90    10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -506,12 +506,12 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     91    5     Rogue  
-2          Omerz           2         5     90    14    Rogue  
+1          GalLalush       1         5     91    5     Ninja  
+2          Omerz           2         5     90    14    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -530,19 +530,19 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     90    14    Rogue  
-2          GalLalush       1         5     0     5     Rogue  
+1          Omerz           2         5     90    14    Ninja  
+2          GalLalush       1         5     0     5     Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     90    18    Rogue  
-2          GalLalush       1         5     0     5     Rogue  
+1          Omerz           3         5     90    18    Ninja  
+2          GalLalush       1         5     0     5     Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -553,5 +553,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     0     18    Rogue  
-2          GalLalush       1         5     0     5     Rogue  
+1          Omerz           3         5     0     18    Ninja  
+2          GalLalush       1         5     0     5     Ninja  

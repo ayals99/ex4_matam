@@ -1321,14 +1321,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   12    Fighter  
-2          Amirmann        1         5     100   20    Fighter  
+1          GalLalush       2         5     100   12    Warrior  
+2          Amirmann        1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -1340,8 +1340,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        1         5     100   20    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -1351,19 +1351,19 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        1         5     100   20    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   22    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        2         5     100   22    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -1373,8 +1373,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   32    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        2         5     100   32    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -1391,8 +1391,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   27    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        2         5     100   27    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -1402,41 +1402,41 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   27    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        2         5     100   27    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   29    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        3         5     100   29    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     100   31    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        4         5     100   31    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     100   33    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        5         5     100   33    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -1446,8 +1446,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     100   33    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        5         5     100   33    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -1465,8 +1465,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         6     100   23    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        5         6     100   23    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -1477,5 +1477,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         6     0     23    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        5         6     0     23    Warrior  
+2          GalLalush       2         5     0     12    Warrior  

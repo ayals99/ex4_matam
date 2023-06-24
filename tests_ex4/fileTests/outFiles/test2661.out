@@ -313,7 +313,7 @@ You have entered an invalid class. Please try again.
 Start of round 1:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -328,8 +328,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   12    Wizard  
-2          Amirmann        1         5     100   5     Fighter  
+1          GalLalush       2         5     100   12    Healer  
+2          Amirmann        1         5     100   5     Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -341,8 +341,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    5     Fighter  
-2          GalLalush       2         5     0     12    Wizard  
+1          Amirmann        1         5     90    5     Warrior  
+2          GalLalush       2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -352,8 +352,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    5     Fighter  
-2          GalLalush       2         5     0     12    Wizard  
+1          Amirmann        1         5     90    5     Warrior  
+2          GalLalush       2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -363,8 +363,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    5     Fighter  
-2          GalLalush       2         5     0     12    Wizard  
+1          Amirmann        1         5     90    5     Warrior  
+2          GalLalush       2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -375,5 +375,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     0     5     Fighter  
-2          GalLalush       2         5     0     12    Wizard  
+1          Amirmann        1         5     0     5     Warrior  
+2          GalLalush       2         5     0     12    Healer  

@@ -143,37 +143,37 @@ Start of round 1:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Wizard  
-2          Daniel          2         5     100   12    Fighter  
-3          Omerz           1         5     100   10    Wizard  
-4          Omerz           1         5     100   20    Wizard  
+1          Amirmann        1         5     100   20    Healer  
+2          Daniel          2         5     100   12    Warrior  
+3          Omerz           1         5     100   10    Healer  
+4          Omerz           1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Wizard  
-2          Daniel          2         5     100   22    Fighter  
-3          Omerz           1         5     90    10    Wizard  
-4          Omerz           1         5     100   20    Wizard  
+1          Amirmann        1         5     100   20    Healer  
+2          Daniel          2         5     100   22    Warrior  
+3          Omerz           1         5     90    10    Healer  
+4          Omerz           1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -190,16 +190,16 @@ Safe travels!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   15    Wizard  
-2          Daniel          2         5     100   32    Fighter  
-3          Omerz           1         4     80    10    Wizard  
-4          Omerz           1         5     100   20    Wizard  
+1          Amirmann        1         5     100   15    Healer  
+2          Daniel          2         5     100   32    Warrior  
+3          Omerz           1         4     80    10    Healer  
+4          Omerz           1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -215,16 +215,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   25    Wizard  
-2          Daniel          2         5     100   32    Fighter  
-3          Omerz           1         4     80    20    Wizard  
-4          Omerz           1         5     90    20    Wizard  
+1          Amirmann        1         5     100   25    Healer  
+2          Daniel          2         5     100   32    Warrior  
+3          Omerz           1         4     80    20    Healer  
+4          Omerz           1         5     90    20    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -239,33 +239,33 @@ Safe travels!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   25    Wizard  
-2          Daniel          2         6     100   22    Fighter  
-3          Omerz           1         4     80    30    Wizard  
-4          Omerz           1         4     80    20    Wizard  
+1          Amirmann        1         5     100   25    Healer  
+2          Daniel          2         6     100   22    Warrior  
+3          Omerz           1         4     80    30    Healer  
+4          Omerz           1         4     80    20    Healer  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   25    Wizard  
-2          Daniel          2         6     100   32    Fighter  
-3          Omerz           1         4     100   30    Wizard  
-4          Omerz           1         4     80    30    Wizard  
+1          Amirmann        1         5     100   25    Healer  
+2          Daniel          2         6     100   32    Warrior  
+3          Omerz           1         4     100   30    Healer  
+4          Omerz           1         4     80    30    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -290,29 +290,29 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    25    Wizard  
-2          Daniel          2         6     100   32    Fighter  
-3          Omerz           1         5     100   20    Wizard  
-4          Omerz           1         4     80    40    Wizard  
+1          Amirmann        1         5     90    25    Healer  
+2          Daniel          2         6     100   32    Warrior  
+3          Omerz           1         5     100   20    Healer  
+4          Omerz           1         4     80    40    Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Daniel's turn: 
 Nothing happened.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    25    Wizard  
-2          Daniel          2         6     100   32    Fighter  
-3          Omerz           1         5     100   30    Wizard  
-4          Omerz           1         4     100   40    Wizard  
+1          Amirmann        1         4     80    25    Healer  
+2          Daniel          2         6     100   32    Warrior  
+3          Omerz           1         5     100   30    Healer  
+4          Omerz           1         4     100   40    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -322,7 +322,7 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -336,10 +336,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    35    Wizard  
-2          Daniel          2         6     100   32    Fighter  
-3          Omerz           1         5     100   30    Wizard  
-4          Omerz           1         4     100   35    Wizard  
+1          Amirmann        1         4     80    35    Healer  
+2          Daniel          2         6     100   32    Warrior  
+3          Omerz           1         5     100   30    Healer  
+4          Omerz           1         4     100   35    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -347,37 +347,37 @@ Start of round 10:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    45    Wizard  
-2          Daniel          3         6     100   34    Fighter  
-3          Omerz           1         5     100   30    Wizard  
-4          Omerz           1         4     100   45    Wizard  
+1          Amirmann        1         4     80    45    Healer  
+2          Daniel          3         6     100   34    Warrior  
+3          Omerz           1         5     100   30    Healer  
+4          Omerz           1         4     100   45    Healer  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     100   45    Wizard  
-2          Daniel          3         6     100   44    Fighter  
-3          Omerz           1         5     90    30    Wizard  
-4          Omerz           1         4     100   45    Wizard  
+1          Amirmann        1         4     100   45    Healer  
+2          Daniel          3         6     100   44    Warrior  
+3          Omerz           1         5     90    30    Healer  
+4          Omerz           1         4     100   45    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -396,16 +396,16 @@ Safe travels!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   35    Wizard  
-2          Daniel          3         6     100   54    Fighter  
-3          Omerz           1         4     80    30    Wizard  
-4          Omerz           1         4     100   45    Wizard  
+1          Amirmann        1         5     100   35    Healer  
+2          Daniel          3         6     100   54    Warrior  
+3          Omerz           1         4     80    30    Healer  
+4          Omerz           1         4     100   45    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -421,16 +421,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   45    Wizard  
-2          Daniel          3         6     100   54    Fighter  
-3          Omerz           1         4     80    40    Wizard  
-4          Omerz           1         4     90    45    Wizard  
+1          Amirmann        1         5     100   45    Healer  
+2          Daniel          3         6     100   54    Warrior  
+3          Omerz           1         4     80    40    Healer  
+4          Omerz           1         4     90    45    Healer  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -445,33 +445,33 @@ Safe travels!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   45    Wizard  
-2          Daniel          3         7     100   44    Fighter  
-3          Omerz           1         4     80    50    Wizard  
-4          Omerz           1         3     80    45    Wizard  
+1          Amirmann        1         5     100   45    Healer  
+2          Daniel          3         7     100   44    Warrior  
+3          Omerz           1         4     80    50    Healer  
+4          Omerz           1         3     80    45    Healer  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   45    Wizard  
-2          Daniel          3         7     100   54    Fighter  
-3          Omerz           1         4     100   50    Wizard  
-4          Omerz           1         3     80    55    Wizard  
+1          Amirmann        1         5     100   45    Healer  
+2          Daniel          3         7     100   54    Warrior  
+3          Omerz           1         4     100   50    Healer  
+4          Omerz           1         3     80    55    Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -496,29 +496,29 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    45    Wizard  
-2          Daniel          3         7     100   54    Fighter  
-3          Omerz           1         4     100   45    Wizard  
-4          Omerz           1         3     80    65    Wizard  
+1          Amirmann        1         5     90    45    Healer  
+2          Daniel          3         7     100   54    Warrior  
+3          Omerz           1         4     100   45    Healer  
+4          Omerz           1         3     80    65    Healer  
 
 -------------------------------------------
 Start of round 17:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Daniel's turn: 
 Nothing happened.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    45    Wizard  
-2          Daniel          3         7     100   54    Fighter  
-3          Omerz           1         4     100   55    Wizard  
-4          Omerz           1         3     100   65    Wizard  
+1          Amirmann        1         4     80    45    Healer  
+2          Daniel          3         7     100   54    Warrior  
+3          Omerz           1         4     100   55    Healer  
+4          Omerz           1         3     100   65    Healer  
 
 -------------------------------------------
 Start of round 18:
@@ -528,7 +528,7 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -543,10 +543,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    55    Wizard  
-2          Daniel          3         7     100   54    Fighter  
-3          Omerz           1         4     100   55    Wizard  
-4          Omerz           1         3     100   65    Wizard  
+1          Amirmann        1         4     80    55    Healer  
+2          Daniel          3         7     100   54    Warrior  
+3          Omerz           1         4     100   55    Healer  
+4          Omerz           1         3     100   65    Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -554,37 +554,37 @@ Start of round 19:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    65    Wizard  
-2          Daniel          4         7     100   56    Fighter  
-3          Omerz           1         4     100   55    Wizard  
-4          Omerz           1         3     100   75    Wizard  
+1          Amirmann        1         4     80    65    Healer  
+2          Daniel          4         7     100   56    Warrior  
+3          Omerz           1         4     100   55    Healer  
+4          Omerz           1         3     100   75    Healer  
 
 -------------------------------------------
 Start of round 20:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     100   65    Wizard  
-2          Daniel          4         7     100   66    Fighter  
-3          Omerz           1         4     90    55    Wizard  
-4          Omerz           1         3     100   75    Wizard  
+1          Amirmann        1         4     100   65    Healer  
+2          Daniel          4         7     100   66    Warrior  
+3          Omerz           1         4     90    55    Healer  
+4          Omerz           1         3     100   75    Healer  
 
 -------------------------------------------
 Start of round 21:
@@ -602,16 +602,16 @@ Safe travels!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     100   60    Wizard  
-2          Daniel          4         7     100   76    Fighter  
-3          Omerz           1         3     80    55    Wizard  
-4          Omerz           1         3     100   75    Wizard  
+1          Amirmann        1         4     100   60    Healer  
+2          Daniel          4         7     100   76    Warrior  
+3          Omerz           1         3     80    55    Healer  
+4          Omerz           1         3     100   75    Healer  
 
 -------------------------------------------
 Start of round 22:
@@ -627,16 +627,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     100   70    Wizard  
-2          Daniel          4         7     100   76    Fighter  
-3          Omerz           1         3     80    65    Wizard  
-4          Omerz           1         3     90    75    Wizard  
+1          Amirmann        1         4     100   70    Healer  
+2          Daniel          4         7     100   76    Warrior  
+3          Omerz           1         3     80    65    Healer  
+4          Omerz           1         3     90    75    Healer  
 
 -------------------------------------------
 Start of round 23:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -651,33 +651,33 @@ Safe travels!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     100   70    Wizard  
-2          Daniel          4         7     100   71    Fighter  
-3          Omerz           1         3     80    75    Wizard  
-4          Omerz           1         2     80    75    Wizard  
+1          Amirmann        1         4     100   70    Healer  
+2          Daniel          4         7     100   71    Warrior  
+3          Omerz           1         3     80    75    Healer  
+4          Omerz           1         2     80    75    Healer  
 
 -------------------------------------------
 Start of round 24:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     100   70    Wizard  
-2          Daniel          4         7     100   81    Fighter  
-3          Omerz           1         3     100   75    Wizard  
-4          Omerz           1         2     80    85    Wizard  
+1          Amirmann        1         4     100   70    Healer  
+2          Daniel          4         7     100   81    Warrior  
+3          Omerz           1         3     100   75    Healer  
+4          Omerz           1         2     80    85    Healer  
 
 -------------------------------------------
 Start of round 25:
@@ -701,29 +701,29 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    70    Wizard  
-2          Daniel          4         7     100   81    Fighter  
-3          Omerz           1         3     100   75    Wizard  
-4          Omerz           1         2     80    95    Wizard  
+1          Amirmann        1         4     90    70    Healer  
+2          Daniel          4         7     100   81    Warrior  
+3          Omerz           1         3     100   75    Healer  
+4          Omerz           1         2     80    95    Healer  
 
 -------------------------------------------
 Start of round 26:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Daniel's turn: 
 Nothing happened.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     80    70    Wizard  
-2          Daniel          4         7     100   81    Fighter  
-3          Omerz           1         3     100   85    Wizard  
-4          Omerz           1         2     100   95    Wizard  
+1          Amirmann        1         3     80    70    Healer  
+2          Daniel          4         7     100   81    Warrior  
+3          Omerz           1         3     100   85    Healer  
+4          Omerz           1         2     100   95    Healer  
 
 -------------------------------------------
 Start of round 27:
@@ -733,7 +733,7 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -747,10 +747,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     80    80    Wizard  
-2          Daniel          4         7     100   81    Fighter  
-3          Omerz           1         3     100   85    Wizard  
-4          Omerz           1         3     100   85    Wizard  
+1          Amirmann        1         3     80    80    Healer  
+2          Daniel          4         7     100   81    Warrior  
+3          Omerz           1         3     100   85    Healer  
+4          Omerz           1         3     100   85    Healer  
 
 -------------------------------------------
 Start of round 28:
@@ -758,37 +758,37 @@ Start of round 28:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     80    90    Wizard  
-2          Daniel          5         7     100   83    Fighter  
-3          Omerz           1         3     100   85    Wizard  
-4          Omerz           1         3     100   95    Wizard  
+1          Amirmann        1         3     80    90    Healer  
+2          Daniel          5         7     100   83    Warrior  
+3          Omerz           1         3     100   85    Healer  
+4          Omerz           1         3     100   95    Healer  
 
 -------------------------------------------
 Start of round 29:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     100   90    Wizard  
-2          Daniel          5         7     100   93    Fighter  
-3          Omerz           1         3     90    85    Wizard  
-4          Omerz           1         3     100   95    Wizard  
+1          Amirmann        1         3     100   90    Healer  
+2          Daniel          5         7     100   93    Warrior  
+3          Omerz           1         3     90    85    Healer  
+4          Omerz           1         3     100   95    Healer  
 
 -------------------------------------------
 Start of round 30:
@@ -807,16 +807,16 @@ Safe travels!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     100   85    Wizard  
-2          Daniel          5         7     100   103   Fighter  
-3          Omerz           1         2     80    85    Wizard  
-4          Omerz           1         3     100   95    Wizard  
+1          Amirmann        1         3     100   85    Healer  
+2          Daniel          5         7     100   103   Warrior  
+3          Omerz           1         2     80    85    Healer  
+4          Omerz           1         3     100   95    Healer  
 
 -------------------------------------------
 Start of round 31:
@@ -832,16 +832,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     100   95    Wizard  
-2          Daniel          5         7     100   103   Fighter  
-3          Omerz           1         2     80    95    Wizard  
-4          Omerz           1         3     90    95    Wizard  
+1          Amirmann        1         3     100   95    Healer  
+2          Daniel          5         7     100   103   Warrior  
+3          Omerz           1         2     80    95    Healer  
+4          Omerz           1         3     90    95    Healer  
 
 -------------------------------------------
 Start of round 32:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -854,33 +854,33 @@ Safe travels!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     100   95    Wizard  
-2          Daniel          5         8     100   93    Fighter  
-3          Omerz           1         2     80    105   Wizard  
-4          Omerz           1         2     80    95    Wizard  
+1          Amirmann        1         3     100   95    Healer  
+2          Daniel          5         8     100   93    Warrior  
+3          Omerz           1         2     80    105   Healer  
+4          Omerz           1         2     80    95    Healer  
 
 -------------------------------------------
 Start of round 33:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     100   95    Wizard  
-2          Daniel          5         8     100   103   Fighter  
-3          Omerz           1         2     100   105   Wizard  
-4          Omerz           1         2     80    105   Wizard  
+1          Amirmann        1         3     100   95    Healer  
+2          Daniel          5         8     100   103   Warrior  
+3          Omerz           1         2     100   105   Healer  
+4          Omerz           1         2     80    105   Healer  
 
 -------------------------------------------
 Start of round 34:
@@ -905,29 +905,29 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     90    95    Wizard  
-2          Daniel          5         8     100   103   Fighter  
-3          Omerz           1         2     100   105   Wizard  
-4          Omerz           1         2     80    115   Wizard  
+1          Amirmann        1         3     90    95    Healer  
+2          Daniel          5         8     100   103   Warrior  
+3          Omerz           1         2     100   105   Healer  
+4          Omerz           1         2     80    115   Healer  
 
 -------------------------------------------
 Start of round 35:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Daniel's turn: 
 Nothing happened.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     80    95    Wizard  
-2          Daniel          5         8     100   103   Fighter  
-3          Omerz           1         2     100   115   Wizard  
-4          Omerz           1         2     100   115   Wizard  
+1          Amirmann        1         2     80    95    Healer  
+2          Daniel          5         8     100   103   Warrior  
+3          Omerz           1         2     100   115   Healer  
+4          Omerz           1         2     100   115   Healer  
 
 -------------------------------------------
 Start of round 36:
@@ -937,7 +937,7 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -951,10 +951,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     80    105   Wizard  
-2          Daniel          5         8     100   103   Fighter  
-3          Omerz           1         2     100   115   Wizard  
-4          Omerz           1         2     100   115   Wizard  
+1          Amirmann        1         2     80    105   Healer  
+2          Daniel          5         8     100   103   Warrior  
+3          Omerz           1         2     100   115   Healer  
+4          Omerz           1         2     100   115   Healer  
 
 -------------------------------------------
 Start of round 37:
@@ -962,37 +962,37 @@ Start of round 37:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     80    115   Wizard  
-2          Daniel          6         8     100   105   Fighter  
-3          Omerz           1         2     100   115   Wizard  
-4          Omerz           1         2     100   125   Wizard  
+1          Amirmann        1         2     80    115   Healer  
+2          Daniel          6         8     100   105   Warrior  
+3          Omerz           1         2     100   115   Healer  
+4          Omerz           1         2     100   125   Healer  
 
 -------------------------------------------
 Start of round 38:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     100   115   Wizard  
-2          Daniel          6         8     100   115   Fighter  
-3          Omerz           1         2     90    115   Wizard  
-4          Omerz           1         2     100   125   Wizard  
+1          Amirmann        1         2     100   115   Healer  
+2          Daniel          6         8     100   115   Warrior  
+3          Omerz           1         2     90    115   Healer  
+4          Omerz           1         2     100   125   Healer  
 
 -------------------------------------------
 Start of round 39:
@@ -1010,16 +1010,16 @@ Safe travels!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     100   115   Wizard  
-2          Daniel          6         8     100   125   Fighter  
-3          Omerz           1         1     80    115   Wizard  
-4          Omerz           1         2     100   125   Wizard  
+1          Amirmann        1         2     100   115   Healer  
+2          Daniel          6         8     100   125   Warrior  
+3          Omerz           1         1     80    115   Healer  
+4          Omerz           1         2     100   125   Healer  
 
 -------------------------------------------
 Start of round 40:
@@ -1035,16 +1035,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     100   125   Wizard  
-2          Daniel          6         8     100   125   Fighter  
-3          Omerz           1         1     80    125   Wizard  
-4          Omerz           1         2     90    125   Wizard  
+1          Amirmann        1         2     100   125   Healer  
+2          Daniel          6         8     100   125   Warrior  
+3          Omerz           1         1     80    125   Healer  
+4          Omerz           1         2     90    125   Healer  
 
 -------------------------------------------
 Start of round 41:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1059,33 +1059,33 @@ Safe travels!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     100   125   Wizard  
-2          Daniel          6         8     100   125   Fighter  
-3          Omerz           1         1     80    135   Wizard  
-4          Omerz           1         1     80    125   Wizard  
+1          Amirmann        1         2     100   125   Healer  
+2          Daniel          6         8     100   125   Warrior  
+3          Omerz           1         1     80    135   Healer  
+4          Omerz           1         1     80    125   Healer  
 
 -------------------------------------------
 Start of round 42:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     100   125   Wizard  
-2          Daniel          6         8     100   135   Fighter  
-3          Omerz           1         1     100   135   Wizard  
-4          Omerz           1         1     80    135   Wizard  
+1          Amirmann        1         2     100   125   Healer  
+2          Daniel          6         8     100   135   Warrior  
+3          Omerz           1         1     100   135   Healer  
+4          Omerz           1         1     80    135   Healer  
 
 -------------------------------------------
 Start of round 43:
@@ -1108,29 +1108,29 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     90    125   Wizard  
-2          Daniel          6         8     100   135   Fighter  
-3          Omerz           1         1     100   130   Wizard  
-4          Omerz           1         1     80    145   Wizard  
+1          Amirmann        1         2     90    125   Healer  
+2          Daniel          6         8     100   135   Warrior  
+3          Omerz           1         1     100   130   Healer  
+4          Omerz           1         1     80    145   Healer  
 
 -------------------------------------------
 Start of round 44:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Daniel's turn: 
 Nothing happened.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     80    125   Wizard  
-2          Daniel          6         8     100   135   Fighter  
-3          Omerz           1         1     100   140   Wizard  
-4          Omerz           1         1     100   145   Wizard  
+1          Amirmann        1         1     80    125   Healer  
+2          Daniel          6         8     100   135   Warrior  
+3          Omerz           1         1     100   140   Healer  
+4          Omerz           1         1     100   145   Healer  
 
 -------------------------------------------
 Start of round 45:
@@ -1140,7 +1140,7 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1155,10 +1155,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     80    135   Wizard  
-2          Daniel          6         8     100   135   Fighter  
-3          Omerz           1         1     100   140   Wizard  
-4          Omerz           1         1     100   140   Wizard  
+1          Amirmann        1         1     80    135   Healer  
+2          Daniel          6         8     100   135   Warrior  
+3          Omerz           1         1     100   140   Healer  
+4          Omerz           1         1     100   140   Healer  
 
 -------------------------------------------
 Start of round 46:
@@ -1166,37 +1166,37 @@ Start of round 46:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     80    145   Wizard  
-2          Daniel          7         8     100   137   Fighter  
-3          Omerz           1         1     100   140   Wizard  
-4          Omerz           1         1     100   150   Wizard  
+1          Amirmann        1         1     80    145   Healer  
+2          Daniel          7         8     100   137   Warrior  
+3          Omerz           1         1     100   140   Healer  
+4          Omerz           1         1     100   150   Healer  
 
 -------------------------------------------
 Start of round 47:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     100   145   Wizard  
-2          Daniel          7         8     100   147   Fighter  
-3          Omerz           1         1     90    140   Wizard  
-4          Omerz           1         1     100   150   Wizard  
+1          Amirmann        1         1     100   145   Healer  
+2          Daniel          7         8     100   147   Warrior  
+3          Omerz           1         1     90    140   Healer  
+4          Omerz           1         1     100   150   Healer  
 
 -------------------------------------------
 Start of round 48:
@@ -1213,16 +1213,16 @@ Safe travels!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     100   135   Wizard  
-2          Daniel          7         8     100   157   Fighter  
-3          Omerz           1         0     80    140   Wizard  
-4          Omerz           1         1     100   150   Wizard  
+1          Amirmann        1         2     100   135   Healer  
+2          Daniel          7         8     100   157   Warrior  
+3          Omerz           1         0     80    140   Healer  
+4          Omerz           1         1     100   150   Healer  
 
 -------------------------------------------
 Start of round 49:
@@ -1238,16 +1238,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     100   145   Wizard  
-2          Daniel          7         8     100   157   Fighter  
-3          Omerz           1         0     80    150   Wizard  
-4          Omerz           1         1     90    150   Wizard  
+1          Amirmann        1         2     100   145   Healer  
+2          Daniel          7         8     100   157   Warrior  
+3          Omerz           1         0     80    150   Healer  
+4          Omerz           1         1     90    150   Healer  
 
 -------------------------------------------
 Start of round 50:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1261,33 +1261,33 @@ Safe travels!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     100   145   Wizard  
-2          Daniel          7         8     100   152   Fighter  
-3          Omerz           1         0     80    160   Wizard  
-4          Omerz           1         0     80    150   Wizard  
+1          Amirmann        1         2     100   145   Healer  
+2          Daniel          7         8     100   152   Warrior  
+3          Omerz           1         0     80    160   Healer  
+4          Omerz           1         0     80    150   Healer  
 
 -------------------------------------------
 Start of round 51:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     100   145   Wizard  
-2          Daniel          7         8     100   162   Fighter  
-3          Omerz           1         0     100   160   Wizard  
-4          Omerz           1         0     80    160   Wizard  
+1          Amirmann        1         2     100   145   Healer  
+2          Daniel          7         8     100   162   Warrior  
+3          Omerz           1         0     100   160   Healer  
+4          Omerz           1         0     80    160   Healer  
 
 -------------------------------------------
 Start of round 52:
@@ -1311,29 +1311,29 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     90    145   Wizard  
-2          Daniel          7         8     100   162   Fighter  
-3          Omerz           1         0     100   160   Wizard  
-4          Omerz           1         0     80    170   Wizard  
+1          Amirmann        1         2     90    145   Healer  
+2          Daniel          7         8     100   162   Warrior  
+3          Omerz           1         0     100   160   Healer  
+4          Omerz           1         0     80    170   Healer  
 
 -------------------------------------------
 Start of round 53:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Daniel's turn: 
 Nothing happened.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     80    145   Wizard  
-2          Daniel          7         8     100   162   Fighter  
-3          Omerz           1         0     100   170   Wizard  
-4          Omerz           1         0     100   170   Wizard  
+1          Amirmann        1         1     80    145   Healer  
+2          Daniel          7         8     100   162   Warrior  
+3          Omerz           1         0     100   170   Healer  
+4          Omerz           1         0     100   170   Healer  
 
 -------------------------------------------
 Start of round 54:
@@ -1343,7 +1343,7 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1358,10 +1358,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     80    155   Wizard  
-2          Daniel          7         8     100   162   Fighter  
-3          Omerz           1         0     100   170   Wizard  
-4          Omerz           1         1     100   160   Wizard  
+1          Amirmann        1         1     80    155   Healer  
+2          Daniel          7         8     100   162   Warrior  
+3          Omerz           1         0     100   170   Healer  
+4          Omerz           1         1     100   160   Healer  
 
 -------------------------------------------
 Start of round 55:
@@ -1369,37 +1369,37 @@ Start of round 55:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     80    165   Wizard  
-2          Daniel          8         8     100   164   Fighter  
-3          Omerz           1         0     100   170   Wizard  
-4          Omerz           1         1     100   170   Wizard  
+1          Amirmann        1         1     80    165   Healer  
+2          Daniel          8         8     100   164   Warrior  
+3          Omerz           1         0     100   170   Healer  
+4          Omerz           1         1     100   170   Healer  
 
 -------------------------------------------
 Start of round 56:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     100   165   Wizard  
-2          Daniel          8         8     100   174   Fighter  
-3          Omerz           1         0     90    170   Wizard  
-4          Omerz           1         1     100   170   Wizard  
+1          Amirmann        1         1     100   165   Healer  
+2          Daniel          8         8     100   174   Warrior  
+3          Omerz           1         0     90    170   Healer  
+4          Omerz           1         1     100   170   Healer  
 
 -------------------------------------------
 Start of round 57:
@@ -1417,16 +1417,16 @@ Safe travels!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     100   165   Wizard  
-2          Daniel          8         8     100   184   Fighter  
-3          Omerz           1         0     80    170   Wizard  
-4          Omerz           1         1     100   170   Wizard  
+1          Amirmann        1         1     100   165   Healer  
+2          Daniel          8         8     100   184   Warrior  
+3          Omerz           1         0     80    170   Healer  
+4          Omerz           1         1     100   170   Healer  
 
 -------------------------------------------
 Start of round 58:
@@ -1442,16 +1442,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     100   175   Wizard  
-2          Daniel          8         8     100   184   Fighter  
-3          Omerz           1         0     80    180   Wizard  
-4          Omerz           1         1     90    170   Wizard  
+1          Amirmann        1         1     100   175   Healer  
+2          Daniel          8         8     100   184   Warrior  
+3          Omerz           1         0     80    180   Healer  
+4          Omerz           1         1     90    170   Healer  
 
 -------------------------------------------
 Start of round 59:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1465,33 +1465,33 @@ Safe travels!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     100   175   Wizard  
-2          Daniel          8         8     100   184   Fighter  
-3          Omerz           1         0     80    190   Wizard  
-4          Omerz           1         0     80    170   Wizard  
+1          Amirmann        1         1     100   175   Healer  
+2          Daniel          8         8     100   184   Warrior  
+3          Omerz           1         0     80    190   Healer  
+4          Omerz           1         0     80    170   Healer  
 
 -------------------------------------------
 Start of round 60:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     100   175   Wizard  
-2          Daniel          8         8     100   194   Fighter  
-3          Omerz           1         0     100   190   Wizard  
-4          Omerz           1         0     80    180   Wizard  
+1          Amirmann        1         1     100   175   Healer  
+2          Daniel          8         8     100   194   Warrior  
+3          Omerz           1         0     100   190   Healer  
+4          Omerz           1         0     80    180   Healer  
 
 -------------------------------------------
 Start of round 61:
@@ -1514,29 +1514,29 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     90    175   Wizard  
-2          Daniel          8         8     100   194   Fighter  
-3          Omerz           1         0     100   190   Wizard  
-4          Omerz           1         0     80    190   Wizard  
+1          Amirmann        1         1     90    175   Healer  
+2          Daniel          8         8     100   194   Warrior  
+3          Omerz           1         0     100   190   Healer  
+4          Omerz           1         0     80    190   Healer  
 
 -------------------------------------------
 Start of round 62:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Daniel's turn: 
 Nothing happened.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         0     80    175   Wizard  
-2          Daniel          8         8     100   194   Fighter  
-3          Omerz           1         0     100   200   Wizard  
-4          Omerz           1         0     100   190   Wizard  
+1          Amirmann        1         0     80    175   Healer  
+2          Daniel          8         8     100   194   Warrior  
+3          Omerz           1         0     100   200   Healer  
+4          Omerz           1         0     100   190   Healer  
 
 -------------------------------------------
 Start of round 63:
@@ -1546,7 +1546,7 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1560,10 +1560,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         0     80    185   Wizard  
-2          Daniel          8         8     100   194   Fighter  
-3          Omerz           1         0     100   200   Wizard  
-4          Omerz           1         0     100   190   Wizard  
+1          Amirmann        1         0     80    185   Healer  
+2          Daniel          8         8     100   194   Warrior  
+3          Omerz           1         0     100   200   Healer  
+4          Omerz           1         0     100   190   Healer  
 
 -------------------------------------------
 Start of round 64:
@@ -1571,37 +1571,37 @@ Start of round 64:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         0     80    195   Wizard  
-2          Daniel          9         8     100   196   Fighter  
-3          Omerz           1         0     100   200   Wizard  
-4          Omerz           1         0     100   200   Wizard  
+1          Amirmann        1         0     80    195   Healer  
+2          Daniel          9         8     100   196   Warrior  
+3          Omerz           1         0     100   200   Healer  
+4          Omerz           1         0     100   200   Healer  
 
 -------------------------------------------
 Start of round 65:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         0     100   195   Wizard  
-2          Daniel          9         8     100   206   Fighter  
-3          Omerz           1         0     90    200   Wizard  
-4          Omerz           1         0     100   200   Wizard  
+1          Amirmann        1         0     100   195   Healer  
+2          Daniel          9         8     100   206   Warrior  
+3          Omerz           1         0     90    200   Healer  
+4          Omerz           1         0     100   200   Healer  
 
 -------------------------------------------
 Start of round 66:
@@ -1620,16 +1620,16 @@ Safe travels!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         0     100   195   Wizard  
-2          Daniel          9         8     100   216   Fighter  
-3          Omerz           1         0     80    200   Wizard  
-4          Omerz           1         0     100   200   Wizard  
+1          Amirmann        1         0     100   195   Healer  
+2          Daniel          9         8     100   216   Warrior  
+3          Omerz           1         0     80    200   Healer  
+4          Omerz           1         0     100   200   Healer  
 
 -------------------------------------------
 Start of round 67:
@@ -1645,16 +1645,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         0     100   205   Wizard  
-2          Daniel          9         8     100   216   Fighter  
-3          Omerz           1         0     80    210   Wizard  
-4          Omerz           1         0     90    200   Wizard  
+1          Amirmann        1         0     100   205   Healer  
+2          Daniel          9         8     100   216   Warrior  
+3          Omerz           1         0     80    210   Healer  
+4          Omerz           1         0     90    200   Healer  
 
 -------------------------------------------
 Start of round 68:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1668,33 +1668,33 @@ Safe travels!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         0     100   205   Wizard  
-2          Daniel          9         8     100   211   Fighter  
-3          Omerz           1         0     80    220   Wizard  
-4          Omerz           1         0     80    200   Wizard  
+1          Amirmann        1         0     100   205   Healer  
+2          Daniel          9         8     100   211   Warrior  
+3          Omerz           1         0     80    220   Healer  
+4          Omerz           1         0     80    200   Healer  
 
 -------------------------------------------
 Start of round 69:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         0     100   205   Wizard  
-2          Daniel          9         8     100   221   Fighter  
-3          Omerz           1         0     100   220   Wizard  
-4          Omerz           1         0     80    210   Wizard  
+1          Amirmann        1         0     100   205   Healer  
+2          Daniel          9         8     100   221   Warrior  
+3          Omerz           1         0     100   220   Healer  
+4          Omerz           1         0     80    210   Healer  
 
 -------------------------------------------
 Start of round 70:
@@ -1719,29 +1719,29 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         0     90    205   Wizard  
-2          Daniel          9         8     100   221   Fighter  
-3          Omerz           1         1     100   210   Wizard  
-4          Omerz           1         0     80    220   Wizard  
+1          Amirmann        1         0     90    205   Healer  
+2          Daniel          9         8     100   221   Warrior  
+3          Omerz           1         1     100   210   Healer  
+4          Omerz           1         0     80    220   Healer  
 
 -------------------------------------------
 Start of round 71:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Daniel's turn: 
 Nothing happened.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         0     80    205   Wizard  
-2          Daniel          9         8     100   221   Fighter  
-3          Omerz           1         1     100   220   Wizard  
-4          Omerz           1         0     100   220   Wizard  
+1          Amirmann        1         0     80    205   Healer  
+2          Daniel          9         8     100   221   Warrior  
+3          Omerz           1         1     100   220   Healer  
+4          Omerz           1         0     100   220   Healer  
 
 -------------------------------------------
 Start of round 72:
@@ -1751,7 +1751,7 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1765,10 +1765,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         0     80    215   Wizard  
-2          Daniel          9         8     100   221   Fighter  
-3          Omerz           1         1     100   220   Wizard  
-4          Omerz           1         0     100   220   Wizard  
+1          Amirmann        1         0     80    215   Healer  
+2          Daniel          9         8     100   221   Warrior  
+3          Omerz           1         1     100   220   Healer  
+4          Omerz           1         0     100   220   Healer  
 
 -------------------------------------------
 Start of round 73:
@@ -1776,24 +1776,24 @@ Start of round 73:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     80    225   Wizard  
-3          Omerz           1         1     100   220   Wizard  
-4          Omerz           1         0     100   230   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     80    225   Healer  
+3          Omerz           1         1     100   220   Healer  
+4          Omerz           1         0     100   230   Healer  
 
 -------------------------------------------
 Start of round 74:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
@@ -1801,16 +1801,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         1     100   230   Wizard  
-4          Omerz           1         0     90    230   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         1     100   230   Healer  
+4          Omerz           1         0     90    230   Healer  
 
 -------------------------------------------
 Start of round 75:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1826,33 +1826,33 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         1     100   230   Wizard  
-4          Omerz           1         0     90    240   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         1     100   230   Healer  
+4          Omerz           1         0     90    240   Healer  
 
 -------------------------------------------
 Start of round 76:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     90    225   Wizard  
-3          Omerz           1         1     100   230   Wizard  
-4          Omerz           1         0     90    250   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     90    225   Healer  
+3          Omerz           1         1     100   230   Healer  
+4          Omerz           1         0     90    250   Healer  
 
 -------------------------------------------
 Start of round 77:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
@@ -1860,16 +1860,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         1     100   240   Wizard  
-4          Omerz           1         0     80    250   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         1     100   240   Healer  
+4          Omerz           1         0     80    250   Healer  
 
 -------------------------------------------
 Start of round 78:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1885,33 +1885,33 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         2     100   230   Wizard  
-4          Omerz           1         0     80    260   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         2     100   230   Healer  
+4          Omerz           1         0     80    260   Healer  
 
 -------------------------------------------
 Start of round 79:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     90    225   Wizard  
-3          Omerz           1         2     100   230   Wizard  
-4          Omerz           1         0     80    270   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     90    225   Healer  
+3          Omerz           1         2     100   230   Healer  
+4          Omerz           1         0     80    270   Healer  
 
 -------------------------------------------
 Start of round 80:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
@@ -1919,16 +1919,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         2     100   240   Wizard  
-4          Omerz           1         0     70    270   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         2     100   240   Healer  
+4          Omerz           1         0     70    270   Healer  
 
 -------------------------------------------
 Start of round 81:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1943,33 +1943,33 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         3     100   230   Wizard  
-4          Omerz           1         0     70    280   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         3     100   230   Healer  
+4          Omerz           1         0     70    280   Healer  
 
 -------------------------------------------
 Start of round 82:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     90    225   Wizard  
-3          Omerz           1         3     100   230   Wizard  
-4          Omerz           1         0     70    290   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     90    225   Healer  
+3          Omerz           1         3     100   230   Healer  
+4          Omerz           1         0     70    290   Healer  
 
 -------------------------------------------
 Start of round 83:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
@@ -1977,16 +1977,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         3     100   240   Wizard  
-4          Omerz           1         0     60    290   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         3     100   240   Healer  
+4          Omerz           1         0     60    290   Healer  
 
 -------------------------------------------
 Start of round 84:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -2003,33 +2003,33 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         3     100   240   Wizard  
-4          Omerz           1         0     60    300   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         3     100   240   Healer  
+4          Omerz           1         0     60    300   Healer  
 
 -------------------------------------------
 Start of round 85:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     90    225   Wizard  
-3          Omerz           1         3     100   240   Wizard  
-4          Omerz           1         0     60    310   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     90    225   Healer  
+3          Omerz           1         3     100   240   Healer  
+4          Omerz           1         0     60    310   Healer  
 
 -------------------------------------------
 Start of round 86:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
@@ -2037,16 +2037,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         3     100   250   Wizard  
-4          Omerz           1         0     50    310   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         3     100   250   Healer  
+4          Omerz           1         0     50    310   Healer  
 
 -------------------------------------------
 Start of round 87:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -2063,33 +2063,33 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         3     100   245   Wizard  
-4          Omerz           1         0     50    320   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         3     100   245   Healer  
+4          Omerz           1         0     50    320   Healer  
 
 -------------------------------------------
 Start of round 88:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     90    225   Wizard  
-3          Omerz           1         3     100   245   Wizard  
-4          Omerz           1         0     50    330   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     90    225   Healer  
+3          Omerz           1         3     100   245   Healer  
+4          Omerz           1         0     50    330   Healer  
 
 -------------------------------------------
 Start of round 89:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
@@ -2097,16 +2097,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         3     100   255   Wizard  
-4          Omerz           1         0     40    330   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         3     100   255   Healer  
+4          Omerz           1         0     40    330   Healer  
 
 -------------------------------------------
 Start of round 90:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -2121,33 +2121,33 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         3     100   250   Wizard  
-4          Omerz           1         0     40    340   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         3     100   250   Healer  
+4          Omerz           1         0     40    340   Healer  
 
 -------------------------------------------
 Start of round 91:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     90    225   Wizard  
-3          Omerz           1         3     100   250   Wizard  
-4          Omerz           1         0     40    350   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     90    225   Healer  
+3          Omerz           1         3     100   250   Healer  
+4          Omerz           1         0     40    350   Healer  
 
 -------------------------------------------
 Start of round 92:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
@@ -2155,16 +2155,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         3     100   260   Wizard  
-4          Omerz           1         0     30    350   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         3     100   260   Healer  
+4          Omerz           1         0     30    350   Healer  
 
 -------------------------------------------
 Start of round 93:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -2180,33 +2180,33 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         3     100   260   Wizard  
-4          Omerz           1         0     30    360   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         3     100   260   Healer  
+4          Omerz           1         0     30    360   Healer  
 
 -------------------------------------------
 Start of round 94:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     90    225   Wizard  
-3          Omerz           1         3     100   260   Wizard  
-4          Omerz           1         0     30    370   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     90    225   Healer  
+3          Omerz           1         3     100   260   Healer  
+4          Omerz           1         0     30    370   Healer  
 
 -------------------------------------------
 Start of round 95:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
@@ -2214,16 +2214,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         3     100   270   Wizard  
-4          Omerz           1         0     20    370   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         3     100   270   Healer  
+4          Omerz           1         0     20    370   Healer  
 
 -------------------------------------------
 Start of round 96:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -2238,33 +2238,33 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         4     100   260   Wizard  
-4          Omerz           1         0     20    380   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         4     100   260   Healer  
+4          Omerz           1         0     20    380   Healer  
 
 -------------------------------------------
 Start of round 97:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     90    225   Wizard  
-3          Omerz           1         4     100   260   Wizard  
-4          Omerz           1         0     20    390   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     90    225   Healer  
+3          Omerz           1         4     100   260   Healer  
+4          Omerz           1         0     20    390   Healer  
 
 -------------------------------------------
 Start of round 98:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
@@ -2272,16 +2272,16 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         4     100   270   Wizard  
-4          Omerz           1         0     10    390   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         4     100   270   Healer  
+4          Omerz           1         0     10    390   Healer  
 
 -------------------------------------------
 Start of round 99:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -2296,24 +2296,24 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     100   225   Wizard  
-3          Omerz           1         4     100   270   Wizard  
-4          Omerz           1         0     10    400   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     100   225   Healer  
+3          Omerz           1         4     100   270   Healer  
+4          Omerz           1         0     10    400   Healer  
 
 -------------------------------------------
 Start of round 100:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        8     100   223   Fighter  
-2          Amirmann        1         0     90    225   Wizard  
-3          Omerz           1         4     100   270   Wizard  
-4          Omerz           1         0     10    410   Wizard  
+1          Daniel          10        8     100   223   Warrior  
+2          Amirmann        1         0     90    225   Healer  
+3          Omerz           1         4     100   270   Healer  
+4          Omerz           1         0     10    410   Healer  

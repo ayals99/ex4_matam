@@ -82,31 +82,31 @@ Start of round 1:
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Wizard  
-2          Omerz           1         4     90    10    Wizard  
-3          Daniel          1         5     90    10    Fighter  
+1          Efrat           1         5     100   20    Healer  
+2          Omerz           1         4     90    10    Healer  
+3          Daniel          1         5     90    10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Wizard  
-2          Omerz           1         3     80    10    Wizard  
-3          Daniel          1         5     90    10    Fighter  
+1          Efrat           1         5     100   20    Healer  
+2          Omerz           1         3     80    10    Healer  
+3          Daniel          1         5     90    10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -114,15 +114,15 @@ Start of round 3:
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     100   10    Wizard  
-2          Daniel          1         5     0     10    Fighter  
-3          Efrat           1         5     0     20    Wizard  
+1          Omerz           1         3     100   10    Healer  
+2          Daniel          1         5     0     10    Warrior  
+3          Efrat           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -133,6 +133,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     0     10    Wizard  
-2          Daniel          1         5     0     10    Fighter  
-3          Efrat           1         5     0     20    Wizard  
+1          Omerz           1         3     0     10    Healer  
+2          Daniel          1         5     0     10    Warrior  
+3          Efrat           1         5     0     20    Healer  

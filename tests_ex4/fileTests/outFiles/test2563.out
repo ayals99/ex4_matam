@@ -175,20 +175,20 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   14    Rogue  
-2          Amirmann        2         5     100   14    Rogue  
-3          Amirmann        2         5     100   12    Wizard  
-4          Omerz           1         5     90    10    Wizard  
+1          Amirmann        2         5     100   14    Ninja  
+2          Amirmann        2         5     100   14    Ninja  
+3          Amirmann        2         5     100   12    Healer  
+4          Omerz           1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -207,16 +207,16 @@ You have entered an invalid input. Please try again.
 Amirmann has paid 0 coins 
 Safe travels!
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   14    Rogue  
-2          Amirmann        2         4     90    12    Wizard  
-3          Omerz           1         5     0     10    Wizard  
-4          Amirmann        2         5     0     14    Rogue  
+1          Amirmann        2         5     100   14    Ninja  
+2          Amirmann        2         4     90    12    Healer  
+3          Omerz           1         5     0     10    Healer  
+4          Amirmann        2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -224,14 +224,14 @@ Start of round 3:
 Start of Amirmann's turn: 
 Nothing happened.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   14    Rogue  
-2          Amirmann        2         3     80    12    Wizard  
-3          Omerz           1         5     0     10    Wizard  
-4          Amirmann        2         5     0     14    Rogue  
+1          Amirmann        2         5     100   14    Ninja  
+2          Amirmann        2         3     80    12    Healer  
+3          Omerz           1         5     0     10    Healer  
+4          Amirmann        2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -239,42 +239,42 @@ Start of round 4:
 Start of Amirmann's turn: 
 Nothing happened.
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   14    Rogue  
-2          Amirmann        2         3     100   12    Wizard  
-3          Omerz           1         5     0     10    Wizard  
-4          Amirmann        2         5     0     14    Rogue  
+1          Amirmann        2         5     100   14    Ninja  
+2          Amirmann        2         3     100   12    Healer  
+3          Omerz           1         5     0     10    Healer  
+4          Amirmann        2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   18    Rogue  
-2          Amirmann        2         3     0     12    Wizard  
-3          Omerz           1         5     0     10    Wizard  
-4          Amirmann        2         5     0     14    Rogue  
+1          Amirmann        3         5     100   18    Ninja  
+2          Amirmann        2         3     0     12    Healer  
+3          Omerz           1         5     0     10    Healer  
+4          Amirmann        2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         4     90    18    Rogue  
-2          Amirmann        2         3     0     12    Wizard  
-3          Omerz           1         5     0     10    Wizard  
-4          Amirmann        2         5     0     14    Rogue  
+1          Amirmann        3         4     90    18    Ninja  
+2          Amirmann        2         3     0     12    Healer  
+3          Omerz           1         5     0     10    Healer  
+4          Amirmann        2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -284,10 +284,10 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         4     90    18    Rogue  
-2          Amirmann        2         3     0     12    Wizard  
-3          Omerz           1         5     0     10    Wizard  
-4          Amirmann        2         5     0     14    Rogue  
+1          Amirmann        3         4     90    18    Ninja  
+2          Amirmann        2         3     0     12    Healer  
+3          Omerz           1         5     0     10    Healer  
+4          Amirmann        2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -297,10 +297,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         4     90    18    Rogue  
-2          Amirmann        2         3     0     12    Wizard  
-3          Omerz           1         5     0     10    Wizard  
-4          Amirmann        2         5     0     14    Rogue  
+1          Amirmann        3         4     90    18    Ninja  
+2          Amirmann        2         3     0     12    Healer  
+3          Omerz           1         5     0     10    Healer  
+4          Amirmann        2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -319,10 +319,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         4     91    13    Rogue  
-2          Amirmann        2         3     0     12    Wizard  
-3          Omerz           1         5     0     10    Wizard  
-4          Amirmann        2         5     0     14    Rogue  
+1          Amirmann        3         4     91    13    Ninja  
+2          Amirmann        2         3     0     12    Healer  
+3          Omerz           1         5     0     10    Healer  
+4          Amirmann        2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -332,10 +332,10 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         4     91    13    Rogue  
-2          Amirmann        2         3     0     12    Wizard  
-3          Omerz           1         5     0     10    Wizard  
-4          Amirmann        2         5     0     14    Rogue  
+1          Amirmann        3         4     91    13    Ninja  
+2          Amirmann        2         3     0     12    Healer  
+3          Omerz           1         5     0     10    Healer  
+4          Amirmann        2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -346,7 +346,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         4     0     13    Rogue  
-2          Amirmann        2         3     0     12    Wizard  
-3          Omerz           1         5     0     10    Wizard  
-4          Amirmann        2         5     0     14    Rogue  
+1          Amirmann        3         4     0     13    Ninja  
+2          Amirmann        2         3     0     12    Healer  
+3          Omerz           1         5     0     10    Healer  
+4          Amirmann        2         5     0     14    Ninja  

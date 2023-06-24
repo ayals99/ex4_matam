@@ -329,7 +329,7 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
@@ -349,11 +349,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   12    Fighter  
-2          Amirmann        1         5     100   20    Fighter  
-3          GalLalush       1         5     90    10    Fighter  
-4          Omerz           1         5     100   5     Fighter  
-5          Amirmann        1         5     100   10    Fighter  
+1          Daniel          2         5     100   12    Warrior  
+2          Amirmann        1         5     100   20    Warrior  
+3          GalLalush       1         5     90    10    Warrior  
+4          Omerz           1         5     100   5     Warrior  
+5          Amirmann        1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -361,7 +361,7 @@ Start of round 2:
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 Start of Omerz's turn: 
@@ -374,15 +374,15 @@ Omerz has 5 coins
 Omerz has paid 0 coins 
 Safe travels!
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    12    Fighter  
-2          Amirmann        2         5     100   22    Fighter  
-3          GalLalush       1         5     80    10    Fighter  
-4          Omerz           1         5     100   5     Fighter  
-5          Amirmann        2         5     100   12    Fighter  
+1          Daniel          2         5     90    12    Warrior  
+2          Amirmann        2         5     100   22    Warrior  
+3          GalLalush       1         5     80    10    Warrior  
+4          Omerz           1         5     100   5     Warrior  
+5          Amirmann        2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -396,15 +396,15 @@ Nothing happened.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    22    Fighter  
-2          GalLalush       1         5     80    10    Fighter  
-3          Omerz           1         5     100   15    Fighter  
-4          Amirmann        3         5     100   14    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          Daniel          2         5     90    22    Warrior  
+2          GalLalush       1         5     80    10    Warrior  
+3          Omerz           1         5     100   15    Warrior  
+4          Amirmann        3         5     100   14    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -437,11 +437,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    22    Fighter  
-2          GalLalush       1         5     80    10    Fighter  
-3          Omerz           1         5     100   15    Fighter  
-4          Amirmann        3         5     100   9     Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          Daniel          2         5     90    22    Warrior  
+2          GalLalush       1         5     80    10    Warrior  
+3          Omerz           1         5     100   15    Warrior  
+4          Amirmann        3         5     100   9     Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -453,15 +453,15 @@ You fell into the trap, lose 10 health points.
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     70    10    Fighter  
-2          Amirmann        4         5     100   11    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          GalLalush       1         5     70    10    Warrior  
+2          Amirmann        4         5     100   11    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -473,11 +473,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     70    20    Fighter  
-2          Amirmann        4         5     100   11    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          GalLalush       1         5     70    20    Warrior  
+2          Amirmann        4         5     100   11    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -485,15 +485,15 @@ Start of round 7:
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     70    30    Fighter  
-2          Amirmann        5         5     100   13    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          GalLalush       1         5     70    30    Warrior  
+2          Amirmann        5         5     100   13    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -522,11 +522,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     71    25    Fighter  
-2          Amirmann        5         5     100   8     Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          GalLalush       1         5     71    25    Warrior  
+2          Amirmann        5         5     100   8     Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -534,31 +534,31 @@ Start of round 9:
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     71    35    Fighter  
-2          Amirmann        6         5     100   10    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          GalLalush       1         5     71    35    Warrior  
+2          Amirmann        6         5     100   10    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 10:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     71    37    Fighter  
-2          Amirmann        6         5     100   10    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          GalLalush       2         5     71    37    Warrior  
+2          Amirmann        6         5     100   10    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -570,11 +570,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     90    10    Fighter  
-2          GalLalush       2         5     0     37    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          Amirmann        6         5     90    10    Warrior  
+2          GalLalush       2         5     0     37    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -584,11 +584,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     80    10    Fighter  
-2          GalLalush       2         5     0     37    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          Amirmann        6         5     80    10    Warrior  
+2          GalLalush       2         5     0     37    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -598,11 +598,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     80    10    Fighter  
-2          GalLalush       2         5     0     37    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          Amirmann        6         5     80    10    Warrior  
+2          GalLalush       2         5     0     37    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -612,25 +612,25 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         5     80    20    Fighter  
-2          GalLalush       2         5     0     37    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          Amirmann        6         5     80    20    Warrior  
+2          GalLalush       2         5     0     37    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        7         5     80    22    Fighter  
-2          GalLalush       2         5     0     37    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          Amirmann        7         5     80    22    Warrior  
+2          GalLalush       2         5     0     37    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -640,11 +640,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        7         5     80    32    Fighter  
-2          GalLalush       2         5     0     37    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          Amirmann        7         5     80    32    Warrior  
+2          GalLalush       2         5     0     37    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 17:
@@ -654,11 +654,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        7         5     80    32    Fighter  
-2          GalLalush       2         5     0     37    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          Amirmann        7         5     80    32    Warrior  
+2          GalLalush       2         5     0     37    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 18:
@@ -668,11 +668,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        7         5     80    42    Fighter  
-2          GalLalush       2         5     0     37    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          Amirmann        7         5     80    42    Warrior  
+2          GalLalush       2         5     0     37    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 19:
@@ -691,11 +691,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        7         6     80    32    Fighter  
-2          GalLalush       2         5     0     37    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          Amirmann        7         6     80    32    Warrior  
+2          GalLalush       2         5     0     37    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 20:
@@ -705,11 +705,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        7         6     80    32    Fighter  
-2          GalLalush       2         5     0     37    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          Amirmann        7         6     80    32    Warrior  
+2          GalLalush       2         5     0     37    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 21:
@@ -720,8 +720,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        7         6     0     32    Fighter  
-2          GalLalush       2         5     0     37    Fighter  
-3          Omerz           1         5     0     15    Fighter  
-4          Daniel          2         5     0     22    Fighter  
-5          Amirmann        2         5     0     22    Fighter  
+1          Amirmann        7         6     0     32    Warrior  
+2          GalLalush       2         5     0     37    Warrior  
+3          Omerz           1         5     0     15    Warrior  
+4          Daniel          2         5     0     22    Warrior  
+5          Amirmann        2         5     0     22    Warrior  

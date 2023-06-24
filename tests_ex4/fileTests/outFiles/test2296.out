@@ -115,7 +115,7 @@ You have entered an invalid class. Please try again.
 Start of round 1:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 Nothing happened.
 Start of TomerM's turn: 
@@ -125,10 +125,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   14    Rogue  
-2          GalLalush       1         5     100   10    Rogue  
-3          TomerM          1         5     100   30    Rogue  
-4          Amirmann        1         5     100   10    Fighter  
+1          Efrat           2         5     100   14    Ninja  
+2          GalLalush       1         5     100   10    Ninja  
+3          TomerM          1         5     100   30    Ninja  
+4          Amirmann        1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -153,40 +153,40 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   14    Rogue  
-2          Amirmann        1         6     100   0     Fighter  
-3          TomerM          1         5     0     30    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           2         5     100   14    Ninja  
+2          Amirmann        1         6     100   0     Warrior  
+3          TomerM          1         5     0     30    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     100   18    Rogue  
-2          Amirmann        2         6     100   2     Fighter  
-3          TomerM          1         5     0     30    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           3         5     100   18    Ninja  
+2          Amirmann        2         6     100   2     Warrior  
+3          TomerM          1         5     0     30    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         5     100   22    Rogue  
-2          Amirmann        2         6     100   12    Fighter  
-3          TomerM          1         5     0     30    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           4         5     100   22    Ninja  
+2          Amirmann        2         6     100   12    Warrior  
+3          TomerM          1         5     0     30    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -199,7 +199,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     0     12    Fighter  
-2          Efrat           4         5     0     22    Rogue  
-3          TomerM          1         5     0     30    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Amirmann        2         6     0     12    Warrior  
+2          Efrat           4         5     0     22    Ninja  
+3          TomerM          1         5     0     30    Ninja  
+4          GalLalush       1         5     0     10    Ninja  

@@ -1182,14 +1182,14 @@ You have entered an invalid class. Please try again.
 Start of round 1:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   12    Fighter  
-2          Efrat           2         5     100   12    Fighter  
+1          TomerM          2         5     100   12    Warrior  
+2          Efrat           2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -1201,19 +1201,19 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   12    Fighter  
-2          Efrat           2         5     0     12    Fighter  
+1          TomerM          2         5     100   12    Warrior  
+2          Efrat           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     100   14    Fighter  
-2          Efrat           2         5     0     12    Fighter  
+1          TomerM          3         5     100   14    Warrior  
+2          Efrat           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -1223,8 +1223,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     100   14    Fighter  
-2          Efrat           2         5     0     12    Fighter  
+1          TomerM          3         5     100   14    Warrior  
+2          Efrat           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -1234,19 +1234,19 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    14    Fighter  
-2          Efrat           2         5     0     12    Fighter  
+1          TomerM          3         5     90    14    Warrior  
+2          Efrat           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 6:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     90    16    Fighter  
-2          Efrat           2         5     0     12    Fighter  
+1          TomerM          4         5     90    16    Warrior  
+2          Efrat           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -1256,8 +1256,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     90    16    Fighter  
-2          Efrat           2         5     0     12    Fighter  
+1          TomerM          4         5     90    16    Warrior  
+2          Efrat           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -1267,8 +1267,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     80    16    Fighter  
-2          Efrat           2         5     0     12    Fighter  
+1          TomerM          4         5     80    16    Warrior  
+2          Efrat           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -1278,8 +1278,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     80    16    Fighter  
-2          Efrat           2         5     0     12    Fighter  
+1          TomerM          4         5     80    16    Warrior  
+2          Efrat           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -1290,5 +1290,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     0     16    Fighter  
-2          Efrat           2         5     0     12    Fighter  
+1          TomerM          4         5     0     16    Warrior  
+2          Efrat           2         5     0     12    Warrior  

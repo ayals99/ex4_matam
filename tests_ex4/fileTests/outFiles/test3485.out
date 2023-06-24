@@ -253,14 +253,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   14    Rogue  
-2          Daniel          1         5     100   10    Fighter  
+1          Omerz           2         5     100   14    Ninja  
+2          Daniel          1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -273,5 +273,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     0     10    Fighter  
-2          Omerz           2         5     0     14    Rogue  
+1          Daniel          1         5     0     10    Warrior  
+2          Omerz           2         5     0     14    Ninja  

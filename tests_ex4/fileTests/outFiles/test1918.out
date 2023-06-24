@@ -198,10 +198,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Wizard  
-2          Omerz           1         5     100   20    Wizard  
-3          Daniel          1         5     100   20    Fighter  
-4          Amirmann        1         5     100   10    Rogue  
+1          Efrat           1         5     100   20    Healer  
+2          Omerz           1         5     100   20    Healer  
+3          Daniel          1         5     100   20    Warrior  
+4          Amirmann        1         5     100   10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -217,10 +217,10 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   30    Wizard  
-2          Omerz           1         5     100   30    Wizard  
-3          Daniel          1         5     100   20    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
+1          Efrat           1         5     100   30    Healer  
+2          Omerz           1         5     100   30    Healer  
+3          Daniel          1         5     100   20    Warrior  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -242,10 +242,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    30    Wizard  
-2          Daniel          1         6     100   10    Fighter  
-3          Omerz           1         5     0     30    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Efrat           1         5     90    30    Healer  
+2          Daniel          1         6     100   10    Warrior  
+3          Omerz           1         5     0     30    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -257,10 +257,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     80    30    Wizard  
-2          Daniel          1         6     100   10    Fighter  
-3          Omerz           1         5     0     30    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Efrat           1         5     80    30    Healer  
+2          Daniel          1         6     100   10    Warrior  
+3          Omerz           1         5     0     30    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -279,10 +279,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         7     100   0     Fighter  
-2          Efrat           1         5     0     30    Wizard  
-3          Omerz           1         5     0     30    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          1         7     100   0     Warrior  
+2          Efrat           1         5     0     30    Healer  
+3          Omerz           1         5     0     30    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -301,10 +301,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         7     100   0     Fighter  
-2          Efrat           1         5     0     30    Wizard  
-3          Omerz           1         5     0     30    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          1         7     100   0     Warrior  
+2          Efrat           1         5     0     30    Healer  
+3          Omerz           1         5     0     30    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -314,10 +314,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         7     100   0     Fighter  
-2          Efrat           1         5     0     30    Wizard  
-3          Omerz           1         5     0     30    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          1         7     100   0     Warrior  
+2          Efrat           1         5     0     30    Healer  
+3          Omerz           1         5     0     30    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -337,10 +337,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         7     100   0     Fighter  
-2          Efrat           1         5     0     30    Wizard  
-3          Omerz           1         5     0     30    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          1         7     100   0     Warrior  
+2          Efrat           1         5     0     30    Healer  
+3          Omerz           1         5     0     30    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -350,10 +350,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         7     100   0     Fighter  
-2          Efrat           1         5     0     30    Wizard  
-3          Omerz           1         5     0     30    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          1         7     100   0     Warrior  
+2          Efrat           1         5     0     30    Healer  
+3          Omerz           1         5     0     30    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -371,10 +371,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         7     100   0     Fighter  
-2          Efrat           1         5     0     30    Wizard  
-3          Omerz           1         5     0     30    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          1         7     100   0     Warrior  
+2          Efrat           1         5     0     30    Healer  
+3          Omerz           1         5     0     30    Healer  
+4          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -385,7 +385,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         7     0     0     Fighter  
-2          Efrat           1         5     0     30    Wizard  
-3          Omerz           1         5     0     30    Wizard  
-4          Amirmann        1         5     0     10    Rogue  
+1          Daniel          1         7     0     0     Warrior  
+2          Efrat           1         5     0     30    Healer  
+3          Omerz           1         5     0     30    Healer  
+4          Amirmann        1         5     0     10    Ninja  

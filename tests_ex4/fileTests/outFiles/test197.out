@@ -119,8 +119,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Wizard  
-2          TomerM          1         5     100   10    Wizard  
+1          GalLalush       1         5     90    10    Healer  
+2          TomerM          1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -140,8 +140,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Wizard  
-2          TomerM          1         5     90    10    Wizard  
+1          GalLalush       1         5     90    10    Healer  
+2          TomerM          1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -153,19 +153,19 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     80    10    Wizard  
-2          GalLalush       1         5     0     10    Wizard  
+1          TomerM          1         5     80    10    Healer  
+2          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     80    12    Wizard  
-2          GalLalush       1         5     0     10    Wizard  
+1          TomerM          2         5     80    12    Healer  
+2          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -176,5 +176,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     0     12    Wizard  
-2          GalLalush       1         5     0     10    Wizard  
+1          TomerM          2         5     0     12    Healer  
+2          GalLalush       1         5     0     10    Healer  

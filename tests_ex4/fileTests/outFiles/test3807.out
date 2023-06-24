@@ -1356,8 +1356,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   10    Fighter  
-2          Efrat           1         5     100   10    Fighter  
+1          TomerM          1         5     100   10    Warrior  
+2          Efrat           1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -1376,8 +1376,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Fighter  
-2          Efrat           1         5     100   5     Fighter  
+1          TomerM          1         5     90    10    Warrior  
+2          Efrat           1         5     100   5     Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -1385,12 +1385,12 @@ Start of round 3:
 Start of TomerM's turn: 
 Nothing happened.
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Fighter  
-2          Efrat           2         5     100   7     Fighter  
+1          TomerM          1         5     90    10    Warrior  
+2          Efrat           2         5     100   7     Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -1402,8 +1402,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   7     Fighter  
-2          TomerM          1         5     0     10    Fighter  
+1          Efrat           2         5     100   7     Warrior  
+2          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -1413,19 +1413,19 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   17    Fighter  
-2          TomerM          1         5     0     10    Fighter  
+1          Efrat           2         5     100   17    Warrior  
+2          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     100   19    Fighter  
-2          TomerM          1         5     0     10    Fighter  
+1          Efrat           3         5     100   19    Warrior  
+2          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -1436,5 +1436,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     0     19    Fighter  
-2          TomerM          1         5     0     10    Fighter  
+1          Efrat           3         5     0     19    Warrior  
+2          TomerM          1         5     0     10    Warrior  

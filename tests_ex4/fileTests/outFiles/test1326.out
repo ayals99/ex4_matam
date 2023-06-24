@@ -266,19 +266,19 @@ You saw the trap coming from miles away, you dodged it gracefully.
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Rogue  
-2          Daniel          1         5     100   10    Wizard  
-3          TomerM          1         5     100   10    Rogue  
-4          Daniel          2         5     100   14    Rogue  
-5          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         5     100   10    Ninja  
+2          Daniel          1         5     100   10    Healer  
+3          TomerM          1         5     100   10    Ninja  
+4          Daniel          2         5     100   14    Ninja  
+5          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -286,7 +286,7 @@ Start of round 2:
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
@@ -294,17 +294,17 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    10    Rogue  
-2          Daniel          1         5     100   10    Wizard  
-3          TomerM          1         5     90    10    Rogue  
-4          Daniel          2         5     0     14    Rogue  
-5          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         5     90    10    Ninja  
+2          Daniel          1         5     100   10    Healer  
+3          TomerM          1         5     90    10    Ninja  
+4          Daniel          2         5     0     14    Ninja  
+5          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
@@ -321,17 +321,17 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    10    Rogue  
-2          Daniel          1         5     100   20    Wizard  
-3          TomerM          1         5     91    5     Rogue  
-4          Daniel          2         5     0     14    Rogue  
-5          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         4     80    10    Ninja  
+2          Daniel          1         5     100   20    Healer  
+3          TomerM          1         5     91    5     Ninja  
+4          Daniel          2         5     0     14    Ninja  
+5          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
@@ -339,11 +339,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     70    10    Rogue  
-2          Daniel          1         5     100   30    Wizard  
-3          TomerM          1         5     91    5     Rogue  
-4          Daniel          2         5     0     14    Rogue  
-5          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         4     70    10    Ninja  
+2          Daniel          1         5     100   30    Healer  
+3          TomerM          1         5     91    5     Ninja  
+4          Daniel          2         5     0     14    Ninja  
+5          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -351,17 +351,17 @@ Start of round 5:
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     60    10    Rogue  
-2          Daniel          1         5     100   30    Wizard  
-3          TomerM          1         5     0     5     Rogue  
-4          Daniel          2         5     0     14    Rogue  
-5          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         4     60    10    Ninja  
+2          Daniel          1         5     100   30    Healer  
+3          TomerM          1         5     0     5     Ninja  
+4          Daniel          2         5     0     14    Ninja  
+5          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -373,11 +373,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     50    10    Rogue  
-2          Daniel          1         5     100   40    Wizard  
-3          TomerM          1         5     0     5     Rogue  
-4          Daniel          2         5     0     14    Rogue  
-5          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         4     50    10    Ninja  
+2          Daniel          1         5     100   40    Healer  
+3          TomerM          1         5     0     5     Ninja  
+4          Daniel          2         5     0     14    Ninja  
+5          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -389,11 +389,11 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     40    10    Rogue  
-2          Daniel          1         5     0     40    Wizard  
-3          TomerM          1         5     0     5     Rogue  
-4          Daniel          2         5     0     14    Rogue  
-5          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         4     40    10    Ninja  
+2          Daniel          1         5     0     40    Healer  
+3          TomerM          1         5     0     5     Ninja  
+4          Daniel          2         5     0     14    Ninja  
+5          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -403,25 +403,25 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     40    10    Rogue  
-2          Daniel          1         5     0     40    Wizard  
-3          TomerM          1         5     0     5     Rogue  
-4          Daniel          2         5     0     14    Rogue  
-5          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         4     40    10    Ninja  
+2          Daniel          1         5     0     40    Healer  
+3          TomerM          1         5     0     5     Ninja  
+4          Daniel          2         5     0     14    Ninja  
+5          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     30    10    Rogue  
-2          Daniel          1         5     0     40    Wizard  
-3          TomerM          1         5     0     5     Rogue  
-4          Daniel          2         5     0     14    Rogue  
-5          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         3     30    10    Ninja  
+2          Daniel          1         5     0     40    Healer  
+3          TomerM          1         5     0     5     Ninja  
+4          Daniel          2         5     0     14    Ninja  
+5          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -431,39 +431,39 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     30    30    Rogue  
-2          Daniel          1         5     0     40    Wizard  
-3          TomerM          1         5     0     5     Rogue  
-4          Daniel          2         5     0     14    Rogue  
-5          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         3     30    30    Ninja  
+2          Daniel          1         5     0     40    Healer  
+3          TomerM          1         5     0     5     Ninja  
+4          Daniel          2         5     0     14    Ninja  
+5          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     20    30    Rogue  
-2          Daniel          1         5     0     40    Wizard  
-3          TomerM          1         5     0     5     Rogue  
-4          Daniel          2         5     0     14    Rogue  
-5          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         2     20    30    Ninja  
+2          Daniel          1         5     0     40    Healer  
+3          TomerM          1         5     0     5     Ninja  
+4          Daniel          2         5     0     14    Ninja  
+5          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     10    30    Rogue  
-2          Daniel          1         5     0     40    Wizard  
-3          TomerM          1         5     0     5     Rogue  
-4          Daniel          2         5     0     14    Rogue  
-5          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         1     10    30    Ninja  
+2          Daniel          1         5     0     40    Healer  
+3          TomerM          1         5     0     5     Ninja  
+4          Daniel          2         5     0     14    Ninja  
+5          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -473,23 +473,23 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     10    30    Rogue  
-2          Daniel          1         5     0     40    Wizard  
-3          TomerM          1         5     0     5     Rogue  
-4          Daniel          2         5     0     14    Rogue  
-5          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         1     10    30    Ninja  
+2          Daniel          1         5     0     40    Healer  
+3          TomerM          1         5     0     5     Ninja  
+4          Daniel          2         5     0     14    Ninja  
+5          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         0     0     30    Rogue  
-2          Daniel          1         5     0     40    Wizard  
-3          TomerM          1         5     0     5     Rogue  
-4          Daniel          2         5     0     14    Rogue  
-5          Daniel          1         5     0     10    Wizard  
+1          Amirmann        1         0     0     30    Ninja  
+2          Daniel          1         5     0     40    Healer  
+3          TomerM          1         5     0     5     Ninja  
+4          Daniel          2         5     0     14    Ninja  
+5          Daniel          1         5     0     10    Healer  

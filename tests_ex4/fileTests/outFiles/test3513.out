@@ -1090,93 +1090,93 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   5     Wizard  
-2          TomerM          1         5     100   20    Wizard  
-3          TomerM          1         5     100   10    Fighter  
-4          Daniel          1         5     0     10    Wizard  
-5          TomerM          1         5     0     10    Fighter  
+1          Efrat           1         5     100   5     Healer  
+2          TomerM          1         5     100   20    Healer  
+3          TomerM          1         5     100   10    Warrior  
+4          Daniel          1         5     0     10    Healer  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 You fell into the trap, lose 10 health points.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   5     Wizard  
-2          TomerM          1         5     90    20    Wizard  
-3          TomerM          2         5     100   12    Fighter  
-4          Daniel          1         5     0     10    Wizard  
-5          TomerM          1         5     0     10    Fighter  
+1          Efrat           1         5     100   5     Healer  
+2          TomerM          1         5     90    20    Healer  
+3          TomerM          2         5     100   12    Warrior  
+4          Daniel          1         5     0     10    Healer  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   7     Wizard  
-2          TomerM          1         4     80    20    Wizard  
-3          TomerM          2         5     0     12    Fighter  
-4          Daniel          1         5     0     10    Wizard  
-5          TomerM          1         5     0     10    Fighter  
+1          Efrat           2         5     100   7     Healer  
+2          TomerM          1         4     80    20    Healer  
+3          TomerM          2         5     0     12    Warrior  
+4          Daniel          1         5     0     10    Healer  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of TomerM's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         4     90    7     Wizard  
-2          TomerM          1         4     70    20    Wizard  
-3          TomerM          2         5     0     12    Fighter  
-4          Daniel          1         5     0     10    Wizard  
-5          TomerM          1         5     0     10    Fighter  
+1          Efrat           2         4     90    7     Healer  
+2          TomerM          1         4     70    20    Healer  
+3          TomerM          2         5     0     12    Warrior  
+4          Daniel          1         5     0     10    Healer  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         3     80    7     Wizard  
-2          TomerM          1         4     0     20    Wizard  
-3          TomerM          2         5     0     12    Fighter  
-4          Daniel          1         5     0     10    Wizard  
-5          TomerM          1         5     0     10    Fighter  
+1          Efrat           2         3     80    7     Healer  
+2          TomerM          1         4     0     20    Healer  
+3          TomerM          2         5     0     12    Warrior  
+4          Daniel          1         5     0     10    Healer  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Goblin.
+Player Efrat has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         3     70    7     Wizard  
-2          TomerM          1         4     0     20    Wizard  
-3          TomerM          2         5     0     12    Fighter  
-4          Daniel          1         5     0     10    Wizard  
-5          TomerM          1         5     0     10    Fighter  
+1          Efrat           2         3     70    7     Healer  
+2          TomerM          1         4     0     20    Healer  
+3          TomerM          2         5     0     12    Warrior  
+4          Daniel          1         5     0     10    Healer  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -1187,8 +1187,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         3     0     7     Wizard  
-2          TomerM          1         4     0     20    Wizard  
-3          TomerM          2         5     0     12    Fighter  
-4          Daniel          1         5     0     10    Wizard  
-5          TomerM          1         5     0     10    Fighter  
+1          Efrat           2         3     0     7     Healer  
+2          TomerM          1         4     0     20    Healer  
+3          TomerM          2         5     0     12    Warrior  
+4          Daniel          1         5     0     10    Healer  
+5          TomerM          1         5     0     10    Warrior  

@@ -214,9 +214,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Wizard  
-2          Efrat           1         5     90    10    Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         6     100   0     Healer  
+2          Efrat           1         5     90    10    Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -235,21 +235,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     92    5     Wizard  
-2          Efrat           1         6     0     0     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         5     92    5     Healer  
+2          Efrat           1         6     0     0     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   5     Wizard  
-2          Efrat           1         6     0     0     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         5     100   5     Healer  
+2          Efrat           1         6     0     0     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -259,21 +259,21 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   15    Wizard  
-2          Efrat           1         6     0     0     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         5     100   15    Healer  
+2          Efrat           1         6     0     0     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   15    Wizard  
-2          Efrat           1         6     0     0     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         5     100   15    Healer  
+2          Efrat           1         6     0     0     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -292,9 +292,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Wizard  
-2          Efrat           1         6     0     0     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         5     100   10    Healer  
+2          Efrat           1         6     0     0     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -304,9 +304,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Wizard  
-2          Efrat           1         6     0     0     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         5     100   20    Healer  
+2          Efrat           1         6     0     0     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -325,9 +325,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Wizard  
-2          Efrat           1         6     0     0     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         5     100   20    Healer  
+2          Efrat           1         6     0     0     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -345,9 +345,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   15    Wizard  
-2          Efrat           1         6     0     0     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         5     100   15    Healer  
+2          Efrat           1         6     0     0     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -365,9 +365,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   5     Wizard  
-2          Efrat           1         6     0     0     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         6     100   5     Healer  
+2          Efrat           1         6     0     0     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -377,9 +377,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   15    Wizard  
-2          Efrat           1         6     0     0     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         6     100   15    Healer  
+2          Efrat           1         6     0     0     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -389,9 +389,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     90    15    Wizard  
-2          Efrat           1         6     0     0     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         6     90    15    Healer  
+2          Efrat           1         6     0     0     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -402,6 +402,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     0     15    Wizard  
-2          Efrat           1         6     0     0     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Efrat           1         6     0     15    Healer  
+2          Efrat           1         6     0     0     Healer  
+3          TomerM          1         5     0     10    Ninja  

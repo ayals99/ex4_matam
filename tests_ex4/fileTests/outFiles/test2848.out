@@ -1841,9 +1841,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Fighter  
-2          Omerz           1         5     100   10    Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Amirmann        1         5     100   10    Warrior  
+2          Omerz           1         5     100   10    Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -1855,9 +1855,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Fighter  
-2          Omerz           1         5     90    10    Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Amirmann        1         5     100   20    Warrior  
+2          Omerz           1         5     90    10    Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -1869,9 +1869,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     80    10    Wizard  
-2          Amirmann        1         5     0     20    Fighter  
-3          TomerM          1         5     0     10    Rogue  
+1          Omerz           1         5     80    10    Healer  
+2          Amirmann        1         5     0     20    Warrior  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -1882,6 +1882,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     0     10    Wizard  
-2          Amirmann        1         5     0     20    Fighter  
-3          TomerM          1         5     0     10    Rogue  
+1          Omerz           1         5     0     10    Healer  
+2          Amirmann        1         5     0     20    Warrior  
+3          TomerM          1         5     0     10    Ninja  

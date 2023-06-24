@@ -2041,11 +2041,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Rogue  
-2          Daniel          1         5     100   10    Fighter  
-3          TomerM          1         5     100   20    Fighter  
-4          TomerM          1         5     90    10    Fighter  
-5          Amirmann        1         5     0     10    Rogue  
+1          Amirmann        1         5     100   10    Ninja  
+2          Daniel          1         5     100   10    Warrior  
+3          TomerM          1         5     100   20    Warrior  
+4          TomerM          1         5     90    10    Warrior  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -2055,17 +2055,17 @@ Player Amirmann has been defeated by a Dragon.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Fighter  
-2          TomerM          2         5     100   22    Fighter  
-3          TomerM          1         5     80    10    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          Daniel          1         5     100   10    Warrior  
+2          TomerM          2         5     100   22    Warrior  
+3          TomerM          1         5     80    10    Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -2084,15 +2084,15 @@ Safe travels!
 Start of TomerM's turn: 
 You've won the scuffle without losing any health points.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   5     Fighter  
-2          TomerM          2         5     100   22    Fighter  
-3          TomerM          2         5     80    12    Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          Daniel          1         5     100   5     Warrior  
+2          TomerM          2         5     100   22    Warrior  
+3          TomerM          2         5     80    12    Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -2114,11 +2114,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   22    Fighter  
-2          TomerM          2         5     80    22    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          2         5     100   22    Warrior  
+2          TomerM          2         5     80    22    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -2126,31 +2126,31 @@ Start of round 5:
 Start of TomerM's turn: 
 You fell into the trap, lose 10 health points.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    22    Fighter  
-2          TomerM          3         5     80    24    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          2         5     90    22    Warrior  
+2          TomerM          3         5     80    24    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    24    Fighter  
-2          TomerM          3         5     80    24    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          3         5     90    24    Warrior  
+2          TomerM          3         5     80    24    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -2170,11 +2170,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    34    Fighter  
-2          TomerM          3         5     81    19    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          3         5     90    34    Warrior  
+2          TomerM          3         5     81    19    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -2186,11 +2186,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    44    Fighter  
-2          TomerM          3         5     71    19    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          3         5     90    44    Warrior  
+2          TomerM          3         5     71    19    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -2202,25 +2202,25 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     61    19    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          3         5     61    19    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     61    21    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          4         5     61    21    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -2230,11 +2230,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     51    21    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          4         5     51    21    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -2244,11 +2244,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     51    21    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          4         5     51    21    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -2258,11 +2258,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     41    21    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          4         5     41    21    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -2272,11 +2272,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     41    21    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          4         5     41    21    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -2294,11 +2294,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         6     41    11    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          4         6     41    11    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -2308,39 +2308,39 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         6     41    11    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          4         6     41    11    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 17:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         6     41    13    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          5         6     41    13    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 18:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         6     41    15    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          6         6     41    15    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 19:
@@ -2359,11 +2359,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         6     42    10    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          6         6     42    10    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 20:
@@ -2373,25 +2373,25 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         6     32    10    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          6         6     32    10    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 21:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          7         6     32    12    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          7         6     32    12    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 22:
@@ -2401,11 +2401,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          7         6     22    12    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          7         6     22    12    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 23:
@@ -2415,11 +2415,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          7         6     22    12    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          7         6     22    12    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 24:
@@ -2429,11 +2429,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          7         6     22    12    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          7         6     22    12    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 25:
@@ -2443,11 +2443,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          7         6     22    12    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          7         6     22    12    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 26:
@@ -2458,8 +2458,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          7         6     0     12    Fighter  
-2          TomerM          3         5     0     44    Fighter  
-3          Daniel          1         5     0     5     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          7         6     0     12    Warrior  
+2          TomerM          3         5     0     44    Warrior  
+3          Daniel          1         5     0     5     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  

@@ -319,17 +319,17 @@ You saw the trap coming from miles away, you dodged it gracefully.
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Fighter  
-2          GalLalush       1         5     100   10    Rogue  
-3          Daniel          2         5     100   12    Fighter  
-4          TomerM          1         5     100   20    Fighter  
-5          Amirmann        1         5     0     10    Wizard  
+1          TomerM          1         5     90    10    Warrior  
+2          GalLalush       1         5     100   10    Ninja  
+3          Daniel          2         5     100   12    Warrior  
+4          TomerM          1         5     100   20    Warrior  
+5          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -337,25 +337,25 @@ Start of round 2:
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   14    Rogue  
-2          Daniel          3         5     100   14    Fighter  
-3          TomerM          1         5     100   20    Fighter  
-4          TomerM          1         5     0     10    Fighter  
-5          Amirmann        1         5     0     10    Wizard  
+1          GalLalush       2         5     100   14    Ninja  
+2          Daniel          3         5     100   14    Warrior  
+3          TomerM          1         5     100   20    Warrior  
+4          TomerM          1         5     0     10    Warrior  
+5          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
@@ -363,27 +363,27 @@ Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     100   18    Rogue  
-2          Daniel          3         5     100   24    Fighter  
-3          TomerM          1         5     0     20    Fighter  
-4          TomerM          1         5     0     10    Fighter  
-5          Amirmann        1         5     0     10    Wizard  
+1          GalLalush       3         5     100   18    Ninja  
+2          Daniel          3         5     100   24    Warrior  
+3          TomerM          1         5     0     20    Warrior  
+4          TomerM          1         5     0     10    Warrior  
+5          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         4     90    18    Rogue  
-2          Daniel          3         5     0     24    Fighter  
-3          TomerM          1         5     0     20    Fighter  
-4          TomerM          1         5     0     10    Fighter  
-5          Amirmann        1         5     0     10    Wizard  
+1          GalLalush       3         4     90    18    Ninja  
+2          Daniel          3         5     0     24    Warrior  
+3          TomerM          1         5     0     20    Warrior  
+4          TomerM          1         5     0     10    Warrior  
+5          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -393,11 +393,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         4     90    38    Rogue  
-2          Daniel          3         5     0     24    Fighter  
-3          TomerM          1         5     0     20    Fighter  
-4          TomerM          1         5     0     10    Fighter  
-5          Amirmann        1         5     0     10    Wizard  
+1          GalLalush       3         4     90    38    Ninja  
+2          Daniel          3         5     0     24    Warrior  
+3          TomerM          1         5     0     20    Warrior  
+4          TomerM          1         5     0     10    Warrior  
+5          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -408,8 +408,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         4     0     38    Rogue  
-2          Daniel          3         5     0     24    Fighter  
-3          TomerM          1         5     0     20    Fighter  
-4          TomerM          1         5     0     10    Fighter  
-5          Amirmann        1         5     0     10    Wizard  
+1          GalLalush       3         4     0     38    Ninja  
+2          Daniel          3         5     0     24    Warrior  
+3          TomerM          1         5     0     20    Warrior  
+4          TomerM          1         5     0     10    Warrior  
+5          Amirmann        1         5     0     10    Healer  

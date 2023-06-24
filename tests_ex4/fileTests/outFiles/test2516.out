@@ -391,7 +391,7 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -405,11 +405,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Fighter  
-2          Amirmann        1         5     100   30    Rogue  
-3          Omerz           1         5     100   10    Wizard  
-4          Daniel          1         5     100   5     Rogue  
-5          GalLalush       1         5     0     10    Fighter  
+1          Omerz           1         5     100   10    Warrior  
+2          Amirmann        1         5     100   30    Ninja  
+3          Omerz           1         5     100   10    Healer  
+4          Daniel          1         5     100   5     Ninja  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -425,17 +425,17 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    10    Fighter  
-2          Omerz           1         5     90    10    Wizard  
-3          Daniel          1         5     0     5     Rogue  
-4          Amirmann        1         5     0     30    Rogue  
-5          GalLalush       1         5     0     10    Fighter  
+1          Omerz           1         5     90    10    Warrior  
+2          Omerz           1         5     90    10    Healer  
+3          Daniel          1         5     0     5     Ninja  
+4          Amirmann        1         5     0     30    Ninja  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -449,11 +449,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     90    12    Fighter  
-2          Omerz           1         6     90    0     Wizard  
-3          Daniel          1         5     0     5     Rogue  
-4          Amirmann        1         5     0     30    Rogue  
-5          GalLalush       1         5     0     10    Fighter  
+1          Omerz           2         5     90    12    Warrior  
+2          Omerz           1         6     90    0     Healer  
+3          Daniel          1         5     0     5     Ninja  
+4          Amirmann        1         5     0     30    Ninja  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -465,11 +465,11 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     90    22    Fighter  
-2          Omerz           1         6     0     0     Wizard  
-3          Daniel          1         5     0     5     Rogue  
-4          Amirmann        1         5     0     30    Rogue  
-5          GalLalush       1         5     0     10    Fighter  
+1          Omerz           2         5     90    22    Warrior  
+2          Omerz           1         6     0     0     Healer  
+3          Daniel          1         5     0     5     Ninja  
+4          Amirmann        1         5     0     30    Ninja  
+5          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -480,8 +480,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     0     22    Fighter  
-2          Omerz           1         6     0     0     Wizard  
-3          Daniel          1         5     0     5     Rogue  
-4          Amirmann        1         5     0     30    Rogue  
-5          GalLalush       1         5     0     10    Fighter  
+1          Omerz           2         5     0     22    Warrior  
+2          Omerz           1         6     0     0     Healer  
+3          Daniel          1         5     0     5     Ninja  
+4          Amirmann        1         5     0     30    Ninja  
+5          GalLalush       1         5     0     10    Warrior  

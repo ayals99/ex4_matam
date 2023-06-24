@@ -406,35 +406,35 @@ This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    10    Wizard  
-2          TomerM          1         5     90    10    Wizard  
-3          Omerz           1         5     90    10    Wizard  
-4          Omerz           2         5     100   12    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Efrat           1         5     90    10    Healer  
+2          TomerM          1         5     90    10    Healer  
+3          Omerz           1         5     90    10    Healer  
+4          Omerz           2         5     100   12    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Wizard  
-2          TomerM          1         5     90    20    Wizard  
-3          Omerz           1         5     100   10    Wizard  
-4          Omerz           2         5     90    12    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Efrat           1         5     100   10    Healer  
+2          TomerM          1         5     90    20    Healer  
+3          Omerz           1         5     100   10    Healer  
+4          Omerz           2         5     90    12    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -458,17 +458,17 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    10    Wizard  
-2          TomerM          1         5     90    20    Wizard  
-3          Omerz           1         5     100   20    Wizard  
-4          Omerz           2         5     80    12    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Efrat           1         5     90    10    Healer  
+2          TomerM          1         5     90    20    Healer  
+3          Omerz           1         5     100   20    Healer  
+4          Omerz           2         5     80    12    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -492,29 +492,29 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     90    12    Wizard  
-2          TomerM          1         6     90    10    Wizard  
-3          Omerz           2         5     82    7     Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Efrat           2         5     90    12    Healer  
+2          TomerM          1         6     90    10    Healer  
+3          Omerz           2         5     82    7     Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         4     80    12    Wizard  
-2          Omerz           2         4     72    7     Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Efrat           2         4     80    12    Healer  
+2          Omerz           2         4     72    7     Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -522,15 +522,15 @@ Start of round 6:
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         4     70    12    Wizard  
-2          Omerz           2         4     92    7     Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Efrat           2         4     70    12    Healer  
+2          Omerz           2         4     92    7     Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -549,81 +549,81 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         4     94    2     Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         4     94    2     Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         3     84    2     Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         3     84    2     Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         2     74    2     Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         2     74    2     Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Goblin.
+Player Omerz has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         2     64    2     Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         2     64    2     Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         2     84    2     Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         2     84    2     Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Goblin.
+Player Omerz has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         2     74    2     Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         2     74    2     Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -641,11 +641,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         2     74    2     Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         2     74    2     Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -655,11 +655,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         2     64    2     Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         2     64    2     Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -669,25 +669,25 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         2     64    12    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         2     64    12    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 16:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         1     54    12    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         1     54    12    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -697,11 +697,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         1     54    22    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         1     54    22    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 18:
@@ -711,81 +711,81 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         1     44    22    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         1     44    22    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 19:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         1     64    22    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         1     64    22    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 20:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         1     84    22    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         1     84    22    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 21:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         1     100   22    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         1     100   22    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 22:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         1     100   22    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         1     100   22    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 23:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         0     90    22    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         0     90    22    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 24:
@@ -802,11 +802,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         1     90    12    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         1     90    12    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 25:
@@ -816,11 +816,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         1     80    12    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         1     80    12    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 26:
@@ -830,11 +830,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         1     70    12    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         1     70    12    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 27:
@@ -844,25 +844,25 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         1     70    22    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         1     70    22    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 28:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         0     60    22    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         0     60    22    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 29:
@@ -872,11 +872,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         0     50    22    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         0     50    22    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 30:
@@ -887,8 +887,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         0     0     22    Wizard  
-2          Efrat           2         4     0     12    Wizard  
-3          TomerM          1         6     0     10    Wizard  
-4          Omerz           1         5     0     20    Wizard  
-5          Efrat           1         5     0     10    Wizard  
+1          Omerz           2         0     0     22    Healer  
+2          Efrat           2         4     0     12    Healer  
+3          TomerM          1         6     0     10    Healer  
+4          Omerz           1         5     0     20    Healer  
+5          Efrat           1         5     0     10    Healer  

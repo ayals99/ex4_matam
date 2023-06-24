@@ -1704,9 +1704,9 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 Nothing happened.
 Start of TomerM's turn: 
@@ -1716,33 +1716,33 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Wizard  
-2          Efrat           1         5     100   10    Wizard  
-3          Daniel          1         5     100   10    Rogue  
-4          TomerM          1         5     100   10    Fighter  
-5          Amirmann        1         5     100   20    Wizard  
+1          Amirmann        2         5     100   12    Healer  
+2          Efrat           1         5     100   10    Healer  
+3          Daniel          1         5     100   10    Ninja  
+4          TomerM          1         5     100   10    Warrior  
+5          Amirmann        1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         4     90    12    Wizard  
-2          Efrat           1         4     90    10    Wizard  
-3          Daniel          2         5     100   14    Rogue  
-4          TomerM          2         5     100   12    Fighter  
-5          Amirmann        1         5     90    20    Wizard  
+1          Amirmann        2         4     90    12    Healer  
+2          Efrat           1         4     90    10    Healer  
+3          Daniel          2         5     100   14    Ninja  
+4          TomerM          2         5     100   12    Warrior  
+5          Amirmann        1         5     90    20    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -1756,23 +1756,23 @@ This is but a flesh wound. You've lost 10 health points
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         4     80    12    Wizard  
-2          Efrat           1         4     90    20    Wizard  
-3          Daniel          2         5     90    14    Rogue  
-4          Amirmann        1         5     100   20    Wizard  
-5          TomerM          2         5     0     12    Fighter  
+1          Amirmann        2         4     80    12    Healer  
+2          Efrat           1         4     90    20    Healer  
+3          Daniel          2         5     90    14    Ninja  
+4          Amirmann        1         5     100   20    Healer  
+5          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
@@ -1780,11 +1780,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         4     100   12    Wizard  
-2          Efrat           1         3     80    20    Wizard  
-3          Daniel          2         5     90    34    Rogue  
-4          Amirmann        1         5     100   30    Wizard  
-5          TomerM          2         5     0     12    Fighter  
+1          Amirmann        2         4     100   12    Healer  
+2          Efrat           1         3     80    20    Healer  
+3          Daniel          2         5     90    34    Ninja  
+4          Amirmann        1         5     100   30    Healer  
+5          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -1794,35 +1794,35 @@ Player Amirmann has been defeated by a Dragon.
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         3     80    30    Wizard  
-2          Daniel          3         5     90    38    Rogue  
-3          Amirmann        1         5     100   40    Wizard  
-4          Amirmann        2         4     0     12    Wizard  
-5          TomerM          2         5     0     12    Fighter  
+1          Efrat           1         3     80    30    Healer  
+2          Daniel          3         5     90    38    Ninja  
+3          Amirmann        1         5     100   40    Healer  
+4          Amirmann        2         4     0     12    Healer  
+5          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         2     70    30    Wizard  
-2          Daniel          4         5     90    42    Rogue  
-3          Amirmann        1         5     90    40    Wizard  
-4          Amirmann        2         4     0     12    Wizard  
-5          TomerM          2         5     0     12    Fighter  
+1          Efrat           1         2     70    30    Healer  
+2          Daniel          4         5     90    42    Ninja  
+3          Amirmann        1         5     90    40    Healer  
+4          Amirmann        2         4     0     12    Healer  
+5          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -1832,15 +1832,15 @@ Player Efrat has been defeated by a Dragon.
 Start of Daniel's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     80    42    Rogue  
-2          Amirmann        1         4     80    40    Wizard  
-3          Efrat           1         2     0     30    Wizard  
-4          Amirmann        2         4     0     12    Wizard  
-5          TomerM          2         5     0     12    Fighter  
+1          Daniel          4         5     80    42    Ninja  
+2          Amirmann        1         4     80    40    Healer  
+3          Efrat           1         2     0     30    Healer  
+4          Amirmann        2         4     0     12    Healer  
+5          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -1855,15 +1855,15 @@ Daniel has 42 coins
 Daniel has paid 0 coins 
 Safe travels!
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     80    42    Rogue  
-2          Amirmann        1         3     70    40    Wizard  
-3          Efrat           1         2     0     30    Wizard  
-4          Amirmann        2         4     0     12    Wizard  
-5          TomerM          2         5     0     12    Fighter  
+1          Daniel          4         5     80    42    Ninja  
+2          Amirmann        1         3     70    40    Healer  
+3          Efrat           1         2     0     30    Healer  
+4          Amirmann        2         4     0     12    Healer  
+5          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -1875,11 +1875,11 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     80    62    Rogue  
-2          Amirmann        1         3     0     40    Wizard  
-3          Efrat           1         2     0     30    Wizard  
-4          Amirmann        2         4     0     12    Wizard  
-5          TomerM          2         5     0     12    Fighter  
+1          Daniel          4         5     80    62    Ninja  
+2          Amirmann        1         3     0     40    Healer  
+3          Efrat           1         2     0     30    Healer  
+4          Amirmann        2         4     0     12    Healer  
+5          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -1889,11 +1889,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     80    62    Rogue  
-2          Amirmann        1         3     0     40    Wizard  
-3          Efrat           1         2     0     30    Wizard  
-4          Amirmann        2         4     0     12    Wizard  
-5          TomerM          2         5     0     12    Fighter  
+1          Daniel          4         5     80    62    Ninja  
+2          Amirmann        1         3     0     40    Healer  
+3          Efrat           1         2     0     30    Healer  
+4          Amirmann        2         4     0     12    Healer  
+5          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -1903,39 +1903,39 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     70    62    Rogue  
-2          Amirmann        1         3     0     40    Wizard  
-3          Efrat           1         2     0     30    Wizard  
-4          Amirmann        2         4     0     12    Wizard  
-5          TomerM          2         5     0     12    Fighter  
+1          Daniel          4         5     70    62    Ninja  
+2          Amirmann        1         3     0     40    Healer  
+3          Efrat           1         2     0     30    Healer  
+4          Amirmann        2         4     0     12    Healer  
+5          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     70    66    Rogue  
-2          Amirmann        1         3     0     40    Wizard  
-3          Efrat           1         2     0     30    Wizard  
-4          Amirmann        2         4     0     12    Wizard  
-5          TomerM          2         5     0     12    Fighter  
+1          Daniel          5         5     70    66    Ninja  
+2          Amirmann        1         3     0     40    Healer  
+3          Efrat           1         2     0     30    Healer  
+4          Amirmann        2         4     0     12    Healer  
+5          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         5     70    70    Rogue  
-2          Amirmann        1         3     0     40    Wizard  
-3          Efrat           1         2     0     30    Wizard  
-4          Amirmann        2         4     0     12    Wizard  
-5          TomerM          2         5     0     12    Fighter  
+1          Daniel          6         5     70    70    Ninja  
+2          Amirmann        1         3     0     40    Healer  
+3          Efrat           1         2     0     30    Healer  
+4          Amirmann        2         4     0     12    Healer  
+5          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -1946,8 +1946,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         5     0     70    Rogue  
-2          Amirmann        1         3     0     40    Wizard  
-3          Efrat           1         2     0     30    Wizard  
-4          Amirmann        2         4     0     12    Wizard  
-5          TomerM          2         5     0     12    Fighter  
+1          Daniel          6         5     0     70    Ninja  
+2          Amirmann        1         3     0     40    Healer  
+3          Efrat           1         2     0     30    Healer  
+4          Amirmann        2         4     0     12    Healer  
+5          TomerM          2         5     0     12    Warrior  

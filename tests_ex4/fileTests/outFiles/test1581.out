@@ -700,12 +700,12 @@ Start of round 1:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Fighter  
-2          TomerM          1         5     100   10    Wizard  
+1          Amirmann        1         5     100   20    Warrior  
+2          TomerM          1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -724,8 +724,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   15    Fighter  
-2          TomerM          1         5     100   20    Wizard  
+1          Amirmann        1         5     100   15    Warrior  
+2          TomerM          1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -737,8 +737,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    20    Wizard  
-2          Amirmann        1         5     0     15    Fighter  
+1          TomerM          1         5     90    20    Healer  
+2          Amirmann        1         5     0     15    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -749,5 +749,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     0     20    Wizard  
-2          Amirmann        1         5     0     15    Fighter  
+1          TomerM          1         5     0     20    Healer  
+2          Amirmann        1         5     0     15    Warrior  

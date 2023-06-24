@@ -209,21 +209,21 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         6     100   0     Fighter  
-2          Daniel          1         5     100   20    Fighter  
+1          Daniel          1         6     100   0     Warrior  
+2          Daniel          1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     100   2     Fighter  
-2          Daniel          1         5     100   20    Fighter  
+1          Daniel          2         6     100   2     Warrior  
+2          Daniel          1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -235,8 +235,8 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     100   2     Fighter  
-2          Daniel          1         5     0     20    Fighter  
+1          Daniel          2         6     100   2     Warrior  
+2          Daniel          1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -246,19 +246,19 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     100   2     Fighter  
-2          Daniel          1         5     0     20    Fighter  
+1          Daniel          2         6     100   2     Warrior  
+2          Daniel          1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     100   4     Fighter  
-2          Daniel          1         5     0     20    Fighter  
+1          Daniel          3         6     100   4     Warrior  
+2          Daniel          1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -268,8 +268,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     100   4     Fighter  
-2          Daniel          1         5     0     20    Fighter  
+1          Daniel          3         6     100   4     Warrior  
+2          Daniel          1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -279,19 +279,19 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     100   4     Fighter  
-2          Daniel          1         5     0     20    Fighter  
+1          Daniel          3         6     100   4     Warrior  
+2          Daniel          1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         6     100   6     Fighter  
-2          Daniel          1         5     0     20    Fighter  
+1          Daniel          4         6     100   6     Warrior  
+2          Daniel          1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -302,5 +302,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         6     0     6     Fighter  
-2          Daniel          1         5     0     20    Fighter  
+1          Daniel          4         6     0     6     Warrior  
+2          Daniel          1         5     0     20    Warrior  

@@ -711,11 +711,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   20    Wizard  
-2          Omerz           1         5     100   20    Wizard  
-3          TomerM          1         5     100   30    Rogue  
-4          TomerM          1         5     100   30    Rogue  
-5          TomerM          1         5     100   10    Fighter  
+1          GalLalush       1         5     100   20    Healer  
+2          Omerz           1         5     100   20    Healer  
+3          TomerM          1         5     100   30    Ninja  
+4          TomerM          1         5     100   30    Ninja  
+5          TomerM          1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -725,25 +725,25 @@ This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    20    Wizard  
-2          TomerM          2         5     100   34    Rogue  
-3          TomerM          1         5     100   30    Rogue  
-4          TomerM          2         5     100   12    Fighter  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         5     90    20    Healer  
+2          TomerM          2         5     100   34    Ninja  
+3          TomerM          1         5     100   30    Ninja  
+4          TomerM          2         5     100   12    Warrior  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of TomerM's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of TomerM's turn: 
@@ -753,11 +753,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     80    20    Wizard  
-2          TomerM          2         5     100   34    Rogue  
-3          TomerM          1         5     100   30    Rogue  
-4          TomerM          2         5     100   22    Fighter  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         4     80    20    Healer  
+2          TomerM          2         5     100   34    Ninja  
+3          TomerM          1         5     100   30    Ninja  
+4          TomerM          2         5     100   22    Warrior  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -786,15 +786,15 @@ You have entered an invalid input. Please try again.
 TomerM has paid 5 coins for 1 health potion!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     82    15    Wizard  
-2          TomerM          2         5     90    34    Rogue  
-3          TomerM          1         5     100   25    Rogue  
-4          TomerM          3         5     100   24    Fighter  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         4     82    15    Healer  
+2          TomerM          2         5     90    34    Ninja  
+3          TomerM          1         5     100   25    Ninja  
+4          TomerM          3         5     100   24    Warrior  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -802,45 +802,45 @@ Start of round 5:
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     72    15    Wizard  
-2          TomerM          2         4     80    34    Rogue  
-3          TomerM          2         5     100   29    Rogue  
-4          TomerM          3         5     100   24    Fighter  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         4     72    15    Healer  
+2          TomerM          2         4     80    34    Ninja  
+3          TomerM          2         5     100   29    Ninja  
+4          TomerM          3         5     100   24    Warrior  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 6:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         3     62    15    Wizard  
-2          TomerM          2         4     80    54    Rogue  
-3          TomerM          2         4     90    29    Rogue  
-4          TomerM          4         5     100   26    Fighter  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         3     62    15    Healer  
+2          TomerM          2         4     80    54    Ninja  
+3          TomerM          2         4     90    29    Ninja  
+4          TomerM          4         5     100   26    Warrior  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of TomerM's turn: 
@@ -850,17 +850,17 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         3     82    15    Wizard  
-2          TomerM          2         4     80    54    Rogue  
-3          TomerM          2         4     90    29    Rogue  
-4          TomerM          4         5     100   26    Fighter  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         3     82    15    Healer  
+2          TomerM          2         4     80    54    Ninja  
+3          TomerM          2         4     90    29    Ninja  
+4          TomerM          4         5     100   26    Warrior  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of TomerM's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of TomerM's turn: 
@@ -870,11 +870,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     72    15    Wizard  
-2          TomerM          2         4     80    54    Rogue  
-3          TomerM          4         5     100   26    Fighter  
-4          TomerM          2         4     0     29    Rogue  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         2     72    15    Healer  
+2          TomerM          2         4     80    54    Ninja  
+3          TomerM          4         5     100   26    Warrior  
+4          TomerM          2         4     0     29    Ninja  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -884,21 +884,21 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     72    25    Wizard  
-2          TomerM          2         4     70    54    Rogue  
-3          TomerM          5         5     100   28    Fighter  
-4          TomerM          2         4     0     29    Rogue  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         2     72    25    Healer  
+2          TomerM          2         4     70    54    Ninja  
+3          TomerM          5         5     100   28    Warrior  
+4          TomerM          2         4     0     29    Ninja  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 10:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of TomerM's turn: 
@@ -906,43 +906,43 @@ Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     92    25    Wizard  
-2          TomerM          2         4     60    54    Rogue  
-3          TomerM          5         5     0     28    Fighter  
-4          TomerM          2         4     0     29    Rogue  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         2     92    25    Healer  
+2          TomerM          2         4     60    54    Ninja  
+3          TomerM          5         5     0     28    Warrior  
+4          TomerM          2         4     0     29    Ninja  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 11:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of TomerM's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         1     82    25    Wizard  
-2          TomerM          2         4     60    54    Rogue  
-3          TomerM          5         5     0     28    Fighter  
-4          TomerM          2         4     0     29    Rogue  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         1     82    25    Healer  
+2          TomerM          2         4     60    54    Ninja  
+3          TomerM          5         5     0     28    Warrior  
+4          TomerM          2         4     0     29    Ninja  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 12:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         0     72    25    Wizard  
-2          TomerM          2         4     50    54    Rogue  
-3          TomerM          5         5     0     28    Fighter  
-4          TomerM          2         4     0     29    Rogue  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         0     72    25    Healer  
+2          TomerM          2         4     50    54    Ninja  
+3          TomerM          5         5     0     28    Warrior  
+4          TomerM          2         4     0     29    Ninja  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -954,17 +954,17 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         0     72    35    Wizard  
-2          TomerM          2         4     50    54    Rogue  
-3          TomerM          5         5     0     28    Fighter  
-4          TomerM          2         4     0     29    Rogue  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         0     72    35    Healer  
+2          TomerM          2         4     50    54    Ninja  
+3          TomerM          5         5     0     28    Warrior  
+4          TomerM          2         4     0     29    Ninja  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 14:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Goblin.
+Player GalLalush has been defeated by a Gremlin.
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -977,27 +977,27 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         0     62    35    Wizard  
-2          TomerM          2         4     51    49    Rogue  
-3          TomerM          5         5     0     28    Fighter  
-4          TomerM          2         4     0     29    Rogue  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         0     62    35    Healer  
+2          TomerM          2         4     51    49    Ninja  
+3          TomerM          5         5     0     28    Warrior  
+4          TomerM          2         4     0     29    Ninja  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 15:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         0     52    35    Wizard  
-2          TomerM          2         3     41    49    Rogue  
-3          TomerM          5         5     0     28    Fighter  
-4          TomerM          2         4     0     29    Rogue  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         0     52    35    Healer  
+2          TomerM          2         3     41    49    Ninja  
+3          TomerM          5         5     0     28    Warrior  
+4          TomerM          2         4     0     29    Ninja  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -1017,11 +1017,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         0     42    35    Wizard  
-2          TomerM          2         3     41    49    Rogue  
-3          TomerM          5         5     0     28    Fighter  
-4          TomerM          2         4     0     29    Rogue  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         0     42    35    Healer  
+2          TomerM          2         3     41    49    Ninja  
+3          TomerM          5         5     0     28    Warrior  
+4          TomerM          2         4     0     29    Ninja  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -1041,11 +1041,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         0     42    35    Wizard  
-2          TomerM          2         3     41    49    Rogue  
-3          TomerM          5         5     0     28    Fighter  
-4          TomerM          2         4     0     29    Rogue  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         0     42    35    Healer  
+2          TomerM          2         3     41    49    Ninja  
+3          TomerM          5         5     0     28    Warrior  
+4          TomerM          2         4     0     29    Ninja  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 18:
@@ -1057,25 +1057,25 @@ Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         0     42    45    Wizard  
-2          TomerM          2         3     0     49    Rogue  
-3          TomerM          5         5     0     28    Fighter  
-4          TomerM          2         4     0     29    Rogue  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         0     42    45    Healer  
+2          TomerM          2         3     0     49    Ninja  
+3          TomerM          5         5     0     28    Warrior  
+4          TomerM          2         4     0     29    Ninja  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 19:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         0     32    45    Wizard  
-2          TomerM          2         3     0     49    Rogue  
-3          TomerM          5         5     0     28    Fighter  
-4          TomerM          2         4     0     29    Rogue  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         0     32    45    Healer  
+2          TomerM          2         3     0     49    Ninja  
+3          TomerM          5         5     0     28    Warrior  
+4          TomerM          2         4     0     29    Ninja  
+5          Omerz           1         5     0     20    Healer  
 
 -------------------------------------------
 Start of round 20:
@@ -1086,8 +1086,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         0     0     45    Wizard  
-2          TomerM          2         3     0     49    Rogue  
-3          TomerM          5         5     0     28    Fighter  
-4          TomerM          2         4     0     29    Rogue  
-5          Omerz           1         5     0     20    Wizard  
+1          GalLalush       1         0     0     45    Healer  
+2          TomerM          2         3     0     49    Ninja  
+3          TomerM          5         5     0     28    Warrior  
+4          TomerM          2         4     0     29    Ninja  
+5          Omerz           1         5     0     20    Healer  

@@ -273,8 +273,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Wizard  
-2          Amirmann        1         5     100   10    Fighter  
+1          TomerM          1         5     90    10    Healer  
+2          Amirmann        1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -282,38 +282,38 @@ Start of round 2:
 Start of TomerM's turn: 
 You fell into the trap, lose 10 health points.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     80    10    Wizard  
-2          Amirmann        2         5     100   12    Fighter  
+1          TomerM          1         5     80    10    Healer  
+2          Amirmann        2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of Amirmann's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     70    10    Wizard  
-2          Amirmann        2         5     100   12    Fighter  
+1          TomerM          1         4     70    10    Healer  
+2          Amirmann        2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Goblin.
+Player TomerM has been defeated by a Gremlin.
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     60    10    Wizard  
-2          Amirmann        2         5     100   22    Fighter  
+1          TomerM          1         4     60    10    Healer  
+2          Amirmann        2         5     100   22    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -334,30 +334,30 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     62    5     Wizard  
-2          Amirmann        2         5     0     22    Fighter  
+1          TomerM          1         4     62    5     Healer  
+2          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 6:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     82    5     Wizard  
-2          Amirmann        2         5     0     22    Fighter  
+1          TomerM          1         4     82    5     Healer  
+2          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     100   5     Wizard  
-2          Amirmann        2         5     0     22    Fighter  
+1          TomerM          1         4     100   5     Healer  
+2          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -375,19 +375,19 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     100   5     Wizard  
-2          Amirmann        2         5     0     22    Fighter  
+1          TomerM          1         4     100   5     Healer  
+2          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 9:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     100   5     Wizard  
-2          Amirmann        2         5     0     22    Fighter  
+1          TomerM          1         4     100   5     Healer  
+2          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -397,19 +397,19 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     90    5     Wizard  
-2          Amirmann        2         5     0     22    Fighter  
+1          TomerM          1         4     90    5     Healer  
+2          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 11:
 
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Goblin.
+Player TomerM has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     80    5     Wizard  
-2          Amirmann        2         5     0     22    Fighter  
+1          TomerM          1         4     80    5     Healer  
+2          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -419,8 +419,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     70    5     Wizard  
-2          Amirmann        2         5     0     22    Fighter  
+1          TomerM          1         4     70    5     Healer  
+2          Amirmann        2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -431,5 +431,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     0     5     Wizard  
-2          Amirmann        2         5     0     22    Fighter  
+1          TomerM          1         4     0     5     Healer  
+2          Amirmann        2         5     0     22    Warrior  

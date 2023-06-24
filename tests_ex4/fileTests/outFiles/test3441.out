@@ -563,7 +563,7 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -596,16 +596,16 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   14    Rogue  
-2          Omerz           1         5     100   10    Fighter  
-3          Amirmann        1         6     100   0     Wizard  
-4          Efrat           1         5     100   5     Fighter  
+1          TomerM          2         5     100   14    Ninja  
+2          Omerz           1         5     100   10    Warrior  
+3          Amirmann        1         6     100   0     Healer  
+4          Efrat           1         5     100   5     Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 Nothing happened.
 Start of Amirmann's turn: 
@@ -631,10 +631,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     100   18    Rogue  
-2          Omerz           1         5     100   10    Fighter  
-3          Amirmann        1         6     100   0     Wizard  
-4          Efrat           1         5     100   5     Fighter  
+1          TomerM          3         5     100   18    Ninja  
+2          Omerz           1         5     100   10    Warrior  
+3          Amirmann        1         6     100   0     Healer  
+4          Efrat           1         5     100   5     Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -644,16 +644,16 @@ Player TomerM has been defeated by a Dragon.
 Start of Omerz's turn: 
 Nothing happened.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Fighter  
-2          Amirmann        2         6     100   2     Wizard  
-3          Efrat           2         5     100   7     Fighter  
-4          TomerM          3         5     0     18    Rogue  
+1          Omerz           1         5     100   10    Warrior  
+2          Amirmann        2         6     100   2     Healer  
+3          Efrat           2         5     100   7     Warrior  
+4          TomerM          3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -667,10 +667,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Fighter  
-2          Amirmann        2         6     90    2     Wizard  
-3          Efrat           2         5     90    7     Fighter  
-4          TomerM          3         5     0     18    Rogue  
+1          Omerz           1         5     100   10    Warrior  
+2          Amirmann        2         6     90    2     Healer  
+3          Efrat           2         5     90    7     Warrior  
+4          TomerM          3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -687,14 +687,14 @@ Amirmann has 2 coins
 Amirmann has paid 0 coins 
 Safe travels!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     90    2     Wizard  
-2          Efrat           3         5     90    9     Fighter  
-3          Omerz           1         5     0     10    Fighter  
-4          TomerM          3         5     0     18    Rogue  
+1          Amirmann        2         6     90    2     Healer  
+2          Efrat           3         5     90    9     Warrior  
+3          Omerz           1         5     0     10    Warrior  
+4          TomerM          3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -702,27 +702,27 @@ Start of round 6:
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         5     90    11    Fighter  
-2          Amirmann        2         6     0     2     Wizard  
-3          Omerz           1         5     0     10    Fighter  
-4          TomerM          3         5     0     18    Rogue  
+1          Efrat           4         5     90    11    Warrior  
+2          Amirmann        2         6     0     2     Healer  
+3          Omerz           1         5     0     10    Warrior  
+4          TomerM          3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           5         5     90    13    Fighter  
-2          Amirmann        2         6     0     2     Wizard  
-3          Omerz           1         5     0     10    Fighter  
-4          TomerM          3         5     0     18    Rogue  
+1          Efrat           5         5     90    13    Warrior  
+2          Amirmann        2         6     0     2     Healer  
+3          Omerz           1         5     0     10    Warrior  
+4          TomerM          3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -732,10 +732,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           5         5     80    13    Fighter  
-2          Amirmann        2         6     0     2     Wizard  
-3          Omerz           1         5     0     10    Fighter  
-4          TomerM          3         5     0     18    Rogue  
+1          Efrat           5         5     80    13    Warrior  
+2          Amirmann        2         6     0     2     Healer  
+3          Omerz           1         5     0     10    Warrior  
+4          TomerM          3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -746,7 +746,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           5         5     0     13    Fighter  
-2          Amirmann        2         6     0     2     Wizard  
-3          Omerz           1         5     0     10    Fighter  
-4          TomerM          3         5     0     18    Rogue  
+1          Efrat           5         5     0     13    Warrior  
+2          Amirmann        2         6     0     2     Healer  
+3          Omerz           1         5     0     10    Warrior  
+4          TomerM          3         5     0     18    Ninja  

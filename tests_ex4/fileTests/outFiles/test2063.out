@@ -122,9 +122,9 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -140,10 +140,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Fighter  
-2          TomerM          2         5     100   12    Fighter  
-3          Efrat           1         5     100   5     Rogue  
-4          Daniel          1         5     90    10    Fighter  
+1          Efrat           2         5     100   12    Warrior  
+2          TomerM          2         5     100   12    Warrior  
+3          Efrat           1         5     100   5     Ninja  
+4          Daniel          1         5     90    10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -159,29 +159,29 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   22    Fighter  
-2          TomerM          2         5     100   12    Fighter  
-3          Efrat           1         5     100   5     Rogue  
-4          Daniel          1         5     90    10    Fighter  
+1          Efrat           2         5     100   22    Warrior  
+2          TomerM          2         5     100   12    Warrior  
+3          Efrat           1         5     100   5     Ninja  
+4          Daniel          1         5     90    10    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You fell into the trap, lose 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     100   24    Fighter  
-2          TomerM          2         5     90    12    Fighter  
-3          Efrat           2         5     100   9     Rogue  
-4          Daniel          1         5     0     10    Fighter  
+1          Efrat           3         5     100   24    Warrior  
+2          TomerM          2         5     90    12    Warrior  
+3          Efrat           2         5     100   9     Ninja  
+4          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -195,31 +195,31 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     90    24    Fighter  
-2          TomerM          2         5     80    12    Fighter  
-3          Efrat           2         5     0     9     Rogue  
-4          Daniel          1         5     0     10    Fighter  
+1          Efrat           3         5     90    24    Warrior  
+2          TomerM          2         5     80    12    Warrior  
+3          Efrat           2         5     0     9     Ninja  
+4          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         5     90    26    Fighter  
-2          TomerM          3         5     80    14    Fighter  
-3          Efrat           2         5     0     9     Rogue  
-4          Daniel          1         5     0     10    Fighter  
+1          Efrat           4         5     90    26    Warrior  
+2          TomerM          3         5     80    14    Warrior  
+3          Efrat           2         5     0     9     Ninja  
+4          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -232,10 +232,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           5         5     90    28    Fighter  
-2          TomerM          3         5     80    14    Fighter  
-3          Efrat           2         5     0     9     Rogue  
-4          Daniel          1         5     0     10    Fighter  
+1          Efrat           5         5     90    28    Warrior  
+2          TomerM          3         5     80    14    Warrior  
+3          Efrat           2         5     0     9     Ninja  
+4          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -247,25 +247,25 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           5         5     80    28    Fighter  
-2          TomerM          3         5     80    24    Fighter  
-3          Efrat           2         5     0     9     Rogue  
-4          Daniel          1         5     0     10    Fighter  
+1          Efrat           5         5     80    28    Warrior  
+2          TomerM          3         5     80    24    Warrior  
+3          Efrat           2         5     0     9     Ninja  
+4          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           6         5     80    30    Fighter  
-2          TomerM          3         5     80    34    Fighter  
-3          Efrat           2         5     0     9     Rogue  
-4          Daniel          1         5     0     10    Fighter  
+1          Efrat           6         5     80    30    Warrior  
+2          TomerM          3         5     80    34    Warrior  
+3          Efrat           2         5     0     9     Ninja  
+4          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -277,10 +277,10 @@ Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           6         5     80    30    Fighter  
-2          TomerM          3         5     0     34    Fighter  
-3          Efrat           2         5     0     9     Rogue  
-4          Daniel          1         5     0     10    Fighter  
+1          Efrat           6         5     80    30    Warrior  
+2          TomerM          3         5     0     34    Warrior  
+3          Efrat           2         5     0     9     Ninja  
+4          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -291,7 +291,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           6         5     0     30    Fighter  
-2          TomerM          3         5     0     34    Fighter  
-3          Efrat           2         5     0     9     Rogue  
-4          Daniel          1         5     0     10    Fighter  
+1          Efrat           6         5     0     30    Warrior  
+2          TomerM          3         5     0     34    Warrior  
+3          Efrat           2         5     0     9     Ninja  
+4          Daniel          1         5     0     10    Warrior  

@@ -45,12 +45,12 @@ Start of round 1:
 Start of Amirmann's turn: 
 Nothing happened.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Rogue  
-2          Daniel          2         5     100   12    Wizard  
+1          Amirmann        1         5     100   10    Ninja  
+2          Daniel          2         5     100   12    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -62,8 +62,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Rogue  
-2          Daniel          2         5     90    12    Wizard  
+1          Amirmann        1         5     100   10    Ninja  
+2          Daniel          2         5     90    12    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -75,34 +75,34 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Rogue  
-2          Daniel          2         5     90    22    Wizard  
+1          Amirmann        1         5     100   10    Ninja  
+2          Daniel          2         5     90    22    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   14    Rogue  
-2          Daniel          3         5     90    24    Wizard  
+1          Amirmann        2         5     100   14    Ninja  
+2          Daniel          3         5     90    24    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         4     90    14    Rogue  
-2          Daniel          3         5     100   24    Wizard  
+1          Amirmann        2         4     90    14    Ninja  
+2          Daniel          3         5     100   24    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -122,8 +122,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         4     91    9     Rogue  
-2          Daniel          3         5     90    24    Wizard  
+1          Amirmann        2         4     91    9     Ninja  
+2          Daniel          3         5     90    24    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -131,12 +131,12 @@ Start of round 7:
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     90    26    Wizard  
-2          Amirmann        2         4     0     9     Rogue  
+1          Daniel          4         5     90    26    Healer  
+2          Amirmann        2         4     0     9     Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -147,5 +147,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     0     26    Wizard  
-2          Amirmann        2         4     0     9     Rogue  
+1          Daniel          4         5     0     26    Healer  
+2          Amirmann        2         4     0     9     Ninja  

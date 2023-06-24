@@ -64,14 +64,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     90    10    Rogue  
-2          Amirmann        1         5     100   20    Fighter  
+1          Daniel          1         4     90    10    Ninja  
+2          Amirmann        1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -83,14 +83,14 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     90    10    Rogue  
-2          Amirmann        1         5     100   20    Fighter  
+1          Daniel          1         4     90    10    Ninja  
+2          Amirmann        1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Goblin.
+Player Daniel has been defeated by a Gremlin.
 Start of Amirmann's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -103,8 +103,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     80    10    Rogue  
-2          Amirmann        1         6     100   10    Fighter  
+1          Daniel          1         4     80    10    Ninja  
+2          Amirmann        1         6     100   10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -124,8 +124,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   5     Fighter  
-2          Daniel          1         4     0     10    Rogue  
+1          Amirmann        1         6     100   5     Warrior  
+2          Daniel          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -135,8 +135,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   5     Fighter  
-2          Daniel          1         4     0     10    Rogue  
+1          Amirmann        1         6     100   5     Warrior  
+2          Daniel          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -155,8 +155,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   5     Fighter  
-2          Daniel          1         4     0     10    Rogue  
+1          Amirmann        1         6     100   5     Warrior  
+2          Daniel          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -166,8 +166,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   5     Fighter  
-2          Daniel          1         4     0     10    Rogue  
+1          Amirmann        1         6     100   5     Warrior  
+2          Daniel          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -185,8 +185,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   5     Fighter  
-2          Daniel          1         4     0     10    Rogue  
+1          Amirmann        1         6     100   5     Warrior  
+2          Daniel          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -196,19 +196,19 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   5     Fighter  
-2          Daniel          1         4     0     10    Rogue  
+1          Amirmann        1         6     100   5     Warrior  
+2          Daniel          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     100   7     Fighter  
-2          Daniel          1         4     0     10    Rogue  
+1          Amirmann        2         6     100   7     Warrior  
+2          Daniel          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -218,8 +218,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     100   7     Fighter  
-2          Daniel          1         4     0     10    Rogue  
+1          Amirmann        2         6     100   7     Warrior  
+2          Daniel          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -229,8 +229,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     100   17    Fighter  
-2          Daniel          1         4     0     10    Rogue  
+1          Amirmann        2         6     100   17    Warrior  
+2          Daniel          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -241,5 +241,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     0     17    Fighter  
-2          Daniel          1         4     0     10    Rogue  
+1          Amirmann        2         6     0     17    Warrior  
+2          Daniel          1         4     0     10    Ninja  

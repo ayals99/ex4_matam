@@ -244,23 +244,23 @@ You have entered an invalid class. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of TomerM's turn: 
 Nothing happened.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    10    Rogue  
-2          TomerM          1         5     100   10    Fighter  
-3          Daniel          1         5     100   20    Fighter  
-4          GalLalush       2         5     100   12    Wizard  
-5          Omerz           2         5     100   12    Fighter  
+1          Amirmann        1         4     90    10    Ninja  
+2          TomerM          1         5     100   10    Warrior  
+3          Daniel          1         5     100   20    Warrior  
+4          GalLalush       2         5     100   12    Healer  
+5          Omerz           2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -268,21 +268,21 @@ Start of round 2:
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 Nothing happened.
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    10    Rogue  
-2          TomerM          2         5     100   12    Fighter  
-3          Daniel          1         5     100   20    Fighter  
-4          GalLalush       2         5     100   12    Wizard  
-5          Omerz           3         5     100   14    Fighter  
+1          Amirmann        1         4     80    10    Ninja  
+2          TomerM          2         5     100   12    Warrior  
+3          Daniel          1         5     100   20    Warrior  
+4          GalLalush       2         5     100   12    Healer  
+5          Omerz           3         5     100   14    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -290,7 +290,7 @@ Start of round 3:
 Start of Amirmann's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 Start of GalLalush's turn: 
@@ -300,11 +300,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    10    Rogue  
-2          TomerM          3         5     100   14    Fighter  
-3          Daniel          1         5     90    20    Fighter  
-4          GalLalush       2         5     100   22    Wizard  
-5          Omerz           3         5     100   14    Fighter  
+1          Amirmann        1         4     80    10    Ninja  
+2          TomerM          3         5     100   14    Warrior  
+3          Daniel          1         5     90    20    Warrior  
+4          GalLalush       2         5     100   22    Healer  
+5          Omerz           3         5     100   14    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -314,39 +314,39 @@ Player Amirmann has been defeated by a Dragon.
 Start of TomerM's turn: 
 You've won the scuffle without losing any health points.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     100   14    Fighter  
-2          Daniel          2         5     90    22    Fighter  
-3          GalLalush       2         5     100   22    Wizard  
-4          Omerz           3         5     100   24    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          TomerM          3         5     100   14    Warrior  
+2          Daniel          2         5     90    22    Warrior  
+3          GalLalush       2         5     100   22    Healer  
+4          Omerz           3         5     100   24    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     100   16    Fighter  
-2          Daniel          3         5     90    24    Fighter  
-3          GalLalush       2         5     90    22    Wizard  
-4          Omerz           4         5     100   26    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          TomerM          4         5     100   16    Warrior  
+2          Daniel          3         5     90    24    Warrior  
+3          GalLalush       2         5     90    22    Healer  
+4          Omerz           4         5     100   26    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -356,23 +356,23 @@ Nothing happened.
 Start of Daniel's turn: 
 Nothing happened.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     100   16    Fighter  
-2          Daniel          3         5     90    24    Fighter  
-3          GalLalush       3         5     90    24    Wizard  
-4          Omerz           4         5     90    26    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          TomerM          4         5     100   16    Warrior  
+2          Daniel          3         5     90    24    Warrior  
+3          GalLalush       3         5     90    24    Healer  
+4          Omerz           4         5     90    26    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 Start of GalLalush's turn: 
@@ -382,11 +382,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         5     100   18    Fighter  
-2          Daniel          3         5     80    24    Fighter  
-3          GalLalush       3         5     90    34    Wizard  
-4          Omerz           4         5     90    26    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          TomerM          5         5     100   18    Warrior  
+2          Daniel          3         5     80    24    Warrior  
+3          GalLalush       3         5     90    34    Healer  
+4          Omerz           4         5     90    26    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -396,17 +396,17 @@ Player TomerM has been defeated by a Dragon.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Omerz's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     80    24    Fighter  
-2          GalLalush       3         4     80    34    Wizard  
-3          Omerz           4         5     90    26    Fighter  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          3         5     80    24    Warrior  
+2          GalLalush       3         4     80    34    Healer  
+3          Omerz           4         5     90    26    Warrior  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -414,17 +414,17 @@ Start of round 9:
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     80    34    Fighter  
-2          GalLalush       4         4     80    36    Wizard  
-3          Omerz           5         5     90    28    Fighter  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          3         5     80    34    Warrior  
+2          GalLalush       4         4     80    36    Healer  
+3          Omerz           5         5     90    28    Warrior  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -432,17 +432,17 @@ Start of round 10:
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Omerz's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     80    34    Fighter  
-2          GalLalush       4         3     70    36    Wizard  
-3          Omerz           5         5     90    28    Fighter  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          3         5     80    34    Warrior  
+2          GalLalush       4         3     70    36    Healer  
+3          Omerz           5         5     90    28    Warrior  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -450,23 +450,23 @@ Start of round 11:
 Start of Daniel's turn: 
 Nothing happened.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     80    34    Fighter  
-2          GalLalush       5         3     70    38    Wizard  
-3          Omerz           5         5     80    28    Fighter  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          3         5     80    34    Warrior  
+2          GalLalush       5         3     70    38    Healer  
+3          Omerz           5         5     80    28    Warrior  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 Start of Omerz's turn: 
@@ -474,11 +474,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     80    36    Fighter  
-2          GalLalush       5         3     60    38    Wizard  
-3          Omerz           5         5     80    38    Fighter  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          4         5     80    36    Warrior  
+2          GalLalush       5         3     60    38    Healer  
+3          Omerz           5         5     80    38    Warrior  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -492,27 +492,27 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     80    36    Fighter  
-2          Omerz           5         5     80    38    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          4         5     80    36    Warrior  
+2          Omerz           5         5     80    38    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     80    38    Fighter  
-2          Omerz           5         5     80    38    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          5         5     80    38    Warrior  
+2          Omerz           5         5     80    38    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -520,47 +520,47 @@ Start of round 15:
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         5     80    48    Fighter  
-2          Omerz           6         5     80    40    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          5         5     80    48    Warrior  
+2          Omerz           6         5     80    40    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         5     80    50    Fighter  
-2          Omerz           6         5     80    40    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          6         5     80    50    Warrior  
+2          Omerz           6         5     80    40    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 17:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          7         5     80    52    Fighter  
-2          Omerz           6         5     80    40    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          7         5     80    52    Warrior  
+2          Omerz           6         5     80    40    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 18:
@@ -568,15 +568,15 @@ Start of round 18:
 Start of Daniel's turn: 
 Nothing happened.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          7         5     80    52    Fighter  
-2          Omerz           7         5     80    42    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          7         5     80    52    Warrior  
+2          Omerz           7         5     80    42    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 19:
@@ -584,15 +584,15 @@ Start of round 19:
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          7         5     70    52    Fighter  
-2          Omerz           8         5     80    44    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          7         5     70    52    Warrior  
+2          Omerz           8         5     80    44    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 20:
@@ -604,11 +604,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          7         5     60    52    Fighter  
-2          Omerz           8         5     80    54    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          7         5     60    52    Warrior  
+2          Omerz           8         5     80    54    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 21:
@@ -620,11 +620,11 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          7         5     60    52    Fighter  
-2          Omerz           8         5     0     54    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          7         5     60    52    Warrior  
+2          Omerz           8         5     0     54    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 22:
@@ -634,25 +634,25 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          7         5     60    52    Fighter  
-2          Omerz           8         5     0     54    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          7         5     60    52    Warrior  
+2          Omerz           8         5     0     54    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 23:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          8         5     60    54    Fighter  
-2          Omerz           8         5     0     54    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          8         5     60    54    Warrior  
+2          Omerz           8         5     0     54    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 24:
@@ -662,11 +662,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          8         5     60    54    Fighter  
-2          Omerz           8         5     0     54    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          8         5     60    54    Warrior  
+2          Omerz           8         5     0     54    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 25:
@@ -676,37 +676,37 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          8         5     60    64    Fighter  
-2          Omerz           8         5     0     54    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          8         5     60    64    Warrior  
+2          Omerz           8         5     0     54    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 26:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          9         5     60    66    Fighter  
-2          Omerz           8         5     0     54    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          9         5     60    66    Warrior  
+2          Omerz           8         5     0     54    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 27:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        5     60    68    Fighter  
-2          Omerz           8         5     0     54    Fighter  
-3          GalLalush       5         3     0     38    Wizard  
-4          TomerM          5         5     0     18    Fighter  
-5          Amirmann        1         4     0     10    Rogue  
+1          Daniel          10        5     60    68    Warrior  
+2          Omerz           8         5     0     54    Warrior  
+3          GalLalush       5         3     0     38    Healer  
+4          TomerM          5         5     0     18    Warrior  
+5          Amirmann        1         4     0     10    Ninja  

@@ -325,7 +325,7 @@ Nothing happened.
 Start of GalLalush's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -339,10 +339,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Rogue  
-2          GalLalush       1         5     100   10    Rogue  
-3          Daniel          2         5     100   14    Rogue  
-4          Daniel          1         5     100   10    Wizard  
+1          Amirmann        1         5     100   10    Ninja  
+2          GalLalush       1         5     100   10    Ninja  
+3          Daniel          2         5     100   14    Ninja  
+4          Daniel          1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -358,29 +358,29 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Rogue  
-2          GalLalush       1         5     100   10    Rogue  
-3          Daniel          2         5     100   34    Rogue  
-4          Daniel          1         5     90    10    Wizard  
+1          Amirmann        1         5     100   10    Ninja  
+2          GalLalush       1         5     100   10    Ninja  
+3          Daniel          2         5     100   34    Ninja  
+4          Daniel          1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    10    Rogue  
-2          GalLalush       1         5     90    10    Rogue  
-3          Daniel          2         5     100   34    Rogue  
-4          Daniel          1         5     100   10    Wizard  
+1          Amirmann        1         4     90    10    Ninja  
+2          GalLalush       1         5     90    10    Ninja  
+3          Daniel          2         5     100   34    Ninja  
+4          Daniel          1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -405,10 +405,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          Daniel          2         5     100   29    Rogue  
-3          Daniel          1         5     90    10    Wizard  
-4          Amirmann        1         4     0     10    Rogue  
+1          GalLalush       1         5     90    10    Ninja  
+2          Daniel          2         5     100   29    Ninja  
+3          Daniel          1         5     90    10    Healer  
+4          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -422,10 +422,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          Daniel          1         5     80    10    Wizard  
-3          Daniel          2         5     0     29    Rogue  
-4          Amirmann        1         4     0     10    Rogue  
+1          GalLalush       1         5     90    10    Ninja  
+2          Daniel          1         5     80    10    Healer  
+3          Daniel          2         5     0     29    Ninja  
+4          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -437,36 +437,36 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     80    20    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          Daniel          2         5     0     29    Rogue  
-4          Amirmann        1         4     0     10    Rogue  
+1          Daniel          1         5     80    20    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          Daniel          2         5     0     29    Ninja  
+4          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     80    22    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          Daniel          2         5     0     29    Rogue  
-4          Amirmann        1         4     0     10    Rogue  
+1          Daniel          2         5     80    22    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          Daniel          2         5     0     29    Ninja  
+4          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     80    24    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          Daniel          2         5     0     29    Rogue  
-4          Amirmann        1         4     0     10    Rogue  
+1          Daniel          3         5     80    24    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          Daniel          2         5     0     29    Ninja  
+4          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -476,10 +476,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     70    24    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          Daniel          2         5     0     29    Rogue  
-4          Amirmann        1         4     0     10    Rogue  
+1          Daniel          3         5     70    24    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          Daniel          2         5     0     29    Ninja  
+4          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -498,10 +498,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     72    19    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          Daniel          2         5     0     29    Rogue  
-4          Amirmann        1         4     0     10    Rogue  
+1          Daniel          3         5     72    19    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          Daniel          2         5     0     29    Ninja  
+4          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -511,10 +511,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     72    29    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          Daniel          2         5     0     29    Rogue  
-4          Amirmann        1         4     0     10    Rogue  
+1          Daniel          3         5     72    29    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          Daniel          2         5     0     29    Ninja  
+4          Amirmann        1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -525,7 +525,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     0     29    Wizard  
-2          GalLalush       1         5     0     10    Rogue  
-3          Daniel          2         5     0     29    Rogue  
-4          Amirmann        1         4     0     10    Rogue  
+1          Daniel          3         5     0     29    Healer  
+2          GalLalush       1         5     0     10    Ninja  
+3          Daniel          2         5     0     29    Ninja  
+4          Amirmann        1         4     0     10    Ninja  

@@ -150,9 +150,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   10    Fighter  
-2          TomerM          1         5     90    10    Wizard  
-3          Omerz           1         5     100   10    Fighter  
+1          GalLalush       1         5     100   10    Warrior  
+2          TomerM          1         5     90    10    Healer  
+3          Omerz           1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -173,9 +173,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   5     Fighter  
-2          TomerM          1         5     80    10    Wizard  
-3          Omerz           1         5     90    10    Fighter  
+1          GalLalush       1         5     100   5     Warrior  
+2          TomerM          1         5     80    10    Healer  
+3          Omerz           1         5     90    10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -192,15 +192,15 @@ You dont have enough coins for this purchase. Please try again.
 GalLalush has paid 0 coins for 1 force boost!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   5     Fighter  
-2          TomerM          2         5     80    12    Wizard  
-3          Omerz           1         5     90    10    Fighter  
+1          GalLalush       1         5     100   5     Warrior  
+2          TomerM          2         5     80    12    Healer  
+3          Omerz           1         5     90    10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -217,15 +217,15 @@ You dont have enough coins for this purchase. Please try again.
 GalLalush has paid 0 coins for 1 force boost!
 Safe travels!
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   5     Fighter  
-2          TomerM          2         5     100   12    Wizard  
-3          Omerz           1         5     90    10    Fighter  
+1          GalLalush       1         5     100   5     Warrior  
+2          TomerM          2         5     100   12    Healer  
+3          Omerz           1         5     90    10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -247,9 +247,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   22    Wizard  
-2          Omerz           1         5     91    5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          2         5     100   22    Healer  
+2          Omerz           1         5     91    5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -261,9 +261,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    22    Wizard  
-2          Omerz           1         5     91    5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          2         5     90    22    Healer  
+2          Omerz           1         5     91    5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -275,9 +275,9 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     80    22    Wizard  
-2          Omerz           1         5     0     5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          2         5     80    22    Healer  
+2          Omerz           1         5     0     5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -287,9 +287,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     70    22    Wizard  
-2          Omerz           1         5     0     5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          2         5     70    22    Healer  
+2          Omerz           1         5     0     5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -299,21 +299,21 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     70    32    Wizard  
-2          Omerz           1         5     0     5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          2         5     70    32    Healer  
+2          Omerz           1         5     0     5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 10:
 
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         4     60    32    Wizard  
-2          Omerz           1         5     0     5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          2         4     60    32    Healer  
+2          Omerz           1         5     0     5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -323,9 +323,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         4     50    32    Wizard  
-2          Omerz           1         5     0     5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          2         4     50    32    Healer  
+2          Omerz           1         5     0     5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -335,9 +335,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         4     40    32    Wizard  
-2          Omerz           1         5     0     5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          2         4     40    32    Healer  
+2          Omerz           1         5     0     5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -347,9 +347,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         4     30    32    Wizard  
-2          Omerz           1         5     0     5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          2         4     30    32    Healer  
+2          Omerz           1         5     0     5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -366,9 +366,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         4     30    32    Wizard  
-2          Omerz           1         5     0     5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          2         4     30    32    Healer  
+2          Omerz           1         5     0     5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 15:
@@ -378,9 +378,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         4     20    32    Wizard  
-2          Omerz           1         5     0     5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          2         4     20    32    Healer  
+2          Omerz           1         5     0     5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -390,9 +390,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         4     10    32    Wizard  
-2          Omerz           1         5     0     5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          2         4     10    32    Healer  
+2          Omerz           1         5     0     5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 17:
@@ -409,21 +409,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     10    22    Wizard  
-2          Omerz           1         5     0     5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          2         5     10    22    Healer  
+2          Omerz           1         5     0     5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 18:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     10    24    Wizard  
-2          Omerz           1         5     0     5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          3         5     10    24    Healer  
+2          Omerz           1         5     0     5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 19:
@@ -434,6 +434,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     0     24    Wizard  
-2          Omerz           1         5     0     5     Fighter  
-3          GalLalush       1         5     0     5     Fighter  
+1          TomerM          3         5     0     24    Healer  
+2          Omerz           1         5     0     5     Warrior  
+3          GalLalush       1         5     0     5     Warrior  

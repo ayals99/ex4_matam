@@ -248,12 +248,12 @@ Start of round 1:
 Start of Amirmann's turn: 
 Nothing happened.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Fighter  
-2          Amirmann        2         5     100   14    Rogue  
+1          Amirmann        1         5     100   10    Warrior  
+2          Amirmann        2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -273,8 +273,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Fighter  
-2          Amirmann        2         5     100   14    Rogue  
+1          Amirmann        1         5     100   10    Warrior  
+2          Amirmann        2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -286,8 +286,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Fighter  
-2          Amirmann        2         5     100   14    Rogue  
+1          Amirmann        1         5     100   20    Warrior  
+2          Amirmann        2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -307,8 +307,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Fighter  
-2          Amirmann        2         5     90    14    Rogue  
+1          Amirmann        1         5     100   20    Warrior  
+2          Amirmann        2         5     90    14    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -323,12 +323,12 @@ Amirmann has 20 coins
 Amirmann has paid 0 coins 
 Safe travels!
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Fighter  
-2          Amirmann        3         5     90    18    Rogue  
+1          Amirmann        1         5     100   20    Warrior  
+2          Amirmann        3         5     90    18    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -340,8 +340,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     90    18    Rogue  
-2          Amirmann        1         5     0     20    Fighter  
+1          Amirmann        3         5     90    18    Ninja  
+2          Amirmann        1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -351,8 +351,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     90    38    Rogue  
-2          Amirmann        1         5     0     20    Fighter  
+1          Amirmann        3         5     90    38    Ninja  
+2          Amirmann        1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -362,8 +362,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     80    38    Rogue  
-2          Amirmann        1         5     0     20    Fighter  
+1          Amirmann        3         5     80    38    Ninja  
+2          Amirmann        1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -373,8 +373,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     80    58    Rogue  
-2          Amirmann        1         5     0     20    Fighter  
+1          Amirmann        3         5     80    58    Ninja  
+2          Amirmann        1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -385,5 +385,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     0     58    Rogue  
-2          Amirmann        1         5     0     20    Fighter  
+1          Amirmann        3         5     0     58    Ninja  
+2          Amirmann        1         5     0     20    Warrior  

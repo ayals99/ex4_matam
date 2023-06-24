@@ -394,7 +394,7 @@ Start of round 1:
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 Start of Efrat's turn: 
@@ -402,10 +402,10 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     90    10    Wizard  
-2          Omerz           1         5     90    10    Wizard  
-3          Efrat           1         5     100   10    Rogue  
-4          Efrat           1         5     0     10    Wizard  
+1          GalLalush       1         4     90    10    Healer  
+2          Omerz           1         5     90    10    Healer  
+3          Efrat           1         5     100   10    Ninja  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -413,16 +413,16 @@ Start of round 2:
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     80    10    Wizard  
-2          Omerz           1         4     80    10    Wizard  
-3          Efrat           2         5     100   14    Rogue  
-4          Efrat           1         5     0     10    Wizard  
+1          GalLalush       1         4     80    10    Healer  
+2          Omerz           1         4     80    10    Healer  
+3          Efrat           2         5     100   14    Ninja  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -438,22 +438,22 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 10 coins for 1 force boost!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     80    0     Wizard  
-2          Omerz           1         3     70    10    Wizard  
-3          Efrat           2         5     100   34    Rogue  
-4          Efrat           1         5     0     10    Wizard  
+1          GalLalush       1         5     80    0     Healer  
+2          Omerz           1         3     70    10    Healer  
+3          Efrat           2         5     100   34    Ninja  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 Start of Efrat's turn: 
@@ -470,16 +470,16 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     80    2     Wizard  
-2          Omerz           1         3     60    10    Wizard  
-3          Efrat           2         6     100   24    Rogue  
-4          Efrat           1         5     0     10    Wizard  
+1          GalLalush       2         5     80    2     Healer  
+2          Omerz           1         3     60    10    Healer  
+3          Efrat           2         6     100   24    Ninja  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of Efrat's turn: 
@@ -496,10 +496,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   2     Wizard  
-2          Efrat           2         6     100   19    Rogue  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          GalLalush       2         5     100   2     Healer  
+2          Efrat           2         6     100   19    Ninja  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -511,10 +511,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    2     Wizard  
-2          Efrat           2         6     100   39    Rogue  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          GalLalush       2         5     90    2     Healer  
+2          Efrat           2         6     100   39    Ninja  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -535,10 +535,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    12    Wizard  
-2          Efrat           2         7     100   29    Rogue  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          GalLalush       2         5     90    12    Healer  
+2          Efrat           2         7     100   29    Ninja  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -550,10 +550,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         7     100   29    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           2         7     100   29    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -563,10 +563,10 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         7     100   29    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           2         7     100   29    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -576,23 +576,23 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         7     100   29    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           2         7     100   29    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         7     100   33    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         7     100   33    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -602,10 +602,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         7     100   53    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         7     100   53    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -624,10 +624,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         7     100   48    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         7     100   48    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -644,10 +644,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         7     100   43    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         7     100   43    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -657,10 +657,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         7     100   63    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         7     100   63    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -670,10 +670,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         7     100   83    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         7     100   83    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -683,10 +683,10 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         7     100   83    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         7     100   83    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 18:
@@ -696,10 +696,10 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         7     100   83    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         7     100   83    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -709,23 +709,23 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         7     100   83    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         7     100   83    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 20:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         7     100   87    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           4         7     100   87    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 21:
@@ -735,10 +735,10 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         7     100   87    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           4         7     100   87    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 22:
@@ -755,10 +755,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         7     100   82    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           4         7     100   82    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 23:
@@ -769,7 +769,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         7     0     82    Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         3     0     10    Wizard  
-4          Efrat           1         5     0     10    Wizard  
+1          Efrat           4         7     0     82    Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         3     0     10    Healer  
+4          Efrat           1         5     0     10    Healer  

@@ -75,21 +75,21 @@ Start of round 1:
 Start of GalLalush's turn: 
 You've won the scuffle without losing any health points.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   10    Fighter  
-2          Daniel          2         5     100   12    Fighter  
-3          Efrat           1         4     90    10    Rogue  
+1          GalLalush       1         5     100   10    Warrior  
+2          Daniel          2         5     100   12    Warrior  
+3          Efrat           1         4     90    10    Ninja  
 
 -------------------------------------------
 Start of round 2:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -102,13 +102,13 @@ You have entered an invalid input. Please try again.
 Daniel has paid 0 coins 
 Safe travels!
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Goblin.
+Player Efrat has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   12    Fighter  
-2          Daniel          2         5     100   12    Fighter  
-3          Efrat           1         4     80    10    Rogue  
+1          GalLalush       2         5     100   12    Warrior  
+2          Daniel          2         5     100   12    Warrior  
+3          Efrat           1         4     80    10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -129,9 +129,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   12    Fighter  
-2          Efrat           1         4     81    5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       2         5     100   12    Warrior  
+2          Efrat           1         4     81    5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -143,9 +143,9 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   22    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       2         5     100   22    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -155,9 +155,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    22    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       2         5     90    22    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -176,9 +176,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     91    17    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       2         5     91    17    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -188,9 +188,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     91    27    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       2         5     91    27    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -200,9 +200,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     91    27    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       2         5     91    27    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -212,9 +212,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     81    27    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       2         5     81    27    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -224,9 +224,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     71    27    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       2         5     71    27    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -236,9 +236,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     71    37    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       2         5     71    37    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -248,21 +248,21 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     71    37    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       2         5     71    37    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 13:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     71    39    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       3         5     71    39    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -272,9 +272,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     71    39    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       3         5     71    39    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 15:
@@ -284,9 +284,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     71    39    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       3         5     71    39    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -296,9 +296,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     61    39    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       3         5     61    39    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 17:
@@ -308,9 +308,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     61    39    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       3         5     61    39    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 18:
@@ -320,9 +320,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     61    39    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       3         5     61    39    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 19:
@@ -341,9 +341,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     61    29    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       3         6     61    29    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 20:
@@ -353,9 +353,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     61    29    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       3         6     61    29    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 21:
@@ -366,6 +366,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     0     29    Fighter  
-2          Efrat           1         4     0     5     Rogue  
-3          Daniel          2         5     0     12    Fighter  
+1          GalLalush       3         6     0     29    Warrior  
+2          Efrat           1         4     0     5     Ninja  
+3          Daniel          2         5     0     12    Warrior  

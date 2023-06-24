@@ -134,19 +134,19 @@ You saw the trap coming from miles away, you dodged it gracefully.
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Rogue  
-2          GalLalush       1         5     90    10    Fighter  
-3          Efrat           2         5     100   12    Fighter  
-4          Efrat           2         5     100   12    Wizard  
-5          TomerM          1         5     0     10    Rogue  
+1          Omerz           1         5     100   10    Ninja  
+2          GalLalush       1         5     90    10    Warrior  
+3          Efrat           2         5     100   12    Warrior  
+4          Efrat           2         5     100   12    Healer  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -156,17 +156,17 @@ Player Omerz has been defeated by a Dragon.
 Start of GalLalush's turn: 
 Nothing happened.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Fighter  
-2          Efrat           3         5     100   14    Fighter  
-3          Efrat           2         5     100   12    Wizard  
-4          Omerz           1         5     0     10    Rogue  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         5     90    10    Warrior  
+2          Efrat           3         5     100   14    Warrior  
+3          Efrat           2         5     100   12    Healer  
+4          Omerz           1         5     0     10    Ninja  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -189,11 +189,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Fighter  
-2          Efrat           2         6     100   2     Wizard  
-3          Efrat           3         5     0     14    Fighter  
-4          Omerz           1         5     0     10    Rogue  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         5     90    10    Warrior  
+2          Efrat           2         6     100   2     Healer  
+3          Efrat           3         5     0     14    Warrior  
+4          Omerz           1         5     0     10    Ninja  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -212,11 +212,11 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Fighter  
-2          Efrat           2         6     0     2     Wizard  
-3          Efrat           3         5     0     14    Fighter  
-4          Omerz           1         5     0     10    Rogue  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         5     90    10    Warrior  
+2          Efrat           2         6     0     2     Healer  
+3          Efrat           3         5     0     14    Warrior  
+4          Omerz           1         5     0     10    Ninja  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -226,11 +226,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    20    Fighter  
-2          Efrat           2         6     0     2     Wizard  
-3          Efrat           3         5     0     14    Fighter  
-4          Omerz           1         5     0     10    Rogue  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         5     90    20    Warrior  
+2          Efrat           2         6     0     2     Healer  
+3          Efrat           3         5     0     14    Warrior  
+4          Omerz           1         5     0     10    Ninja  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -248,11 +248,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     90    10    Fighter  
-2          Efrat           2         6     0     2     Wizard  
-3          Efrat           3         5     0     14    Fighter  
-4          Omerz           1         5     0     10    Rogue  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         6     90    10    Warrior  
+2          Efrat           2         6     0     2     Healer  
+3          Efrat           3         5     0     14    Warrior  
+4          Omerz           1         5     0     10    Ninja  
+5          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -263,8 +263,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     0     10    Fighter  
-2          Efrat           2         6     0     2     Wizard  
-3          Efrat           3         5     0     14    Fighter  
-4          Omerz           1         5     0     10    Rogue  
-5          TomerM          1         5     0     10    Rogue  
+1          GalLalush       1         6     0     10    Warrior  
+2          Efrat           2         6     0     2     Healer  
+3          Efrat           3         5     0     14    Warrior  
+4          Omerz           1         5     0     10    Ninja  
+5          TomerM          1         5     0     10    Ninja  

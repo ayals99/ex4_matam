@@ -851,25 +851,25 @@ Start of round 1:
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   20    Fighter  
-2          TomerM          2         5     100   12    Fighter  
+1          GalLalush       1         5     100   20    Warrior  
+2          TomerM          2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   22    Fighter  
-2          TomerM          2         5     0     12    Fighter  
+1          GalLalush       2         5     100   22    Warrior  
+2          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -887,8 +887,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     100   12    Fighter  
-2          TomerM          2         5     0     12    Fighter  
+1          GalLalush       2         6     100   12    Warrior  
+2          TomerM          2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -899,5 +899,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     0     12    Fighter  
-2          TomerM          2         5     0     12    Fighter  
+1          GalLalush       2         6     0     12    Warrior  
+2          TomerM          2         5     0     12    Warrior  

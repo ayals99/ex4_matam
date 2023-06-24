@@ -623,14 +623,14 @@ Safe travels!
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   10    Fighter  
-2          Daniel          2         5     100   14    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       1         5     100   10    Warrior  
+2          Daniel          2         5     100   14    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -642,25 +642,25 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   10    Fighter  
-2          Daniel          2         5     100   34    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       1         5     100   10    Warrior  
+2          Daniel          2         5     100   34    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   12    Fighter  
-2          Daniel          2         5     100   34    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       2         5     100   12    Warrior  
+2          Daniel          2         5     100   34    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -672,10 +672,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   22    Fighter  
-2          Daniel          2         5     100   34    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       2         5     100   22    Warrior  
+2          Daniel          2         5     100   34    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -683,14 +683,14 @@ Start of round 5:
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   32    Fighter  
-2          Daniel          2         4     90    34    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       2         5     100   32    Warrior  
+2          Daniel          2         4     90    34    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -702,25 +702,25 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    32    Fighter  
-2          Daniel          2         4     90    54    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       2         5     90    32    Warrior  
+2          Daniel          2         4     90    54    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     90    34    Fighter  
-2          Daniel          3         4     90    58    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       3         5     90    34    Warrior  
+2          Daniel          3         4     90    58    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -737,14 +737,14 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 0 coins 
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     90    34    Fighter  
-2          Daniel          3         3     80    58    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       3         5     90    34    Warrior  
+2          Daniel          3         3     80    58    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -756,10 +756,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     90    34    Fighter  
-2          Daniel          3         3     80    58    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       3         5     90    34    Warrior  
+2          Daniel          3         3     80    58    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -771,10 +771,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     90    44    Fighter  
-2          Daniel          3         3     80    58    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       3         5     90    44    Warrior  
+2          Daniel          3         3     80    58    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -786,10 +786,10 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     90    44    Fighter  
-2          Daniel          3         3     0     58    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       3         5     90    44    Warrior  
+2          Daniel          3         3     0     58    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -799,23 +799,23 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     90    44    Fighter  
-2          Daniel          3         3     0     58    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       3         5     90    44    Warrior  
+2          Daniel          3         3     0     58    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 13:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     90    46    Fighter  
-2          Daniel          3         3     0     58    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       4         5     90    46    Warrior  
+2          Daniel          3         3     0     58    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -825,10 +825,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     90    46    Fighter  
-2          Daniel          3         3     0     58    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       4         5     90    46    Warrior  
+2          Daniel          3         3     0     58    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 15:
@@ -839,7 +839,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     0     46    Fighter  
-2          Daniel          3         3     0     58    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Fighter  
+1          GalLalush       4         5     0     46    Warrior  
+2          Daniel          3         3     0     58    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Warrior  

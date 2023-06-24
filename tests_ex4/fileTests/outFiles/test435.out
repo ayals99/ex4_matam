@@ -491,20 +491,20 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Fighter  
-2          Daniel          1         5     100   10    Fighter  
+1          Amirmann        2         5     100   12    Warrior  
+2          Daniel          1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -519,21 +519,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   14    Fighter  
-2          Daniel          1         6     100   0     Fighter  
+1          Amirmann        3         5     100   14    Warrior  
+2          Daniel          1         6     100   0     Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     100   16    Fighter  
-2          Daniel          1         6     100   0     Fighter  
+1          Amirmann        4         5     100   16    Warrior  
+2          Daniel          1         6     100   0     Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -545,8 +545,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     90    16    Fighter  
-2          Daniel          1         6     100   10    Fighter  
+1          Amirmann        4         5     90    16    Warrior  
+2          Daniel          1         6     100   10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -563,12 +563,12 @@ You have entered an invalid input. Please try again.
 Amirmann has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     91    11    Fighter  
-2          Daniel          2         6     100   12    Fighter  
+1          Amirmann        4         5     91    11    Warrior  
+2          Daniel          2         6     100   12    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -580,8 +580,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     91    21    Fighter  
-2          Daniel          2         6     100   22    Fighter  
+1          Amirmann        4         5     91    21    Warrior  
+2          Daniel          2         6     100   22    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -593,8 +593,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     91    31    Fighter  
-2          Daniel          2         6     100   22    Fighter  
+1          Amirmann        4         5     91    31    Warrior  
+2          Daniel          2         6     100   22    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -602,12 +602,12 @@ Start of round 8:
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     100   24    Fighter  
-2          Amirmann        4         5     0     31    Fighter  
+1          Daniel          3         6     100   24    Warrior  
+2          Amirmann        4         5     0     31    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -617,8 +617,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     90    24    Fighter  
-2          Amirmann        4         5     0     31    Fighter  
+1          Daniel          3         6     90    24    Warrior  
+2          Amirmann        4         5     0     31    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -628,19 +628,19 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         6     80    24    Fighter  
-2          Amirmann        4         5     0     31    Fighter  
+1          Daniel          3         6     80    24    Warrior  
+2          Amirmann        4         5     0     31    Warrior  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         6     80    26    Fighter  
-2          Amirmann        4         5     0     31    Fighter  
+1          Daniel          4         6     80    26    Warrior  
+2          Amirmann        4         5     0     31    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -650,30 +650,30 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         6     70    26    Fighter  
-2          Amirmann        4         5     0     31    Fighter  
+1          Daniel          4         6     70    26    Warrior  
+2          Amirmann        4         5     0     31    Warrior  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         6     70    28    Fighter  
-2          Amirmann        4         5     0     31    Fighter  
+1          Daniel          5         6     70    28    Warrior  
+2          Amirmann        4         5     0     31    Warrior  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         6     70    30    Fighter  
-2          Amirmann        4         5     0     31    Fighter  
+1          Daniel          6         6     70    30    Warrior  
+2          Amirmann        4         5     0     31    Warrior  
 
 -------------------------------------------
 Start of round 15:
@@ -683,8 +683,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         6     60    30    Fighter  
-2          Amirmann        4         5     0     31    Fighter  
+1          Daniel          6         6     60    30    Warrior  
+2          Amirmann        4         5     0     31    Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -695,5 +695,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         6     0     30    Fighter  
-2          Amirmann        4         5     0     31    Fighter  
+1          Daniel          6         6     0     30    Warrior  
+2          Amirmann        4         5     0     31    Warrior  

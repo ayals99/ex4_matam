@@ -541,30 +541,30 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     100   0     Wizard  
-2          Efrat           1         5     0     10    Rogue  
+1          Omerz           1         6     100   0     Healer  
+2          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         6     100   2     Wizard  
-2          Efrat           1         5     0     10    Rogue  
+1          Omerz           2         6     100   2     Healer  
+2          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     90    2     Wizard  
-2          Efrat           1         5     0     10    Rogue  
+1          Omerz           2         5     90    2     Healer  
+2          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -575,5 +575,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     0     2     Wizard  
-2          Efrat           1         5     0     10    Rogue  
+1          Omerz           2         5     0     2     Healer  
+2          Efrat           1         5     0     10    Ninja  

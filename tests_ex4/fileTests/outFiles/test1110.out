@@ -125,14 +125,14 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Rogue  
-2          GalLalush       1         5     100   20    Wizard  
-3          Omerz           1         5     100   20    Wizard  
-4          Omerz           2         5     100   12    Fighter  
+1          Omerz           1         5     100   10    Ninja  
+2          GalLalush       1         5     100   20    Healer  
+3          Omerz           1         5     100   20    Healer  
+4          Omerz           2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -150,16 +150,16 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 0 coins 
 Safe travels!
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    10    Rogue  
-2          GalLalush       1         5     100   20    Wizard  
-3          Omerz           1         5     100   20    Wizard  
-4          Omerz           2         5     100   12    Fighter  
+1          Omerz           1         5     90    10    Ninja  
+2          GalLalush       1         5     100   20    Healer  
+3          Omerz           1         5     100   20    Healer  
+4          Omerz           2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -176,16 +176,16 @@ GalLalush has 20 coins
 GalLalush has paid 0 coins 
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   20    Wizard  
-2          Omerz           2         5     100   22    Wizard  
-3          Omerz           2         5     100   12    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         5     100   20    Healer  
+2          Omerz           2         5     100   22    Healer  
+3          Omerz           2         5     100   12    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -206,55 +206,55 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   15    Wizard  
-2          Omerz           2         5     100   22    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       1         5     100   15    Healer  
+2          Omerz           2         5     100   22    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   17    Wizard  
-2          Omerz           2         5     100   22    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       2         5     100   17    Healer  
+2          Omerz           2         5     100   22    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         4     90    17    Wizard  
-2          Omerz           2         5     100   22    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       2         4     90    17    Healer  
+2          Omerz           2         5     100   22    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         4     90    19    Wizard  
-2          Omerz           3         5     100   24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       3         4     90    19    Healer  
+2          Omerz           3         5     100   24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -274,40 +274,40 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     90    9     Wizard  
-2          Omerz           3         5     100   24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       3         5     90    9     Healer  
+2          Omerz           3         5     100   24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     90    11    Wizard  
-2          Omerz           3         5     100   24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       4         5     90    11    Healer  
+2          Omerz           3         5     100   24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Omerz's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         4     80    11    Wizard  
-2          Omerz           3         5     100   24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       4         4     80    11    Healer  
+2          Omerz           3         5     100   24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -319,10 +319,10 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         4     70    11    Wizard  
-2          Omerz           3         5     0     24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       4         4     70    11    Healer  
+2          Omerz           3         5     0     24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -332,10 +332,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         4     60    11    Wizard  
-2          Omerz           3         5     0     24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       4         4     60    11    Healer  
+2          Omerz           3         5     0     24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -345,10 +345,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         4     60    21    Wizard  
-2          Omerz           3         5     0     24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       4         4     60    21    Healer  
+2          Omerz           3         5     0     24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -365,23 +365,23 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         4     62    16    Wizard  
-2          Omerz           3         5     0     24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       4         4     62    16    Healer  
+2          Omerz           3         5     0     24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         4     82    16    Wizard  
-2          Omerz           3         5     0     24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       4         4     82    16    Healer  
+2          Omerz           3         5     0     24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -391,10 +391,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         4     82    26    Wizard  
-2          Omerz           3         5     0     24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       4         4     82    26    Healer  
+2          Omerz           3         5     0     24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 17:
@@ -404,23 +404,23 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         4     82    36    Wizard  
-2          Omerz           3         5     0     24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       4         4     82    36    Healer  
+2          Omerz           3         5     0     24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 18:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         4     82    38    Wizard  
-2          Omerz           3         5     0     24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       5         4     82    38    Healer  
+2          Omerz           3         5     0     24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 19:
@@ -430,10 +430,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         4     72    38    Wizard  
-2          Omerz           3         5     0     24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       5         4     72    38    Healer  
+2          Omerz           3         5     0     24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 20:
@@ -450,23 +450,23 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         5     72    28    Wizard  
-2          Omerz           3         5     0     24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       5         5     72    28    Healer  
+2          Omerz           3         5     0     24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 21:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         5     92    28    Wizard  
-2          Omerz           3         5     0     24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       5         5     92    28    Healer  
+2          Omerz           3         5     0     24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 22:
@@ -476,10 +476,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         5     82    28    Wizard  
-2          Omerz           3         5     0     24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       5         5     82    28    Healer  
+2          Omerz           3         5     0     24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 23:
@@ -490,7 +490,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         5     0     28    Wizard  
-2          Omerz           3         5     0     24    Fighter  
-3          Omerz           2         5     0     22    Wizard  
-4          Omerz           1         5     0     10    Rogue  
+1          GalLalush       5         5     0     28    Healer  
+2          Omerz           3         5     0     24    Warrior  
+3          Omerz           2         5     0     22    Healer  
+4          Omerz           1         5     0     10    Ninja  

@@ -98,7 +98,7 @@ Start of round 1:
 Start of Amirmann's turn: 
 You fell into the trap, lose 10 health points.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -124,11 +124,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    10    Fighter  
-2          GalLalush       2         5     100   12    Fighter  
-3          Omerz           1         5     100   5     Rogue  
-4          Daniel          1         5     100   20    Fighter  
-5          GalLalush       1         5     100   5     Fighter  
+1          Amirmann        1         5     90    10    Warrior  
+2          GalLalush       2         5     100   12    Warrior  
+3          Omerz           1         5     100   5     Ninja  
+4          Daniel          1         5     100   20    Warrior  
+5          GalLalush       1         5     100   5     Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -138,9 +138,9 @@ Nothing happened.
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -153,11 +153,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    10    Fighter  
-2          Omerz           1         4     90    5     Rogue  
-3          Daniel          2         5     100   22    Fighter  
-4          GalLalush       1         5     100   0     Fighter  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        1         5     90    10    Warrior  
+2          Omerz           1         4     90    5     Ninja  
+3          Daniel          2         5     100   22    Warrior  
+4          GalLalush       1         5     100   0     Warrior  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -173,11 +173,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     80    10    Fighter  
-2          Omerz           1         4     90    5     Rogue  
-3          Daniel          2         5     90    22    Fighter  
-4          GalLalush       1         5     100   10    Fighter  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        1         5     80    10    Warrior  
+2          Omerz           1         4     90    5     Ninja  
+3          Daniel          2         5     90    22    Warrior  
+4          GalLalush       1         5     100   10    Warrior  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -201,11 +201,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     80    20    Fighter  
-2          Omerz           1         4     80    5     Rogue  
-3          Daniel          2         5     80    22    Fighter  
-4          GalLalush       1         5     100   5     Fighter  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        1         5     80    20    Warrior  
+2          Omerz           1         4     80    5     Ninja  
+3          Daniel          2         5     80    22    Warrior  
+4          GalLalush       1         5     100   5     Warrior  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -217,15 +217,15 @@ Player Omerz has been defeated by a Dragon.
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     80    20    Fighter  
-2          Daniel          2         5     70    22    Fighter  
-3          GalLalush       2         5     100   7     Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        1         5     80    20    Warrior  
+2          Daniel          2         5     70    22    Warrior  
+3          GalLalush       2         5     100   7     Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -255,11 +255,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     81    15    Fighter  
-2          Daniel          2         5     70    32    Fighter  
-3          GalLalush       2         5     100   2     Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        1         5     81    15    Warrior  
+2          Daniel          2         5     70    32    Warrior  
+3          GalLalush       2         5     100   2     Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -269,21 +269,21 @@ Nothing happened.
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     81    15    Fighter  
-2          GalLalush       3         5     100   4     Fighter  
-3          Daniel          2         5     0     32    Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        1         5     81    15    Warrior  
+2          GalLalush       3         5     100   4     Warrior  
+3          Daniel          2         5     0     32    Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -299,11 +299,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     81    17    Fighter  
-2          GalLalush       3         5     100   4     Fighter  
-3          Daniel          2         5     0     32    Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        2         5     81    17    Warrior  
+2          GalLalush       3         5     100   4     Warrior  
+3          Daniel          2         5     0     32    Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -315,11 +315,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     71    17    Fighter  
-2          GalLalush       3         5     90    4     Fighter  
-3          Daniel          2         5     0     32    Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        2         5     71    17    Warrior  
+2          GalLalush       3         5     90    4     Warrior  
+3          Daniel          2         5     0     32    Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -331,11 +331,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     61    17    Fighter  
-2          GalLalush       3         5     90    14    Fighter  
-3          Daniel          2         5     0     32    Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        2         5     61    17    Warrior  
+2          GalLalush       3         5     90    14    Warrior  
+3          Daniel          2         5     0     32    Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -347,11 +347,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     61    27    Fighter  
-2          GalLalush       3         5     90    14    Fighter  
-3          Daniel          2         5     0     32    Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        2         5     61    27    Warrior  
+2          GalLalush       3         5     90    14    Warrior  
+3          Daniel          2         5     0     32    Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -372,11 +372,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     51    27    Fighter  
-2          GalLalush       3         5     90    14    Fighter  
-3          Daniel          2         5     0     32    Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        2         5     51    27    Warrior  
+2          GalLalush       3         5     90    14    Warrior  
+3          Daniel          2         5     0     32    Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -388,11 +388,11 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     51    27    Fighter  
-2          GalLalush       3         5     0     14    Fighter  
-3          Daniel          2         5     0     32    Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        2         5     51    27    Warrior  
+2          GalLalush       3         5     0     14    Warrior  
+3          Daniel          2         5     0     32    Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -402,25 +402,25 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     41    27    Fighter  
-2          GalLalush       3         5     0     14    Fighter  
-3          Daniel          2         5     0     32    Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        2         5     41    27    Warrior  
+2          GalLalush       3         5     0     14    Warrior  
+3          Daniel          2         5     0     32    Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     41    29    Fighter  
-2          GalLalush       3         5     0     14    Fighter  
-3          Daniel          2         5     0     32    Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        3         5     41    29    Warrior  
+2          GalLalush       3         5     0     14    Warrior  
+3          Daniel          2         5     0     32    Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -438,11 +438,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     41    29    Fighter  
-2          GalLalush       3         5     0     14    Fighter  
-3          Daniel          2         5     0     32    Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        3         5     41    29    Warrior  
+2          GalLalush       3         5     0     14    Warrior  
+3          Daniel          2         5     0     32    Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 17:
@@ -452,11 +452,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     41    39    Fighter  
-2          GalLalush       3         5     0     14    Fighter  
-3          Daniel          2         5     0     32    Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        3         5     41    39    Warrior  
+2          GalLalush       3         5     0     14    Warrior  
+3          Daniel          2         5     0     32    Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 18:
@@ -473,11 +473,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     42    34    Fighter  
-2          GalLalush       3         5     0     14    Fighter  
-3          Daniel          2         5     0     32    Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        3         5     42    34    Warrior  
+2          GalLalush       3         5     0     14    Warrior  
+3          Daniel          2         5     0     32    Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 19:
@@ -487,11 +487,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     42    34    Fighter  
-2          GalLalush       3         5     0     14    Fighter  
-3          Daniel          2         5     0     32    Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        3         5     42    34    Warrior  
+2          GalLalush       3         5     0     14    Warrior  
+3          Daniel          2         5     0     32    Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 20:
@@ -502,8 +502,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     0     34    Fighter  
-2          GalLalush       3         5     0     14    Fighter  
-3          Daniel          2         5     0     32    Fighter  
-4          Omerz           1         4     0     5     Rogue  
-5          GalLalush       2         5     0     12    Fighter  
+1          Amirmann        3         5     0     34    Warrior  
+2          GalLalush       3         5     0     14    Warrior  
+3          Daniel          2         5     0     32    Warrior  
+4          Omerz           1         4     0     5     Ninja  
+5          GalLalush       2         5     0     12    Warrior  

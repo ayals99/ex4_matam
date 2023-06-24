@@ -728,8 +728,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     90    10    Wizard  
-2          Omerz           1         5     0     10    Fighter  
+1          Daniel          1         5     90    10    Healer  
+2          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -747,30 +747,30 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         6     90    0     Wizard  
-2          Omerz           1         5     0     10    Fighter  
+1          Daniel          1         6     90    0     Healer  
+2          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         6     100   0     Wizard  
-2          Omerz           1         5     0     10    Fighter  
+1          Daniel          1         6     100   0     Healer  
+2          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     90    0     Wizard  
-2          Omerz           1         5     0     10    Fighter  
+1          Daniel          1         5     90    0     Healer  
+2          Omerz           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -781,5 +781,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     0     0     Wizard  
-2          Omerz           1         5     0     10    Fighter  
+1          Daniel          1         5     0     0     Healer  
+2          Omerz           1         5     0     10    Warrior  

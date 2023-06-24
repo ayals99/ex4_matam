@@ -150,7 +150,7 @@ Start of round 1:
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -163,9 +163,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   14    Rogue  
-2          GalLalush       1         5     100   5     Fighter  
-3          Omerz           1         5     0     10    Wizard  
+1          Efrat           2         5     100   14    Ninja  
+2          GalLalush       1         5     100   5     Warrior  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -177,9 +177,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    5     Fighter  
-2          Efrat           2         5     0     14    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          GalLalush       1         5     90    5     Warrior  
+2          Efrat           2         5     0     14    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -189,9 +189,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    5     Fighter  
-2          Efrat           2         5     0     14    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          GalLalush       1         5     90    5     Warrior  
+2          Efrat           2         5     0     14    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -201,9 +201,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    15    Fighter  
-2          Efrat           2         5     0     14    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          GalLalush       1         5     90    15    Warrior  
+2          Efrat           2         5     0     14    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -213,9 +213,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     80    15    Fighter  
-2          Efrat           2         5     0     14    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          GalLalush       1         5     80    15    Warrior  
+2          Efrat           2         5     0     14    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -225,9 +225,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     80    15    Fighter  
-2          Efrat           2         5     0     14    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          GalLalush       1         5     80    15    Warrior  
+2          Efrat           2         5     0     14    Ninja  
+3          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -238,6 +238,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     0     15    Fighter  
-2          Efrat           2         5     0     14    Rogue  
-3          Omerz           1         5     0     10    Wizard  
+1          GalLalush       1         5     0     15    Warrior  
+2          Efrat           2         5     0     14    Ninja  
+3          Omerz           1         5     0     10    Healer  

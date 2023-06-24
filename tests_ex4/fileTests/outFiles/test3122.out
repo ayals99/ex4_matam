@@ -160,34 +160,34 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   20    Wizard  
-2          Efrat           1         5     90    10    Wizard  
+1          GalLalush       1         5     100   20    Healer  
+2          Efrat           1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   20    Wizard  
-2          Efrat           1         5     80    10    Wizard  
+1          GalLalush       1         5     100   20    Healer  
+2          Efrat           1         5     80    10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   20    Wizard  
-2          Efrat           1         5     70    10    Wizard  
+1          GalLalush       1         5     100   20    Healer  
+2          Efrat           1         5     70    10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -208,8 +208,8 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   20    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       1         5     100   20    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -226,8 +226,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   10    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       1         6     100   10    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -237,19 +237,19 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     90    10    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       1         6     90    10    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     90    12    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       2         6     90    12    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -259,8 +259,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     80    12    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       2         6     80    12    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -270,8 +270,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     70    12    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       2         6     70    12    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -281,30 +281,30 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     60    12    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       2         6     60    12    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     60    14    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       3         6     60    14    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 12:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     80    14    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       3         6     80    14    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -315,5 +315,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     0     14    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          GalLalush       3         6     0     14    Healer  
+2          Efrat           1         5     0     10    Healer  

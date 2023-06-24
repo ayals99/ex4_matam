@@ -180,10 +180,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Rogue  
-2          Efrat           1         5     100   30    Rogue  
-3          Omerz           1         5     100   10    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           1         5     100   10    Ninja  
+2          Efrat           1         5     100   30    Ninja  
+3          Omerz           1         5     100   10    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -206,10 +206,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    10    Rogue  
-2          Efrat           1         5     100   30    Rogue  
-3          Omerz           1         6     100   0     Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           1         5     90    10    Ninja  
+2          Efrat           1         5     100   30    Ninja  
+3          Omerz           1         6     100   0     Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -227,14 +227,14 @@ Safe travels!
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    10    Rogue  
-2          Efrat           1         5     90    30    Rogue  
-3          Omerz           2         6     100   2     Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           1         5     90    10    Ninja  
+2          Efrat           1         5     90    30    Ninja  
+3          Omerz           2         6     100   2     Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -248,10 +248,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    10    Rogue  
-2          Efrat           1         5     90    30    Rogue  
-3          Omerz           2         6     90    2     Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           1         5     90    10    Ninja  
+2          Efrat           1         5     90    30    Ninja  
+3          Omerz           2         6     90    2     Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -273,10 +273,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    10    Rogue  
-2          Efrat           1         5     90    30    Rogue  
-3          Omerz           2         6     90    12    Fighter  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           1         5     90    10    Ninja  
+2          Efrat           1         5     90    30    Ninja  
+3          Omerz           2         6     90    12    Warrior  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -305,25 +305,25 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     90    20    Rogue  
-2          Omerz           2         6     91    7     Fighter  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           1         6     90    20    Ninja  
+2          Omerz           2         6     91    7     Warrior  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     80    20    Rogue  
-2          Omerz           3         6     91    9     Fighter  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           1         5     80    20    Ninja  
+2          Omerz           3         6     91    9     Warrior  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -344,10 +344,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     80    20    Rogue  
-2          Omerz           3         6     92    4     Fighter  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           1         5     80    20    Ninja  
+2          Omerz           3         6     92    4     Warrior  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -355,14 +355,14 @@ Start of round 9:
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     70    20    Rogue  
-2          Omerz           4         6     92    6     Fighter  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           1         5     70    20    Ninja  
+2          Omerz           4         6     92    6     Warrior  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -374,10 +374,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     70    20    Rogue  
-2          Omerz           4         6     92    6     Fighter  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           1         5     70    20    Ninja  
+2          Omerz           4         6     92    6     Warrior  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -385,14 +385,14 @@ Start of round 11:
 Start of Efrat's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     70    20    Rogue  
-2          Omerz           5         6     92    8     Fighter  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           1         5     70    20    Ninja  
+2          Omerz           5         6     92    8     Warrior  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -404,10 +404,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     70    40    Rogue  
-2          Omerz           5         6     92    8     Fighter  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Efrat           1         5     70    40    Ninja  
+2          Omerz           5         6     92    8     Warrior  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -419,10 +419,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         6     82    8     Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           5         6     82    8     Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -432,10 +432,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         6     82    18    Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           5         6     82    18    Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -454,10 +454,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         7     82    8     Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           5         7     82    8     Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -467,10 +467,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         7     82    8     Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           5         7     82    8     Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 17:
@@ -480,10 +480,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         7     82    8     Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           5         7     82    8     Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 18:
@@ -502,10 +502,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         7     82    8     Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           5         7     82    8     Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 19:
@@ -524,10 +524,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         7     82    8     Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           5         7     82    8     Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 20:
@@ -537,23 +537,23 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         7     82    8     Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           5         7     82    8     Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 21:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         7     82    10    Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           6         7     82    10    Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 22:
@@ -563,10 +563,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         7     72    10    Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           6         7     72    10    Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 23:
@@ -576,10 +576,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         7     72    10    Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           6         7     72    10    Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 24:
@@ -589,10 +589,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         7     62    10    Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           6         7     62    10    Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 25:
@@ -602,10 +602,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         7     62    10    Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           6         7     62    10    Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 26:
@@ -624,10 +624,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         7     62    10    Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           6         7     62    10    Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 27:
@@ -637,10 +637,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         7     62    20    Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           6         7     62    20    Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 28:
@@ -651,7 +651,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         7     0     20    Fighter  
-2          Efrat           1         5     0     40    Rogue  
-3          Omerz           1         5     0     10    Rogue  
-4          GalLalush       1         5     0     10    Rogue  
+1          Omerz           6         7     0     20    Warrior  
+2          Efrat           1         5     0     40    Ninja  
+3          Omerz           1         5     0     10    Ninja  
+4          GalLalush       1         5     0     10    Ninja  

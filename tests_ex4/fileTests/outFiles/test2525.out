@@ -140,18 +140,18 @@ Start of round 1:
 Start of Omerz's turn: 
 Nothing happened.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of TomerM's turn: 
 Nothing happened.
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Rogue  
-2          Amirmann        1         4     90    10    Wizard  
-3          TomerM          1         5     100   10    Fighter  
-4          Efrat           2         5     100   12    Fighter  
+1          Omerz           1         5     100   10    Ninja  
+2          Amirmann        1         4     90    10    Healer  
+3          TomerM          1         5     100   10    Warrior  
+4          Efrat           2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -167,10 +167,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    10    Wizard  
-2          Efrat           2         5     90    12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        1         4     80    10    Healer  
+2          Efrat           2         5     90    12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -182,10 +182,10 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     70    10    Wizard  
-2          Efrat           2         5     0     12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        1         4     70    10    Healer  
+2          Efrat           2         5     0     12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -195,23 +195,23 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     60    10    Wizard  
-2          Efrat           2         5     0     12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        1         4     60    10    Healer  
+2          Efrat           2         5     0     12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    10    Wizard  
-2          Efrat           2         5     0     12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        1         4     80    10    Healer  
+2          Efrat           2         5     0     12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -228,10 +228,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     80    0     Wizard  
-2          Efrat           2         5     0     12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        1         5     80    0     Healer  
+2          Efrat           2         5     0     12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -241,10 +241,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     70    0     Wizard  
-2          Efrat           2         5     0     12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        1         5     70    0     Healer  
+2          Efrat           2         5     0     12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -254,10 +254,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     60    0     Wizard  
-2          Efrat           2         5     0     12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        1         5     60    0     Healer  
+2          Efrat           2         5     0     12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -267,88 +267,88 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     60    10    Wizard  
-2          Efrat           2         5     0     12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        1         5     60    10    Healer  
+2          Efrat           2         5     0     12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     60    12    Wizard  
-2          Efrat           2         5     0     12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        2         5     60    12    Healer  
+2          Efrat           2         5     0     12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     60    14    Wizard  
-2          Efrat           2         5     0     12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        3         5     60    14    Healer  
+2          Efrat           2         5     0     12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     80    14    Wizard  
-2          Efrat           2         5     0     12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        3         5     80    14    Healer  
+2          Efrat           2         5     0     12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         4     70    14    Wizard  
-2          Efrat           2         5     0     12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        3         4     70    14    Healer  
+2          Efrat           2         5     0     12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         4     90    14    Wizard  
-2          Efrat           2         5     0     12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        3         4     90    14    Healer  
+2          Efrat           2         5     0     12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         3     80    14    Wizard  
-2          Efrat           2         5     0     12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        3         3     80    14    Healer  
+2          Efrat           2         5     0     12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -359,7 +359,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         3     0     14    Wizard  
-2          Efrat           2         5     0     12    Fighter  
-3          TomerM          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Rogue  
+1          Amirmann        3         3     0     14    Healer  
+2          Efrat           2         5     0     12    Warrior  
+3          TomerM          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Ninja  

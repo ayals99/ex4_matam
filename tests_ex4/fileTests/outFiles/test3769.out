@@ -138,9 +138,9 @@ Start of round 1:
 Start of Daniel's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
@@ -148,17 +148,17 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Fighter  
-2          TomerM          2         5     100   12    Fighter  
-3          Efrat           1         4     90    10    Rogue  
-4          GalLalush       1         5     100   30    Rogue  
-5          Omerz           1         5     100   20    Fighter  
+1          Daniel          1         5     100   10    Warrior  
+2          TomerM          2         5     100   12    Warrior  
+3          Efrat           1         4     90    10    Ninja  
+4          GalLalush       1         5     100   30    Ninja  
+5          Omerz           1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -179,27 +179,27 @@ Efrat has 10 coins
 Efrat has paid 0 coins 
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   12    Fighter  
-2          TomerM          2         5     100   7     Fighter  
-3          Efrat           1         4     90    10    Rogue  
-4          GalLalush       2         5     100   34    Rogue  
-5          Omerz           1         5     90    20    Fighter  
+1          Daniel          2         5     100   12    Warrior  
+2          TomerM          2         5     100   7     Warrior  
+3          Efrat           1         4     90    10    Ninja  
+4          GalLalush       2         5     100   34    Ninja  
+5          Omerz           1         5     90    20    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -216,11 +216,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     100   14    Fighter  
-2          TomerM          3         5     100   9     Fighter  
-3          Efrat           1         3     80    10    Rogue  
-4          GalLalush       2         5     100   29    Rogue  
-5          Omerz           1         5     90    20    Fighter  
+1          Daniel          3         5     100   14    Warrior  
+2          TomerM          3         5     100   9     Warrior  
+3          Efrat           1         3     80    10    Ninja  
+4          GalLalush       2         5     100   29    Ninja  
+5          Omerz           1         5     90    20    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -247,31 +247,31 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     100   14    Fighter  
-2          TomerM          3         5     100   9     Fighter  
-3          Efrat           1         3     80    10    Rogue  
-4          GalLalush       2         5     100   49    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          Daniel          3         5     100   14    Warrior  
+2          TomerM          3         5     100   9     Warrior  
+3          Efrat           1         3     80    10    Ninja  
+4          GalLalush       2         5     100   49    Ninja  
+5          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     100   16    Fighter  
-2          TomerM          4         5     100   11    Fighter  
-3          GalLalush       3         5     100   53    Rogue  
-4          Efrat           1         3     0     10    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          Daniel          4         5     100   16    Warrior  
+2          TomerM          4         5     100   11    Warrior  
+3          GalLalush       3         5     100   53    Ninja  
+4          Efrat           1         3     0     10    Ninja  
+5          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -285,11 +285,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     100   26    Fighter  
-2          TomerM          4         5     100   21    Fighter  
-3          GalLalush       3         5     100   53    Rogue  
-4          Efrat           1         3     0     10    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          Daniel          4         5     100   26    Warrior  
+2          TomerM          4         5     100   21    Warrior  
+3          GalLalush       3         5     100   53    Ninja  
+4          Efrat           1         3     0     10    Ninja  
+5          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -297,17 +297,17 @@ Start of round 7:
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         5     90    26    Fighter  
-2          TomerM          5         5     100   23    Fighter  
-3          GalLalush       3         5     100   53    Rogue  
-4          Efrat           1         3     0     10    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          Daniel          4         5     90    26    Warrior  
+2          TomerM          5         5     100   23    Warrior  
+3          GalLalush       3         5     100   53    Ninja  
+4          Efrat           1         3     0     10    Ninja  
+5          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -322,23 +322,23 @@ Daniel has 26 coins
 Daniel has paid 10 coins for 1 force boost!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         6     90    16    Fighter  
-2          TomerM          6         5     100   25    Fighter  
-3          GalLalush       4         5     100   57    Rogue  
-4          Efrat           1         3     0     10    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          Daniel          4         6     90    16    Warrior  
+2          TomerM          6         5     100   25    Warrior  
+3          GalLalush       4         5     100   57    Ninja  
+4          Efrat           1         3     0     10    Ninja  
+5          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -349,15 +349,15 @@ TomerM has 25 coins
 TomerM has paid 10 coins for 1 force boost!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         6     90    18    Fighter  
-2          TomerM          6         6     100   15    Fighter  
-3          GalLalush       5         5     100   61    Rogue  
-4          Efrat           1         3     0     10    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          Daniel          5         6     90    18    Warrior  
+2          TomerM          6         6     100   15    Warrior  
+3          GalLalush       5         5     100   61    Ninja  
+4          Efrat           1         3     0     10    Ninja  
+5          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -365,17 +365,17 @@ Start of round 10:
 Start of Daniel's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         6     90    18    Fighter  
-2          TomerM          7         6     100   17    Fighter  
-3          GalLalush       6         5     100   65    Rogue  
-4          Efrat           1         3     0     10    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          Daniel          5         6     90    18    Warrior  
+2          TomerM          7         6     100   17    Warrior  
+3          GalLalush       6         5     100   65    Ninja  
+4          Efrat           1         3     0     10    Ninja  
+5          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -385,15 +385,15 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         6     90    28    Fighter  
-2          TomerM          7         6     100   27    Fighter  
-3          GalLalush       7         5     100   69    Rogue  
-4          Efrat           1         3     0     10    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          Daniel          5         6     90    28    Warrior  
+2          TomerM          7         6     100   27    Warrior  
+3          GalLalush       7         5     100   69    Ninja  
+4          Efrat           1         3     0     10    Ninja  
+5          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -418,15 +418,15 @@ You have entered an invalid input. Please try again.
 TomerM has paid 0 coins 
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         6     91    23    Fighter  
-2          TomerM          7         6     100   27    Fighter  
-3          GalLalush       8         5     100   73    Rogue  
-4          Efrat           1         3     0     10    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          Daniel          5         6     91    23    Warrior  
+2          TomerM          7         6     100   27    Warrior  
+3          GalLalush       8         5     100   73    Ninja  
+4          Efrat           1         3     0     10    Ninja  
+5          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -434,23 +434,23 @@ Start of round 13:
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          5         6     81    23    Fighter  
-2          TomerM          8         6     100   29    Fighter  
-3          GalLalush       9         5     100   77    Rogue  
-4          Efrat           1         3     0     10    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          Daniel          5         6     81    23    Warrior  
+2          TomerM          8         6     100   29    Warrior  
+3          GalLalush       9         5     100   77    Ninja  
+4          Efrat           1         3     0     10    Ninja  
+5          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -465,11 +465,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         6     81    25    Fighter  
-2          TomerM          8         6     100   24    Fighter  
-3          GalLalush       9         5     90    77    Rogue  
-4          Efrat           1         3     0     10    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          Daniel          6         6     81    25    Warrior  
+2          TomerM          8         6     100   24    Warrior  
+3          GalLalush       9         5     90    77    Ninja  
+4          Efrat           1         3     0     10    Ninja  
+5          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 15:
@@ -492,11 +492,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          6         7     81    15    Fighter  
-2          TomerM          8         6     100   24    Fighter  
-3          GalLalush       9         5     90    77    Rogue  
-4          Efrat           1         3     0     10    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          Daniel          6         7     81    15    Warrior  
+2          TomerM          8         6     100   24    Warrior  
+3          GalLalush       9         5     90    77    Ninja  
+4          Efrat           1         3     0     10    Ninja  
+5          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -506,29 +506,29 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        5     90    81    Rogue  
-2          Daniel          6         7     81    25    Fighter  
-3          TomerM          8         6     0     24    Fighter  
-4          Efrat           1         3     0     10    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          GalLalush       10        5     90    81    Ninja  
+2          Daniel          6         7     81    25    Warrior  
+3          TomerM          8         6     0     24    Warrior  
+4          Efrat           1         3     0     10    Ninja  
+5          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 17:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        5     90    81    Rogue  
-2          Daniel          7         7     81    27    Fighter  
-3          TomerM          8         6     0     24    Fighter  
-4          Efrat           1         3     0     10    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          GalLalush       10        5     90    81    Ninja  
+2          Daniel          7         7     81    27    Warrior  
+3          TomerM          8         6     0     24    Warrior  
+4          Efrat           1         3     0     10    Ninja  
+5          Omerz           1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 18:
@@ -539,8 +539,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       10        5     90    81    Rogue  
-2          Daniel          7         7     0     27    Fighter  
-3          TomerM          8         6     0     24    Fighter  
-4          Efrat           1         3     0     10    Rogue  
-5          Omerz           1         5     0     20    Fighter  
+1          GalLalush       10        5     90    81    Ninja  
+2          Daniel          7         7     0     27    Warrior  
+3          TomerM          8         6     0     24    Warrior  
+4          Efrat           1         3     0     10    Ninja  
+5          Omerz           1         5     0     20    Warrior  

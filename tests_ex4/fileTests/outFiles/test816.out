@@ -59,14 +59,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of GalLalush's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     90    10    Wizard  
-2          GalLalush       1         5     100   10    Fighter  
+1          Daniel          1         4     90    10    Healer  
+2          GalLalush       1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -78,8 +78,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     90    20    Wizard  
-2          GalLalush       1         5     100   20    Fighter  
+1          Daniel          1         4     90    20    Healer  
+2          GalLalush       1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -87,12 +87,12 @@ Start of round 3:
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   22    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       2         5     100   22    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -111,8 +111,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   17    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       2         5     100   17    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -122,8 +122,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   17    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       2         5     100   17    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -133,19 +133,19 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   27    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       2         5     100   27    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     100   29    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       3         5     100   29    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -155,8 +155,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     90    29    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       3         5     90    29    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -174,8 +174,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     91    24    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       3         5     91    24    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -192,8 +192,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     91    24    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       3         5     91    24    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -203,30 +203,30 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     91    24    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       3         5     91    24    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 12:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         5     91    26    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       4         5     91    26    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 13:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         5     91    28    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       5         5     91    28    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -236,8 +236,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         5     81    28    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       5         5     81    28    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -247,19 +247,19 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         5     81    28    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       5         5     81    28    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 16:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         5     81    30    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       6         5     81    30    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -269,19 +269,19 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         5     71    30    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       6         5     71    30    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 18:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         5     71    32    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       7         5     71    32    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -291,19 +291,19 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         5     71    32    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       7         5     71    32    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 20:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       8         5     71    34    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       8         5     71    34    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 21:
@@ -322,8 +322,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       8         5     72    29    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       8         5     72    29    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 22:
@@ -333,8 +333,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       8         5     72    39    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       8         5     72    39    Warrior  
+2          Daniel          1         4     0     20    Healer  
 
 -------------------------------------------
 Start of round 23:
@@ -345,5 +345,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       8         5     0     39    Fighter  
-2          Daniel          1         4     0     20    Wizard  
+1          GalLalush       8         5     0     39    Warrior  
+2          Daniel          1         4     0     20    Healer  

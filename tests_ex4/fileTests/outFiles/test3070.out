@@ -909,8 +909,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   10    Fighter  
-2          TomerM          1         5     100   10    Rogue  
+1          TomerM          1         5     100   10    Warrior  
+2          TomerM          1         5     100   10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -922,19 +922,19 @@ Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   20    Fighter  
-2          TomerM          1         5     0     10    Rogue  
+1          TomerM          1         5     100   20    Warrior  
+2          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   22    Fighter  
-2          TomerM          1         5     0     10    Rogue  
+1          TomerM          2         5     100   22    Warrior  
+2          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -944,19 +944,19 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   22    Fighter  
-2          TomerM          1         5     0     10    Rogue  
+1          TomerM          2         5     100   22    Warrior  
+2          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     100   24    Fighter  
-2          TomerM          1         5     0     10    Rogue  
+1          TomerM          3         5     100   24    Warrior  
+2          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -966,8 +966,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    24    Fighter  
-2          TomerM          1         5     0     10    Rogue  
+1          TomerM          3         5     90    24    Warrior  
+2          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -984,19 +984,19 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     91    19    Fighter  
-2          TomerM          1         5     0     10    Rogue  
+1          TomerM          3         5     91    19    Warrior  
+2          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     91    21    Fighter  
-2          TomerM          1         5     0     10    Rogue  
+1          TomerM          4         5     91    21    Warrior  
+2          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -1007,5 +1007,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     0     21    Fighter  
-2          TomerM          1         5     0     10    Rogue  
+1          TomerM          4         5     0     21    Warrior  
+2          TomerM          1         5     0     10    Ninja  

@@ -344,9 +344,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Fighter  
-2          GalLalush       1         5     100   10    Fighter  
-3          Efrat           1         5     100   10    Fighter  
+1          Omerz           1         5     100   10    Warrior  
+2          GalLalush       1         5     100   10    Warrior  
+3          Efrat           1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -364,29 +364,29 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   20    Fighter  
-2          GalLalush       1         5     100   5     Fighter  
-3          Efrat           2         5     100   12    Fighter  
+1          Omerz           1         5     100   20    Warrior  
+2          GalLalush       1         5     100   5     Warrior  
+3          Efrat           2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   22    Fighter  
-2          GalLalush       2         5     100   7     Fighter  
-3          Efrat           2         5     100   12    Fighter  
+1          Omerz           2         5     100   22    Warrior  
+2          GalLalush       2         5     100   7     Warrior  
+3          Efrat           2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -400,9 +400,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   22    Fighter  
-2          GalLalush       2         5     100   17    Fighter  
-3          Efrat           2         5     100   12    Fighter  
+1          Omerz           2         5     100   22    Warrior  
+2          GalLalush       2         5     100   17    Warrior  
+3          Efrat           2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -420,13 +420,13 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   12    Fighter  
-2          Efrat           3         5     100   14    Fighter  
-3          Omerz           2         5     0     22    Fighter  
+1          GalLalush       2         5     100   12    Warrior  
+2          Efrat           3         5     100   14    Warrior  
+3          Omerz           2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -434,25 +434,25 @@ Start of round 6:
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         5     100   16    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
-3          Omerz           2         5     0     22    Fighter  
+1          Efrat           4         5     100   16    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
+3          Omerz           2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           5         5     100   18    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
-3          Omerz           2         5     0     22    Fighter  
+1          Efrat           5         5     100   18    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
+3          Omerz           2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -462,9 +462,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           5         5     100   18    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
-3          Omerz           2         5     0     22    Fighter  
+1          Efrat           5         5     100   18    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
+3          Omerz           2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -475,6 +475,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           5         5     0     18    Fighter  
-2          GalLalush       2         5     0     12    Fighter  
-3          Omerz           2         5     0     22    Fighter  
+1          Efrat           5         5     0     18    Warrior  
+2          GalLalush       2         5     0     12    Warrior  
+3          Omerz           2         5     0     22    Warrior  

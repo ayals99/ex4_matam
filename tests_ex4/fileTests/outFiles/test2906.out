@@ -200,37 +200,37 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    10    Wizard  
-2          GalLalush       1         5     90    10    Wizard  
-3          Amirmann        2         5     100   12    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          Amirmann        1         4     90    10    Healer  
+2          GalLalush       1         5     90    10    Healer  
+3          Amirmann        2         5     100   12    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     100   10    Wizard  
-2          GalLalush       1         5     90    20    Wizard  
-3          Amirmann        3         5     100   14    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          Amirmann        1         4     100   10    Healer  
+2          GalLalush       1         5     90    20    Healer  
+3          Amirmann        3         5     100   14    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -238,16 +238,16 @@ Start of round 3:
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   20    Wizard  
-2          Amirmann        3         5     100   24    Wizard  
-3          Amirmann        1         4     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     100   20    Healer  
+2          Amirmann        3         5     100   24    Healer  
+3          Amirmann        1         4     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -255,14 +255,14 @@ Start of round 4:
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   30    Wizard  
-2          Amirmann        4         5     100   26    Wizard  
-3          Amirmann        1         4     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     100   30    Healer  
+2          Amirmann        4         5     100   26    Healer  
+3          Amirmann        1         4     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -270,14 +270,14 @@ Start of round 5:
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    30    Wizard  
-2          Amirmann        4         5     100   26    Wizard  
-3          Amirmann        1         4     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     90    30    Healer  
+2          Amirmann        4         5     100   26    Healer  
+3          Amirmann        1         4     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -285,14 +285,14 @@ Start of round 6:
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     80    30    Wizard  
-2          Amirmann        4         5     100   26    Wizard  
-3          Amirmann        1         4     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     80    30    Healer  
+2          Amirmann        4         5     100   26    Healer  
+3          Amirmann        1         4     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -304,10 +304,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     70    30    Wizard  
-2          Amirmann        4         5     90    26    Wizard  
-3          Amirmann        1         4     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     70    30    Healer  
+2          Amirmann        4         5     90    26    Healer  
+3          Amirmann        1         4     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -319,10 +319,10 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     70    40    Wizard  
-2          Amirmann        4         5     0     26    Wizard  
-3          Amirmann        1         4     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     70    40    Healer  
+2          Amirmann        4         5     0     26    Healer  
+3          Amirmann        1         4     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -333,7 +333,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     0     40    Wizard  
-2          Amirmann        4         5     0     26    Wizard  
-3          Amirmann        1         4     0     10    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       1         5     0     40    Healer  
+2          Amirmann        4         5     0     26    Healer  
+3          Amirmann        1         4     0     10    Healer  
+4          Efrat           1         5     0     10    Ninja  

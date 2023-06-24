@@ -876,8 +876,8 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    10    Rogue  
-2          Omerz           1         5     100   10    Rogue  
+1          Amirmann        1         5     90    10    Ninja  
+2          Omerz           1         5     100   10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -885,12 +885,12 @@ Start of round 2:
 Start of Amirmann's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    30    Rogue  
-2          Omerz           2         5     100   14    Rogue  
+1          Amirmann        1         5     90    30    Ninja  
+2          Omerz           2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -902,14 +902,14 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    30    Rogue  
-2          Omerz           2         5     100   14    Rogue  
+1          Amirmann        1         5     90    30    Ninja  
+2          Omerz           2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -924,8 +924,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     90    34    Rogue  
-2          Omerz           2         6     100   4     Rogue  
+1          Amirmann        2         5     90    34    Ninja  
+2          Omerz           2         6     100   4     Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -938,5 +938,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         6     0     4     Rogue  
-2          Amirmann        2         5     0     34    Rogue  
+1          Omerz           2         6     0     4     Ninja  
+2          Amirmann        2         5     0     34    Ninja  

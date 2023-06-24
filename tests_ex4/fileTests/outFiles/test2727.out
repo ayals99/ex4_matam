@@ -431,13 +431,13 @@ You fell into the trap, lose 10 health points.
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    10    Fighter  
-2          Efrat           1         5     90    10    Wizard  
-3          GalLalush       2         5     100   12    Fighter  
+1          Amirmann        1         5     90    10    Warrior  
+2          Efrat           1         5     90    10    Healer  
+3          GalLalush       2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -451,15 +451,15 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    20    Fighter  
-2          Efrat           1         5     80    10    Wizard  
-3          GalLalush       2         5     90    12    Fighter  
+1          Amirmann        1         5     90    20    Warrior  
+2          Efrat           1         5     80    10    Healer  
+3          GalLalush       2         5     90    12    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
 You fell into the trap, lose 10 health points.
 Start of GalLalush's turn: 
@@ -467,9 +467,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     90    22    Fighter  
-2          Efrat           1         5     70    10    Wizard  
-3          GalLalush       2         5     90    12    Fighter  
+1          Amirmann        2         5     90    22    Warrior  
+2          Efrat           1         5     70    10    Healer  
+3          GalLalush       2         5     90    12    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -483,9 +483,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     90    22    Fighter  
-2          Efrat           1         5     60    10    Wizard  
-3          GalLalush       2         5     80    12    Fighter  
+1          Amirmann        2         5     90    22    Warrior  
+2          Efrat           1         5     60    10    Healer  
+3          GalLalush       2         5     80    12    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -500,15 +500,15 @@ Amirmann has 22 coins
 Amirmann has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of GalLalush's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     91    17    Fighter  
-2          Efrat           1         4     50    10    Wizard  
-3          GalLalush       2         5     80    12    Fighter  
+1          Amirmann        2         5     91    17    Warrior  
+2          Efrat           1         4     50    10    Healer  
+3          GalLalush       2         5     80    12    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -522,25 +522,25 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     91    27    Fighter  
-2          Efrat           1         4     40    10    Wizard  
-3          GalLalush       2         5     80    12    Fighter  
+1          Amirmann        2         5     91    27    Warrior  
+2          Efrat           1         4     40    10    Healer  
+3          GalLalush       2         5     80    12    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     91    29    Fighter  
-2          Efrat           1         4     60    10    Wizard  
-3          GalLalush       2         5     70    12    Fighter  
+1          Amirmann        3         5     91    29    Warrior  
+2          Efrat           1         4     60    10    Healer  
+3          GalLalush       2         5     70    12    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -554,9 +554,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     60    20    Wizard  
-2          GalLalush       2         5     70    12    Fighter  
-3          Amirmann        3         5     0     29    Fighter  
+1          Efrat           1         4     60    20    Healer  
+2          GalLalush       2         5     70    12    Warrior  
+3          Amirmann        3         5     0     29    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -575,9 +575,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     60    30    Wizard  
-2          GalLalush       2         6     70    2     Fighter  
-3          Amirmann        3         5     0     29    Fighter  
+1          Efrat           1         4     60    30    Healer  
+2          GalLalush       2         6     70    2     Warrior  
+3          Amirmann        3         5     0     29    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -589,9 +589,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     50    30    Wizard  
-2          GalLalush       2         6     70    2     Fighter  
-3          Amirmann        3         5     0     29    Fighter  
+1          Efrat           1         4     50    30    Healer  
+2          GalLalush       2         6     70    2     Warrior  
+3          Amirmann        3         5     0     29    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -613,9 +613,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     40    30    Wizard  
-2          GalLalush       2         6     70    2     Fighter  
-3          Amirmann        3         5     0     29    Fighter  
+1          Efrat           1         4     40    30    Healer  
+2          GalLalush       2         6     70    2     Warrior  
+3          Amirmann        3         5     0     29    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -634,47 +634,47 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     30    30    Wizard  
-2          GalLalush       2         6     70    2     Fighter  
-3          Amirmann        3         5     0     29    Fighter  
+1          Efrat           1         4     30    30    Healer  
+2          GalLalush       2         6     70    2     Warrior  
+3          Amirmann        3         5     0     29    Warrior  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     50    30    Wizard  
-2          GalLalush       2         6     0     2     Fighter  
-3          Amirmann        3         5     0     29    Fighter  
+1          Efrat           1         4     50    30    Healer  
+2          GalLalush       2         6     0     2     Warrior  
+3          Amirmann        3         5     0     29    Warrior  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     70    30    Wizard  
-2          GalLalush       2         6     0     2     Fighter  
-3          Amirmann        3         5     0     29    Fighter  
+1          Efrat           1         4     70    30    Healer  
+2          GalLalush       2         6     0     2     Warrior  
+3          Amirmann        3         5     0     29    Warrior  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         3     60    30    Wizard  
-2          GalLalush       2         6     0     2     Fighter  
-3          Amirmann        3         5     0     29    Fighter  
+1          Efrat           1         3     60    30    Healer  
+2          GalLalush       2         6     0     2     Warrior  
+3          Amirmann        3         5     0     29    Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -684,9 +684,9 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         3     50    30    Wizard  
-2          GalLalush       2         6     0     2     Fighter  
-3          Amirmann        3         5     0     29    Fighter  
+1          Efrat           1         3     50    30    Healer  
+2          GalLalush       2         6     0     2     Warrior  
+3          Amirmann        3         5     0     29    Warrior  
 
 -------------------------------------------
 Start of round 17:
@@ -696,9 +696,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         3     40    30    Wizard  
-2          GalLalush       2         6     0     2     Fighter  
-3          Amirmann        3         5     0     29    Fighter  
+1          Efrat           1         3     40    30    Healer  
+2          GalLalush       2         6     0     2     Warrior  
+3          Amirmann        3         5     0     29    Warrior  
 
 -------------------------------------------
 Start of round 18:
@@ -708,9 +708,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         3     30    30    Wizard  
-2          GalLalush       2         6     0     2     Fighter  
-3          Amirmann        3         5     0     29    Fighter  
+1          Efrat           1         3     30    30    Healer  
+2          GalLalush       2         6     0     2     Warrior  
+3          Amirmann        3         5     0     29    Warrior  
 
 -------------------------------------------
 Start of round 19:
@@ -721,6 +721,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         3     0     30    Wizard  
-2          GalLalush       2         6     0     2     Fighter  
-3          Amirmann        3         5     0     29    Fighter  
+1          Efrat           1         3     0     30    Healer  
+2          GalLalush       2         6     0     2     Warrior  
+3          Amirmann        3         5     0     29    Warrior  

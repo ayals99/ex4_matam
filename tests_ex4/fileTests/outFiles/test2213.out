@@ -573,7 +573,7 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
@@ -581,15 +581,15 @@ Player Efrat has been defeated by a Dragon.
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    10    Rogue  
-2          Daniel          1         5     100   10    Fighter  
-3          Daniel          1         5     100   10    Fighter  
-4          Daniel          2         5     100   14    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         4     90    10    Ninja  
+2          Daniel          1         5     100   10    Warrior  
+3          Daniel          1         5     100   10    Warrior  
+4          Daniel          2         5     100   14    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -605,51 +605,51 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    10    Rogue  
-2          Daniel          1         5     100   20    Fighter  
-3          Daniel          1         5     90    10    Fighter  
-4          Daniel          2         5     100   14    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         4     90    10    Ninja  
+2          Daniel          1         5     100   20    Warrior  
+3          Daniel          1         5     90    10    Warrior  
+4          Daniel          2         5     100   14    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    10    Rogue  
-2          Daniel          2         5     100   22    Fighter  
-3          Daniel          2         5     90    12    Fighter  
-4          Daniel          2         5     90    14    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         4     80    10    Ninja  
+2          Daniel          2         5     100   22    Warrior  
+3          Daniel          2         5     90    12    Warrior  
+4          Daniel          2         5     90    14    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     70    10    Rogue  
-2          Daniel          2         5     100   32    Fighter  
-3          Daniel          2         4     80    14    Rogue  
-4          Daniel          2         5     0     12    Fighter  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         4     70    10    Ninja  
+2          Daniel          2         5     100   32    Warrior  
+3          Daniel          2         4     80    14    Ninja  
+4          Daniel          2         5     0     12    Warrior  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -663,11 +663,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     70    30    Rogue  
-2          Daniel          2         4     80    14    Rogue  
-3          Daniel          2         5     0     32    Fighter  
-4          Daniel          2         5     0     12    Fighter  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         4     70    30    Ninja  
+2          Daniel          2         4     80    14    Ninja  
+3          Daniel          2         5     0     32    Warrior  
+4          Daniel          2         5     0     12    Warrior  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -679,11 +679,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     70    30    Rogue  
-2          Daniel          2         4     80    34    Rogue  
-3          Daniel          2         5     0     32    Fighter  
-4          Daniel          2         5     0     12    Fighter  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         4     70    30    Ninja  
+2          Daniel          2         4     80    34    Ninja  
+3          Daniel          2         5     0     32    Warrior  
+4          Daniel          2         5     0     12    Warrior  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -695,11 +695,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     70    30    Rogue  
-2          Daniel          2         4     80    34    Rogue  
-3          Daniel          2         5     0     32    Fighter  
-4          Daniel          2         5     0     12    Fighter  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         4     70    30    Ninja  
+2          Daniel          2         4     80    34    Ninja  
+3          Daniel          2         5     0     32    Warrior  
+4          Daniel          2         5     0     12    Warrior  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -711,11 +711,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     70    30    Rogue  
-2          Daniel          2         4     80    34    Rogue  
-3          Daniel          2         5     0     32    Fighter  
-4          Daniel          2         5     0     12    Fighter  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         4     70    30    Ninja  
+2          Daniel          2         4     80    34    Ninja  
+3          Daniel          2         5     0     32    Warrior  
+4          Daniel          2         5     0     12    Warrior  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -727,11 +727,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     70    50    Rogue  
-2          Daniel          2         4     80    34    Rogue  
-3          Daniel          2         5     0     32    Fighter  
-4          Daniel          2         5     0     12    Fighter  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         4     70    50    Ninja  
+2          Daniel          2         4     80    34    Ninja  
+3          Daniel          2         5     0     32    Warrior  
+4          Daniel          2         5     0     12    Warrior  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -739,15 +739,15 @@ Start of round 10:
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         3     70    34    Rogue  
-2          Amirmann        1         4     0     50    Rogue  
-3          Daniel          2         5     0     32    Fighter  
-4          Daniel          2         5     0     12    Fighter  
-5          Efrat           1         5     0     10    Fighter  
+1          Daniel          2         3     70    34    Ninja  
+2          Amirmann        1         4     0     50    Ninja  
+3          Daniel          2         5     0     32    Warrior  
+4          Daniel          2         5     0     12    Warrior  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -758,8 +758,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         3     0     34    Rogue  
-2          Amirmann        1         4     0     50    Rogue  
-3          Daniel          2         5     0     32    Fighter  
-4          Daniel          2         5     0     12    Fighter  
-5          Efrat           1         5     0     10    Fighter  
+1          Daniel          2         3     0     34    Ninja  
+2          Amirmann        1         4     0     50    Ninja  
+3          Daniel          2         5     0     32    Warrior  
+4          Daniel          2         5     0     12    Warrior  
+5          Efrat           1         5     0     10    Warrior  

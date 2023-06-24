@@ -85,14 +85,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    10    Rogue  
-2          Efrat           2         5     100   12    Wizard  
+1          Omerz           1         4     90    10    Ninja  
+2          Efrat           2         5     100   12    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -100,12 +100,12 @@ Start of round 2:
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     80    10    Rogue  
-2          Efrat           2         4     90    12    Wizard  
+1          Omerz           1         4     80    10    Ninja  
+2          Efrat           2         4     90    12    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -117,30 +117,30 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         4     80    12    Wizard  
-2          Omerz           1         4     0     10    Rogue  
+1          Efrat           2         4     80    12    Healer  
+2          Omerz           1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         3     70    12    Wizard  
-2          Omerz           1         4     0     10    Rogue  
+1          Efrat           2         3     70    12    Healer  
+2          Omerz           1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Goblin.
+Player Efrat has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         3     60    12    Wizard  
-2          Omerz           1         4     0     10    Rogue  
+1          Efrat           2         3     60    12    Healer  
+2          Omerz           1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -150,19 +150,19 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         3     50    12    Wizard  
-2          Omerz           1         4     0     10    Rogue  
+1          Efrat           2         3     50    12    Healer  
+2          Omerz           1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         2     40    12    Wizard  
-2          Omerz           1         4     0     10    Rogue  
+1          Efrat           2         2     40    12    Healer  
+2          Omerz           1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -173,5 +173,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         2     0     12    Wizard  
-2          Omerz           1         4     0     10    Rogue  
+1          Efrat           2         2     0     12    Healer  
+2          Omerz           1         4     0     10    Ninja  

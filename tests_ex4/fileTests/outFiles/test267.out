@@ -193,12 +193,12 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 10 coins for 1 force boost!
 Safe travels!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   0     Rogue  
-2          Omerz           2         5     100   14    Rogue  
+1          GalLalush       1         6     100   0     Ninja  
+2          Omerz           2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -219,8 +219,8 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     100   0     Rogue  
-2          Omerz           2         5     100   14    Rogue  
+1          GalLalush       1         6     100   0     Ninja  
+2          Omerz           2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -232,8 +232,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     90    0     Rogue  
-2          Omerz           2         5     90    14    Rogue  
+1          GalLalush       1         6     90    0     Ninja  
+2          Omerz           2         5     90    14    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -245,8 +245,8 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     80    0     Rogue  
-2          Omerz           2         5     90    14    Rogue  
+1          GalLalush       1         6     80    0     Ninja  
+2          Omerz           2         5     90    14    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -266,8 +266,8 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         6     80    0     Rogue  
-2          Omerz           2         5     90    14    Rogue  
+1          GalLalush       1         6     80    0     Ninja  
+2          Omerz           2         5     90    14    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -275,12 +275,12 @@ Start of round 6:
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         4     80    14    Rogue  
-2          GalLalush       1         6     0     0     Rogue  
+1          Omerz           2         4     80    14    Ninja  
+2          GalLalush       1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -291,5 +291,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         4     0     14    Rogue  
-2          GalLalush       1         6     0     0     Rogue  
+1          Omerz           2         4     0     14    Ninja  
+2          GalLalush       1         6     0     0     Ninja  

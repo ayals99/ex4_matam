@@ -290,8 +290,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Fighter  
-2          Amirmann        1         5     90    10    Rogue  
+1          Daniel          1         5     100   10    Warrior  
+2          Amirmann        1         5     90    10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -303,8 +303,8 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Fighter  
-2          Amirmann        1         5     90    10    Rogue  
+1          Daniel          1         5     100   10    Warrior  
+2          Amirmann        1         5     90    10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -324,19 +324,19 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     91    5     Rogue  
-2          Daniel          1         5     0     10    Fighter  
+1          Amirmann        1         5     91    5     Ninja  
+2          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     91    9     Rogue  
-2          Daniel          1         5     0     10    Fighter  
+1          Amirmann        2         5     91    9     Ninja  
+2          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -347,5 +347,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     0     9     Rogue  
-2          Daniel          1         5     0     10    Fighter  
+1          Amirmann        2         5     0     9     Ninja  
+2          Daniel          1         5     0     10    Warrior  

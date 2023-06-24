@@ -175,7 +175,7 @@ Player Daniel has been defeated by a Dragon.
 Start of Daniel's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of Amirmann's turn: 
@@ -183,11 +183,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Rogue  
-2          Efrat           2         5     100   12    Wizard  
-3          Amirmann        1         5     100   10    Rogue  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Daniel          1         5     100   10    Ninja  
+2          Efrat           2         5     100   12    Healer  
+3          Amirmann        1         5     100   10    Ninja  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -201,11 +201,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   30    Rogue  
-2          Amirmann        1         5     100   30    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Daniel          1         5     100   30    Ninja  
+2          Amirmann        1         5     100   30    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -217,27 +217,27 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     90    30    Rogue  
-2          Amirmann        1         5     90    30    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Daniel          1         5     90    30    Ninja  
+2          Amirmann        1         5     90    30    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    34    Rogue  
-2          Amirmann        1         4     80    30    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Daniel          2         5     90    34    Ninja  
+2          Amirmann        1         4     80    30    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -249,25 +249,25 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     80    30    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         4     80    30    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     70    30    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         4     70    30    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -277,11 +277,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     60    30    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         4     60    30    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -299,11 +299,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     60    30    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         4     60    30    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -313,11 +313,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     50    30    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         4     50    30    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -335,11 +335,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     51    25    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         4     51    25    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -349,11 +349,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     51    45    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         4     51    45    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -363,25 +363,25 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     41    45    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         4     41    45    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     31    45    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         3     31    45    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -399,39 +399,39 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     31    45    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         3     31    45    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         3     21    45    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         3     21    45    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     11    45    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         2     11    45    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 17:
@@ -441,11 +441,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     11    45    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         2     11    45    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 18:
@@ -455,37 +455,37 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         2     11    45    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         2     11    45    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 19:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         1     1     45    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         1     1     45    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 20:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         0     0     45    Rogue  
-2          Daniel          2         5     0     34    Rogue  
-3          Efrat           2         5     0     12    Wizard  
-4          Daniel          1         5     0     10    Rogue  
-5          Daniel          1         5     0     10    Rogue  
+1          Amirmann        1         0     0     45    Ninja  
+2          Daniel          2         5     0     34    Ninja  
+3          Efrat           2         5     0     12    Healer  
+4          Daniel          1         5     0     10    Ninja  
+5          Daniel          1         5     0     10    Ninja  

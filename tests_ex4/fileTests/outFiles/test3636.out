@@ -235,10 +235,10 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Wizard  
-2          Efrat           1         5     90    10    Rogue  
-3          Efrat           1         5     90    10    Fighter  
-4          Efrat           1         5     100   10    Rogue  
+1          Amirmann        1         5     100   10    Healer  
+2          Efrat           1         5     90    10    Ninja  
+3          Efrat           1         5     90    10    Warrior  
+4          Efrat           1         5     100   10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -246,18 +246,18 @@ Start of round 2:
 Start of Amirmann's turn: 
 You fell into the trap, lose 10 health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    10    Wizard  
-2          Efrat           2         5     90    14    Rogue  
-3          Efrat           1         5     90    20    Fighter  
-4          Efrat           2         5     100   14    Rogue  
+1          Amirmann        1         5     90    10    Healer  
+2          Efrat           2         5     90    14    Ninja  
+3          Efrat           1         5     90    20    Warrior  
+4          Efrat           2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -265,7 +265,7 @@ Start of round 3:
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 Nothing happened.
 Start of Efrat's turn: 
@@ -273,29 +273,29 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     80    10    Wizard  
-2          Efrat           3         5     90    18    Rogue  
-3          Efrat           1         5     90    20    Fighter  
-4          Efrat           2         5     100   14    Rogue  
+1          Amirmann        1         5     80    10    Healer  
+2          Efrat           3         5     90    18    Ninja  
+3          Efrat           1         5     90    20    Warrior  
+4          Efrat           2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     80    12    Wizard  
-2          Efrat           2         5     90    22    Fighter  
-3          Efrat           2         4     90    14    Rogue  
-4          Efrat           3         5     0     18    Rogue  
+1          Amirmann        2         5     80    12    Healer  
+2          Efrat           2         5     90    22    Warrior  
+3          Efrat           2         4     90    14    Ninja  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -309,10 +309,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     80    22    Wizard  
-2          Efrat           2         5     90    32    Fighter  
-3          Efrat           2         4     90    34    Rogue  
-4          Efrat           3         5     0     18    Rogue  
+1          Amirmann        2         5     80    22    Healer  
+2          Efrat           2         5     90    32    Warrior  
+3          Efrat           2         4     90    34    Ninja  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -326,10 +326,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     90    32    Fighter  
-2          Efrat           2         4     90    34    Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           2         5     90    32    Warrior  
+2          Efrat           2         4     90    34    Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -341,10 +341,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     90    32    Fighter  
-2          Efrat           2         4     90    54    Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           2         5     90    32    Warrior  
+2          Efrat           2         4     90    54    Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -352,14 +352,14 @@ Start of round 8:
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     90    32    Fighter  
-2          Efrat           3         4     90    58    Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           2         5     90    32    Warrior  
+2          Efrat           3         4     90    58    Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -379,10 +379,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     90    22    Fighter  
-2          Efrat           3         4     90    58    Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           2         6     90    22    Warrior  
+2          Efrat           3         4     90    58    Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -390,14 +390,14 @@ Start of round 10:
 Start of Efrat's turn: 
 You fell into the trap, lose 10 health points.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     80    22    Fighter  
-2          Efrat           3         3     80    58    Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           2         6     80    22    Warrior  
+2          Efrat           3         3     80    58    Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -409,16 +409,16 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     80    22    Fighter  
-2          Efrat           3         3     80    78    Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           2         6     80    22    Warrior  
+2          Efrat           3         3     80    78    Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -433,10 +433,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     80    24    Fighter  
-2          Efrat           3         4     80    68    Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           3         6     80    24    Warrior  
+2          Efrat           3         4     80    68    Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -444,20 +444,20 @@ Start of round 13:
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     80    34    Fighter  
-2          Efrat           3         3     70    68    Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           3         6     80    34    Warrior  
+2          Efrat           3         3     70    68    Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -472,10 +472,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         6     80    36    Fighter  
-2          Efrat           3         3     71    63    Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           4         6     80    36    Warrior  
+2          Efrat           3         3     71    63    Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -487,10 +487,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         6     80    36    Fighter  
-2          Efrat           3         3     71    83    Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           4         6     80    36    Warrior  
+2          Efrat           3         3     71    83    Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -502,10 +502,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         6     80    36    Fighter  
-2          Efrat           3         3     61    83    Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           4         6     80    36    Warrior  
+2          Efrat           3         3     61    83    Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 17:
@@ -513,14 +513,14 @@ Start of round 17:
 Start of Efrat's turn: 
 You fell into the trap, lose 10 health points.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         6     70    36    Fighter  
-2          Efrat           3         2     51    83    Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           4         6     70    36    Warrior  
+2          Efrat           3         2     51    83    Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 18:
@@ -532,10 +532,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         6     70    36    Fighter  
-2          Efrat           3         2     51    103   Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           4         6     70    36    Warrior  
+2          Efrat           3         2     51    103   Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 19:
@@ -543,74 +543,74 @@ Start of round 19:
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Goblin.
+Player Efrat has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           4         6     70    36    Fighter  
-2          Efrat           3         2     41    103   Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           4         6     70    36    Warrior  
+2          Efrat           3         2     41    103   Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 20:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Goblin.
+Player Efrat has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           5         6     70    38    Fighter  
-2          Efrat           3         2     31    103   Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           5         6     70    38    Warrior  
+2          Efrat           3         2     31    103   Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 21:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           6         6     70    40    Fighter  
-2          Efrat           3         2     31    103   Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           6         6     70    40    Warrior  
+2          Efrat           3         2     31    103   Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 22:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           7         6     70    42    Fighter  
-2          Efrat           3         2     31    103   Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           7         6     70    42    Warrior  
+2          Efrat           3         2     31    103   Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 23:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           8         6     70    44    Fighter  
-2          Efrat           3         1     21    103   Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           8         6     70    44    Warrior  
+2          Efrat           3         1     21    103   Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 24:
@@ -622,10 +622,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           8         6     70    44    Fighter  
-2          Efrat           3         1     21    123   Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           8         6     70    44    Warrior  
+2          Efrat           3         1     21    123   Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 25:
@@ -637,25 +637,25 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           8         6     60    44    Fighter  
-2          Efrat           3         1     21    123   Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           8         6     60    44    Warrior  
+2          Efrat           3         1     21    123   Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 26:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           9         6     60    46    Fighter  
-2          Efrat           3         0     11    123   Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           9         6     60    46    Warrior  
+2          Efrat           3         0     11    123   Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 27:
@@ -667,10 +667,10 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           9         6     60    46    Fighter  
-2          Efrat           3         0     11    123   Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           9         6     60    46    Warrior  
+2          Efrat           3         0     11    123   Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 28:
@@ -678,14 +678,14 @@ Start of round 28:
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           9         6     60    56    Fighter  
-2          Efrat           3         0     1     123   Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           9         6     60    56    Warrior  
+2          Efrat           3         0     1     123   Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 29:
@@ -697,10 +697,10 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           9         6     60    66    Fighter  
-2          Efrat           3         0     0     123   Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           9         6     60    66    Warrior  
+2          Efrat           3         0     0     123   Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  
 
 -------------------------------------------
 Start of round 30:
@@ -711,7 +711,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           9         6     0     66    Fighter  
-2          Efrat           3         0     0     123   Rogue  
-3          Amirmann        2         5     0     22    Wizard  
-4          Efrat           3         5     0     18    Rogue  
+1          Efrat           9         6     0     66    Warrior  
+2          Efrat           3         0     0     123   Ninja  
+3          Amirmann        2         5     0     22    Healer  
+4          Efrat           3         5     0     18    Ninja  

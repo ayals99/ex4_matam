@@ -227,17 +227,17 @@ Safe travels!
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Wizard  
-2          Efrat           1         5     100   5     Fighter  
-3          GalLalush       1         5     90    10    Rogue  
-4          TomerM          2         5     100   14    Rogue  
-5          Daniel          1         5     100   20    Wizard  
+1          TomerM          1         5     90    10    Healer  
+2          Efrat           1         5     100   5     Warrior  
+3          GalLalush       1         5     90    10    Ninja  
+4          TomerM          2         5     100   14    Ninja  
+5          Daniel          1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -262,11 +262,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     80    10    Wizard  
-2          Efrat           1         5     100   0     Fighter  
-3          GalLalush       1         5     90    30    Rogue  
-4          TomerM          2         5     100   14    Rogue  
-5          Daniel          1         5     90    20    Wizard  
+1          TomerM          1         5     80    10    Healer  
+2          Efrat           1         5     100   0     Warrior  
+3          GalLalush       1         5     90    30    Ninja  
+4          TomerM          2         5     100   14    Ninja  
+5          Daniel          1         5     90    20    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -285,7 +285,7 @@ Safe travels!
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
@@ -293,11 +293,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     80    10    Wizard  
-2          Efrat           1         5     100   0     Fighter  
-3          GalLalush       2         5     90    34    Rogue  
-4          TomerM          2         5     100   34    Rogue  
-5          Daniel          1         5     80    20    Wizard  
+1          TomerM          1         5     80    10    Healer  
+2          Efrat           1         5     100   0     Warrior  
+3          GalLalush       2         5     90    34    Ninja  
+4          TomerM          2         5     100   34    Ninja  
+5          Daniel          1         5     80    20    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -332,11 +332,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     82    5     Wizard  
-2          Efrat           1         5     100   10    Fighter  
-3          GalLalush       2         5     90    34    Rogue  
-4          TomerM          2         5     90    34    Rogue  
-5          Daniel          1         6     80    10    Wizard  
+1          TomerM          1         5     82    5     Healer  
+2          Efrat           1         5     100   10    Warrior  
+3          GalLalush       2         5     90    34    Ninja  
+4          TomerM          2         5     90    34    Ninja  
+5          Daniel          1         6     80    10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -344,7 +344,7 @@ Start of round 5:
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
@@ -361,11 +361,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     72    5     Wizard  
-2          Efrat           2         5     100   12    Fighter  
-3          GalLalush       2         5     90    54    Rogue  
-4          TomerM          2         5     90    34    Rogue  
-5          Daniel          1         6     82    5     Wizard  
+1          TomerM          1         5     72    5     Healer  
+2          Efrat           2         5     100   12    Warrior  
+3          GalLalush       2         5     90    54    Ninja  
+4          TomerM          2         5     90    34    Ninja  
+5          Daniel          1         6     82    5     Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -391,17 +391,17 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     72    15    Wizard  
-2          Efrat           2         5     100   12    Fighter  
-3          GalLalush       2         5     80    54    Rogue  
-4          TomerM          2         5     90    34    Rogue  
-5          Daniel          1         6     72    5     Wizard  
+1          TomerM          1         5     72    15    Healer  
+2          Efrat           2         5     100   12    Warrior  
+3          GalLalush       2         5     80    54    Ninja  
+4          TomerM          2         5     90    34    Ninja  
+5          Daniel          1         6     72    5     Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
@@ -422,17 +422,17 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     72    17    Wizard  
-2          Efrat           2         5     100   22    Fighter  
-3          GalLalush       2         5     80    54    Rogue  
-4          TomerM          2         6     90    24    Rogue  
-5          Daniel          1         6     72    15    Wizard  
+1          TomerM          2         5     72    17    Healer  
+2          Efrat           2         5     100   22    Warrior  
+3          GalLalush       2         5     80    54    Ninja  
+4          TomerM          2         6     90    24    Ninja  
+5          Daniel          1         6     72    15    Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of GalLalush's turn: 
@@ -449,15 +449,15 @@ Safe travels!
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     92    17    Wizard  
-2          Efrat           2         5     100   22    Fighter  
-3          GalLalush       2         5     81    49    Rogue  
-4          TomerM          2         6     80    24    Rogue  
-5          Daniel          2         6     72    17    Wizard  
+1          TomerM          2         5     92    17    Healer  
+2          Efrat           2         5     100   22    Warrior  
+3          GalLalush       2         5     81    49    Ninja  
+4          TomerM          2         6     80    24    Ninja  
+5          Daniel          2         6     72    17    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -478,15 +478,15 @@ Safe travels!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     92    27    Wizard  
-2          Efrat           2         5     90    22    Fighter  
-3          GalLalush       2         5     82    44    Rogue  
-4          TomerM          2         6     80    44    Rogue  
-5          Daniel          2         6     92    17    Wizard  
+1          TomerM          2         5     92    27    Healer  
+2          Efrat           2         5     90    22    Warrior  
+3          GalLalush       2         5     82    44    Ninja  
+4          TomerM          2         6     80    44    Ninja  
+5          Daniel          2         6     92    17    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -507,17 +507,17 @@ Safe travels!
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     82    27    Wizard  
-2          Efrat           2         5     90    22    Fighter  
-3          GalLalush       2         5     72    44    Rogue  
-4          TomerM          3         6     80    48    Rogue  
-5          Daniel          2         6     92    27    Wizard  
+1          TomerM          2         5     82    27    Healer  
+2          Efrat           2         5     90    22    Warrior  
+3          GalLalush       2         5     72    44    Ninja  
+4          TomerM          3         6     80    48    Ninja  
+5          Daniel          2         6     92    27    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -543,11 +543,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     72    27    Wizard  
-2          Efrat           2         5     91    17    Fighter  
-3          GalLalush       2         5     72    64    Rogue  
-4          TomerM          3         6     80    48    Rogue  
-5          Daniel          2         6     82    27    Wizard  
+1          TomerM          2         5     72    27    Healer  
+2          Efrat           2         5     91    17    Warrior  
+3          GalLalush       2         5     72    64    Ninja  
+4          TomerM          3         6     80    48    Ninja  
+5          Daniel          2         6     82    27    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -564,7 +564,7 @@ Safe travels!
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
@@ -572,11 +572,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     74    22    Wizard  
-2          Efrat           2         5     91    17    Fighter  
-3          GalLalush       3         5     72    68    Rogue  
-4          TomerM          3         6     80    68    Rogue  
-5          Daniel          2         6     72    27    Wizard  
+1          TomerM          2         5     74    22    Healer  
+2          Efrat           2         5     91    17    Warrior  
+3          GalLalush       3         5     72    68    Ninja  
+4          TomerM          3         6     80    68    Ninja  
+5          Daniel          2         6     72    27    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -609,11 +609,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         6     74    12    Wizard  
-2          Efrat           2         5     91    27    Fighter  
-3          GalLalush       3         5     72    68    Rogue  
-4          TomerM          3         6     70    68    Rogue  
-5          Daniel          2         7     72    17    Wizard  
+1          TomerM          2         6     74    12    Healer  
+2          Efrat           2         5     91    27    Warrior  
+3          GalLalush       3         5     72    68    Ninja  
+4          TomerM          3         6     70    68    Ninja  
+5          Daniel          2         7     72    17    Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -621,7 +621,7 @@ Start of round 14:
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
@@ -638,11 +638,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         6     64    12    Wizard  
-2          Efrat           3         5     91    29    Fighter  
-3          GalLalush       3         5     72    88    Rogue  
-4          TomerM          3         6     70    68    Rogue  
-5          Daniel          2         7     72    17    Wizard  
+1          TomerM          2         6     64    12    Healer  
+2          Efrat           3         5     91    29    Warrior  
+3          GalLalush       3         5     72    88    Ninja  
+4          TomerM          3         6     70    68    Ninja  
+5          Daniel          2         7     72    17    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -667,17 +667,17 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         6     64    22    Wizard  
-2          Efrat           3         5     91    29    Fighter  
-3          GalLalush       3         5     62    88    Rogue  
-4          TomerM          3         6     70    68    Rogue  
-5          Daniel          2         7     62    17    Wizard  
+1          TomerM          2         6     64    22    Healer  
+2          Efrat           3         5     91    29    Warrior  
+3          GalLalush       3         5     62    88    Ninja  
+4          TomerM          3         6     70    68    Ninja  
+5          Daniel          2         7     62    17    Healer  
 
 -------------------------------------------
 Start of round 16:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
@@ -696,17 +696,17 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         6     64    24    Wizard  
-2          Efrat           3         5     91    39    Fighter  
-3          GalLalush       3         5     62    88    Rogue  
-4          TomerM          3         7     70    58    Rogue  
-5          Daniel          2         7     62    27    Wizard  
+1          TomerM          3         6     64    24    Healer  
+2          Efrat           3         5     91    39    Warrior  
+3          GalLalush       3         5     62    88    Ninja  
+4          TomerM          3         7     70    58    Ninja  
+5          Daniel          2         7     62    27    Healer  
 
 -------------------------------------------
 Start of round 17:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of GalLalush's turn: 
@@ -723,15 +723,15 @@ Safe travels!
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         6     84    24    Wizard  
-2          Efrat           3         5     91    39    Fighter  
-3          GalLalush       3         5     63    83    Rogue  
-4          TomerM          3         7     60    58    Rogue  
-5          Daniel          3         7     62    29    Wizard  
+1          TomerM          3         6     84    24    Healer  
+2          Efrat           3         5     91    39    Warrior  
+3          GalLalush       3         5     63    83    Ninja  
+4          TomerM          3         7     60    58    Ninja  
+5          Daniel          3         7     62    29    Healer  
 
 -------------------------------------------
 Start of round 18:
@@ -753,15 +753,15 @@ Safe travels!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         6     84    34    Wizard  
-2          Efrat           3         5     81    39    Fighter  
-3          GalLalush       3         5     64    78    Rogue  
-4          TomerM          3         7     60    78    Rogue  
-5          Daniel          3         7     82    29    Wizard  
+1          TomerM          3         6     84    34    Healer  
+2          Efrat           3         5     81    39    Warrior  
+3          GalLalush       3         5     64    78    Ninja  
+4          TomerM          3         7     60    78    Ninja  
+5          Daniel          3         7     82    29    Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -781,17 +781,17 @@ Safe travels!
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         6     74    34    Wizard  
-2          Efrat           3         5     82    34    Fighter  
-3          GalLalush       3         5     54    78    Rogue  
-4          TomerM          4         7     60    82    Rogue  
-5          Daniel          3         7     82    39    Wizard  
+1          TomerM          3         6     74    34    Healer  
+2          Efrat           3         5     82    34    Warrior  
+3          GalLalush       3         5     54    78    Ninja  
+4          TomerM          4         7     60    82    Ninja  
+5          Daniel          3         7     82    39    Healer  
 
 -------------------------------------------
 Start of round 20:
@@ -817,11 +817,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         6     64    34    Wizard  
-2          Efrat           3         5     83    29    Fighter  
-3          GalLalush       3         5     54    98    Rogue  
-4          TomerM          4         7     60    82    Rogue  
-5          Daniel          3         7     72    39    Wizard  
+1          TomerM          3         6     64    34    Healer  
+2          Efrat           3         5     83    29    Warrior  
+3          GalLalush       3         5     54    98    Ninja  
+4          TomerM          4         7     60    82    Ninja  
+5          Daniel          3         7     72    39    Healer  
 
 -------------------------------------------
 Start of round 21:
@@ -839,7 +839,7 @@ Safe travels!
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
@@ -847,11 +847,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         7     64    24    Wizard  
-2          Efrat           3         5     83    29    Fighter  
-3          GalLalush       4         5     54    102   Rogue  
-4          TomerM          4         7     60    102   Rogue  
-5          Daniel          3         7     62    39    Wizard  
+1          TomerM          3         7     64    24    Healer  
+2          Efrat           3         5     83    29    Warrior  
+3          GalLalush       4         5     54    102   Ninja  
+4          TomerM          4         7     60    102   Ninja  
+5          Daniel          3         7     62    39    Healer  
 
 -------------------------------------------
 Start of round 22:
@@ -886,11 +886,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         8     64    14    Wizard  
-2          Efrat           3         5     83    39    Fighter  
-3          GalLalush       4         5     54    102   Rogue  
-4          TomerM          4         7     50    102   Rogue  
-5          Daniel          3         8     62    29    Wizard  
+1          TomerM          3         8     64    14    Healer  
+2          Efrat           3         5     83    39    Warrior  
+3          GalLalush       4         5     54    102   Ninja  
+4          TomerM          4         7     50    102   Ninja  
+5          Daniel          3         8     62    29    Healer  
 
 -------------------------------------------
 Start of round 23:
@@ -898,7 +898,7 @@ Start of round 23:
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
@@ -915,11 +915,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         8     54    14    Wizard  
-2          Efrat           4         5     83    41    Fighter  
-3          GalLalush       4         5     54    122   Rogue  
-4          TomerM          4         7     50    102   Rogue  
-5          Daniel          3         8     64    24    Wizard  
+1          TomerM          3         8     54    14    Healer  
+2          Efrat           4         5     83    41    Warrior  
+3          GalLalush       4         5     54    122   Ninja  
+4          TomerM          4         7     50    102   Ninja  
+5          Daniel          3         8     64    24    Healer  
 
 -------------------------------------------
 Start of round 24:
@@ -944,17 +944,17 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         8     54    24    Wizard  
-2          Efrat           4         5     83    41    Fighter  
-3          GalLalush       4         5     44    122   Rogue  
-4          TomerM          4         7     50    102   Rogue  
-5          Daniel          3         8     54    24    Wizard  
+1          TomerM          3         8     54    24    Healer  
+2          Efrat           4         5     83    41    Warrior  
+3          GalLalush       4         5     44    122   Ninja  
+4          TomerM          4         7     50    102   Ninja  
+5          Daniel          3         8     54    24    Healer  
 
 -------------------------------------------
 Start of round 25:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
@@ -975,17 +975,17 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         8     54    26    Wizard  
-2          Efrat           4         5     83    51    Fighter  
-3          GalLalush       4         5     44    122   Rogue  
-4          TomerM          4         7     50    102   Rogue  
-5          Daniel          3         8     54    34    Wizard  
+1          TomerM          4         8     54    26    Healer  
+2          Efrat           4         5     83    51    Warrior  
+3          GalLalush       4         5     44    122   Ninja  
+4          TomerM          4         7     50    102   Ninja  
+5          Daniel          3         8     54    34    Healer  
 
 -------------------------------------------
 Start of round 26:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of GalLalush's turn: 
@@ -1001,15 +1001,15 @@ Safe travels!
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         8     74    26    Wizard  
-2          Efrat           4         5     83    51    Fighter  
-3          GalLalush       4         5     45    117   Rogue  
-4          TomerM          4         7     40    102   Rogue  
-5          Daniel          4         8     54    36    Wizard  
+1          TomerM          4         8     74    26    Healer  
+2          Efrat           4         5     83    51    Warrior  
+3          GalLalush       4         5     45    117   Ninja  
+4          TomerM          4         7     40    102   Ninja  
+5          Daniel          4         8     54    36    Healer  
 
 -------------------------------------------
 Start of round 27:
@@ -1032,15 +1032,15 @@ Safe travels!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         8     74    36    Wizard  
-2          Efrat           4         5     73    51    Fighter  
-3          GalLalush       4         5     45    117   Rogue  
-4          TomerM          4         7     40    122   Rogue  
-5          Daniel          4         8     74    36    Wizard  
+1          TomerM          4         8     74    36    Healer  
+2          Efrat           4         5     73    51    Warrior  
+3          GalLalush       4         5     45    117   Ninja  
+4          TomerM          4         7     40    122   Ninja  
+5          Daniel          4         8     74    36    Healer  
 
 -------------------------------------------
 Start of round 28:
@@ -1060,17 +1060,17 @@ Safe travels!
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         8     64    36    Wizard  
-2          Efrat           4         6     73    41    Fighter  
-3          GalLalush       4         5     35    117   Rogue  
-4          TomerM          5         7     40    126   Rogue  
-5          Daniel          4         8     74    46    Wizard  
+1          TomerM          4         8     64    36    Healer  
+2          Efrat           4         6     73    41    Warrior  
+3          GalLalush       4         5     35    117   Ninja  
+4          TomerM          5         7     40    126   Ninja  
+5          Daniel          4         8     74    46    Healer  
 
 -------------------------------------------
 Start of round 29:
@@ -1097,11 +1097,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         8     54    36    Wizard  
-2          Efrat           4         6     74    36    Fighter  
-3          GalLalush       4         5     35    137   Rogue  
-4          TomerM          5         7     40    126   Rogue  
-5          Daniel          4         8     64    46    Wizard  
+1          TomerM          4         8     54    36    Healer  
+2          Efrat           4         6     74    36    Warrior  
+3          GalLalush       4         5     35    137   Ninja  
+4          TomerM          5         7     40    126   Ninja  
+5          Daniel          4         8     64    46    Healer  
 
 -------------------------------------------
 Start of round 30:
@@ -1118,7 +1118,7 @@ Safe travels!
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
@@ -1126,11 +1126,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         9     54    26    Wizard  
-2          Efrat           4         6     74    36    Fighter  
-3          GalLalush       5         5     35    141   Rogue  
-4          TomerM          5         7     40    146   Rogue  
-5          Daniel          4         8     54    46    Wizard  
+1          TomerM          4         9     54    26    Healer  
+2          Efrat           4         6     74    36    Warrior  
+3          GalLalush       5         5     35    141   Ninja  
+4          TomerM          5         7     40    146   Ninja  
+5          Daniel          4         8     54    46    Healer  
 
 -------------------------------------------
 Start of round 31:
@@ -1165,11 +1165,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         9     54    26    Wizard  
-2          Efrat           4         6     74    46    Fighter  
-3          GalLalush       5         5     35    141   Rogue  
-4          TomerM          5         7     30    146   Rogue  
-5          Daniel          4         8     54    46    Wizard  
+1          TomerM          4         9     54    26    Healer  
+2          Efrat           4         6     74    46    Warrior  
+3          GalLalush       5         5     35    141   Ninja  
+4          TomerM          5         7     30    146   Ninja  
+5          Daniel          4         8     54    46    Healer  
 
 -------------------------------------------
 Start of round 32:
@@ -1177,7 +1177,7 @@ Start of round 32:
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
@@ -1194,11 +1194,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         9     44    26    Wizard  
-2          Efrat           5         6     74    48    Fighter  
-3          GalLalush       5         5     35    161   Rogue  
-4          TomerM          5         7     30    146   Rogue  
-5          Daniel          4         8     56    41    Wizard  
+1          TomerM          4         9     44    26    Healer  
+2          Efrat           5         6     74    48    Warrior  
+3          GalLalush       5         5     35    161   Ninja  
+4          TomerM          5         7     30    146   Ninja  
+5          Daniel          4         8     56    41    Healer  
 
 -------------------------------------------
 Start of round 33:
@@ -1224,17 +1224,17 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         9     44    36    Wizard  
-2          Efrat           5         6     74    48    Fighter  
-3          GalLalush       5         5     25    161   Rogue  
-4          TomerM          5         7     31    141   Rogue  
-5          Daniel          4         8     46    41    Wizard  
+1          TomerM          4         9     44    36    Healer  
+2          Efrat           5         6     74    48    Warrior  
+3          GalLalush       5         5     25    161   Ninja  
+4          TomerM          5         7     31    141   Ninja  
+5          Daniel          4         8     46    41    Healer  
 
 -------------------------------------------
 Start of round 34:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
@@ -1254,17 +1254,17 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         9     44    38    Wizard  
-2          Efrat           5         6     74    58    Fighter  
-3          GalLalush       5         5     25    161   Rogue  
-4          TomerM          5         7     32    136   Rogue  
-5          Daniel          4         8     46    51    Wizard  
+1          TomerM          5         9     44    38    Healer  
+2          Efrat           5         6     74    58    Warrior  
+3          GalLalush       5         5     25    161   Ninja  
+4          TomerM          5         7     32    136   Ninja  
+5          Daniel          4         8     46    51    Healer  
 
 -------------------------------------------
 Start of round 35:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of GalLalush's turn: 
@@ -1281,15 +1281,15 @@ Safe travels!
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         9     64    38    Wizard  
-2          Efrat           5         6     74    58    Fighter  
-3          GalLalush       5         5     25    161   Rogue  
-4          TomerM          5         7     22    136   Rogue  
-5          Daniel          5         8     46    53    Wizard  
+1          TomerM          5         9     64    38    Healer  
+2          Efrat           5         6     74    58    Warrior  
+3          GalLalush       5         5     25    161   Ninja  
+4          TomerM          5         7     22    136   Ninja  
+5          Daniel          5         8     46    53    Healer  
 
 -------------------------------------------
 Start of round 36:
@@ -1311,15 +1311,15 @@ Safe travels!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         9     64    48    Wizard  
-2          Efrat           5         6     64    58    Fighter  
-3          GalLalush       5         5     25    161   Rogue  
-4          TomerM          5         7     22    156   Rogue  
-5          Daniel          5         8     66    53    Wizard  
+1          TomerM          5         9     64    48    Healer  
+2          Efrat           5         6     64    58    Warrior  
+3          GalLalush       5         5     25    161   Ninja  
+4          TomerM          5         7     22    156   Ninja  
+5          Daniel          5         8     66    53    Healer  
 
 -------------------------------------------
 Start of round 37:
@@ -1339,17 +1339,17 @@ Safe travels!
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         9     54    48    Wizard  
-2          Efrat           5         6     65    53    Fighter  
-3          GalLalush       5         5     15    161   Rogue  
-4          TomerM          6         7     22    160   Rogue  
-5          Daniel          5         8     66    63    Wizard  
+1          TomerM          5         9     54    48    Healer  
+2          Efrat           5         6     65    53    Warrior  
+3          GalLalush       5         5     15    161   Ninja  
+4          TomerM          6         7     22    160   Ninja  
+5          Daniel          5         8     66    63    Healer  
 
 -------------------------------------------
 Start of round 38:
@@ -1374,11 +1374,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         9     44    48    Wizard  
-2          Efrat           5         6     65    53    Fighter  
-3          GalLalush       5         5     15    181   Rogue  
-4          TomerM          6         7     22    160   Rogue  
-5          Daniel          5         8     56    63    Wizard  
+1          TomerM          5         9     44    48    Healer  
+2          Efrat           5         6     65    53    Warrior  
+3          GalLalush       5         5     15    181   Ninja  
+4          TomerM          6         7     22    160   Ninja  
+5          Daniel          5         8     56    63    Healer  
 
 -------------------------------------------
 Start of round 39:
@@ -1396,7 +1396,7 @@ Safe travels!
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
@@ -1404,11 +1404,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         9     46    43    Wizard  
-2          Efrat           5         6     65    53    Fighter  
-3          GalLalush       6         5     15    185   Rogue  
-4          TomerM          6         7     22    180   Rogue  
-5          Daniel          5         8     46    63    Wizard  
+1          TomerM          5         9     46    43    Healer  
+2          Efrat           5         6     65    53    Warrior  
+3          GalLalush       6         5     15    185   Ninja  
+4          TomerM          6         7     22    180   Ninja  
+5          Daniel          5         8     46    63    Healer  
 
 -------------------------------------------
 Start of round 40:
@@ -1442,11 +1442,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         9     48    38    Wizard  
-2          Efrat           5         6     65    63    Fighter  
-3          GalLalush       6         5     15    185   Rogue  
-4          TomerM          6         7     12    180   Rogue  
-5          Daniel          5         8     46    63    Wizard  
+1          TomerM          5         9     48    38    Healer  
+2          Efrat           5         6     65    63    Warrior  
+3          GalLalush       6         5     15    185   Ninja  
+4          TomerM          6         7     12    180   Ninja  
+5          Daniel          5         8     46    63    Healer  
 
 -------------------------------------------
 Start of round 41:
@@ -1454,7 +1454,7 @@ Start of round 41:
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
@@ -1471,11 +1471,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         9     38    38    Wizard  
-2          Efrat           6         6     65    65    Fighter  
-3          GalLalush       6         5     15    205   Rogue  
-4          TomerM          6         7     12    180   Rogue  
-5          Daniel          5         9     46    53    Wizard  
+1          TomerM          5         9     38    38    Healer  
+2          Efrat           6         6     65    65    Warrior  
+3          GalLalush       6         5     15    205   Ninja  
+4          TomerM          6         7     12    180   Ninja  
+5          Daniel          5         9     46    53    Healer  
 
 -------------------------------------------
 Start of round 42:
@@ -1500,17 +1500,17 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         9     38    48    Wizard  
-2          Efrat           6         6     65    65    Fighter  
-3          GalLalush       6         5     5     205   Rogue  
-4          TomerM          6         8     12    170   Rogue  
-5          Daniel          5         9     36    53    Wizard  
+1          TomerM          5         9     38    48    Healer  
+2          Efrat           6         6     65    65    Warrior  
+3          GalLalush       6         5     5     205   Ninja  
+4          TomerM          6         8     12    170   Ninja  
+5          Daniel          5         9     36    53    Healer  
 
 -------------------------------------------
 Start of round 43:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
@@ -1529,17 +1529,17 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         9     38    50    Wizard  
-2          Efrat           6         6     65    75    Fighter  
-3          GalLalush       6         5     5     205   Rogue  
-4          TomerM          6         8     12    170   Rogue  
-5          Daniel          5         9     36    63    Wizard  
+1          TomerM          6         9     38    50    Healer  
+2          Efrat           6         6     65    75    Warrior  
+3          GalLalush       6         5     5     205   Ninja  
+4          TomerM          6         8     12    170   Ninja  
+5          Daniel          5         9     36    63    Healer  
 
 -------------------------------------------
 Start of round 44:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of GalLalush's turn: 
@@ -1555,15 +1555,15 @@ Safe travels!
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         9     58    50    Wizard  
-2          Efrat           6         6     65    75    Fighter  
-3          GalLalush       6         6     5     195   Rogue  
-4          TomerM          6         8     2     170   Rogue  
-5          Daniel          6         9     36    65    Wizard  
+1          TomerM          6         9     58    50    Healer  
+2          Efrat           6         6     65    75    Warrior  
+3          GalLalush       6         6     5     195   Ninja  
+4          TomerM          6         8     2     170   Ninja  
+5          Daniel          6         9     36    65    Healer  
 
 -------------------------------------------
 Start of round 45:
@@ -1585,15 +1585,15 @@ Safe travels!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         9     58    60    Wizard  
-2          Efrat           6         6     55    75    Fighter  
-3          GalLalush       6         6     6     190   Rogue  
-4          TomerM          6         8     2     190   Rogue  
-5          Daniel          6         9     56    65    Wizard  
+1          TomerM          6         9     58    60    Healer  
+2          Efrat           6         6     55    75    Warrior  
+3          GalLalush       6         6     6     190   Ninja  
+4          TomerM          6         8     2     190   Ninja  
+5          Daniel          6         9     56    65    Healer  
 
 -------------------------------------------
 Start of round 46:
@@ -1614,17 +1614,17 @@ Safe travels!
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         9     48    60    Wizard  
-2          Efrat           6         7     55    65    Fighter  
-3          TomerM          7         8     2     194   Rogue  
-4          Daniel          6         9     56    75    Wizard  
-5          GalLalush       6         6     0     190   Rogue  
+1          TomerM          6         9     48    60    Healer  
+2          Efrat           6         7     55    65    Warrior  
+3          TomerM          7         8     2     194   Ninja  
+4          Daniel          6         9     56    75    Healer  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 47:
@@ -1643,15 +1643,15 @@ Safe travels!
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         9     38    60    Wizard  
-2          Efrat           6         7     56    60    Fighter  
-3          TomerM          7         8     2     214   Rogue  
-4          Daniel          6         9     76    75    Wizard  
-5          GalLalush       6         6     0     190   Rogue  
+1          TomerM          6         9     38    60    Healer  
+2          Efrat           6         7     56    60    Warrior  
+3          TomerM          7         8     2     214   Ninja  
+4          Daniel          6         9     76    75    Healer  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 48:
@@ -1670,15 +1670,15 @@ Safe travels!
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         9     28    60    Wizard  
-2          Efrat           6         8     56    50    Fighter  
-3          Daniel          7         9     76    77    Wizard  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          TomerM          6         9     28    60    Healer  
+2          Efrat           6         8     56    50    Warrior  
+3          Daniel          7         9     76    77    Healer  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 49:
@@ -1699,11 +1699,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         9     28    70    Wizard  
-2          Efrat           6         8     46    50    Fighter  
-3          Daniel          7         9     76    77    Wizard  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          TomerM          6         9     28    70    Healer  
+2          Efrat           6         8     46    50    Warrior  
+3          Daniel          7         9     76    77    Healer  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 50:
@@ -1717,11 +1717,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         9     28    80    Wizard  
-2          Efrat           6         8     46    50    Fighter  
-3          Daniel          7         9     66    77    Wizard  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          TomerM          6         9     28    80    Healer  
+2          Efrat           6         8     46    50    Warrior  
+3          Daniel          7         9     66    77    Healer  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 51:
@@ -1740,15 +1740,15 @@ Safe travels!
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         9     28    80    Wizard  
-2          Efrat           6         8     46    50    Fighter  
-3          Daniel          8         9     66    79    Wizard  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          TomerM          6         9     28    80    Healer  
+2          Efrat           6         8     46    50    Warrior  
+3          Daniel          8         9     66    79    Healer  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 52:
@@ -1770,11 +1770,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         9     28    90    Wizard  
-2          Efrat           6         8     36    50    Fighter  
-3          Daniel          8         10    66    69    Wizard  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          TomerM          6         9     28    90    Healer  
+2          Efrat           6         8     36    50    Warrior  
+3          Daniel          8         10    66    69    Healer  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 53:
@@ -1788,11 +1788,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         9     28    100   Wizard  
-2          Efrat           6         8     36    50    Fighter  
-3          Daniel          8         10    56    69    Wizard  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          TomerM          6         9     28    100   Healer  
+2          Efrat           6         8     36    50    Warrior  
+3          Daniel          8         10    56    69    Healer  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 54:
@@ -1810,15 +1810,15 @@ Safe travels!
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         9     28    100   Wizard  
-2          Efrat           6         8     36    50    Fighter  
-3          Daniel          9         10    56    71    Wizard  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          TomerM          6         9     28    100   Healer  
+2          Efrat           6         8     36    50    Warrior  
+3          Daniel          9         10    56    71    Healer  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 55:
@@ -1839,11 +1839,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         9     28    110   Wizard  
-2          Efrat           6         8     26    50    Fighter  
-3          Daniel          9         10    56    71    Wizard  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          TomerM          6         9     28    110   Healer  
+2          Efrat           6         8     26    50    Warrior  
+3          Daniel          9         10    56    71    Healer  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 56:
@@ -1857,11 +1857,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         9     28    120   Wizard  
-2          Efrat           6         8     26    50    Fighter  
-3          Daniel          9         10    46    71    Wizard  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          TomerM          6         9     28    120   Healer  
+2          Efrat           6         8     26    50    Warrior  
+3          Daniel          9         10    46    71    Healer  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 57:
@@ -1879,15 +1879,15 @@ Safe travels!
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          6         9     30    115   Wizard  
-3          Efrat           6         8     26    50    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          6         9     30    115   Healer  
+3          Efrat           6         8     26    50    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 58:
@@ -1899,11 +1899,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          6         9     30    125   Wizard  
-3          Efrat           6         8     16    50    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          6         9     30    125   Healer  
+3          Efrat           6         8     16    50    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 59:
@@ -1922,27 +1922,27 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          6         9     32    120   Wizard  
-3          Efrat           6         8     16    60    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          6         9     32    120   Healer  
+3          Efrat           6         8     16    60    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 60:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          6         9     52    120   Wizard  
-3          Efrat           6         8     16    60    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          6         9     52    120   Healer  
+3          Efrat           6         8     16    60    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 61:
@@ -1963,27 +1963,27 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          6         9     52    120   Wizard  
-3          Efrat           6         8     16    60    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          6         9     52    120   Healer  
+3          Efrat           6         8     16    60    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 62:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          7         9     52    122   Wizard  
-3          Efrat           6         8     16    70    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          7         9     52    122   Healer  
+3          Efrat           6         8     16    70    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 63:
@@ -2002,11 +2002,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          7         9     42    122   Wizard  
-3          Efrat           6         9     16    60    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          7         9     42    122   Healer  
+3          Efrat           6         9     16    60    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 64:
@@ -2018,11 +2018,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          7         9     42    132   Wizard  
-3          Efrat           6         9     16    60    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          7         9     42    132   Healer  
+3          Efrat           6         9     16    60    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 65:
@@ -2043,11 +2043,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          7         9     32    132   Wizard  
-3          Efrat           6         9     16    60    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          7         9     32    132   Healer  
+3          Efrat           6         9     16    60    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 66:
@@ -2055,15 +2055,15 @@ Start of round 66:
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          7         9     22    132   Wizard  
-3          Efrat           7         9     16    62    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          7         9     22    132   Healer  
+3          Efrat           7         9     16    62    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 67:
@@ -2075,11 +2075,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          7         9     22    142   Wizard  
-3          Efrat           7         9     6     62    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          7         9     22    142   Healer  
+3          Efrat           7         9     6     62    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 68:
@@ -2100,27 +2100,27 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          7         9     22    142   Wizard  
-3          Efrat           7         9     6     72    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          7         9     22    142   Healer  
+3          Efrat           7         9     6     72    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 69:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          7         9     42    142   Wizard  
-3          Efrat           7         9     6     72    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          7         9     42    142   Healer  
+3          Efrat           7         9     6     72    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 70:
@@ -2141,27 +2141,27 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          7         10    42    132   Wizard  
-3          Efrat           7         9     6     72    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          7         10    42    132   Healer  
+3          Efrat           7         9     6     72    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 71:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          8         10    42    134   Wizard  
-3          Efrat           7         9     6     82    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          8         10    42    134   Healer  
+3          Efrat           7         9     6     82    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 72:
@@ -2181,11 +2181,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          8         10    32    134   Wizard  
-3          Efrat           7         9     6     82    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          8         10    32    134   Healer  
+3          Efrat           7         9     6     82    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 73:
@@ -2197,11 +2197,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          8         10    32    144   Wizard  
-3          Efrat           7         9     6     82    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          8         10    32    144   Healer  
+3          Efrat           7         9     6     82    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 74:
@@ -2221,11 +2221,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          8         10    22    144   Wizard  
-3          Efrat           7         9     6     82    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          8         10    22    144   Healer  
+3          Efrat           7         9     6     82    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 75:
@@ -2233,15 +2233,15 @@ Start of round 75:
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          8         10    12    144   Wizard  
-3          Efrat           8         9     6     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          8         10    12    144   Healer  
+3          Efrat           8         9     6     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 76:
@@ -2253,11 +2253,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          8         10    12    154   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          8         10    12    154   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 77:
@@ -2276,11 +2276,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          8         11    12    144   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          8         11    12    144   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 78:
@@ -2290,25 +2290,25 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          8         11    12    154   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          8         11    12    154   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 79:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          8         11    32    154   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          8         11    32    154   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 80:
@@ -2318,11 +2318,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          8         11    22    154   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          8         11    22    154   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 81:
@@ -2341,11 +2341,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          8         11    24    149   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          8         11    24    149   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 82:
@@ -2355,25 +2355,25 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          8         11    14    149   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          8         11    14    149   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 83:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          9         11    14    151   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          9         11    14    151   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 84:
@@ -2383,11 +2383,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          9         11    14    161   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          9         11    14    161   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 85:
@@ -2397,11 +2397,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          9         11    4     161   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          9         11    4     161   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 86:
@@ -2420,11 +2420,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          9         11    4     161   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          9         11    4     161   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 87:
@@ -2434,25 +2434,25 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          9         11    4     171   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          9         11    4     171   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 88:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          9         11    24    171   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          9         11    24    171   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 89:
@@ -2462,11 +2462,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          9         11    14    171   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          9         11    14    171   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 90:
@@ -2485,11 +2485,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          9         11    14    171   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          9         11    14    171   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 91:
@@ -2499,23 +2499,23 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          9         11    4     171   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          9         11    4     171   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  
 
 -------------------------------------------
 Start of round 92:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          10        10    46    73    Wizard  
-2          TomerM          10        11    4     173   Wizard  
-3          Efrat           8         9     0     84    Fighter  
-4          TomerM          7         8     0     214   Rogue  
-5          GalLalush       6         6     0     190   Rogue  
+1          Daniel          10        10    46    73    Healer  
+2          TomerM          10        11    4     173   Healer  
+3          Efrat           8         9     0     84    Warrior  
+4          TomerM          7         8     0     214   Ninja  
+5          GalLalush       6         6     0     190   Ninja  

@@ -172,9 +172,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   5     Fighter  
-2          Efrat           1         5     90    10    Rogue  
-3          Efrat           1         5     100   30    Rogue  
+1          Efrat           1         5     100   5     Warrior  
+2          Efrat           1         5     90    10    Ninja  
+3          Efrat           1         5     100   30    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -188,9 +188,9 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   5     Fighter  
-2          Efrat           1         5     80    10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           1         5     100   5     Warrior  
+2          Efrat           1         5     80    10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -198,13 +198,13 @@ Start of round 3:
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   5     Fighter  
-2          Efrat           1         4     70    10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           1         5     100   5     Warrior  
+2          Efrat           1         4     70    10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -220,13 +220,13 @@ You dont have enough coins for this purchase. Please try again.
 Efrat has paid 0 coins for 1 force boost!
 Safe travels!
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Goblin.
+Player Efrat has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   5     Fighter  
-2          Efrat           1         4     60    10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           1         5     100   5     Warrior  
+2          Efrat           1         4     60    10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -238,9 +238,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   15    Fighter  
-2          Efrat           1         4     60    10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           1         5     100   15    Warrior  
+2          Efrat           1         4     60    10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -260,23 +260,23 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   5     Fighter  
-2          Efrat           1         4     50    10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           1         6     100   5     Warrior  
+2          Efrat           1         4     50    10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     100   7     Fighter  
-2          Efrat           1         4     50    10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           2         6     100   7     Warrior  
+2          Efrat           1         4     50    10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -296,9 +296,9 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     100   2     Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           2         6     100   2     Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -317,9 +317,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     100   2     Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           2         6     100   2     Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -329,9 +329,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     100   2     Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           2         6     100   2     Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -341,9 +341,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     100   12    Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           2         6     100   12    Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -360,9 +360,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         7     100   2     Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           2         7     100   2     Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -372,9 +372,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         7     100   2     Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           2         7     100   2     Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -384,9 +384,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         7     100   12    Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           2         7     100   12    Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -396,9 +396,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         7     100   12    Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           2         7     100   12    Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -408,9 +408,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         7     100   12    Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           2         7     100   12    Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Efrat           1         5     0     30    Ninja  
 
 -------------------------------------------
 Start of round 17:
@@ -421,6 +421,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         7     0     12    Fighter  
-2          Efrat           1         4     0     10    Rogue  
-3          Efrat           1         5     0     30    Rogue  
+1          Efrat           2         7     0     12    Warrior  
+2          Efrat           1         4     0     10    Ninja  
+3          Efrat           1         5     0     30    Ninja  

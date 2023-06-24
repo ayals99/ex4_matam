@@ -150,7 +150,7 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Efrat's turn: 
@@ -158,15 +158,15 @@ You fell into the trap, lose 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   12    Wizard  
-2          Omerz           1         5     90    10    Rogue  
-3          Efrat           1         5     90    10    Fighter  
-4          Daniel          1         5     100   30    Rogue  
-5          Efrat           2         5     100   14    Rogue  
+1          TomerM          2         5     100   12    Healer  
+2          Omerz           1         5     90    10    Ninja  
+3          Efrat           1         5     90    10    Warrior  
+4          Daniel          1         5     100   30    Ninja  
+5          Efrat           2         5     100   14    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -184,17 +184,17 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    12    Wizard  
-2          Daniel          1         5     90    30    Rogue  
-3          Efrat           2         5     90    14    Rogue  
-4          Efrat           1         5     0     10    Fighter  
-5          Omerz           1         5     0     10    Rogue  
+1          TomerM          2         5     90    12    Healer  
+2          Daniel          1         5     90    30    Ninja  
+3          Efrat           2         5     90    14    Ninja  
+4          Efrat           1         5     0     10    Warrior  
+5          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Efrat's turn: 
@@ -211,11 +211,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   12    Wizard  
-2          Daniel          1         5     90    50    Rogue  
-3          Efrat           2         5     90    14    Rogue  
-4          Efrat           1         5     0     10    Fighter  
-5          Omerz           1         5     0     10    Rogue  
+1          TomerM          2         5     100   12    Healer  
+2          Daniel          1         5     90    50    Ninja  
+3          Efrat           2         5     90    14    Ninja  
+4          Efrat           1         5     0     10    Warrior  
+5          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -223,7 +223,7 @@ Start of round 4:
 Start of TomerM's turn: 
 You fell into the trap, lose 10 health points.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -238,11 +238,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    12    Wizard  
-2          Daniel          1         4     80    50    Rogue  
-3          Efrat           2         6     90    4     Rogue  
-4          Efrat           1         5     0     10    Fighter  
-5          Omerz           1         5     0     10    Rogue  
+1          TomerM          2         5     90    12    Healer  
+2          Daniel          1         4     80    50    Ninja  
+3          Efrat           2         6     90    4     Ninja  
+4          Efrat           1         5     0     10    Warrior  
+5          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -256,11 +256,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     90    4     Rogue  
-2          Daniel          1         4     0     50    Rogue  
-3          TomerM          2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Omerz           1         5     0     10    Rogue  
+1          Efrat           2         6     90    4     Ninja  
+2          Daniel          1         4     0     50    Ninja  
+3          TomerM          2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -270,25 +270,25 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     80    4     Rogue  
-2          Daniel          1         4     0     50    Rogue  
-3          TomerM          2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Omerz           1         5     0     10    Rogue  
+1          Efrat           2         6     80    4     Ninja  
+2          Daniel          1         4     0     50    Ninja  
+3          TomerM          2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     80    8     Rogue  
-2          Daniel          1         4     0     50    Rogue  
-3          TomerM          2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Omerz           1         5     0     10    Rogue  
+1          Efrat           3         6     80    8     Ninja  
+2          Daniel          1         4     0     50    Ninja  
+3          TomerM          2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -298,11 +298,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     80    28    Rogue  
-2          Daniel          1         4     0     50    Rogue  
-3          TomerM          2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Omerz           1         5     0     10    Rogue  
+1          Efrat           3         6     80    28    Ninja  
+2          Daniel          1         4     0     50    Ninja  
+3          TomerM          2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -312,11 +312,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     80    48    Rogue  
-2          Daniel          1         4     0     50    Rogue  
-3          TomerM          2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Omerz           1         5     0     10    Rogue  
+1          Efrat           3         6     80    48    Ninja  
+2          Daniel          1         4     0     50    Ninja  
+3          TomerM          2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -327,8 +327,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     0     48    Rogue  
-2          Daniel          1         4     0     50    Rogue  
-3          TomerM          2         5     0     12    Wizard  
-4          Efrat           1         5     0     10    Fighter  
-5          Omerz           1         5     0     10    Rogue  
+1          Efrat           3         6     0     48    Ninja  
+2          Daniel          1         4     0     50    Ninja  
+3          TomerM          2         5     0     12    Healer  
+4          Efrat           1         5     0     10    Warrior  
+5          Omerz           1         5     0     10    Ninja  

@@ -135,8 +135,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   10    Rogue  
-2          Omerz           1         5     100   20    Fighter  
+1          TomerM          1         5     100   10    Ninja  
+2          Omerz           1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -144,12 +144,12 @@ Start of round 2:
 Start of TomerM's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   10    Rogue  
-2          Omerz           2         5     100   22    Fighter  
+1          TomerM          1         5     100   10    Ninja  
+2          Omerz           2         5     100   22    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -171,8 +171,8 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         6     100   0     Rogue  
-2          Omerz           2         5     0     22    Fighter  
+1          TomerM          1         6     100   0     Ninja  
+2          Omerz           2         5     0     22    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -183,5 +183,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         6     0     0     Rogue  
-2          Omerz           2         5     0     22    Fighter  
+1          TomerM          1         6     0     0     Ninja  
+2          Omerz           2         5     0     22    Warrior  

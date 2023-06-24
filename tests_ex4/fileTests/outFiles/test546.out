@@ -579,25 +579,25 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Wizard  
-2          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         5     100   10    Healer  
+2          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     90    10    Wizard  
-2          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         4     90    10    Healer  
+2          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -615,8 +615,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     92    5     Wizard  
-2          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         4     92    5     Healer  
+2          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -633,8 +633,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     94    0     Wizard  
-2          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         4     94    0     Healer  
+2          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -644,8 +644,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     84    0     Wizard  
-2          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         4     84    0     Healer  
+2          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -655,8 +655,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     74    0     Wizard  
-2          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         4     74    0     Healer  
+2          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -666,8 +666,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     64    0     Wizard  
-2          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         4     64    0     Healer  
+2          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -678,5 +678,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     0     0     Wizard  
-2          Daniel          1         5     0     10    Fighter  
+1          Daniel          1         4     0     0     Healer  
+2          Daniel          1         5     0     10    Warrior  

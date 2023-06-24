@@ -218,13 +218,13 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   20    Fighter  
-2          Amirmann        2         5     100   12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           1         5     100   20    Warrior  
+2          Amirmann        2         5     100   12    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -232,13 +232,13 @@ Start of round 2:
 Start of Omerz's turn: 
 Nothing happened.
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   20    Fighter  
-2          Amirmann        2         5     100   12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           1         5     100   20    Warrior  
+2          Amirmann        2         5     100   12    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -257,9 +257,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   20    Fighter  
-2          Amirmann        2         5     100   12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           1         5     100   20    Warrior  
+2          Amirmann        2         5     100   12    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -279,33 +279,33 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   15    Fighter  
-2          Amirmann        2         5     0     12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           1         5     100   15    Warrior  
+2          Amirmann        2         5     0     12    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   17    Fighter  
-2          Amirmann        2         5     0     12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           2         5     100   17    Warrior  
+2          Amirmann        2         5     0     12    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   19    Fighter  
-2          Amirmann        2         5     0     12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           3         5     100   19    Warrior  
+2          Amirmann        2         5     0     12    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -315,9 +315,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   19    Fighter  
-2          Amirmann        2         5     0     12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           3         5     100   19    Warrior  
+2          Amirmann        2         5     0     12    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -327,21 +327,21 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   19    Fighter  
-2          Amirmann        2         5     0     12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           3         5     100   19    Warrior  
+2          Amirmann        2         5     0     12    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     100   21    Fighter  
-2          Amirmann        2         5     0     12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           4         5     100   21    Warrior  
+2          Amirmann        2         5     0     12    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -351,9 +351,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     90    21    Fighter  
-2          Amirmann        2         5     0     12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           4         5     90    21    Warrior  
+2          Amirmann        2         5     0     12    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -371,9 +371,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     91    16    Fighter  
-2          Amirmann        2         5     0     12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           4         5     91    16    Warrior  
+2          Amirmann        2         5     0     12    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -383,21 +383,21 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     81    16    Fighter  
-2          Amirmann        2         5     0     12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           4         5     81    16    Warrior  
+2          Amirmann        2         5     0     12    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     81    18    Fighter  
-2          Amirmann        2         5     0     12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           5         5     81    18    Warrior  
+2          Amirmann        2         5     0     12    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -407,9 +407,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     81    28    Fighter  
-2          Amirmann        2         5     0     12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           5         5     81    28    Warrior  
+2          Amirmann        2         5     0     12    Healer  
+3          Omerz           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -420,6 +420,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     0     28    Fighter  
-2          Amirmann        2         5     0     12    Wizard  
-3          Omerz           1         5     0     10    Rogue  
+1          Omerz           5         5     0     28    Warrior  
+2          Amirmann        2         5     0     12    Healer  
+3          Omerz           1         5     0     10    Ninja  

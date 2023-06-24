@@ -92,9 +92,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Wizard  
-2          TomerM          1         5     90    10    Wizard  
-3          TomerM          1         5     90    10    Fighter  
+1          GalLalush       1         5     90    10    Healer  
+2          TomerM          1         5     90    10    Healer  
+3          TomerM          1         5     90    10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -104,13 +104,13 @@ This is but a flesh wound. You've lost 10 health points
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     80    10    Wizard  
-2          TomerM          2         5     90    12    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          GalLalush       1         5     80    10    Healer  
+2          TomerM          2         5     90    12    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -127,13 +127,13 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 5 coins for 1 health potion!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     82    5     Wizard  
-2          TomerM          3         5     90    14    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          GalLalush       1         5     82    5     Healer  
+2          TomerM          3         5     90    14    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -145,15 +145,15 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     72    5     Wizard  
-2          TomerM          3         5     90    14    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          GalLalush       1         5     72    5     Healer  
+2          TomerM          3         5     90    14    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of TomerM's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -168,9 +168,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     62    5     Wizard  
-2          TomerM          3         5     90    14    Fighter  
-3          TomerM          1         5     0     10    Wizard  
+1          GalLalush       1         4     62    5     Healer  
+2          TomerM          3         5     90    14    Warrior  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -182,9 +182,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    14    Fighter  
-2          GalLalush       1         4     0     5     Wizard  
-3          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         5     90    14    Warrior  
+2          GalLalush       1         4     0     5     Healer  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -194,9 +194,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     80    14    Fighter  
-2          GalLalush       1         4     0     5     Wizard  
-3          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         5     80    14    Warrior  
+2          GalLalush       1         4     0     5     Healer  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -206,9 +206,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     70    14    Fighter  
-2          GalLalush       1         4     0     5     Wizard  
-3          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         5     70    14    Warrior  
+2          GalLalush       1         4     0     5     Healer  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -218,9 +218,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     60    14    Fighter  
-2          GalLalush       1         4     0     5     Wizard  
-3          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         5     60    14    Warrior  
+2          GalLalush       1         4     0     5     Healer  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -230,9 +230,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     60    14    Fighter  
-2          GalLalush       1         4     0     5     Wizard  
-3          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         5     60    14    Warrior  
+2          GalLalush       1         4     0     5     Healer  
+3          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -243,6 +243,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     0     14    Fighter  
-2          GalLalush       1         4     0     5     Wizard  
-3          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         5     0     14    Warrior  
+2          GalLalush       1         4     0     5     Healer  
+3          TomerM          1         5     0     10    Healer  

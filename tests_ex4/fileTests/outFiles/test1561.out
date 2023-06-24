@@ -933,7 +933,7 @@ Start of round 1:
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Efrat's turn: 
@@ -958,17 +958,17 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Wizard  
-2          Efrat           1         6     100   0     Fighter  
-3          Amirmann        1         5     100   10    Rogue  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        2         5     100   12    Healer  
+2          Efrat           1         6     100   0     Warrior  
+3          Amirmann        1         5     100   10    Ninja  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of Amirmann's turn: 
@@ -976,27 +976,27 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   14    Wizard  
-2          Amirmann        1         5     100   10    Rogue  
-3          Efrat           1         6     0     0     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        3         5     100   14    Healer  
+2          Amirmann        1         5     100   10    Ninja  
+3          Efrat           1         6     0     0     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Amirmann's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         4     90    14    Wizard  
-2          Amirmann        1         5     100   10    Rogue  
-3          Efrat           1         6     0     0     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        3         4     90    14    Healer  
+2          Amirmann        1         5     100   10    Ninja  
+3          Efrat           1         6     0     0     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -1008,11 +1008,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         4     80    14    Wizard  
-2          Amirmann        1         5     100   10    Rogue  
-3          Efrat           1         6     0     0     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        3         4     80    14    Healer  
+2          Amirmann        1         5     100   10    Ninja  
+3          Efrat           1         6     0     0     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -1033,11 +1033,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         4     70    14    Wizard  
-2          Amirmann        1         6     100   0     Rogue  
-3          Efrat           1         6     0     0     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        3         4     70    14    Healer  
+2          Amirmann        1         6     100   0     Ninja  
+3          Efrat           1         6     0     0     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -1049,11 +1049,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   0     Rogue  
-2          Amirmann        3         4     0     14    Wizard  
-3          Efrat           1         6     0     0     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         6     100   0     Ninja  
+2          Amirmann        3         4     0     14    Healer  
+3          Efrat           1         6     0     0     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -1063,11 +1063,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   0     Rogue  
-2          Amirmann        3         4     0     14    Wizard  
-3          Efrat           1         6     0     0     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         6     100   0     Ninja  
+2          Amirmann        3         4     0     14    Healer  
+3          Efrat           1         6     0     0     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -1077,39 +1077,39 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   20    Rogue  
-2          Amirmann        3         4     0     14    Wizard  
-3          Efrat           1         6     0     0     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        1         6     100   20    Ninja  
+2          Amirmann        3         4     0     14    Healer  
+3          Efrat           1         6     0     0     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         6     100   24    Rogue  
-2          Amirmann        3         4     0     14    Wizard  
-3          Efrat           1         6     0     0     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        2         6     100   24    Ninja  
+2          Amirmann        3         4     0     14    Healer  
+3          Efrat           1         6     0     0     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     100   28    Rogue  
-2          Amirmann        3         4     0     14    Wizard  
-3          Efrat           1         6     0     0     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        3         6     100   28    Ninja  
+2          Amirmann        3         4     0     14    Healer  
+3          Efrat           1         6     0     0     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -1119,39 +1119,39 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     100   48    Rogue  
-2          Amirmann        3         4     0     14    Wizard  
-3          Efrat           1         6     0     0     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        3         6     100   48    Ninja  
+2          Amirmann        3         4     0     14    Healer  
+3          Efrat           1         6     0     0     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         6     100   52    Rogue  
-2          Amirmann        3         4     0     14    Wizard  
-3          Efrat           1         6     0     0     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        4         6     100   52    Ninja  
+2          Amirmann        3         4     0     14    Healer  
+3          Efrat           1         6     0     0     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         6     100   56    Rogue  
-2          Amirmann        3         4     0     14    Wizard  
-3          Efrat           1         6     0     0     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        5         6     100   56    Ninja  
+2          Amirmann        3         4     0     14    Healer  
+3          Efrat           1         6     0     0     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -1161,11 +1161,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         6     90    56    Rogue  
-2          Amirmann        3         4     0     14    Wizard  
-3          Efrat           1         6     0     0     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        5         6     90    56    Ninja  
+2          Amirmann        3         4     0     14    Healer  
+3          Efrat           1         6     0     0     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 15:
@@ -1176,8 +1176,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         6     0     56    Rogue  
-2          Amirmann        3         4     0     14    Wizard  
-3          Efrat           1         6     0     0     Fighter  
-4          Amirmann        1         5     0     10    Rogue  
-5          Efrat           1         5     0     10    Fighter  
+1          Amirmann        5         6     0     56    Ninja  
+2          Amirmann        3         4     0     14    Healer  
+3          Efrat           1         6     0     0     Warrior  
+4          Amirmann        1         5     0     10    Ninja  
+5          Efrat           1         5     0     10    Warrior  

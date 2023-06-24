@@ -700,21 +700,21 @@ Nothing happened.
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     90    10    Fighter  
-2          Efrat           1         5     100   30    Rogue  
-3          TomerM          1         5     100   10    Rogue  
-4          Daniel          1         5     100   10    Wizard  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          1         5     90    10    Warrior  
+2          Efrat           1         5     100   30    Ninja  
+3          TomerM          1         5     100   10    Ninja  
+4          Daniel          1         5     100   10    Healer  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
 Nothing happened.
 Start of TomerM's turn: 
@@ -724,11 +724,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    12    Fighter  
-2          Efrat           1         5     100   30    Rogue  
-3          TomerM          1         5     100   30    Rogue  
-4          Daniel          1         5     100   20    Wizard  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          2         5     90    12    Warrior  
+2          Efrat           1         5     100   30    Ninja  
+3          TomerM          1         5     100   30    Ninja  
+4          Daniel          1         5     100   20    Healer  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -738,17 +738,17 @@ You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    12    Fighter  
-2          TomerM          2         5     100   34    Rogue  
-3          Daniel          1         5     90    20    Wizard  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          2         5     90    12    Warrior  
+2          TomerM          2         5     100   34    Ninja  
+3          Daniel          1         5     90    20    Healer  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -770,11 +770,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    22    Fighter  
-2          TomerM          2         6     100   24    Rogue  
-3          Daniel          1         5     90    30    Wizard  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          2         5     90    22    Warrior  
+2          TomerM          2         6     100   24    Ninja  
+3          Daniel          1         5     90    30    Healer  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -792,15 +792,15 @@ Safe travels!
 Start of TomerM's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    22    Fighter  
-2          TomerM          2         6     100   24    Rogue  
-3          Daniel          1         5     100   30    Wizard  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          2         5     90    22    Warrior  
+2          TomerM          2         6     100   24    Ninja  
+3          Daniel          1         5     100   30    Healer  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -832,17 +832,17 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     91    17    Fighter  
-2          TomerM          2         6     100   24    Rogue  
-3          Daniel          1         6     100   20    Wizard  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          2         5     91    17    Warrior  
+2          TomerM          2         6     100   24    Ninja  
+3          Daniel          1         6     100   20    Healer  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Daniel's turn: 
@@ -859,11 +859,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     91    19    Fighter  
-2          TomerM          2         6     100   24    Rogue  
-3          Daniel          1         7     100   10    Wizard  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          3         5     91    19    Warrior  
+2          TomerM          2         6     100   24    Ninja  
+3          Daniel          1         7     100   10    Healer  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -871,17 +871,17 @@ Start of round 8:
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     91    19    Fighter  
-2          TomerM          3         6     100   28    Rogue  
-3          Daniel          1         7     90    10    Wizard  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          3         5     91    19    Warrior  
+2          TomerM          3         6     100   28    Ninja  
+3          Daniel          1         7     90    10    Healer  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -891,15 +891,15 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          3         5     91    29    Fighter  
-2          TomerM          3         6     100   28    Rogue  
-3          Daniel          1         7     100   10    Wizard  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          3         5     91    29    Warrior  
+2          TomerM          3         6     100   28    Ninja  
+3          Daniel          1         7     100   10    Healer  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -913,27 +913,27 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         6     100   28    Rogue  
-2          Daniel          1         7     100   20    Wizard  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         6     100   28    Ninja  
+2          Daniel          1         7     100   20    Healer  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
 
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    28    Rogue  
-2          Daniel          1         6     90    20    Wizard  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         5     90    28    Ninja  
+2          Daniel          1         6     90    20    Healer  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -945,11 +945,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    28    Rogue  
-2          Daniel          1         6     90    30    Wizard  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         5     90    28    Ninja  
+2          Daniel          1         6     90    30    Healer  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -970,11 +970,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    28    Rogue  
-2          Daniel          1         6     80    30    Wizard  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         5     90    28    Ninja  
+2          Daniel          1         6     80    30    Healer  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -986,17 +986,17 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    28    Rogue  
-2          Daniel          1         6     80    40    Wizard  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         5     90    28    Ninja  
+2          Daniel          1         6     80    40    Healer  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 15:
 
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -1010,27 +1010,27 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         4     80    28    Rogue  
-2          Daniel          1         6     80    40    Wizard  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         4     80    28    Ninja  
+2          Daniel          1         6     80    40    Healer  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 16:
 
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         3     70    28    Rogue  
-2          Daniel          2         6     80    42    Wizard  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         3     70    28    Ninja  
+2          Daniel          2         6     80    42    Healer  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -1038,15 +1038,15 @@ Start of round 17:
 Start of TomerM's turn: 
 Nothing happened.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         3     70    28    Rogue  
-2          Daniel          2         6     100   42    Wizard  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         3     70    28    Ninja  
+2          Daniel          2         6     100   42    Healer  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 18:
@@ -1066,11 +1066,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         4     70    18    Rogue  
-2          Daniel          2         6     90    42    Wizard  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          TomerM          3         4     70    18    Ninja  
+2          Daniel          2         6     90    42    Healer  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -1082,25 +1082,25 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     80    42    Wizard  
-2          TomerM          3         4     0     18    Rogue  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          2         6     80    42    Healer  
+2          TomerM          3         4     0     18    Ninja  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 20:
 
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     100   42    Wizard  
-2          TomerM          3         4     0     18    Rogue  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          2         6     100   42    Healer  
+2          TomerM          3         4     0     18    Ninja  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 21:
@@ -1110,25 +1110,25 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     90    42    Wizard  
-2          TomerM          3         4     0     18    Rogue  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          2         6     90    42    Healer  
+2          TomerM          3         4     0     18    Ninja  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 22:
 
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     100   42    Wizard  
-2          TomerM          3         4     0     18    Rogue  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          2         6     100   42    Healer  
+2          TomerM          3         4     0     18    Ninja  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 23:
@@ -1138,11 +1138,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     90    42    Wizard  
-2          TomerM          3         4     0     18    Rogue  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          2         6     90    42    Healer  
+2          TomerM          3         4     0     18    Ninja  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 24:
@@ -1152,11 +1152,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     90    52    Wizard  
-2          TomerM          3         4     0     18    Rogue  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          2         6     90    52    Healer  
+2          TomerM          3         4     0     18    Ninja  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 25:
@@ -1166,11 +1166,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     90    62    Wizard  
-2          TomerM          3         4     0     18    Rogue  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          2         6     90    62    Healer  
+2          TomerM          3         4     0     18    Ninja  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 26:
@@ -1181,8 +1181,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     0     62    Wizard  
-2          TomerM          3         4     0     18    Rogue  
-3          Daniel          3         5     0     29    Fighter  
-4          Efrat           1         5     0     30    Rogue  
-5          TomerM          1         5     0     10    Wizard  
+1          Daniel          2         6     0     62    Healer  
+2          TomerM          3         4     0     18    Ninja  
+3          Daniel          3         5     0     29    Warrior  
+4          Efrat           1         5     0     30    Ninja  
+5          TomerM          1         5     0     10    Healer  

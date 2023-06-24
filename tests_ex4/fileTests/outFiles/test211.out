@@ -1229,16 +1229,16 @@ Nothing happened.
 Start of Amirmann's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Fighter  
-2          Amirmann        1         5     100   10    Fighter  
-3          TomerM          1         4     90    10    Rogue  
-4          GalLalush       1         5     90    10    Wizard  
+1          Amirmann        1         5     100   10    Warrior  
+2          Amirmann        1         5     100   10    Warrior  
+3          TomerM          1         4     90    10    Ninja  
+4          GalLalush       1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -1250,14 +1250,14 @@ Nothing happened.
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    10    Fighter  
-2          Amirmann        1         5     100   10    Fighter  
-3          GalLalush       2         5     90    12    Wizard  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        1         5     90    10    Warrior  
+2          Amirmann        1         5     100   10    Warrior  
+3          GalLalush       2         5     90    12    Healer  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -1279,10 +1279,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     80    10    Fighter  
-2          GalLalush       2         5     92    7     Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        1         5     80    10    Warrior  
+2          GalLalush       2         5     92    7     Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -1294,38 +1294,38 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     80    20    Fighter  
-2          GalLalush       2         5     92    17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        1         5     80    20    Warrior  
+2          GalLalush       2         5     92    17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     80    22    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        2         5     80    22    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     80    24    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        3         5     80    24    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -1344,10 +1344,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     80    14    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        3         6     80    14    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -1357,10 +1357,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     80    14    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        3         6     80    14    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -1370,10 +1370,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     80    24    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        3         6     80    24    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -1383,10 +1383,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     80    34    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        3         6     80    34    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -1396,10 +1396,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     80    34    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        3         6     80    34    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -1409,23 +1409,23 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         6     80    34    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        3         6     80    34    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         6     80    36    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        4         6     80    36    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -1435,10 +1435,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         6     80    36    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        4         6     80    36    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -1448,23 +1448,23 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         6     80    36    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        4         6     80    36    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         6     80    38    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        5         6     80    38    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 17:
@@ -1481,10 +1481,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         6     81    33    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        5         6     81    33    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 18:
@@ -1494,10 +1494,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         6     81    33    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        5         6     81    33    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 19:
@@ -1507,10 +1507,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         6     81    33    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        5         6     81    33    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 20:
@@ -1520,10 +1520,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         6     81    43    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        5         6     81    43    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 21:
@@ -1533,10 +1533,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         6     81    43    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        5         6     81    43    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 22:
@@ -1546,10 +1546,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         6     71    43    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        5         6     71    43    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 23:
@@ -1559,23 +1559,23 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         6     71    43    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        5         6     71    43    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 24:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         6     71    45    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        6         6     71    45    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 25:
@@ -1585,10 +1585,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         6     71    45    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        6         6     71    45    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 26:
@@ -1598,10 +1598,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         6     71    45    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        6         6     71    45    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 27:
@@ -1611,10 +1611,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         6     71    45    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        6         6     71    45    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 28:
@@ -1624,10 +1624,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         6     71    45    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        6         6     71    45    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 29:
@@ -1637,10 +1637,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         6     61    45    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        6         6     61    45    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 30:
@@ -1650,10 +1650,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         6     61    45    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        6         6     61    45    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 31:
@@ -1663,10 +1663,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         6     61    45    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        6         6     61    45    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 32:
@@ -1676,10 +1676,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         6     61    45    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        6         6     61    45    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 33:
@@ -1689,10 +1689,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         6     51    45    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        6         6     51    45    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 34:
@@ -1709,10 +1709,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         6     52    40    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        6         6     52    40    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 35:
@@ -1723,7 +1723,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        6         6     0     40    Fighter  
-2          GalLalush       2         5     0     17    Wizard  
-3          Amirmann        1         5     0     10    Fighter  
-4          TomerM          1         4     0     10    Rogue  
+1          Amirmann        6         6     0     40    Warrior  
+2          GalLalush       2         5     0     17    Healer  
+3          Amirmann        1         5     0     10    Warrior  
+4          TomerM          1         4     0     10    Ninja  

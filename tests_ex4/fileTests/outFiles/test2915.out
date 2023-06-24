@@ -620,14 +620,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   14    Rogue  
-2          Efrat           2         5     100   12    Fighter  
+1          GalLalush       2         5     100   14    Ninja  
+2          Efrat           2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -639,8 +639,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    14    Rogue  
-2          Efrat           2         5     100   12    Fighter  
+1          GalLalush       2         5     90    14    Ninja  
+2          Efrat           2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -648,12 +648,12 @@ Start of round 3:
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     100   14    Fighter  
-2          GalLalush       2         5     0     14    Rogue  
+1          Efrat           3         5     100   14    Warrior  
+2          GalLalush       2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -663,8 +663,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     90    14    Fighter  
-2          GalLalush       2         5     0     14    Rogue  
+1          Efrat           3         5     90    14    Warrior  
+2          GalLalush       2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -674,8 +674,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     90    24    Fighter  
-2          GalLalush       2         5     0     14    Rogue  
+1          Efrat           3         5     90    24    Warrior  
+2          GalLalush       2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -686,5 +686,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     0     24    Fighter  
-2          GalLalush       2         5     0     14    Rogue  
+1          Efrat           3         5     0     24    Warrior  
+2          GalLalush       2         5     0     14    Ninja  

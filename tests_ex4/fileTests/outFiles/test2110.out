@@ -86,36 +86,36 @@ You have entered an invalid input. Please try again.
 GalLalush has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   5     Rogue  
-2          Amirmann        2         5     100   12    Fighter  
+1          GalLalush       1         5     100   5     Ninja  
+2          Amirmann        2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   9     Rogue  
-2          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         5     100   9     Ninja  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         4     90    9     Rogue  
-2          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         4     90    9     Ninja  
+2          Amirmann        2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -126,5 +126,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         4     0     9     Rogue  
-2          Amirmann        2         5     0     12    Fighter  
+1          GalLalush       2         4     0     9     Ninja  
+2          Amirmann        2         5     0     12    Warrior  

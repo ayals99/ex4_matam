@@ -1780,14 +1780,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         4     90    10    Wizard  
-2          Amirmann        2         5     100   12    Fighter  
+1          Amirmann        1         4     90    10    Healer  
+2          Amirmann        2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -1804,12 +1804,12 @@ You have entered an invalid input. Please try again.
 Amirmann has paid 10 coins for 1 force boost!
 Safe travels!
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    0     Wizard  
-2          Amirmann        3         5     100   14    Fighter  
+1          Amirmann        1         5     90    0     Healer  
+2          Amirmann        3         5     100   14    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -1829,8 +1829,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    0     Wizard  
-2          Amirmann        3         5     100   24    Fighter  
+1          Amirmann        1         5     90    0     Healer  
+2          Amirmann        3         5     100   24    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -1838,23 +1838,23 @@ Start of round 4:
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     100   26    Fighter  
-2          Amirmann        1         5     0     0     Wizard  
+1          Amirmann        4         5     100   26    Warrior  
+2          Amirmann        1         5     0     0     Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     100   28    Fighter  
-2          Amirmann        1         5     0     0     Wizard  
+1          Amirmann        5         5     100   28    Warrior  
+2          Amirmann        1         5     0     0     Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -1864,8 +1864,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     100   38    Fighter  
-2          Amirmann        1         5     0     0     Wizard  
+1          Amirmann        5         5     100   38    Warrior  
+2          Amirmann        1         5     0     0     Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -1875,8 +1875,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     100   38    Fighter  
-2          Amirmann        1         5     0     0     Wizard  
+1          Amirmann        5         5     100   38    Warrior  
+2          Amirmann        1         5     0     0     Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -1887,5 +1887,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     0     38    Fighter  
-2          Amirmann        1         5     0     0     Wizard  
+1          Amirmann        5         5     0     38    Warrior  
+2          Amirmann        1         5     0     0     Healer  

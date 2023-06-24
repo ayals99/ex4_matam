@@ -859,8 +859,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          GalLalush       1         5     100   20    Wizard  
+1          GalLalush       1         5     90    10    Ninja  
+2          GalLalush       1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -879,8 +879,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Rogue  
-2          GalLalush       1         5     100   15    Wizard  
+1          GalLalush       1         5     90    10    Ninja  
+2          GalLalush       1         5     100   15    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -892,14 +892,14 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    30    Rogue  
-2          GalLalush       1         5     90    15    Wizard  
+1          GalLalush       1         5     90    30    Ninja  
+2          GalLalush       1         5     90    15    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -912,8 +912,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     80    30    Rogue  
-2          GalLalush       1         6     90    5     Wizard  
+1          GalLalush       1         4     80    30    Ninja  
+2          GalLalush       1         6     90    5     Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -925,8 +925,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     70    30    Rogue  
-2          GalLalush       1         6     80    5     Wizard  
+1          GalLalush       1         4     70    30    Ninja  
+2          GalLalush       1         6     80    5     Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -938,8 +938,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     70    30    Rogue  
-2          GalLalush       1         6     80    15    Wizard  
+1          GalLalush       1         4     70    30    Ninja  
+2          GalLalush       1         6     80    15    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -951,21 +951,21 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     70    30    Rogue  
-2          GalLalush       1         6     70    15    Wizard  
+1          GalLalush       1         4     70    30    Ninja  
+2          GalLalush       1         6     70    15    Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Goblin.
+Player GalLalush has been defeated by a Gremlin.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     60    30    Rogue  
-2          GalLalush       2         6     70    17    Wizard  
+1          GalLalush       1         4     60    30    Ninja  
+2          GalLalush       2         6     70    17    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -985,19 +985,19 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     60    30    Rogue  
-2          GalLalush       2         6     0     17    Wizard  
+1          GalLalush       1         4     60    30    Ninja  
+2          GalLalush       2         6     0     17    Healer  
 
 -------------------------------------------
 Start of round 10:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Goblin.
+Player GalLalush has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     50    30    Rogue  
-2          GalLalush       2         6     0     17    Wizard  
+1          GalLalush       1         4     50    30    Ninja  
+2          GalLalush       2         6     0     17    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -1007,8 +1007,8 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     40    30    Rogue  
-2          GalLalush       2         6     0     17    Wizard  
+1          GalLalush       1         4     40    30    Ninja  
+2          GalLalush       2         6     0     17    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -1027,8 +1027,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     41    25    Rogue  
-2          GalLalush       2         6     0     17    Wizard  
+1          GalLalush       1         4     41    25    Ninja  
+2          GalLalush       2         6     0     17    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -1038,8 +1038,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     41    45    Rogue  
-2          GalLalush       2         6     0     17    Wizard  
+1          GalLalush       1         4     41    45    Ninja  
+2          GalLalush       2         6     0     17    Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -1049,8 +1049,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     41    45    Rogue  
-2          GalLalush       2         6     0     17    Wizard  
+1          GalLalush       1         4     41    45    Ninja  
+2          GalLalush       2         6     0     17    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -1060,19 +1060,19 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     41    45    Rogue  
-2          GalLalush       2         6     0     17    Wizard  
+1          GalLalush       1         4     41    45    Ninja  
+2          GalLalush       2         6     0     17    Healer  
 
 -------------------------------------------
 Start of round 16:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         3     31    45    Rogue  
-2          GalLalush       2         6     0     17    Wizard  
+1          GalLalush       1         3     31    45    Ninja  
+2          GalLalush       2         6     0     17    Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -1082,30 +1082,30 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         3     31    45    Rogue  
-2          GalLalush       2         6     0     17    Wizard  
+1          GalLalush       1         3     31    45    Ninja  
+2          GalLalush       2         6     0     17    Healer  
 
 -------------------------------------------
 Start of round 18:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     21    45    Rogue  
-2          GalLalush       2         6     0     17    Wizard  
+1          GalLalush       1         2     21    45    Ninja  
+2          GalLalush       2         6     0     17    Healer  
 
 -------------------------------------------
 Start of round 19:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Goblin.
+Player GalLalush has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     11    45    Rogue  
-2          GalLalush       2         6     0     17    Wizard  
+1          GalLalush       1         2     11    45    Ninja  
+2          GalLalush       2         6     0     17    Healer  
 
 -------------------------------------------
 Start of round 20:
@@ -1122,8 +1122,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     12    40    Rogue  
-2          GalLalush       2         6     0     17    Wizard  
+1          GalLalush       1         2     12    40    Ninja  
+2          GalLalush       2         6     0     17    Healer  
 
 -------------------------------------------
 Start of round 21:
@@ -1134,5 +1134,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     0     40    Rogue  
-2          GalLalush       2         6     0     17    Wizard  
+1          GalLalush       1         2     0     40    Ninja  
+2          GalLalush       2         6     0     17    Healer  

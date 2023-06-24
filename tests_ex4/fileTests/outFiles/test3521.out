@@ -709,7 +709,7 @@ You have entered an invalid input. Please try again.
 Omerz has paid 10 coins for 1 force boost!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of GalLalush's turn: 
@@ -717,29 +717,29 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     100   0     Wizard  
-2          GalLalush       2         5     100   14    Rogue  
-3          Efrat           1         5     90    10    Rogue  
-4          GalLalush       1         5     90    10    Wizard  
+1          Omerz           1         6     100   0     Healer  
+2          GalLalush       2         5     100   14    Ninja  
+3          Efrat           1         5     90    10    Ninja  
+4          GalLalush       1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     100   0     Wizard  
-2          GalLalush       2         5     100   14    Rogue  
-3          GalLalush       2         5     90    12    Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          Omerz           1         6     100   0     Healer  
+2          GalLalush       2         5     100   14    Ninja  
+3          GalLalush       2         5     90    12    Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -760,10 +760,10 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     100   4     Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         6     0     0     Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         6     100   4     Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         6     0     0     Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -773,10 +773,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     90    4     Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         6     0     0     Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         6     90    4     Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         6     0     0     Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -794,10 +794,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     90    4     Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         6     0     0     Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         6     90    4     Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         6     0     0     Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -807,10 +807,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     80    4     Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         6     0     0     Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         6     80    4     Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         6     0     0     Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -820,10 +820,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     80    4     Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         6     0     0     Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         6     80    4     Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         6     0     0     Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -833,23 +833,23 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         6     80    4     Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         6     0     0     Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         6     80    4     Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         6     0     0     Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     70    4     Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         6     0     0     Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         5     70    4     Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         6     0     0     Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -866,10 +866,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     70    4     Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         6     0     0     Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         5     70    4     Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         6     0     0     Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -879,10 +879,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     70    4     Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         6     0     0     Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         5     70    4     Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         6     0     0     Healer  
+4          Efrat           1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
@@ -893,7 +893,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     0     4     Rogue  
-2          GalLalush       2         5     0     12    Wizard  
-3          Omerz           1         6     0     0     Wizard  
-4          Efrat           1         5     0     10    Rogue  
+1          GalLalush       2         5     0     4     Ninja  
+2          GalLalush       2         5     0     12    Healer  
+3          Omerz           1         6     0     0     Healer  
+4          Efrat           1         5     0     10    Ninja  

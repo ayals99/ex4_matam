@@ -1570,37 +1570,37 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   30    Rogue  
-2          Omerz           1         5     100   20    Fighter  
-3          Amirmann        1         5     0     10    Rogue  
+1          TomerM          1         5     100   30    Ninja  
+2          Omerz           1         5     100   20    Warrior  
+3          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   34    Rogue  
-2          Omerz           2         5     100   22    Fighter  
-3          Amirmann        1         5     0     10    Rogue  
+1          TomerM          2         5     100   34    Ninja  
+2          Omerz           2         5     100   22    Warrior  
+3          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     100   38    Rogue  
-2          Omerz           2         5     100   22    Fighter  
-3          Amirmann        1         5     0     10    Rogue  
+1          TomerM          3         5     100   38    Ninja  
+2          Omerz           2         5     100   22    Warrior  
+3          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -1608,13 +1608,13 @@ Start of round 4:
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   24    Fighter  
-2          TomerM          3         5     0     38    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
+1          Omerz           3         5     100   24    Warrior  
+2          TomerM          3         5     0     38    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -1624,21 +1624,21 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   24    Fighter  
-2          TomerM          3         5     0     38    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
+1          Omerz           3         5     100   24    Warrior  
+2          TomerM          3         5     0     38    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     100   26    Fighter  
-2          TomerM          3         5     0     38    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
+1          Omerz           4         5     100   26    Warrior  
+2          TomerM          3         5     0     38    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -1648,21 +1648,21 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     100   26    Fighter  
-2          TomerM          3         5     0     38    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
+1          Omerz           4         5     100   26    Warrior  
+2          TomerM          3         5     0     38    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     100   28    Fighter  
-2          TomerM          3         5     0     38    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
+1          Omerz           5         5     100   28    Warrior  
+2          TomerM          3         5     0     38    Ninja  
+3          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -1673,6 +1673,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     0     28    Fighter  
-2          TomerM          3         5     0     38    Rogue  
-3          Amirmann        1         5     0     10    Rogue  
+1          Omerz           5         5     0     28    Warrior  
+2          TomerM          3         5     0     38    Ninja  
+3          Amirmann        1         5     0     10    Ninja  

@@ -492,9 +492,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Fighter  
-2          TomerM          1         5     100   10    Fighter  
-3          GalLalush       1         5     0     10    Wizard  
+1          Efrat           1         5     100   10    Warrior  
+2          TomerM          1         5     100   10    Warrior  
+3          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -506,23 +506,23 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Fighter  
-2          TomerM          1         5     90    10    Fighter  
-3          GalLalush       1         5     0     10    Wizard  
+1          Efrat           1         5     100   10    Warrior  
+2          TomerM          1         5     90    10    Warrior  
+3          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Fighter  
-2          TomerM          2         5     90    12    Fighter  
-3          GalLalush       1         5     0     10    Wizard  
+1          Efrat           2         5     100   12    Warrior  
+2          TomerM          2         5     90    12    Warrior  
+3          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -530,25 +530,25 @@ Start of round 4:
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    14    Fighter  
-2          Efrat           2         5     0     12    Fighter  
-3          GalLalush       1         5     0     10    Wizard  
+1          TomerM          3         5     90    14    Warrior  
+2          Efrat           2         5     0     12    Warrior  
+3          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     90    16    Fighter  
-2          Efrat           2         5     0     12    Fighter  
-3          GalLalush       1         5     0     10    Wizard  
+1          TomerM          4         5     90    16    Warrior  
+2          Efrat           2         5     0     12    Warrior  
+3          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -559,6 +559,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     0     16    Fighter  
-2          Efrat           2         5     0     12    Fighter  
-3          GalLalush       1         5     0     10    Wizard  
+1          TomerM          4         5     0     16    Warrior  
+2          Efrat           2         5     0     12    Warrior  
+3          GalLalush       1         5     0     10    Healer  

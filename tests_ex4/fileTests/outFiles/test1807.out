@@ -166,7 +166,7 @@ Start of round 1:
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Efrat's turn: 
@@ -183,17 +183,17 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     90    10    Rogue  
-2          Efrat           1         5     90    10    Rogue  
-3          Efrat           1         5     100   10    Fighter  
-4          Amirmann        1         5     90    10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          TomerM          1         4     90    10    Ninja  
+2          Efrat           1         5     90    10    Ninja  
+3          Efrat           1         5     100   10    Warrior  
+4          Amirmann        1         5     90    10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Goblin.
+Player TomerM has been defeated by a Gremlin.
 Start of Efrat's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Efrat's turn: 
@@ -203,11 +203,11 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     80    10    Rogue  
-2          Efrat           1         5     90    10    Rogue  
-3          Efrat           1         5     100   10    Fighter  
-4          Amirmann        1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          TomerM          1         4     80    10    Ninja  
+2          Efrat           1         5     90    10    Ninja  
+3          Efrat           1         5     100   10    Warrior  
+4          Amirmann        1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -221,11 +221,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     70    10    Rogue  
-2          Efrat           1         5     90    10    Rogue  
-3          Efrat           1         5     100   10    Fighter  
-4          Amirmann        1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          TomerM          1         4     70    10    Ninja  
+2          Efrat           1         5     90    10    Ninja  
+3          Efrat           1         5     100   10    Warrior  
+4          Amirmann        1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -248,11 +248,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Fighter  
-2          Efrat           1         5     0     10    Rogue  
-3          TomerM          1         4     0     10    Rogue  
-4          Amirmann        1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Efrat           1         6     100   0     Warrior  
+2          Efrat           1         5     0     10    Ninja  
+3          TomerM          1         4     0     10    Ninja  
+4          Amirmann        1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -262,11 +262,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Fighter  
-2          Efrat           1         5     0     10    Rogue  
-3          TomerM          1         4     0     10    Rogue  
-4          Amirmann        1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Efrat           1         6     100   0     Warrior  
+2          Efrat           1         5     0     10    Ninja  
+3          TomerM          1         4     0     10    Ninja  
+4          Amirmann        1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -276,25 +276,25 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   10    Fighter  
-2          Efrat           1         5     0     10    Rogue  
-3          TomerM          1         4     0     10    Rogue  
-4          Amirmann        1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Efrat           1         6     100   10    Warrior  
+2          Efrat           1         5     0     10    Ninja  
+3          TomerM          1         4     0     10    Ninja  
+4          Amirmann        1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     100   12    Fighter  
-2          Efrat           1         5     0     10    Rogue  
-3          TomerM          1         4     0     10    Rogue  
-4          Amirmann        1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Efrat           2         6     100   12    Warrior  
+2          Efrat           1         5     0     10    Ninja  
+3          TomerM          1         4     0     10    Ninja  
+4          Amirmann        1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -305,8 +305,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     0     12    Fighter  
-2          Efrat           1         5     0     10    Rogue  
-3          TomerM          1         4     0     10    Rogue  
-4          Amirmann        1         5     0     10    Fighter  
-5          Daniel          1         5     0     10    Fighter  
+1          Efrat           2         6     0     12    Warrior  
+2          Efrat           1         5     0     10    Ninja  
+3          TomerM          1         4     0     10    Ninja  
+4          Amirmann        1         5     0     10    Warrior  
+5          Daniel          1         5     0     10    Warrior  

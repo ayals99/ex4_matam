@@ -146,10 +146,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   20    Wizard  
-2          Omerz           1         6     100   0     Rogue  
-3          Efrat           1         5     100   10    Fighter  
-4          GalLalush       1         5     0     10    Wizard  
+1          Amirmann        1         5     100   20    Healer  
+2          Omerz           1         6     100   0     Ninja  
+3          Efrat           1         5     100   10    Warrior  
+4          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -163,10 +163,10 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    20    Wizard  
-2          Omerz           1         6     90    0     Rogue  
-3          Efrat           1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Wizard  
+1          Amirmann        1         5     90    20    Healer  
+2          Omerz           1         6     90    0     Ninja  
+3          Efrat           1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -188,10 +188,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    30    Wizard  
-2          Omerz           1         6     90    0     Rogue  
-3          Efrat           1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Wizard  
+1          Amirmann        1         5     90    30    Healer  
+2          Omerz           1         6     90    0     Ninja  
+3          Efrat           1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -211,10 +211,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     90    20    Wizard  
-2          Omerz           1         6     90    0     Rogue  
-3          Efrat           1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Wizard  
+1          Amirmann        1         6     90    20    Healer  
+2          Omerz           1         6     90    0     Ninja  
+3          Efrat           1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -226,10 +226,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     90    30    Wizard  
-2          Omerz           1         6     80    0     Rogue  
-3          Efrat           1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Wizard  
+1          Amirmann        1         6     90    30    Healer  
+2          Omerz           1         6     80    0     Ninja  
+3          Efrat           1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -241,25 +241,25 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     80    30    Wizard  
-2          Omerz           1         6     80    20    Rogue  
-3          Efrat           1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Wizard  
+1          Amirmann        1         6     80    30    Healer  
+2          Omerz           1         6     80    20    Ninja  
+3          Efrat           1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   30    Wizard  
-2          Omerz           1         6     80    40    Rogue  
-3          Efrat           1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Wizard  
+1          Amirmann        1         6     100   30    Healer  
+2          Omerz           1         6     80    40    Ninja  
+3          Efrat           1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -280,23 +280,23 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   25    Wizard  
-2          Omerz           1         6     0     40    Rogue  
-3          Efrat           1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Wizard  
+1          Amirmann        1         6     100   25    Healer  
+2          Omerz           1         6     0     40    Ninja  
+3          Efrat           1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     100   25    Wizard  
-2          Omerz           1         6     0     40    Rogue  
-3          Efrat           1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Wizard  
+1          Amirmann        1         6     100   25    Healer  
+2          Omerz           1         6     0     40    Ninja  
+3          Efrat           1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -306,10 +306,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     90    25    Wizard  
-2          Omerz           1         6     0     40    Rogue  
-3          Efrat           1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Wizard  
+1          Amirmann        1         6     90    25    Healer  
+2          Omerz           1         6     0     40    Ninja  
+3          Efrat           1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -319,10 +319,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     80    25    Wizard  
-2          Omerz           1         6     0     40    Rogue  
-3          Efrat           1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Wizard  
+1          Amirmann        1         6     80    25    Healer  
+2          Omerz           1         6     0     40    Ninja  
+3          Efrat           1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -333,7 +333,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         6     0     25    Wizard  
-2          Omerz           1         6     0     40    Rogue  
-3          Efrat           1         5     0     10    Fighter  
-4          GalLalush       1         5     0     10    Wizard  
+1          Amirmann        1         6     0     25    Healer  
+2          Omerz           1         6     0     40    Ninja  
+3          Efrat           1         5     0     10    Warrior  
+4          GalLalush       1         5     0     10    Healer  

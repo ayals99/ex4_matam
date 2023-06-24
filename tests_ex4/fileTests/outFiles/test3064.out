@@ -68,19 +68,19 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           1         5     100   10    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   12    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           2         5     100   12    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -90,8 +90,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   22    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           2         5     100   22    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -101,19 +101,19 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     90    22    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           2         5     90    22    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     90    24    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           3         5     90    24    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -123,8 +123,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     90    24    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           3         5     90    24    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -134,8 +134,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     80    24    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           3         5     80    24    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -145,19 +145,19 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     80    34    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           3         5     80    34    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     80    36    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         5     80    36    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -176,8 +176,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     80    36    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         5     80    36    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -187,8 +187,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     80    46    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         5     80    46    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -198,8 +198,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     80    56    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         5     80    56    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -209,8 +209,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     70    56    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         5     70    56    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -227,8 +227,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         6     70    46    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         6     70    46    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -238,8 +238,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         6     70    46    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         6     70    46    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -249,8 +249,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         6     70    56    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         6     70    56    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -260,19 +260,19 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         6     70    66    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           4         6     70    66    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 18:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         6     70    68    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           5         6     70    68    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -289,8 +289,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         6     70    68    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           5         6     70    68    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 20:
@@ -307,19 +307,19 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         6     71    63    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           5         6     71    63    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 21:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         6     71    65    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           6         6     71    65    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 22:
@@ -329,30 +329,30 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         6     71    65    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           6         6     71    65    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 23:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           7         6     71    67    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           7         6     71    67    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 24:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           8         6     71    69    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           8         6     71    69    Warrior  
+2          TomerM          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 25:
@@ -363,5 +363,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           8         6     0     69    Fighter  
-2          TomerM          1         5     0     10    Wizard  
+1          Omerz           8         6     0     69    Warrior  
+2          TomerM          1         5     0     10    Healer  

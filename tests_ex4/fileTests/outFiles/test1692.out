@@ -408,33 +408,33 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Fighter  
-2          GalLalush       1         5     90    10    Rogue  
-3          Omerz           1         5     90    10    Rogue  
-4          TomerM          1         5     100   10    Fighter  
-5          Amirmann        1         5     100   30    Rogue  
+1          Daniel          1         5     100   10    Warrior  
+2          GalLalush       1         5     90    10    Ninja  
+3          Omerz           1         5     90    10    Ninja  
+4          TomerM          1         5     100   10    Warrior  
+5          Amirmann        1         5     100   30    Ninja  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've won the scuffle without losing any health points.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   12    Fighter  
-2          Omerz           2         5     90    14    Rogue  
-3          TomerM          1         5     100   10    Fighter  
-4          Amirmann        1         4     90    30    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         5     100   12    Warrior  
+2          Omerz           2         5     90    14    Ninja  
+3          TomerM          1         5     100   10    Warrior  
+4          Amirmann        1         4     90    30    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -450,11 +450,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    12    Fighter  
-2          TomerM          1         5     100   10    Fighter  
-3          Amirmann        1         4     90    50    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         5     90    12    Warrior  
+2          TomerM          1         5     100   10    Warrior  
+3          Amirmann        1         4     90    50    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -468,11 +468,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    22    Fighter  
-2          TomerM          1         5     100   20    Fighter  
-3          Amirmann        1         4     90    70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         5     90    22    Warrior  
+2          TomerM          1         5     100   20    Warrior  
+3          Amirmann        1         4     90    70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -488,17 +488,17 @@ You have entered an invalid input. Please try again.
 Daniel has paid 0 coins 
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    22    Fighter  
-2          TomerM          2         5     100   22    Fighter  
-3          Amirmann        1         4     90    70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         5     90    22    Warrior  
+2          TomerM          2         5     100   22    Warrior  
+3          Amirmann        1         4     90    70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -506,17 +506,17 @@ Start of round 6:
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    22    Fighter  
-2          TomerM          3         5     100   24    Fighter  
-3          Amirmann        1         4     80    70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         5     90    22    Warrior  
+2          TomerM          3         5     100   24    Warrior  
+3          Amirmann        1         4     80    70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
@@ -533,17 +533,17 @@ You have entered an invalid input. Please try again.
 Daniel has paid 10 coins for 1 force boost!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     90    12    Fighter  
-2          TomerM          4         5     100   26    Fighter  
-3          Amirmann        1         4     70    70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         6     90    12    Warrior  
+2          TomerM          4         5     100   26    Warrior  
+3          Amirmann        1         4     70    70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -551,17 +551,17 @@ Start of round 8:
 Start of Daniel's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     90    12    Fighter  
-2          TomerM          5         5     100   28    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         6     90    12    Warrior  
+2          TomerM          5         5     100   28    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 9:
@@ -573,11 +573,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     90    22    Fighter  
-2          TomerM          5         5     90    28    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          Daniel          2         6     90    22    Warrior  
+2          TomerM          5         5     90    28    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 10:
@@ -589,11 +589,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         5     90    38    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          5         5     90    38    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 11:
@@ -603,25 +603,25 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          5         5     90    38    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          5         5     90    38    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 12:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     90    40    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          6         5     90    40    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 13:
@@ -631,11 +631,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     90    50    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          6         5     90    50    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 14:
@@ -645,11 +645,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     90    50    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          6         5     90    50    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 15:
@@ -668,11 +668,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     91    45    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          6         5     91    45    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 16:
@@ -682,11 +682,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     81    45    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          6         5     81    45    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 17:
@@ -696,11 +696,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     81    45    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          6         5     81    45    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 18:
@@ -710,11 +710,11 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     81    45    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          6         5     81    45    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 19:
@@ -724,11 +724,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     81    45    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          6         5     81    45    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 20:
@@ -738,11 +738,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     81    45    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          6         5     81    45    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 21:
@@ -752,11 +752,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     81    45    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          6         5     81    45    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 22:
@@ -766,11 +766,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     81    55    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          6         5     81    55    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 23:
@@ -780,11 +780,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     81    55    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          6         5     81    55    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 24:
@@ -794,11 +794,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     71    55    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          6         5     71    55    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 25:
@@ -808,25 +808,25 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          6         5     71    55    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          6         5     71    55    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 26:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          7         5     71    57    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          7         5     71    57    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 27:
@@ -836,11 +836,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          7         5     71    67    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          7         5     71    67    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 28:
@@ -850,11 +850,11 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          7         5     61    67    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          7         5     61    67    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 29:
@@ -864,51 +864,51 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          7         5     61    67    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          7         5     61    67    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 30:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          8         5     61    69    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          8         5     61    69    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 31:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          9         5     61    71    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          9         5     61    71    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 32:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          10        5     61    73    Fighter  
-2          Daniel          2         6     0     22    Fighter  
-3          Amirmann        1         4     0     70    Rogue  
-4          Omerz           2         5     0     14    Rogue  
-5          GalLalush       1         5     0     10    Rogue  
+1          TomerM          10        5     61    73    Warrior  
+2          Daniel          2         6     0     22    Warrior  
+3          Amirmann        1         4     0     70    Ninja  
+4          Omerz           2         5     0     14    Ninja  
+5          GalLalush       1         5     0     10    Ninja  

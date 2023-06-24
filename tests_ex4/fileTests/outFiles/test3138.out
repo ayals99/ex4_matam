@@ -680,7 +680,7 @@ You have entered an invalid input. Please try again.
 Omerz has paid 10 coins for 1 force boost!
 Safe travels!
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of Daniel's turn: 
@@ -688,11 +688,11 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     100   0     Fighter  
-2          GalLalush       1         5     100   10    Wizard  
-3          Daniel          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Fighter  
-5          Amirmann        1         5     0     10    Rogue  
+1          Omerz           1         6     100   0     Warrior  
+2          GalLalush       1         5     100   10    Healer  
+3          Daniel          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Warrior  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -704,11 +704,11 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     90    0     Fighter  
-2          GalLalush       1         5     90    10    Wizard  
-3          Daniel          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Fighter  
-5          Amirmann        1         5     0     10    Rogue  
+1          Omerz           1         6     90    0     Warrior  
+2          GalLalush       1         5     90    10    Healer  
+3          Daniel          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Warrior  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -720,11 +720,11 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     90    10    Fighter  
-2          GalLalush       1         5     0     10    Wizard  
-3          Daniel          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Fighter  
-5          Amirmann        1         5     0     10    Rogue  
+1          Omerz           1         6     90    10    Warrior  
+2          GalLalush       1         5     0     10    Healer  
+3          Daniel          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Warrior  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -734,11 +734,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     90    20    Fighter  
-2          GalLalush       1         5     0     10    Wizard  
-3          Daniel          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Fighter  
-5          Amirmann        1         5     0     10    Rogue  
+1          Omerz           1         6     90    20    Warrior  
+2          GalLalush       1         5     0     10    Healer  
+3          Daniel          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Warrior  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -749,8 +749,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         6     0     20    Fighter  
-2          GalLalush       1         5     0     10    Wizard  
-3          Daniel          1         5     0     10    Fighter  
-4          Omerz           1         5     0     10    Fighter  
-5          Amirmann        1         5     0     10    Rogue  
+1          Omerz           1         6     0     20    Warrior  
+2          GalLalush       1         5     0     10    Healer  
+3          Daniel          1         5     0     10    Warrior  
+4          Omerz           1         5     0     10    Warrior  
+5          Amirmann        1         5     0     10    Ninja  

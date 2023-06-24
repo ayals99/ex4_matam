@@ -428,7 +428,7 @@ Start of round 1:
 Start of GalLalush's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 Start of Daniel's turn: 
@@ -436,10 +436,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   10    Rogue  
-2          Amirmann        1         4     90    10    Rogue  
-3          Omerz           1         5     90    10    Wizard  
-4          Daniel          1         5     90    10    Wizard  
+1          GalLalush       1         5     100   10    Ninja  
+2          Amirmann        1         4     90    10    Ninja  
+3          Omerz           1         5     90    10    Healer  
+4          Daniel          1         5     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -447,26 +447,26 @@ Start of round 2:
 Start of GalLalush's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   10    Rogue  
-2          Amirmann        1         4     80    10    Rogue  
-3          Omerz           1         4     80    10    Wizard  
-4          Daniel          1         4     80    10    Wizard  
+1          GalLalush       1         5     100   10    Ninja  
+2          Amirmann        1         4     80    10    Ninja  
+3          Omerz           1         4     80    10    Healer  
+4          Daniel          1         4     80    10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 Start of Daniel's turn: 
@@ -474,10 +474,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     90    10    Rogue  
-2          Amirmann        1         4     70    10    Rogue  
-3          Omerz           1         4     70    10    Wizard  
-4          Daniel          1         4     70    10    Wizard  
+1          GalLalush       1         4     90    10    Ninja  
+2          Amirmann        1         4     70    10    Ninja  
+3          Omerz           1         4     70    10    Healer  
+4          Daniel          1         4     70    10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -485,9 +485,9 @@ Start of round 4:
 Start of GalLalush's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Goblin.
+Player Amirmann has been defeated by a Gremlin.
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of Daniel's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -501,29 +501,29 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         4     90    10    Rogue  
-2          Amirmann        1         4     60    10    Rogue  
-3          Omerz           1         3     60    10    Wizard  
-4          Daniel          1         4     72    5     Wizard  
+1          GalLalush       1         4     90    10    Ninja  
+2          Amirmann        1         4     60    10    Ninja  
+3          Omerz           1         3     60    10    Healer  
+4          Daniel          1         4     72    5     Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Amirmann's turn: 
-Player Amirmann has been defeated by a Vampire.
+Player Amirmann has been defeated by a Witch.
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Goblin.
+Player Daniel has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         3     80    10    Rogue  
-2          Amirmann        1         3     50    10    Rogue  
-3          Daniel          1         4     62    5     Wizard  
-4          Omerz           1         3     0     10    Wizard  
+1          GalLalush       1         3     80    10    Ninja  
+2          Amirmann        1         3     50    10    Ninja  
+3          Daniel          1         4     62    5     Healer  
+4          Omerz           1         3     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -533,29 +533,29 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         3     80    30    Rogue  
-2          Daniel          1         4     82    5     Wizard  
-3          Amirmann        1         3     0     10    Rogue  
-4          Omerz           1         3     0     10    Wizard  
+1          GalLalush       1         3     80    30    Ninja  
+2          Daniel          1         4     82    5     Healer  
+3          Amirmann        1         3     0     10    Ninja  
+4          Omerz           1         3     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     70    30    Rogue  
-2          Daniel          1         3     72    5     Wizard  
-3          Amirmann        1         3     0     10    Rogue  
-4          Omerz           1         3     0     10    Wizard  
+1          GalLalush       1         2     70    30    Ninja  
+2          Daniel          1         3     72    5     Healer  
+3          Amirmann        1         3     0     10    Ninja  
+4          Omerz           1         3     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -575,10 +575,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         2     60    30    Rogue  
-2          Daniel          1         3     74    0     Wizard  
-3          Amirmann        1         3     0     10    Rogue  
-4          Omerz           1         3     0     10    Wizard  
+1          GalLalush       1         2     60    30    Ninja  
+2          Daniel          1         3     74    0     Healer  
+3          Amirmann        1         3     0     10    Ninja  
+4          Omerz           1         3     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -590,23 +590,23 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     74    10    Wizard  
-2          GalLalush       1         2     0     30    Rogue  
-3          Amirmann        1         3     0     10    Rogue  
-4          Omerz           1         3     0     10    Wizard  
+1          Daniel          1         3     74    10    Healer  
+2          GalLalush       1         2     0     30    Ninja  
+3          Amirmann        1         3     0     10    Ninja  
+4          Omerz           1         3     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Goblin.
+Player Daniel has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     64    10    Wizard  
-2          GalLalush       1         2     0     30    Rogue  
-3          Amirmann        1         3     0     10    Rogue  
-4          Omerz           1         3     0     10    Wizard  
+1          Daniel          1         3     64    10    Healer  
+2          GalLalush       1         2     0     30    Ninja  
+3          Amirmann        1         3     0     10    Ninja  
+4          Omerz           1         3     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -616,10 +616,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     54    10    Wizard  
-2          GalLalush       1         2     0     30    Rogue  
-3          Amirmann        1         3     0     10    Rogue  
-4          Omerz           1         3     0     10    Wizard  
+1          Daniel          1         3     54    10    Healer  
+2          GalLalush       1         2     0     30    Ninja  
+3          Amirmann        1         3     0     10    Ninja  
+4          Omerz           1         3     0     10    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -629,49 +629,49 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     54    20    Wizard  
-2          GalLalush       1         2     0     30    Rogue  
-3          Amirmann        1         3     0     10    Rogue  
-4          Omerz           1         3     0     10    Wizard  
+1          Daniel          1         3     54    20    Healer  
+2          GalLalush       1         2     0     30    Ninja  
+3          Amirmann        1         3     0     10    Ninja  
+4          Omerz           1         3     0     10    Healer  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     74    20    Wizard  
-2          GalLalush       1         2     0     30    Rogue  
-3          Amirmann        1         3     0     10    Rogue  
-4          Omerz           1         3     0     10    Wizard  
+1          Daniel          1         3     74    20    Healer  
+2          GalLalush       1         2     0     30    Ninja  
+3          Amirmann        1         3     0     10    Ninja  
+4          Omerz           1         3     0     10    Healer  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     94    20    Wizard  
-2          GalLalush       1         2     0     30    Rogue  
-3          Amirmann        1         3     0     10    Rogue  
-4          Omerz           1         3     0     10    Wizard  
+1          Daniel          1         3     94    20    Healer  
+2          GalLalush       1         2     0     30    Ninja  
+3          Amirmann        1         3     0     10    Ninja  
+4          Omerz           1         3     0     10    Healer  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Goblin.
+Player Daniel has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     84    20    Wizard  
-2          GalLalush       1         2     0     30    Rogue  
-3          Amirmann        1         3     0     10    Rogue  
-4          Omerz           1         3     0     10    Wizard  
+1          Daniel          1         3     84    20    Healer  
+2          GalLalush       1         2     0     30    Ninja  
+3          Amirmann        1         3     0     10    Ninja  
+4          Omerz           1         3     0     10    Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -682,7 +682,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         3     0     20    Wizard  
-2          GalLalush       1         2     0     30    Rogue  
-3          Amirmann        1         3     0     10    Rogue  
-4          Omerz           1         3     0     10    Wizard  
+1          Daniel          1         3     0     20    Healer  
+2          GalLalush       1         2     0     30    Ninja  
+3          Amirmann        1         3     0     10    Ninja  
+4          Omerz           1         3     0     10    Healer  

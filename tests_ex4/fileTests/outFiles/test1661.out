@@ -120,8 +120,8 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   20    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          Efrat           1         5     100   20    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -131,8 +131,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    20    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          Efrat           1         5     90    20    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -142,30 +142,30 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     90    30    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          Efrat           1         5     90    30    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     90    32    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          Efrat           2         5     90    32    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     90    34    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         5     90    34    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -183,8 +183,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     90    24    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         6     90    24    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -203,8 +203,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     92    19    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         6     92    19    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -214,8 +214,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     92    29    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         6     92    29    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -225,8 +225,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     92    39    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         6     92    39    Healer  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -237,5 +237,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         6     0     39    Wizard  
-2          Efrat           1         5     0     10    Wizard  
+1          Efrat           3         6     0     39    Healer  
+2          Efrat           1         5     0     10    Healer  

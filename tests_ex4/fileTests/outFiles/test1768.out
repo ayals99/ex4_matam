@@ -193,20 +193,20 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    10    Rogue  
-2          GalLalush       2         5     100   12    Fighter  
-3          TomerM          1         5     100   10    Rogue  
-4          Daniel          2         5     100   12    Wizard  
+1          Omerz           1         4     90    10    Ninja  
+2          GalLalush       2         5     100   12    Warrior  
+3          TomerM          1         5     100   10    Ninja  
+4          Daniel          2         5     100   12    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -222,29 +222,29 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    10    Rogue  
-2          GalLalush       2         5     100   12    Fighter  
-3          TomerM          1         5     100   10    Rogue  
-4          Daniel          2         5     90    12    Wizard  
+1          Omerz           1         4     90    10    Ninja  
+2          GalLalush       2         5     100   12    Warrior  
+3          TomerM          1         5     100   10    Ninja  
+4          Daniel          2         5     90    12    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of GalLalush's turn: 
 Nothing happened.
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     80    10    Rogue  
-2          GalLalush       2         5     100   12    Fighter  
-3          TomerM          1         4     90    10    Rogue  
-4          Daniel          2         4     80    12    Wizard  
+1          Omerz           1         3     80    10    Ninja  
+2          GalLalush       2         5     100   12    Warrior  
+3          TomerM          1         4     90    10    Ninja  
+4          Daniel          2         4     80    12    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -260,18 +260,18 @@ You have entered an invalid input. Please try again.
 Omerz has paid 5 coins for 1 health potion!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Goblin.
+Player TomerM has been defeated by a Gremlin.
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     81    5     Rogue  
-2          GalLalush       3         5     100   14    Fighter  
-3          TomerM          1         4     80    10    Rogue  
-4          Daniel          2         4     0     12    Wizard  
+1          Omerz           1         3     81    5     Ninja  
+2          GalLalush       3         5     100   14    Warrior  
+3          TomerM          1         4     80    10    Ninja  
+4          Daniel          2         4     0     12    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -285,10 +285,10 @@ Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     100   14    Fighter  
-2          TomerM          1         4     0     10    Rogue  
-3          Omerz           1         3     0     5     Rogue  
-4          Daniel          2         4     0     12    Wizard  
+1          GalLalush       3         5     100   14    Warrior  
+2          TomerM          1         4     0     10    Ninja  
+3          Omerz           1         3     0     5     Ninja  
+4          Daniel          2         4     0     12    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -299,7 +299,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     0     14    Fighter  
-2          TomerM          1         4     0     10    Rogue  
-3          Omerz           1         3     0     5     Rogue  
-4          Daniel          2         4     0     12    Wizard  
+1          GalLalush       3         5     0     14    Warrior  
+2          TomerM          1         4     0     10    Ninja  
+3          Omerz           1         3     0     5     Ninja  
+4          Daniel          2         4     0     12    Healer  

@@ -835,14 +835,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Efrat's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     100   10    Wizard  
-2          Efrat           1         5     100   10    Fighter  
+1          Efrat           1         5     100   10    Healer  
+2          Efrat           1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -850,12 +850,12 @@ Start of round 2:
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Fighter  
-2          Efrat           1         5     0     10    Wizard  
+1          Efrat           2         5     100   12    Warrior  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -872,8 +872,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     100   2     Fighter  
-2          Efrat           1         5     0     10    Wizard  
+1          Efrat           2         6     100   2     Warrior  
+2          Efrat           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -884,5 +884,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         6     0     2     Fighter  
-2          Efrat           1         5     0     10    Wizard  
+1          Efrat           2         6     0     2     Warrior  
+2          Efrat           1         5     0     10    Healer  

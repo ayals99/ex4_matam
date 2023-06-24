@@ -53,12 +53,12 @@ You have entered an invalid input. Please try again.
 Efrat has paid 10 coins for 1 force boost!
 Safe travels!
 Start of Amirmann's turn: 
-Player Amirmann has defeated Vampire and rose 1 Level!
+Player Amirmann has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Rogue  
-2          Amirmann        2         5     100   12    Fighter  
+1          Efrat           1         6     100   0     Ninja  
+2          Amirmann        2         5     100   12    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -70,8 +70,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         6     100   0     Rogue  
-2          Amirmann        2         5     100   22    Fighter  
+1          Efrat           1         6     100   0     Ninja  
+2          Amirmann        2         5     100   22    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -79,23 +79,23 @@ Start of round 3:
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   24    Fighter  
-2          Efrat           1         6     0     0     Rogue  
+1          Amirmann        3         5     100   24    Warrior  
+2          Efrat           1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     100   26    Fighter  
-2          Efrat           1         6     0     0     Rogue  
+1          Amirmann        4         5     100   26    Warrior  
+2          Efrat           1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -105,8 +105,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     100   36    Fighter  
-2          Efrat           1         6     0     0     Rogue  
+1          Amirmann        4         5     100   36    Warrior  
+2          Efrat           1         6     0     0     Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -117,5 +117,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     0     36    Fighter  
-2          Efrat           1         6     0     0     Rogue  
+1          Amirmann        4         5     0     36    Warrior  
+2          Efrat           1         6     0     0     Ninja  

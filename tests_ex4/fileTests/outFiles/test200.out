@@ -222,7 +222,7 @@ You fell into the trap, lose 10 health points.
 Start of TomerM's turn: 
 You've won the scuffle without losing any health points.
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of Efrat's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -236,10 +236,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     90    10    Wizard  
-2          TomerM          1         5     100   10    Fighter  
-3          TomerM          1         4     90    10    Rogue  
-4          Efrat           1         5     100   10    Wizard  
+1          Omerz           1         5     90    10    Healer  
+2          TomerM          1         5     100   10    Warrior  
+3          TomerM          1         4     90    10    Ninja  
+4          Efrat           1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -249,16 +249,16 @@ Player Omerz has been defeated by a Dragon.
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Goblin.
+Player TomerM has been defeated by a Gremlin.
 Start of Efrat's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   20    Fighter  
-2          TomerM          1         4     80    10    Rogue  
-3          Efrat           1         5     90    10    Wizard  
-4          Omerz           1         5     0     10    Wizard  
+1          TomerM          1         5     100   20    Warrior  
+2          TomerM          1         4     80    10    Ninja  
+3          Efrat           1         5     90    10    Healer  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -268,14 +268,14 @@ You've won the scuffle without losing any health points.
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   20    Fighter  
-2          TomerM          1         4     70    10    Rogue  
-3          Efrat           1         5     100   10    Wizard  
-4          Omerz           1         5     0     10    Wizard  
+1          TomerM          1         5     100   20    Warrior  
+2          TomerM          1         4     70    10    Ninja  
+3          Efrat           1         5     100   10    Healer  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -289,10 +289,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   20    Fighter  
-2          TomerM          1         4     70    10    Rogue  
-3          Efrat           1         5     90    10    Wizard  
-4          Omerz           1         5     0     10    Wizard  
+1          TomerM          1         5     100   20    Warrior  
+2          TomerM          1         4     70    10    Ninja  
+3          Efrat           1         5     90    10    Healer  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -313,10 +313,10 @@ Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   20    Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          TomerM          1         4     0     10    Rogue  
-4          Omerz           1         5     0     10    Wizard  
+1          TomerM          1         5     100   20    Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          TomerM          1         4     0     10    Ninja  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -326,36 +326,36 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   20    Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          TomerM          1         4     0     10    Rogue  
-4          Omerz           1         5     0     10    Wizard  
+1          TomerM          1         5     100   20    Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          TomerM          1         4     0     10    Ninja  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   22    Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          TomerM          1         4     0     10    Rogue  
-4          Omerz           1         5     0     10    Wizard  
+1          TomerM          2         5     100   22    Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          TomerM          1         4     0     10    Ninja  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     100   24    Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          TomerM          1         4     0     10    Rogue  
-4          Omerz           1         5     0     10    Wizard  
+1          TomerM          3         5     100   24    Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          TomerM          1         4     0     10    Ninja  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -365,10 +365,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    24    Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          TomerM          1         4     0     10    Rogue  
-4          Omerz           1         5     0     10    Wizard  
+1          TomerM          3         5     90    24    Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          TomerM          1         4     0     10    Ninja  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -378,10 +378,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    24    Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          TomerM          1         4     0     10    Rogue  
-4          Omerz           1         5     0     10    Wizard  
+1          TomerM          3         5     90    24    Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          TomerM          1         4     0     10    Ninja  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -391,10 +391,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     80    24    Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          TomerM          1         4     0     10    Rogue  
-4          Omerz           1         5     0     10    Wizard  
+1          TomerM          3         5     80    24    Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          TomerM          1         4     0     10    Ninja  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -404,10 +404,10 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     80    24    Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          TomerM          1         4     0     10    Rogue  
-4          Omerz           1         5     0     10    Wizard  
+1          TomerM          3         5     80    24    Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          TomerM          1         4     0     10    Ninja  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -417,10 +417,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     70    24    Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          TomerM          1         4     0     10    Rogue  
-4          Omerz           1         5     0     10    Wizard  
+1          TomerM          3         5     70    24    Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          TomerM          1         4     0     10    Ninja  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -430,10 +430,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     70    34    Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          TomerM          1         4     0     10    Rogue  
-4          Omerz           1         5     0     10    Wizard  
+1          TomerM          3         5     70    34    Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          TomerM          1         4     0     10    Ninja  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -444,7 +444,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     0     34    Fighter  
-2          Efrat           1         5     0     10    Wizard  
-3          TomerM          1         4     0     10    Rogue  
-4          Omerz           1         5     0     10    Wizard  
+1          TomerM          3         5     0     34    Warrior  
+2          Efrat           1         5     0     10    Healer  
+3          TomerM          1         4     0     10    Ninja  
+4          Omerz           1         5     0     10    Healer  

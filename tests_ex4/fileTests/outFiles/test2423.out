@@ -195,33 +195,33 @@ You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Amirmann's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Fighter  
-2          Efrat           2         5     100   14    Rogue  
-3          Amirmann        1         5     100   10    Fighter  
-4          Omerz           1         5     0     10    Wizard  
+1          Amirmann        1         5     100   10    Warrior  
+2          Efrat           2         5     100   14    Ninja  
+3          Amirmann        1         5     100   10    Warrior  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Fighter  
-2          Efrat           2         5     100   34    Rogue  
-3          Amirmann        2         5     100   12    Fighter  
-4          Omerz           1         5     0     10    Wizard  
+1          Amirmann        2         5     100   12    Warrior  
+2          Efrat           2         5     100   34    Ninja  
+3          Amirmann        2         5     100   12    Warrior  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -235,10 +235,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   54    Rogue  
-2          Amirmann        2         5     90    12    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
-4          Omerz           1         5     0     10    Wizard  
+1          Efrat           2         5     100   54    Ninja  
+2          Amirmann        2         5     90    12    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -250,25 +250,25 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   74    Rogue  
-2          Amirmann        2         5     80    12    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
-4          Omerz           1         5     0     10    Wizard  
+1          Efrat           2         5     100   74    Ninja  
+2          Amirmann        2         5     80    12    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of Amirmann's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         4     90    74    Rogue  
-2          Amirmann        2         5     80    12    Fighter  
-3          Amirmann        2         5     0     12    Fighter  
-4          Omerz           1         5     0     10    Wizard  
+1          Efrat           2         4     90    74    Ninja  
+2          Amirmann        2         5     80    12    Warrior  
+3          Amirmann        2         5     0     12    Warrior  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -276,14 +276,14 @@ Start of round 6:
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     80    14    Fighter  
-2          Efrat           2         4     0     74    Rogue  
-3          Amirmann        2         5     0     12    Fighter  
-4          Omerz           1         5     0     10    Wizard  
+1          Amirmann        3         5     80    14    Warrior  
+2          Efrat           2         4     0     74    Ninja  
+3          Amirmann        2         5     0     12    Warrior  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -293,23 +293,23 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     80    14    Fighter  
-2          Efrat           2         4     0     74    Rogue  
-3          Amirmann        2         5     0     12    Fighter  
-4          Omerz           1         5     0     10    Wizard  
+1          Amirmann        3         5     80    14    Warrior  
+2          Efrat           2         4     0     74    Ninja  
+3          Amirmann        2         5     0     12    Warrior  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     80    16    Fighter  
-2          Efrat           2         4     0     74    Rogue  
-3          Amirmann        2         5     0     12    Fighter  
-4          Omerz           1         5     0     10    Wizard  
+1          Amirmann        4         5     80    16    Warrior  
+2          Efrat           2         4     0     74    Ninja  
+3          Amirmann        2         5     0     12    Warrior  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -319,23 +319,23 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        4         5     80    26    Fighter  
-2          Efrat           2         4     0     74    Rogue  
-3          Amirmann        2         5     0     12    Fighter  
-4          Omerz           1         5     0     10    Wizard  
+1          Amirmann        4         5     80    26    Warrior  
+2          Efrat           2         4     0     74    Ninja  
+3          Amirmann        2         5     0     12    Warrior  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     80    28    Fighter  
-2          Efrat           2         4     0     74    Rogue  
-3          Amirmann        2         5     0     12    Fighter  
-4          Omerz           1         5     0     10    Wizard  
+1          Amirmann        5         5     80    28    Warrior  
+2          Efrat           2         4     0     74    Ninja  
+3          Amirmann        2         5     0     12    Warrior  
+4          Omerz           1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -346,7 +346,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        5         5     0     28    Fighter  
-2          Efrat           2         4     0     74    Rogue  
-3          Amirmann        2         5     0     12    Fighter  
-4          Omerz           1         5     0     10    Wizard  
+1          Amirmann        5         5     0     28    Warrior  
+2          Efrat           2         4     0     74    Ninja  
+3          Amirmann        2         5     0     12    Warrior  
+4          Omerz           1         5     0     10    Healer  

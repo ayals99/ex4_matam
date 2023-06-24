@@ -550,9 +550,9 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of Omerz's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -566,9 +566,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Wizard  
-2          Efrat           1         4     90    10    Rogue  
-3          Omerz           1         5     100   5     Wizard  
+1          Amirmann        2         5     100   12    Healer  
+2          Efrat           1         4     90    10    Ninja  
+3          Omerz           1         5     100   5     Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -582,21 +582,21 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     90    10    Rogue  
-2          Omerz           1         5     0     5     Wizard  
-3          Amirmann        2         5     0     12    Wizard  
+1          Efrat           1         4     90    10    Ninja  
+2          Omerz           1         5     0     5     Healer  
+3          Amirmann        2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Goblin.
+Player Efrat has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     80    10    Rogue  
-2          Omerz           1         5     0     5     Wizard  
-3          Amirmann        2         5     0     12    Wizard  
+1          Efrat           1         4     80    10    Ninja  
+2          Omerz           1         5     0     5     Healer  
+3          Amirmann        2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -615,21 +615,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         5     80    0     Rogue  
-2          Omerz           1         5     0     5     Wizard  
-3          Amirmann        2         5     0     12    Wizard  
+1          Efrat           1         5     80    0     Ninja  
+2          Omerz           1         5     0     5     Healer  
+3          Amirmann        2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     70    0     Rogue  
-2          Omerz           1         5     0     5     Wizard  
-3          Amirmann        2         5     0     12    Wizard  
+1          Efrat           1         4     70    0     Ninja  
+2          Omerz           1         5     0     5     Healer  
+3          Amirmann        2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -639,9 +639,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     70    20    Rogue  
-2          Omerz           1         5     0     5     Wizard  
-3          Amirmann        2         5     0     12    Wizard  
+1          Efrat           1         4     70    20    Ninja  
+2          Omerz           1         5     0     5     Healer  
+3          Amirmann        2         5     0     12    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -652,6 +652,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     0     20    Rogue  
-2          Omerz           1         5     0     5     Wizard  
-3          Amirmann        2         5     0     12    Wizard  
+1          Efrat           1         4     0     20    Ninja  
+2          Omerz           1         5     0     5     Healer  
+3          Amirmann        2         5     0     12    Healer  

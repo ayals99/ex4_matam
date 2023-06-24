@@ -181,9 +181,9 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
@@ -193,11 +193,11 @@ Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   12    Fighter  
-2          Omerz           2         5     100   12    Fighter  
-3          Daniel          1         5     100   20    Fighter  
-4          Omerz           1         5     100   10    Fighter  
-5          TomerM          1         5     0     10    Fighter  
+1          TomerM          2         5     100   12    Warrior  
+2          Omerz           2         5     100   12    Warrior  
+3          Daniel          1         5     100   20    Warrior  
+4          Omerz           1         5     100   10    Warrior  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -222,11 +222,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   22    Fighter  
-2          Omerz           2         5     100   12    Fighter  
-3          Daniel          1         5     100   20    Fighter  
-4          Omerz           1         5     100   10    Fighter  
-5          TomerM          1         5     0     10    Fighter  
+1          TomerM          2         5     100   22    Warrior  
+2          Omerz           2         5     100   12    Warrior  
+3          Daniel          1         5     100   20    Warrior  
+4          Omerz           1         5     100   10    Warrior  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -236,17 +236,17 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   32    Fighter  
-2          Omerz           2         5     100   22    Fighter  
-3          Daniel          2         5     100   22    Fighter  
-4          Omerz           1         5     100   10    Fighter  
-5          TomerM          1         5     0     10    Fighter  
+1          TomerM          2         5     100   32    Warrior  
+2          Omerz           2         5     100   22    Warrior  
+3          Daniel          2         5     100   22    Warrior  
+4          Omerz           1         5     100   10    Warrior  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -262,25 +262,25 @@ Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           2         5     100   22    Fighter  
-2          Omerz           1         5     0     10    Fighter  
-3          Daniel          2         5     0     22    Fighter  
-4          TomerM          2         5     0     32    Fighter  
-5          TomerM          1         5     0     10    Fighter  
+1          Omerz           2         5     100   22    Warrior  
+2          Omerz           1         5     0     10    Warrior  
+3          Daniel          2         5     0     22    Warrior  
+4          TomerM          2         5     0     32    Warrior  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   24    Fighter  
-2          Omerz           1         5     0     10    Fighter  
-3          Daniel          2         5     0     22    Fighter  
-4          TomerM          2         5     0     32    Fighter  
-5          TomerM          1         5     0     10    Fighter  
+1          Omerz           3         5     100   24    Warrior  
+2          Omerz           1         5     0     10    Warrior  
+3          Daniel          2         5     0     22    Warrior  
+4          TomerM          2         5     0     32    Warrior  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -290,39 +290,39 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           3         5     100   24    Fighter  
-2          Omerz           1         5     0     10    Fighter  
-3          Daniel          2         5     0     22    Fighter  
-4          TomerM          2         5     0     32    Fighter  
-5          TomerM          1         5     0     10    Fighter  
+1          Omerz           3         5     100   24    Warrior  
+2          Omerz           1         5     0     10    Warrior  
+3          Daniel          2         5     0     22    Warrior  
+4          TomerM          2         5     0     32    Warrior  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     100   26    Fighter  
-2          Omerz           1         5     0     10    Fighter  
-3          Daniel          2         5     0     22    Fighter  
-4          TomerM          2         5     0     32    Fighter  
-5          TomerM          1         5     0     10    Fighter  
+1          Omerz           4         5     100   26    Warrior  
+2          Omerz           1         5     0     10    Warrior  
+3          Daniel          2         5     0     22    Warrior  
+4          TomerM          2         5     0     32    Warrior  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     100   28    Fighter  
-2          Omerz           1         5     0     10    Fighter  
-3          Daniel          2         5     0     22    Fighter  
-4          TomerM          2         5     0     32    Fighter  
-5          TomerM          1         5     0     10    Fighter  
+1          Omerz           5         5     100   28    Warrior  
+2          Omerz           1         5     0     10    Warrior  
+3          Daniel          2         5     0     22    Warrior  
+4          TomerM          2         5     0     32    Warrior  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -332,11 +332,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     100   38    Fighter  
-2          Omerz           1         5     0     10    Fighter  
-3          Daniel          2         5     0     22    Fighter  
-4          TomerM          2         5     0     32    Fighter  
-5          TomerM          1         5     0     10    Fighter  
+1          Omerz           5         5     100   38    Warrior  
+2          Omerz           1         5     0     10    Warrior  
+3          Daniel          2         5     0     22    Warrior  
+4          TomerM          2         5     0     32    Warrior  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -346,11 +346,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     100   38    Fighter  
-2          Omerz           1         5     0     10    Fighter  
-3          Daniel          2         5     0     22    Fighter  
-4          TomerM          2         5     0     32    Fighter  
-5          TomerM          1         5     0     10    Fighter  
+1          Omerz           5         5     100   38    Warrior  
+2          Omerz           1         5     0     10    Warrior  
+3          Daniel          2         5     0     22    Warrior  
+4          TomerM          2         5     0     32    Warrior  
+5          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -361,8 +361,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     0     38    Fighter  
-2          Omerz           1         5     0     10    Fighter  
-3          Daniel          2         5     0     22    Fighter  
-4          TomerM          2         5     0     32    Fighter  
-5          TomerM          1         5     0     10    Fighter  
+1          Omerz           5         5     0     38    Warrior  
+2          Omerz           1         5     0     10    Warrior  
+3          Daniel          2         5     0     22    Warrior  
+4          TomerM          2         5     0     32    Warrior  
+5          TomerM          1         5     0     10    Warrior  

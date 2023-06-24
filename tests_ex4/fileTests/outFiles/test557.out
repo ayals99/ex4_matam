@@ -533,21 +533,21 @@ Player Amirmann has been defeated by a Dragon.
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   5     Fighter  
-2          Omerz           1         5     100   10    Rogue  
-3          GalLalush       1         5     90    10    Wizard  
-4          TomerM          1         4     90    10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          1         5     100   5     Warrior  
+2          Omerz           1         5     100   10    Ninja  
+3          GalLalush       1         5     90    10    Healer  
+4          TomerM          1         4     90    10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
@@ -566,11 +566,11 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   7     Fighter  
-2          Omerz           1         5     100   30    Rogue  
-3          GalLalush       1         6     90    0     Wizard  
-4          TomerM          1         4     90    10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          2         5     100   7     Warrior  
+2          Omerz           1         5     100   30    Ninja  
+3          GalLalush       1         6     90    0     Healer  
+4          TomerM          1         4     90    10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -594,19 +594,19 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   7     Fighter  
-2          Omerz           1         5     100   30    Rogue  
-3          GalLalush       1         6     90    10    Wizard  
-4          TomerM          1         4     90    10    Rogue  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          2         5     100   7     Warrior  
+2          Omerz           1         5     100   30    Ninja  
+3          GalLalush       1         6     90    10    Healer  
+4          TomerM          1         4     90    10    Ninja  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of TomerM's turn: 
@@ -614,29 +614,29 @@ You saw the trap coming from miles away, you dodged it gracefully.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     100   9     Fighter  
-2          Omerz           2         5     100   34    Rogue  
-3          TomerM          1         4     90    10    Rogue  
-4          GalLalush       1         6     0     10    Wizard  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          3         5     100   9     Warrior  
+2          Omerz           2         5     100   34    Ninja  
+3          TomerM          1         4     90    10    Ninja  
+4          GalLalush       1         6     0     10    Healer  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Goblin.
+Player TomerM has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     100   11    Fighter  
-2          TomerM          1         4     80    10    Rogue  
-3          Omerz           2         5     0     34    Rogue  
-4          GalLalush       1         6     0     10    Wizard  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          4         5     100   11    Warrior  
+2          TomerM          1         4     80    10    Ninja  
+3          Omerz           2         5     0     34    Ninja  
+4          GalLalush       1         6     0     10    Healer  
+5          Amirmann        1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
@@ -649,8 +649,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     0     10    Rogue  
-2          TomerM          4         5     0     11    Fighter  
-3          Omerz           2         5     0     34    Rogue  
-4          GalLalush       1         6     0     10    Wizard  
-5          Amirmann        1         5     0     10    Rogue  
+1          TomerM          1         4     0     10    Ninja  
+2          TomerM          4         5     0     11    Warrior  
+3          Omerz           2         5     0     34    Ninja  
+4          GalLalush       1         6     0     10    Healer  
+5          Amirmann        1         5     0     10    Ninja  

@@ -141,15 +141,15 @@ Start of round 1:
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   20    Wizard  
-2          TomerM          2         5     100   12    Fighter  
-3          TomerM          1         5     100   10    Fighter  
+1          TomerM          1         5     100   20    Healer  
+2          TomerM          2         5     100   12    Warrior  
+3          TomerM          1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -163,9 +163,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   30    Wizard  
-2          TomerM          2         5     100   12    Fighter  
-3          TomerM          1         5     100   10    Fighter  
+1          TomerM          1         5     100   30    Healer  
+2          TomerM          2         5     100   12    Warrior  
+3          TomerM          1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -179,23 +179,23 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     90    12    Fighter  
-2          TomerM          1         5     100   20    Fighter  
-3          TomerM          1         5     0     30    Wizard  
+1          TomerM          2         5     90    12    Warrior  
+2          TomerM          1         5     100   20    Warrior  
+3          TomerM          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 4:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    14    Fighter  
-2          TomerM          1         5     100   20    Fighter  
-3          TomerM          1         5     0     30    Wizard  
+1          TomerM          3         5     90    14    Warrior  
+2          TomerM          1         5     100   20    Warrior  
+3          TomerM          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -207,9 +207,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    24    Fighter  
-2          TomerM          1         5     100   20    Fighter  
-3          TomerM          1         5     0     30    Wizard  
+1          TomerM          3         5     90    24    Warrior  
+2          TomerM          1         5     100   20    Warrior  
+3          TomerM          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -221,9 +221,9 @@ Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     90    24    Fighter  
-2          TomerM          1         5     0     20    Fighter  
-3          TomerM          1         5     0     30    Wizard  
+1          TomerM          3         5     90    24    Warrior  
+2          TomerM          1         5     0     20    Warrior  
+3          TomerM          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -233,9 +233,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     80    24    Fighter  
-2          TomerM          1         5     0     20    Fighter  
-3          TomerM          1         5     0     30    Wizard  
+1          TomerM          3         5     80    24    Warrior  
+2          TomerM          1         5     0     20    Warrior  
+3          TomerM          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -245,21 +245,21 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          3         5     80    34    Fighter  
-2          TomerM          1         5     0     20    Fighter  
-3          TomerM          1         5     0     30    Wizard  
+1          TomerM          3         5     80    34    Warrior  
+2          TomerM          1         5     0     20    Warrior  
+3          TomerM          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 9:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     80    36    Fighter  
-2          TomerM          1         5     0     20    Fighter  
-3          TomerM          1         5     0     30    Wizard  
+1          TomerM          4         5     80    36    Warrior  
+2          TomerM          1         5     0     20    Warrior  
+3          TomerM          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -269,9 +269,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     80    36    Fighter  
-2          TomerM          1         5     0     20    Fighter  
-3          TomerM          1         5     0     30    Wizard  
+1          TomerM          4         5     80    36    Warrior  
+2          TomerM          1         5     0     20    Warrior  
+3          TomerM          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -281,9 +281,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     80    46    Fighter  
-2          TomerM          1         5     0     20    Fighter  
-3          TomerM          1         5     0     30    Wizard  
+1          TomerM          4         5     80    46    Warrior  
+2          TomerM          1         5     0     20    Warrior  
+3          TomerM          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -293,9 +293,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     80    46    Fighter  
-2          TomerM          1         5     0     20    Fighter  
-3          TomerM          1         5     0     30    Wizard  
+1          TomerM          4         5     80    46    Warrior  
+2          TomerM          1         5     0     20    Warrior  
+3          TomerM          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -305,9 +305,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     80    46    Fighter  
-2          TomerM          1         5     0     20    Fighter  
-3          TomerM          1         5     0     30    Wizard  
+1          TomerM          4         5     80    46    Warrior  
+2          TomerM          1         5     0     20    Warrior  
+3          TomerM          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -318,6 +318,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          4         5     0     46    Fighter  
-2          TomerM          1         5     0     20    Fighter  
-3          TomerM          1         5     0     30    Wizard  
+1          TomerM          4         5     0     46    Warrior  
+2          TomerM          1         5     0     20    Warrior  
+3          TomerM          1         5     0     30    Healer  

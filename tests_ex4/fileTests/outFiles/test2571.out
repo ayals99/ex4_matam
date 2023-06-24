@@ -112,33 +112,33 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of GalLalush's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         4     90    10    Wizard  
-2          GalLalush       1         5     100   10    Fighter  
+1          Efrat           1         4     90    10    Healer  
+2          GalLalush       1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of GalLalush's turn: 
 Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         3     80    10    Wizard  
-2          GalLalush       1         5     100   10    Fighter  
+1          Efrat           1         3     80    10    Healer  
+2          GalLalush       1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -152,8 +152,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         3     100   10    Wizard  
-2          GalLalush       1         6     100   0     Fighter  
+1          Efrat           1         3     100   10    Healer  
+2          GalLalush       1         6     100   0     Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -165,8 +165,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         3     100   20    Wizard  
-2          GalLalush       1         6     100   0     Fighter  
+1          Efrat           1         3     100   20    Healer  
+2          GalLalush       1         6     100   0     Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -174,31 +174,31 @@ Start of round 5:
 Start of Efrat's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         3     100   30    Wizard  
-2          GalLalush       2         6     100   2     Fighter  
+1          Efrat           1         3     100   30    Healer  
+2          GalLalush       2         6     100   2     Warrior  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Goblin.
+Player Efrat has been defeated by a Gremlin.
 Start of GalLalush's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         3     90    30    Wizard  
-2          GalLalush       2         6     100   12    Fighter  
+1          Efrat           1         3     90    30    Healer  
+2          GalLalush       2         6     100   12    Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Efrat's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -213,21 +213,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         3     100   30    Wizard  
-2          GalLalush       2         7     100   2     Fighter  
+1          Efrat           1         3     100   30    Healer  
+2          GalLalush       2         7     100   2     Warrior  
 
 -------------------------------------------
 Start of round 8:
 
 Start of Efrat's turn: 
-Player Efrat has been defeated by a Vampire.
+Player Efrat has been defeated by a Witch.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         2     90    30    Wizard  
-2          GalLalush       3         7     100   4     Fighter  
+1          Efrat           1         2     90    30    Healer  
+2          GalLalush       3         7     100   4     Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -239,8 +239,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           1         2     80    30    Wizard  
-2          GalLalush       3         7     100   4     Fighter  
+1          Efrat           1         2     80    30    Healer  
+2          GalLalush       3         7     100   4     Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -252,8 +252,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         7     100   4     Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       3         7     100   4     Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -263,8 +263,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         7     100   4     Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       3         7     100   4     Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -274,8 +274,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         7     100   4     Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       3         7     100   4     Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -292,19 +292,19 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         7     100   4     Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       3         7     100   4     Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 14:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         7     100   6     Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       4         7     100   6     Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -314,19 +314,19 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         7     100   6     Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       4         7     100   6     Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 16:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         7     100   8     Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       5         7     100   8     Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -336,8 +336,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         7     100   8     Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       5         7     100   8     Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 18:
@@ -347,8 +347,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         7     100   8     Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       5         7     100   8     Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -365,8 +365,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         7     100   3     Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       5         7     100   3     Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 20:
@@ -376,8 +376,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         7     100   13    Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       5         7     100   13    Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 21:
@@ -387,8 +387,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         7     100   13    Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       5         7     100   13    Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 22:
@@ -398,30 +398,30 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         7     100   23    Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       5         7     100   23    Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 23:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         7     100   25    Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       6         7     100   25    Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 24:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         7     100   27    Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       7         7     100   27    Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 25:
@@ -431,8 +431,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         7     100   37    Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       7         7     100   37    Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 26:
@@ -442,8 +442,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         7     100   37    Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       7         7     100   37    Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 27:
@@ -462,30 +462,30 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         7     100   37    Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       7         7     100   37    Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 28:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       8         7     100   39    Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       8         7     100   39    Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 29:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         7     100   41    Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       9         7     100   41    Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 30:
@@ -495,8 +495,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         7     100   41    Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       9         7     100   41    Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 31:
@@ -506,8 +506,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         7     100   41    Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       9         7     100   41    Warrior  
+2          Efrat           1         2     0     30    Healer  
 
 -------------------------------------------
 Start of round 32:
@@ -518,5 +518,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       9         7     0     41    Fighter  
-2          Efrat           1         2     0     30    Wizard  
+1          GalLalush       9         7     0     41    Warrior  
+2          Efrat           1         2     0     30    Healer  

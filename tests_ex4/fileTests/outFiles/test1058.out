@@ -199,8 +199,8 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   10    Fighter  
-2          GalLalush       1         5     90    10    Fighter  
+1          TomerM          1         5     100   10    Warrior  
+2          GalLalush       1         5     90    10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -212,8 +212,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     90    10    Fighter  
-2          TomerM          1         5     0     10    Fighter  
+1          GalLalush       1         5     90    10    Warrior  
+2          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -224,5 +224,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     0     10    Fighter  
-2          TomerM          1         5     0     10    Fighter  
+1          GalLalush       1         5     0     10    Warrior  
+2          TomerM          1         5     0     10    Warrior  

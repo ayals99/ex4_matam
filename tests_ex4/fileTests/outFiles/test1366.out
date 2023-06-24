@@ -159,17 +159,17 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Fighter  
-2          TomerM          1         4     90    10    Rogue  
-3          TomerM          1         5     100   30    Rogue  
+1          Amirmann        2         5     100   12    Warrior  
+2          TomerM          1         4     90    10    Ninja  
+3          TomerM          1         5     100   30    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -183,9 +183,9 @@ Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Fighter  
-2          TomerM          1         5     0     30    Rogue  
-3          TomerM          1         4     0     10    Rogue  
+1          Amirmann        2         5     100   12    Warrior  
+2          TomerM          1         5     0     30    Ninja  
+3          TomerM          1         4     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -196,6 +196,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     0     12    Fighter  
-2          TomerM          1         5     0     30    Rogue  
-3          TomerM          1         4     0     10    Rogue  
+1          Amirmann        2         5     0     12    Warrior  
+2          TomerM          1         5     0     30    Ninja  
+3          TomerM          1         4     0     10    Ninja  

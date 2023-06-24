@@ -110,12 +110,12 @@ Start of round 1:
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Wizard  
-2          Daniel          1         5     0     10    Fighter  
+1          Amirmann        1         5     100   10    Healer  
+2          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -133,30 +133,30 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Wizard  
-2          Daniel          1         5     0     10    Fighter  
+1          Amirmann        1         5     100   10    Healer  
+2          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   12    Wizard  
-2          Daniel          1         5     0     10    Fighter  
+1          Amirmann        2         5     100   12    Healer  
+2          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   14    Wizard  
-2          Daniel          1         5     0     10    Fighter  
+1          Amirmann        3         5     100   14    Healer  
+2          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -175,8 +175,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     100   14    Wizard  
-2          Daniel          1         5     0     10    Fighter  
+1          Amirmann        3         5     100   14    Healer  
+2          Daniel          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -187,5 +187,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        3         5     0     14    Wizard  
-2          Daniel          1         5     0     10    Fighter  
+1          Amirmann        3         5     0     14    Healer  
+2          Daniel          1         5     0     10    Warrior  

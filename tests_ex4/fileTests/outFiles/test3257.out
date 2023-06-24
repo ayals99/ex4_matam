@@ -36,14 +36,14 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Fighter  
-2          Daniel          1         5     100   20    Fighter  
+1          Efrat           2         5     100   12    Warrior  
+2          Daniel          1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -64,8 +64,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Fighter  
-2          Daniel          1         5     100   20    Fighter  
+1          Efrat           2         5     100   12    Warrior  
+2          Daniel          1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -77,19 +77,19 @@ Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Fighter  
-2          Daniel          1         5     0     20    Fighter  
+1          Efrat           2         5     100   12    Warrior  
+2          Daniel          1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     100   14    Fighter  
-2          Daniel          1         5     0     20    Fighter  
+1          Efrat           3         5     100   14    Warrior  
+2          Daniel          1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -99,8 +99,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     100   24    Fighter  
-2          Daniel          1         5     0     20    Fighter  
+1          Efrat           3         5     100   24    Warrior  
+2          Daniel          1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -118,8 +118,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     100   24    Fighter  
-2          Daniel          1         5     0     20    Fighter  
+1          Efrat           3         5     100   24    Warrior  
+2          Daniel          1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -129,8 +129,8 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     100   24    Fighter  
-2          Daniel          1         5     0     20    Fighter  
+1          Efrat           3         5     100   24    Warrior  
+2          Daniel          1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -140,8 +140,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     100   24    Fighter  
-2          Daniel          1         5     0     20    Fighter  
+1          Efrat           3         5     100   24    Warrior  
+2          Daniel          1         5     0     20    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -152,5 +152,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           3         5     0     24    Fighter  
-2          Daniel          1         5     0     20    Fighter  
+1          Efrat           3         5     0     24    Warrior  
+2          Daniel          1         5     0     20    Warrior  

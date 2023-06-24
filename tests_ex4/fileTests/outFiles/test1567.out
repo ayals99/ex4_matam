@@ -720,13 +720,13 @@ You have entered an invalid input. Please try again.
 Efrat has paid 5 coins for 1 health potion!
 Safe travels!
 Start of GalLalush's turn: 
-Player GalLalush has been defeated by a Vampire.
+Player GalLalush has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Wizard  
-2          Efrat           1         5     100   5     Fighter  
-3          GalLalush       1         4     90    10    Wizard  
+1          Omerz           1         5     100   10    Healer  
+2          Efrat           1         5     100   5     Warrior  
+3          GalLalush       1         4     90    10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -740,35 +740,35 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   20    Wizard  
-2          GalLalush       1         4     80    10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         5     100   20    Healer  
+2          GalLalush       1         4     80    10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         4     90    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     80    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         3     80    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -778,33 +778,33 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     70    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         3     70    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Goblin.
+Player Omerz has been defeated by a Gremlin.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     60    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         3     60    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     80    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         3     80    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -814,9 +814,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     70    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         3     70    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -826,9 +826,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     70    30    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         3     70    30    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -847,9 +847,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     70    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         4     70    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -859,57 +859,57 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     60    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         4     60    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     50    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         3     50    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 13:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         3     70    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         3     70    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 14:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         2     60    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         2     60    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 15:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         1     50    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         1     50    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -919,9 +919,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         1     40    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         1     40    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 17:
@@ -931,9 +931,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         1     30    20    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         1     30    20    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 18:
@@ -943,45 +943,45 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         1     30    30    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         1     30    30    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 19:
 
 Start of Omerz's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         1     50    30    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         1     50    30    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 20:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         0     40    30    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         0     40    30    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 21:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         0     30    30    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         0     30    30    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 22:
@@ -992,6 +992,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         0     0     30    Wizard  
-2          GalLalush       1         4     0     10    Wizard  
-3          Efrat           1         5     0     5     Fighter  
+1          Omerz           1         0     0     30    Healer  
+2          GalLalush       1         4     0     10    Healer  
+3          Efrat           1         5     0     5     Warrior  

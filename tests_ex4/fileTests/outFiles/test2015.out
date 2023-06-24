@@ -350,7 +350,7 @@ Start of round 1:
 Start of Daniel's turn: 
 Nothing happened.
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -365,9 +365,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Rogue  
-2          Omerz           2         5     100   12    Fighter  
-3          GalLalush       1         6     100   0     Fighter  
+1          Daniel          1         5     100   10    Ninja  
+2          Omerz           2         5     100   12    Warrior  
+3          GalLalush       1         6     100   0     Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -381,9 +381,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     90    10    Rogue  
-2          Omerz           2         5     90    12    Fighter  
-3          GalLalush       1         6     100   0     Fighter  
+1          Daniel          1         5     90    10    Ninja  
+2          Omerz           2         5     90    12    Warrior  
+3          GalLalush       1         6     100   0     Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -393,13 +393,13 @@ You saw the trap coming from miles away, you dodged it gracefully.
 Start of Omerz's turn: 
 Nothing happened.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     90    10    Rogue  
-2          Omerz           2         5     90    12    Fighter  
-3          GalLalush       2         6     100   2     Fighter  
+1          Daniel          1         5     90    10    Ninja  
+2          Omerz           2         5     90    12    Warrior  
+3          GalLalush       2         6     100   2     Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -409,19 +409,19 @@ Nothing happened.
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     90    10    Rogue  
-2          GalLalush       3         6     100   4     Fighter  
-3          Omerz           2         5     0     12    Fighter  
+1          Daniel          1         5     90    10    Ninja  
+2          GalLalush       3         6     100   4     Warrior  
+3          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 5:
 
 Start of Daniel's turn: 
-Player Daniel has been defeated by a Vampire.
+Player Daniel has been defeated by a Witch.
 Start of GalLalush's turn: 
 You've ran into a Merchant!
 Browse his wares:
@@ -435,9 +435,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     80    10    Rogue  
-2          GalLalush       3         6     100   4     Fighter  
-3          Omerz           2         5     0     12    Fighter  
+1          Daniel          1         4     80    10    Ninja  
+2          GalLalush       3         6     100   4     Warrior  
+3          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -445,13 +445,13 @@ Start of round 6:
 Start of Daniel's turn: 
 You saw the trap coming from miles away, you dodged it gracefully.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     80    10    Rogue  
-2          GalLalush       4         6     100   6     Fighter  
-3          Omerz           2         5     0     12    Fighter  
+1          Daniel          1         4     80    10    Ninja  
+2          GalLalush       4         6     100   6     Warrior  
+3          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -473,9 +473,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         4     80    30    Rogue  
-2          GalLalush       4         6     100   6     Fighter  
-3          Omerz           2         5     0     12    Fighter  
+1          Daniel          1         4     80    30    Ninja  
+2          GalLalush       4         6     100   6     Warrior  
+3          Omerz           2         5     0     12    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -488,6 +488,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     0     6     Fighter  
-2          Daniel          1         4     0     30    Rogue  
-3          Omerz           2         5     0     12    Fighter  
+1          GalLalush       4         6     0     6     Warrior  
+2          Daniel          1         4     0     30    Ninja  
+3          Omerz           2         5     0     12    Warrior  

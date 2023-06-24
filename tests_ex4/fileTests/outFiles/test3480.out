@@ -118,9 +118,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   5     Fighter  
-2          Efrat           1         5     100   10    Fighter  
-3          Efrat           1         5     100   20    Fighter  
+1          Omerz           1         5     100   5     Warrior  
+2          Efrat           1         5     100   10    Warrior  
+3          Efrat           1         5     100   20    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -152,9 +152,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   5     Fighter  
-2          Efrat           1         6     100   0     Fighter  
-3          Efrat           1         5     90    20    Fighter  
+1          Omerz           1         5     100   5     Warrior  
+2          Efrat           1         6     100   0     Warrior  
+3          Efrat           1         5     90    20    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -162,15 +162,15 @@ Start of round 3:
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   5     Fighter  
-2          Efrat           2         6     100   2     Fighter  
-3          Efrat           2         5     90    22    Fighter  
+1          Omerz           1         5     100   5     Warrior  
+2          Efrat           2         6     100   2     Warrior  
+3          Efrat           2         5     90    22    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -184,9 +184,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   5     Fighter  
-2          Efrat           2         6     100   2     Fighter  
-3          Efrat           2         5     90    22    Fighter  
+1          Omerz           1         5     100   5     Warrior  
+2          Efrat           2         6     100   2     Warrior  
+3          Efrat           2         5     90    22    Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -219,9 +219,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   5     Fighter  
-2          Efrat           2         6     100   2     Fighter  
-3          Efrat           2         5     90    32    Fighter  
+1          Omerz           1         5     100   5     Warrior  
+2          Efrat           2         6     100   2     Warrior  
+3          Efrat           2         5     90    32    Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -252,9 +252,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   5     Fighter  
-2          Efrat           2         6     100   2     Fighter  
-3          Efrat           2         5     80    32    Fighter  
+1          Omerz           1         5     100   5     Warrior  
+2          Efrat           2         6     100   2     Warrior  
+3          Efrat           2         5     80    32    Warrior  
 
 -------------------------------------------
 Start of round 7:
@@ -262,15 +262,15 @@ Start of round 7:
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   5     Fighter  
-2          Efrat           3         6     100   4     Fighter  
-3          Efrat           3         5     80    34    Fighter  
+1          Omerz           1         5     100   5     Warrior  
+2          Efrat           3         6     100   4     Warrior  
+3          Efrat           3         5     80    34    Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -284,9 +284,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   5     Fighter  
-2          Efrat           3         6     100   4     Fighter  
-3          Efrat           3         5     80    34    Fighter  
+1          Omerz           1         5     100   5     Warrior  
+2          Efrat           3         6     100   4     Warrior  
+3          Efrat           3         5     80    34    Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -318,9 +318,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   5     Fighter  
-2          Efrat           3         6     100   4     Fighter  
-3          Efrat           3         5     80    44    Fighter  
+1          Omerz           1         5     100   5     Warrior  
+2          Efrat           3         6     100   4     Warrior  
+3          Efrat           3         5     80    44    Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -352,9 +352,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           3         6     100   4     Fighter  
-3          Efrat           3         5     70    44    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           3         6     100   4     Warrior  
+3          Efrat           3         5     70    44    Warrior  
 
 -------------------------------------------
 Start of round 11:
@@ -362,15 +362,15 @@ Start of round 11:
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           4         6     100   6     Fighter  
-3          Efrat           4         5     70    46    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           4         6     100   6     Warrior  
+3          Efrat           4         5     70    46    Warrior  
 
 -------------------------------------------
 Start of round 12:
@@ -384,9 +384,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           4         6     100   6     Fighter  
-3          Efrat           4         5     70    46    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           4         6     100   6     Warrior  
+3          Efrat           4         5     70    46    Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -415,9 +415,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           4         6     100   1     Fighter  
-3          Efrat           4         5     70    56    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           4         6     100   1     Warrior  
+3          Efrat           4         5     70    56    Warrior  
 
 -------------------------------------------
 Start of round 14:
@@ -448,9 +448,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           4         6     100   1     Fighter  
-3          Efrat           4         5     60    56    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           4         6     100   1     Warrior  
+3          Efrat           4         5     60    56    Warrior  
 
 -------------------------------------------
 Start of round 15:
@@ -458,15 +458,15 @@ Start of round 15:
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           5         6     100   3     Fighter  
-3          Efrat           5         5     60    58    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           5         6     100   3     Warrior  
+3          Efrat           5         5     60    58    Warrior  
 
 -------------------------------------------
 Start of round 16:
@@ -480,9 +480,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           5         6     100   3     Fighter  
-3          Efrat           5         5     60    58    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           5         6     100   3     Warrior  
+3          Efrat           5         5     60    58    Warrior  
 
 -------------------------------------------
 Start of round 17:
@@ -514,9 +514,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           5         6     100   3     Fighter  
-3          Efrat           5         5     60    68    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           5         6     100   3     Warrior  
+3          Efrat           5         5     60    68    Warrior  
 
 -------------------------------------------
 Start of round 18:
@@ -548,9 +548,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           5         6     100   3     Fighter  
-3          Efrat           5         5     50    68    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           5         6     100   3     Warrior  
+3          Efrat           5         5     50    68    Warrior  
 
 -------------------------------------------
 Start of round 19:
@@ -558,15 +558,15 @@ Start of round 19:
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           6         6     100   5     Fighter  
-3          Efrat           6         5     50    70    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           6         6     100   5     Warrior  
+3          Efrat           6         5     50    70    Warrior  
 
 -------------------------------------------
 Start of round 20:
@@ -580,9 +580,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           6         6     100   5     Fighter  
-3          Efrat           6         5     50    70    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           6         6     100   5     Warrior  
+3          Efrat           6         5     50    70    Warrior  
 
 -------------------------------------------
 Start of round 21:
@@ -612,9 +612,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           6         6     100   0     Fighter  
-3          Efrat           6         5     50    80    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           6         6     100   0     Warrior  
+3          Efrat           6         5     50    80    Warrior  
 
 -------------------------------------------
 Start of round 22:
@@ -646,9 +646,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           6         6     100   0     Fighter  
-3          Efrat           6         5     40    80    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           6         6     100   0     Warrior  
+3          Efrat           6         5     40    80    Warrior  
 
 -------------------------------------------
 Start of round 23:
@@ -656,15 +656,15 @@ Start of round 23:
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           7         6     100   2     Fighter  
-3          Efrat           7         5     40    82    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           7         6     100   2     Warrior  
+3          Efrat           7         5     40    82    Warrior  
 
 -------------------------------------------
 Start of round 24:
@@ -678,9 +678,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           7         6     100   2     Fighter  
-3          Efrat           7         5     40    82    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           7         6     100   2     Warrior  
+3          Efrat           7         5     40    82    Warrior  
 
 -------------------------------------------
 Start of round 25:
@@ -713,9 +713,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           7         6     100   2     Fighter  
-3          Efrat           7         5     40    92    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           7         6     100   2     Warrior  
+3          Efrat           7         5     40    92    Warrior  
 
 -------------------------------------------
 Start of round 26:
@@ -749,9 +749,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           7         6     100   2     Fighter  
-3          Efrat           7         5     30    92    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           7         6     100   2     Warrior  
+3          Efrat           7         5     30    92    Warrior  
 
 -------------------------------------------
 Start of round 27:
@@ -759,15 +759,15 @@ Start of round 27:
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           8         6     100   4     Fighter  
-3          Efrat           8         5     30    94    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           8         6     100   4     Warrior  
+3          Efrat           8         5     30    94    Warrior  
 
 -------------------------------------------
 Start of round 28:
@@ -781,9 +781,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           8         6     100   4     Fighter  
-3          Efrat           8         5     30    94    Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           8         6     100   4     Warrior  
+3          Efrat           8         5     30    94    Warrior  
 
 -------------------------------------------
 Start of round 29:
@@ -817,9 +817,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           8         6     100   4     Fighter  
-3          Efrat           8         5     30    104   Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           8         6     100   4     Warrior  
+3          Efrat           8         5     30    104   Warrior  
 
 -------------------------------------------
 Start of round 30:
@@ -852,9 +852,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           8         6     100   4     Fighter  
-3          Efrat           8         5     20    104   Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           8         6     100   4     Warrior  
+3          Efrat           8         5     20    104   Warrior  
 
 -------------------------------------------
 Start of round 31:
@@ -862,15 +862,15 @@ Start of round 31:
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           9         6     100   6     Fighter  
-3          Efrat           9         5     20    106   Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           9         6     100   6     Warrior  
+3          Efrat           9         5     20    106   Warrior  
 
 -------------------------------------------
 Start of round 32:
@@ -884,9 +884,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           9         6     100   6     Fighter  
-3          Efrat           9         5     20    106   Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           9         6     100   6     Warrior  
+3          Efrat           9         5     20    106   Warrior  
 
 -------------------------------------------
 Start of round 33:
@@ -916,9 +916,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           9         6     100   6     Fighter  
-3          Efrat           9         5     20    116   Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           9         6     100   6     Warrior  
+3          Efrat           9         5     20    116   Warrior  
 
 -------------------------------------------
 Start of round 34:
@@ -952,9 +952,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   0     Fighter  
-2          Efrat           9         6     100   6     Fighter  
-3          Efrat           9         5     10    116   Fighter  
+1          Omerz           1         5     100   0     Warrior  
+2          Efrat           9         6     100   6     Warrior  
+3          Efrat           9         5     10    116   Warrior  
 
 -------------------------------------------
 Start of round 35:
@@ -962,15 +962,15 @@ Start of round 35:
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           1         5     100   0     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           1         5     100   0     Warrior  
 
 -------------------------------------------
 Start of round 36:
@@ -980,9 +980,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           1         5     100   0     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           1         5     100   0     Warrior  
 
 -------------------------------------------
 Start of round 37:
@@ -992,9 +992,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           1         5     100   0     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           1         5     100   0     Warrior  
 
 -------------------------------------------
 Start of round 38:
@@ -1004,9 +1004,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           1         5     100   0     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           1         5     100   0     Warrior  
 
 -------------------------------------------
 Start of round 39:
@@ -1023,9 +1023,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           1         5     100   0     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           1         5     100   0     Warrior  
 
 -------------------------------------------
 Start of round 40:
@@ -1042,9 +1042,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           1         5     100   0     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           1         5     100   0     Warrior  
 
 -------------------------------------------
 Start of round 41:
@@ -1054,9 +1054,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           1         5     100   10    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           1         5     100   10    Warrior  
 
 -------------------------------------------
 Start of round 42:
@@ -1073,9 +1073,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           1         5     100   5     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           1         5     100   5     Warrior  
 
 -------------------------------------------
 Start of round 43:
@@ -1094,9 +1094,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           1         5     100   0     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           1         5     100   0     Warrior  
 
 -------------------------------------------
 Start of round 44:
@@ -1106,9 +1106,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           1         5     90    0     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           1         5     90    0     Warrior  
 
 -------------------------------------------
 Start of round 45:
@@ -1118,33 +1118,33 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           1         5     90    0     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           1         5     90    0     Warrior  
 
 -------------------------------------------
 Start of round 46:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           2         5     90    2     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           2         5     90    2     Warrior  
 
 -------------------------------------------
 Start of round 47:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           3         5     90    4     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           3         5     90    4     Warrior  
 
 -------------------------------------------
 Start of round 48:
@@ -1154,9 +1154,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           3         5     90    4     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           3         5     90    4     Warrior  
 
 -------------------------------------------
 Start of round 49:
@@ -1166,9 +1166,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           3         5     90    4     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           3         5     90    4     Warrior  
 
 -------------------------------------------
 Start of round 50:
@@ -1178,9 +1178,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           3         5     90    4     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           3         5     90    4     Warrior  
 
 -------------------------------------------
 Start of round 51:
@@ -1200,9 +1200,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           3         5     90    4     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           3         5     90    4     Warrior  
 
 -------------------------------------------
 Start of round 52:
@@ -1220,9 +1220,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           3         5     90    4     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           3         5     90    4     Warrior  
 
 -------------------------------------------
 Start of round 53:
@@ -1232,9 +1232,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           3         5     90    14    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           3         5     90    14    Warrior  
 
 -------------------------------------------
 Start of round 54:
@@ -1253,9 +1253,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           3         5     91    9     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           3         5     91    9     Warrior  
 
 -------------------------------------------
 Start of round 55:
@@ -1274,9 +1274,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           3         5     91    9     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           3         5     91    9     Warrior  
 
 -------------------------------------------
 Start of round 56:
@@ -1286,9 +1286,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           3         5     81    9     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           3         5     81    9     Warrior  
 
 -------------------------------------------
 Start of round 57:
@@ -1298,33 +1298,33 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           3         5     81    9     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           3         5     81    9     Warrior  
 
 -------------------------------------------
 Start of round 58:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           4         5     81    11    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           4         5     81    11    Warrior  
 
 -------------------------------------------
 Start of round 59:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           5         5     81    13    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           5         5     81    13    Warrior  
 
 -------------------------------------------
 Start of round 60:
@@ -1334,9 +1334,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           5         5     81    13    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           5         5     81    13    Warrior  
 
 -------------------------------------------
 Start of round 61:
@@ -1346,9 +1346,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           5         5     81    13    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           5         5     81    13    Warrior  
 
 -------------------------------------------
 Start of round 62:
@@ -1358,9 +1358,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           5         5     81    13    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           5         5     81    13    Warrior  
 
 -------------------------------------------
 Start of round 63:
@@ -1378,9 +1378,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           5         6     81    3     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           5         6     81    3     Warrior  
 
 -------------------------------------------
 Start of round 64:
@@ -1399,9 +1399,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           5         6     81    3     Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           5         6     81    3     Warrior  
 
 -------------------------------------------
 Start of round 65:
@@ -1411,9 +1411,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           5         6     81    13    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           5         6     81    13    Warrior  
 
 -------------------------------------------
 Start of round 66:
@@ -1431,9 +1431,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           5         6     81    13    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           5         6     81    13    Warrior  
 
 -------------------------------------------
 Start of round 67:
@@ -1452,9 +1452,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           5         6     81    13    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           5         6     81    13    Warrior  
 
 -------------------------------------------
 Start of round 68:
@@ -1464,9 +1464,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           5         6     71    13    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           5         6     71    13    Warrior  
 
 -------------------------------------------
 Start of round 69:
@@ -1476,33 +1476,33 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           5         6     71    13    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           5         6     71    13    Warrior  
 
 -------------------------------------------
 Start of round 70:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           6         6     71    15    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           6         6     71    15    Warrior  
 
 -------------------------------------------
 Start of round 71:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           7         6     71    17    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           7         6     71    17    Warrior  
 
 -------------------------------------------
 Start of round 72:
@@ -1512,9 +1512,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           7         6     71    17    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           7         6     71    17    Warrior  
 
 -------------------------------------------
 Start of round 73:
@@ -1524,9 +1524,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           7         6     71    17    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           7         6     71    17    Warrior  
 
 -------------------------------------------
 Start of round 74:
@@ -1536,9 +1536,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           7         6     71    17    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           7         6     71    17    Warrior  
 
 -------------------------------------------
 Start of round 75:
@@ -1557,9 +1557,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           7         6     71    17    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           7         6     71    17    Warrior  
 
 -------------------------------------------
 Start of round 76:
@@ -1578,9 +1578,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           7         6     71    17    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           7         6     71    17    Warrior  
 
 -------------------------------------------
 Start of round 77:
@@ -1590,9 +1590,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           7         6     71    27    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           7         6     71    27    Warrior  
 
 -------------------------------------------
 Start of round 78:
@@ -1612,9 +1612,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           7         7     71    17    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           7         7     71    17    Warrior  
 
 -------------------------------------------
 Start of round 79:
@@ -1631,9 +1631,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           7         7     71    17    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           7         7     71    17    Warrior  
 
 -------------------------------------------
 Start of round 80:
@@ -1643,9 +1643,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           7         7     61    17    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           7         7     61    17    Warrior  
 
 -------------------------------------------
 Start of round 81:
@@ -1655,33 +1655,33 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           7         7     61    17    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           7         7     61    17    Warrior  
 
 -------------------------------------------
 Start of round 82:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           8         7     61    19    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           8         7     61    19    Warrior  
 
 -------------------------------------------
 Start of round 83:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           9         7     61    21    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           9         7     61    21    Warrior  
 
 -------------------------------------------
 Start of round 84:
@@ -1691,9 +1691,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           9         7     61    21    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           9         7     61    21    Warrior  
 
 -------------------------------------------
 Start of round 85:
@@ -1703,9 +1703,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           9         7     61    21    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           9         7     61    21    Warrior  
 
 -------------------------------------------
 Start of round 86:
@@ -1715,9 +1715,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           9         7     61    21    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           9         7     61    21    Warrior  
 
 -------------------------------------------
 Start of round 87:
@@ -1735,9 +1735,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           9         7     62    16    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           9         7     62    16    Warrior  
 
 -------------------------------------------
 Start of round 88:
@@ -1754,9 +1754,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           9         7     63    11    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           9         7     63    11    Warrior  
 
 -------------------------------------------
 Start of round 89:
@@ -1766,9 +1766,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           9         7     63    21    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           9         7     63    21    Warrior  
 
 -------------------------------------------
 Start of round 90:
@@ -1785,9 +1785,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           9         8     63    11    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           9         8     63    11    Warrior  
 
 -------------------------------------------
 Start of round 91:
@@ -1805,9 +1805,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           9         8     63    11    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           9         8     63    11    Warrior  
 
 -------------------------------------------
 Start of round 92:
@@ -1817,9 +1817,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           9         8     53    11    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           9         8     53    11    Warrior  
 
 -------------------------------------------
 Start of round 93:
@@ -1829,19 +1829,19 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           9         8     53    11    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           9         8     53    11    Warrior  
 
 -------------------------------------------
 Start of round 94:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           10        6     100   8     Fighter  
-2          Efrat           10        5     10    118   Fighter  
-3          Omerz           10        8     53    13    Fighter  
+1          Efrat           10        6     100   8     Warrior  
+2          Efrat           10        5     10    118   Warrior  
+3          Omerz           10        8     53    13    Warrior  

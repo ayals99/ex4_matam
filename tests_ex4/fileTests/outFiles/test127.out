@@ -137,9 +137,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Rogue  
-2          TomerM          1         5     90    10    Wizard  
-3          Daniel          1         5     100   5     Fighter  
+1          TomerM          1         5     90    10    Ninja  
+2          TomerM          1         5     90    10    Healer  
+3          Daniel          1         5     100   5     Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -161,9 +161,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    10    Rogue  
-2          TomerM          1         6     90    0     Wizard  
-3          Daniel          1         5     100   5     Fighter  
+1          TomerM          1         5     90    10    Ninja  
+2          TomerM          1         6     90    0     Healer  
+3          Daniel          1         5     100   5     Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -173,13 +173,13 @@ This is but a flesh wound. You've lost 10 health points
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     80    10    Rogue  
-2          Daniel          2         5     100   7     Fighter  
-3          TomerM          1         6     0     0     Wizard  
+1          TomerM          1         5     80    10    Ninja  
+2          Daniel          2         5     100   7     Warrior  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -187,27 +187,27 @@ Start of round 4:
 Start of TomerM's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     80    30    Rogue  
-2          Daniel          3         5     100   9     Fighter  
-3          TomerM          1         6     0     0     Wizard  
+1          TomerM          1         5     80    30    Ninja  
+2          Daniel          3         5     100   9     Warrior  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 5:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Goblin and rose 1 Level!
+Player TomerM has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     80    34    Rogue  
-2          Daniel          3         5     100   19    Fighter  
-3          TomerM          1         6     0     0     Wizard  
+1          TomerM          2         5     80    34    Ninja  
+2          Daniel          3         5     100   19    Warrior  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -219,9 +219,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     80    54    Rogue  
-2          Daniel          3         5     100   19    Fighter  
-3          TomerM          1         6     0     0     Wizard  
+1          TomerM          2         5     80    54    Ninja  
+2          Daniel          3         5     100   19    Warrior  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -233,9 +233,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     80    54    Rogue  
-2          Daniel          3         5     100   19    Fighter  
-3          TomerM          1         6     0     0     Wizard  
+1          TomerM          2         5     80    54    Ninja  
+2          Daniel          3         5     100   19    Warrior  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -247,9 +247,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     70    54    Rogue  
-2          Daniel          3         5     100   19    Fighter  
-3          TomerM          1         6     0     0     Wizard  
+1          TomerM          2         5     70    54    Ninja  
+2          Daniel          3         5     100   19    Warrior  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -277,9 +277,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     71    49    Rogue  
-2          Daniel          3         5     100   19    Fighter  
-3          TomerM          1         6     0     0     Wizard  
+1          TomerM          2         5     71    49    Ninja  
+2          Daniel          3         5     100   19    Warrior  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -291,9 +291,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     71    49    Rogue  
-2          Daniel          3         5     100   19    Fighter  
-3          TomerM          1         6     0     0     Wizard  
+1          TomerM          2         5     71    49    Ninja  
+2          Daniel          3         5     100   19    Warrior  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -314,23 +314,23 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     71    49    Rogue  
-2          Daniel          3         5     100   19    Fighter  
-3          TomerM          1         6     0     0     Wizard  
+1          TomerM          2         5     71    49    Ninja  
+2          Daniel          3         5     100   19    Warrior  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 12:
 
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         4     61    49    Rogue  
-2          Daniel          3         5     100   29    Fighter  
-3          TomerM          1         6     0     0     Wizard  
+1          TomerM          2         4     61    49    Ninja  
+2          Daniel          3         5     100   29    Warrior  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -347,13 +347,13 @@ You have entered an invalid input. Please try again.
 TomerM has paid 10 coins for 1 force boost!
 Safe travels!
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     61    39    Rogue  
-2          Daniel          4         5     100   31    Fighter  
-3          TomerM          1         6     0     0     Wizard  
+1          TomerM          2         5     61    39    Ninja  
+2          Daniel          4         5     100   31    Warrior  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -373,9 +373,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     61    39    Rogue  
-2          Daniel          4         6     100   21    Fighter  
-3          TomerM          1         6     0     0     Wizard  
+1          TomerM          2         5     61    39    Ninja  
+2          Daniel          4         6     100   21    Warrior  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -387,9 +387,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     61    39    Rogue  
-2          Daniel          4         6     100   31    Fighter  
-3          TomerM          1         6     0     0     Wizard  
+1          TomerM          2         5     61    39    Ninja  
+2          Daniel          4         6     100   31    Warrior  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -401,9 +401,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         6     100   31    Fighter  
-2          TomerM          2         5     0     39    Rogue  
-3          TomerM          1         6     0     0     Wizard  
+1          Daniel          4         6     100   31    Warrior  
+2          TomerM          2         5     0     39    Ninja  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -413,9 +413,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         6     100   31    Fighter  
-2          TomerM          2         5     0     39    Rogue  
-3          TomerM          1         6     0     0     Wizard  
+1          Daniel          4         6     100   31    Warrior  
+2          TomerM          2         5     0     39    Ninja  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 18:
@@ -432,9 +432,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         7     100   21    Fighter  
-2          TomerM          2         5     0     39    Rogue  
-3          TomerM          1         6     0     0     Wizard  
+1          Daniel          4         7     100   21    Warrior  
+2          TomerM          2         5     0     39    Ninja  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -444,9 +444,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         7     100   21    Fighter  
-2          TomerM          2         5     0     39    Rogue  
-3          TomerM          1         6     0     0     Wizard  
+1          Daniel          4         7     100   21    Warrior  
+2          TomerM          2         5     0     39    Ninja  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 20:
@@ -465,9 +465,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         7     100   16    Fighter  
-2          TomerM          2         5     0     39    Rogue  
-3          TomerM          1         6     0     0     Wizard  
+1          Daniel          4         7     100   16    Warrior  
+2          TomerM          2         5     0     39    Ninja  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 21:
@@ -477,9 +477,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         7     100   16    Fighter  
-2          TomerM          2         5     0     39    Rogue  
-3          TomerM          1         6     0     0     Wizard  
+1          Daniel          4         7     100   16    Warrior  
+2          TomerM          2         5     0     39    Ninja  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 22:
@@ -489,9 +489,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         7     100   16    Fighter  
-2          TomerM          2         5     0     39    Rogue  
-3          TomerM          1         6     0     0     Wizard  
+1          Daniel          4         7     100   16    Warrior  
+2          TomerM          2         5     0     39    Ninja  
+3          TomerM          1         6     0     0     Healer  
 
 -------------------------------------------
 Start of round 23:
@@ -502,6 +502,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          4         7     0     16    Fighter  
-2          TomerM          2         5     0     39    Rogue  
-3          TomerM          1         6     0     0     Wizard  
+1          Daniel          4         7     0     16    Warrior  
+2          TomerM          2         5     0     39    Ninja  
+3          TomerM          1         6     0     0     Healer  

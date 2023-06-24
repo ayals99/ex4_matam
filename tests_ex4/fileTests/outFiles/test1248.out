@@ -442,7 +442,7 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of TomerM's turn: 
-Player TomerM has defeated Vampire and rose 1 Level!
+Player TomerM has defeated Witch and rose 1 Level!
 Start of Amirmann's turn: 
 Player Amirmann has been defeated by a Dragon.
 Start of Amirmann's turn: 
@@ -450,9 +450,9 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     100   12    Fighter  
-2          Amirmann        1         5     0     10    Rogue  
-3          Amirmann        1         5     0     10    Wizard  
+1          TomerM          2         5     100   12    Warrior  
+2          Amirmann        1         5     0     10    Ninja  
+3          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -463,6 +463,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          2         5     0     12    Fighter  
-2          Amirmann        1         5     0     10    Rogue  
-3          Amirmann        1         5     0     10    Wizard  
+1          TomerM          2         5     0     12    Warrior  
+2          Amirmann        1         5     0     10    Ninja  
+3          Amirmann        1         5     0     10    Healer  

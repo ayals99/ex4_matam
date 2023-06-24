@@ -149,10 +149,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   20    Wizard  
-2          GalLalush       1         5     90    10    Wizard  
-3          Omerz           1         5     100   20    Fighter  
-4          TomerM          1         5     100   20    Wizard  
+1          Daniel          1         5     100   20    Healer  
+2          GalLalush       1         5     90    10    Healer  
+3          Omerz           1         5     100   20    Warrior  
+4          TomerM          1         5     100   20    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -168,10 +168,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     90    20    Wizard  
-2          GalLalush       1         5     90    20    Wizard  
-3          Omerz           1         5     100   30    Fighter  
-4          TomerM          1         5     90    20    Wizard  
+1          Daniel          1         5     90    20    Healer  
+2          GalLalush       1         5     90    20    Healer  
+3          Omerz           1         5     100   30    Warrior  
+4          TomerM          1         5     90    20    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -179,18 +179,18 @@ Start of round 3:
 Start of Daniel's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     90    30    Wizard  
-2          GalLalush       1         5     100   20    Wizard  
-3          Omerz           1         5     90    30    Fighter  
-4          TomerM          1         4     80    20    Wizard  
+1          Daniel          1         5     90    30    Healer  
+2          GalLalush       1         5     100   20    Healer  
+3          Omerz           1         5     90    30    Warrior  
+4          TomerM          1         4     80    20    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -198,7 +198,7 @@ Start of round 4:
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
@@ -214,10 +214,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   22    Wizard  
-2          Omerz           1         5     90    40    Fighter  
-3          TomerM          1         4     82    15    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       2         5     100   22    Healer  
+2          Omerz           1         5     90    40    Warrior  
+3          TomerM          1         4     82    15    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -225,16 +225,16 @@ Start of round 5:
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     90    22    Wizard  
-2          Omerz           2         5     90    42    Fighter  
-3          TomerM          1         4     72    15    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       2         5     90    22    Healer  
+2          Omerz           2         5     90    42    Warrior  
+3          TomerM          1         4     72    15    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -271,10 +271,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     92    17    Wizard  
-2          Omerz           2         6     90    32    Fighter  
-3          TomerM          1         4     74    10    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       2         5     92    17    Healer  
+2          Omerz           2         6     90    32    Warrior  
+3          TomerM          1         4     74    10    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -288,10 +288,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     82    17    Wizard  
-2          Omerz           2         6     90    32    Fighter  
-3          TomerM          1         4     74    20    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       2         5     82    17    Healer  
+2          Omerz           2         6     90    32    Warrior  
+3          TomerM          1         4     74    20    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -305,10 +305,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     72    17    Wizard  
-2          Omerz           2         6     90    42    Fighter  
-3          TomerM          1         4     74    30    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       2         5     72    17    Healer  
+2          Omerz           2         6     90    42    Warrior  
+3          TomerM          1         4     74    30    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -322,10 +322,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     62    17    Wizard  
-2          Omerz           2         6     90    52    Fighter  
-3          TomerM          1         4     74    40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       2         5     62    17    Healer  
+2          Omerz           2         6     90    52    Warrior  
+3          TomerM          1         4     74    40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -335,14 +335,14 @@ You fell into the trap, lose 10 health points.
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     52    17    Wizard  
-2          Omerz           2         6     90    62    Fighter  
-3          TomerM          1         4     94    40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       2         5     52    17    Healer  
+2          Omerz           2         6     90    62    Warrior  
+3          TomerM          1         4     94    40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 11:
@@ -350,31 +350,31 @@ Start of round 11:
 Start of GalLalush's turn: 
 You fell into the trap, lose 10 health points.
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     42    17    Wizard  
-2          Omerz           3         6     90    64    Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       2         5     42    17    Healer  
+2          Omerz           3         6     90    64    Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 12:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         5     42    19    Wizard  
-2          Omerz           3         6     90    74    Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       3         5     42    19    Healer  
+2          Omerz           3         6     90    74    Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -393,25 +393,25 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       3         6     42    9     Wizard  
-2          Omerz           3         6     80    74    Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       3         6     42    9     Healer  
+2          Omerz           3         6     80    74    Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 14:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     42    11    Wizard  
-2          Omerz           3         6     80    74    Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       4         6     42    11    Healer  
+2          Omerz           3         6     80    74    Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -440,10 +440,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     42    11    Wizard  
-2          Omerz           3         7     80    64    Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       4         6     42    11    Healer  
+2          Omerz           3         7     80    64    Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -462,10 +462,10 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     42    11    Wizard  
-2          Omerz           3         7     80    64    Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       4         6     42    11    Healer  
+2          Omerz           3         7     80    64    Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -477,10 +477,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     32    11    Wizard  
-2          Omerz           3         7     80    74    Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       4         6     32    11    Healer  
+2          Omerz           3         7     80    74    Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 18:
@@ -492,10 +492,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     22    11    Wizard  
-2          Omerz           3         7     80    84    Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       4         6     22    11    Healer  
+2          Omerz           3         7     80    84    Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 19:
@@ -507,10 +507,10 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     22    21    Wizard  
-2          Omerz           3         7     70    84    Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       4         6     22    21    Healer  
+2          Omerz           3         7     70    84    Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 20:
@@ -522,10 +522,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     22    31    Wizard  
-2          Omerz           3         7     70    94    Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       4         6     22    31    Healer  
+2          Omerz           3         7     70    94    Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 21:
@@ -537,53 +537,53 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     12    31    Wizard  
-2          Omerz           3         7     70    104   Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       4         6     12    31    Healer  
+2          Omerz           3         7     70    104   Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 22:
 
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Omerz's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       4         6     32    31    Wizard  
-2          Omerz           3         7     60    104   Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       4         6     32    31    Healer  
+2          Omerz           3         7     60    104   Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 23:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Vampire and rose 1 Level!
+Player GalLalush has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
 Player Omerz has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       5         6     32    33    Wizard  
-2          Omerz           3         7     0     104   Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       5         6     32    33    Healer  
+2          Omerz           3         7     0     104   Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 24:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         6     32    35    Wizard  
-2          Omerz           3         7     0     104   Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       6         6     32    35    Healer  
+2          Omerz           3         7     0     104   Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 25:
@@ -593,10 +593,10 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         6     32    45    Wizard  
-2          Omerz           3         7     0     104   Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       6         6     32    45    Healer  
+2          Omerz           3         7     0     104   Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 26:
@@ -615,10 +615,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         7     32    35    Wizard  
-2          Omerz           3         7     0     104   Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       6         7     32    35    Healer  
+2          Omerz           3         7     0     104   Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 27:
@@ -628,23 +628,23 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       6         7     22    35    Wizard  
-2          Omerz           3         7     0     104   Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       6         7     22    35    Healer  
+2          Omerz           3         7     0     104   Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 28:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         7     22    37    Wizard  
-2          Omerz           3         7     0     104   Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       7         7     22    37    Healer  
+2          Omerz           3         7     0     104   Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 29:
@@ -654,10 +654,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         7     12    37    Wizard  
-2          Omerz           3         7     0     104   Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       7         7     12    37    Healer  
+2          Omerz           3         7     0     104   Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 30:
@@ -677,10 +677,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         7     14    32    Wizard  
-2          Omerz           3         7     0     104   Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       7         7     14    32    Healer  
+2          Omerz           3         7     0     104   Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 31:
@@ -697,10 +697,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         8     14    22    Wizard  
-2          Omerz           3         7     0     104   Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       7         8     14    22    Healer  
+2          Omerz           3         7     0     104   Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 32:
@@ -718,10 +718,10 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         9     14    12    Wizard  
-2          Omerz           3         7     0     104   Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       7         9     14    12    Healer  
+2          Omerz           3         7     0     104   Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 33:
@@ -731,10 +731,10 @@ This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         9     4     12    Wizard  
-2          Omerz           3         7     0     104   Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       7         9     4     12    Healer  
+2          Omerz           3         7     0     104   Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  
 
 -------------------------------------------
 Start of round 34:
@@ -745,7 +745,7 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       7         9     0     12    Wizard  
-2          Omerz           3         7     0     104   Fighter  
-3          TomerM          1         4     0     40    Wizard  
-4          Daniel          1         5     0     30    Wizard  
+1          GalLalush       7         9     0     12    Healer  
+2          Omerz           3         7     0     104   Warrior  
+3          TomerM          1         4     0     40    Healer  
+4          Daniel          1         5     0     30    Healer  

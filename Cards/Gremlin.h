@@ -3,7 +3,7 @@
 
 #include "BattleCards.h"
 static const std::string GREMLIN_NAME = "Gremlin";
-static const int GREMLIN_FORCE = 5;
+static const int GREMLIN_FORCE = 6; //TODO change later to 5!!!!!!!
 static const int GREMLIN_DAMAGE = 10;
 static const int GREMLIN_LOOT = 2;
 

@@ -117,8 +117,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   10    Fighter  
-2          Omerz           1         5     100   30    Rogue  
+1          GalLalush       1         5     100   10    Warrior  
+2          Omerz           1         5     100   30    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -130,8 +130,8 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   30    Rogue  
-2          GalLalush       1         5     0     10    Fighter  
+1          Omerz           1         5     100   30    Ninja  
+2          GalLalush       1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -142,5 +142,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     0     30    Rogue  
-2          GalLalush       1         5     0     10    Fighter  
+1          Omerz           1         5     0     30    Ninja  
+2          GalLalush       1         5     0     10    Warrior  

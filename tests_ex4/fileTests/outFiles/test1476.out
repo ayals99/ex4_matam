@@ -228,9 +228,9 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Vampire and rose 1 Level!
+Player Daniel has defeated Witch and rose 1 Level!
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 Start of Efrat's turn: 
@@ -247,11 +247,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   12    Fighter  
-2          Omerz           2         5     100   12    Fighter  
-3          Efrat           1         5     100   20    Fighter  
-4          GalLalush       1         5     100   5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Daniel          2         5     100   12    Warrior  
+2          Omerz           2         5     100   12    Warrior  
+3          Efrat           1         5     100   20    Warrior  
+4          GalLalush       1         5     100   5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -281,11 +281,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   12    Fighter  
-2          Omerz           2         5     100   7     Fighter  
-3          Efrat           1         5     100   20    Fighter  
-4          GalLalush       1         5     100   5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Daniel          2         5     100   12    Warrior  
+2          Omerz           2         5     100   7     Warrior  
+3          Efrat           1         5     100   20    Warrior  
+4          GalLalush       1         5     100   5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -293,19 +293,19 @@ Start of round 3:
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   12    Fighter  
-2          Omerz           3         5     100   9     Fighter  
-3          Efrat           2         5     100   22    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Daniel          2         5     100   12    Warrior  
+2          Omerz           3         5     100   9     Warrior  
+3          Efrat           2         5     100   22    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -327,11 +327,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   22    Fighter  
-2          Omerz           3         5     100   9     Fighter  
-3          Efrat           2         5     100   22    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Daniel          2         5     100   22    Warrior  
+2          Omerz           3         5     100   9     Warrior  
+3          Efrat           2         5     100   22    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -361,11 +361,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     100   12    Fighter  
-2          Omerz           3         5     100   9     Fighter  
-3          Efrat           2         6     100   12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Daniel          2         6     100   12    Warrior  
+2          Omerz           3         5     100   9     Warrior  
+3          Efrat           2         6     100   12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 6:
@@ -373,17 +373,17 @@ Start of round 6:
 Start of Daniel's turn: 
 You've won the scuffle without losing any health points.
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         6     100   12    Fighter  
-2          Omerz           4         5     100   11    Fighter  
-3          Efrat           3         6     100   14    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Daniel          2         6     100   12    Warrior  
+2          Omerz           4         5     100   11    Warrior  
+3          Efrat           3         6     100   14    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 7:
@@ -405,11 +405,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     100   21    Fighter  
-2          Efrat           3         6     100   9     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           4         5     100   21    Warrior  
+2          Efrat           3         6     100   9     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 8:
@@ -430,11 +430,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     100   21    Fighter  
-2          Efrat           3         6     100   9     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           4         5     100   21    Warrior  
+2          Efrat           3         6     100   9     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 9:
@@ -454,11 +454,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     100   21    Fighter  
-2          Efrat           3         6     100   4     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           4         5     100   21    Warrior  
+2          Efrat           3         6     100   4     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 10:
@@ -466,31 +466,31 @@ Start of round 10:
 Start of Omerz's turn: 
 You've won the scuffle without losing any health points.
 Start of Efrat's turn: 
-Player Efrat has defeated Vampire and rose 1 Level!
+Player Efrat has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           4         5     100   21    Fighter  
-2          Efrat           4         6     100   6     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           4         5     100   21    Warrior  
+2          Efrat           4         6     100   6     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 Start of Efrat's turn: 
 Player Efrat has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     100   23    Fighter  
-2          Efrat           4         6     0     6     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           5         5     100   23    Warrior  
+2          Efrat           4         6     0     6     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 12:
@@ -500,11 +500,11 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     100   33    Fighter  
-2          Efrat           4         6     0     6     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           5         5     100   33    Warrior  
+2          Efrat           4         6     0     6     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 13:
@@ -521,11 +521,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     100   33    Fighter  
-2          Efrat           4         6     0     6     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           5         5     100   33    Warrior  
+2          Efrat           4         6     0     6     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 14:
@@ -535,11 +535,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     100   33    Fighter  
-2          Efrat           4         6     0     6     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           5         5     100   33    Warrior  
+2          Efrat           4         6     0     6     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 15:
@@ -557,11 +557,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     100   33    Fighter  
-2          Efrat           4         6     0     6     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           5         5     100   33    Warrior  
+2          Efrat           4         6     0     6     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 16:
@@ -571,11 +571,11 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     100   33    Fighter  
-2          Efrat           4         6     0     6     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           5         5     100   33    Warrior  
+2          Efrat           4         6     0     6     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 17:
@@ -592,11 +592,11 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     100   28    Fighter  
-2          Efrat           4         6     0     6     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           5         5     100   28    Warrior  
+2          Efrat           4         6     0     6     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 18:
@@ -606,39 +606,39 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           5         5     100   28    Fighter  
-2          Efrat           4         6     0     6     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           5         5     100   28    Warrior  
+2          Efrat           4         6     0     6     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 19:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Vampire and rose 1 Level!
+Player Omerz has defeated Witch and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           6         5     100   30    Fighter  
-2          Efrat           4         6     0     6     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           6         5     100   30    Warrior  
+2          Efrat           4         6     0     6     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 20:
 
 Start of Omerz's turn: 
-Player Omerz has defeated Goblin and rose 1 Level!
+Player Omerz has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           7         5     100   32    Fighter  
-2          Efrat           4         6     0     6     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           7         5     100   32    Warrior  
+2          Efrat           4         6     0     6     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 21:
@@ -649,8 +649,8 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           7         5     0     32    Fighter  
-2          Efrat           4         6     0     6     Fighter  
-3          Daniel          2         6     0     12    Fighter  
-4          GalLalush       1         5     0     5     Wizard  
-5          GalLalush       1         5     0     10    Wizard  
+1          Omerz           7         5     0     32    Warrior  
+2          Efrat           4         6     0     6     Warrior  
+3          Daniel          2         6     0     12    Warrior  
+4          GalLalush       1         5     0     5     Healer  
+5          GalLalush       1         5     0     10    Healer  

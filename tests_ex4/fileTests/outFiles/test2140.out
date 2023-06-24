@@ -1056,15 +1056,15 @@ Start of round 1:
 Start of Omerz's turn: 
 Nothing happened.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   10    Rogue  
-2          GalLalush       2         5     100   14    Rogue  
-3          GalLalush       1         5     90    10    Rogue  
+1          Omerz           1         5     100   10    Ninja  
+2          GalLalush       2         5     100   14    Ninja  
+3          GalLalush       1         5     90    10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -1078,23 +1078,23 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         5     100   30    Rogue  
-2          GalLalush       2         5     100   14    Rogue  
-3          GalLalush       1         5     0     10    Rogue  
+1          Omerz           1         5     100   30    Ninja  
+2          GalLalush       2         5     100   14    Ninja  
+3          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
 
 Start of Omerz's turn: 
-Player Omerz has been defeated by a Vampire.
+Player Omerz has been defeated by a Witch.
 Start of GalLalush's turn: 
 Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    30    Rogue  
-2          GalLalush       2         5     0     14    Rogue  
-3          GalLalush       1         5     0     10    Rogue  
+1          Omerz           1         4     90    30    Ninja  
+2          GalLalush       2         5     0     14    Ninja  
+3          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -1104,9 +1104,9 @@ Nothing happened.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     90    30    Rogue  
-2          GalLalush       2         5     0     14    Rogue  
-3          GalLalush       1         5     0     10    Rogue  
+1          Omerz           1         4     90    30    Ninja  
+2          GalLalush       2         5     0     14    Ninja  
+3          GalLalush       1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -1117,6 +1117,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Omerz           1         4     0     30    Rogue  
-2          GalLalush       2         5     0     14    Rogue  
-3          GalLalush       1         5     0     10    Rogue  
+1          Omerz           1         4     0     30    Ninja  
+2          GalLalush       2         5     0     14    Ninja  
+3          GalLalush       1         5     0     10    Ninja  

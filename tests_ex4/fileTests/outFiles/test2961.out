@@ -1660,19 +1660,19 @@ Player Amirmann has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   30    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Daniel          1         5     100   30    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   34    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Daniel          2         5     100   34    Ninja  
+2          Amirmann        1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -1683,5 +1683,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     0     34    Rogue  
-2          Amirmann        1         5     0     10    Wizard  
+1          Daniel          2         5     0     34    Ninja  
+2          Amirmann        1         5     0     10    Healer  

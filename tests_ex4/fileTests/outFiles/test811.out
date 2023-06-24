@@ -188,17 +188,17 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Efrat's turn: 
-Player Efrat has defeated Goblin and rose 1 Level!
+Player Efrat has defeated Gremlin and rose 1 Level!
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     100   12    Fighter  
-2          GalLalush       2         5     100   12    Wizard  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           2         5     100   12    Warrior  
+2          GalLalush       2         5     100   12    Healer  
+3          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 2:
@@ -210,9 +210,9 @@ Player GalLalush has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     90    12    Fighter  
-2          GalLalush       2         5     0     12    Wizard  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           2         5     90    12    Warrior  
+2          GalLalush       2         5     0     12    Healer  
+3          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 3:
@@ -222,9 +222,9 @@ You've won the scuffle without losing any health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     90    12    Fighter  
-2          GalLalush       2         5     0     12    Wizard  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           2         5     90    12    Warrior  
+2          GalLalush       2         5     0     12    Healer  
+3          TomerM          1         5     0     10    Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -235,6 +235,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Efrat           2         5     0     12    Fighter  
-2          GalLalush       2         5     0     12    Wizard  
-3          TomerM          1         5     0     10    Fighter  
+1          Efrat           2         5     0     12    Warrior  
+2          GalLalush       2         5     0     12    Healer  
+3          TomerM          1         5     0     10    Warrior  

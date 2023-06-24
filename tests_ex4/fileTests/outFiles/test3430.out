@@ -214,17 +214,17 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 Player TomerM has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     100   10    Wizard  
-2          Daniel          1         5     100   10    Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Amirmann        1         5     100   10    Healer  
+2          Daniel          1         5     100   10    Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 2:
@@ -232,13 +232,13 @@ Start of round 2:
 Start of Amirmann's turn: 
 This is but a flesh wound. You've lost 10 health points
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     90    10    Wizard  
-2          Daniel          2         5     100   12    Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Amirmann        1         5     90    10    Healer  
+2          Daniel          2         5     100   12    Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 3:
@@ -264,23 +264,23 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        1         5     92    5     Wizard  
-2          Daniel          2         6     100   2     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Amirmann        1         5     92    5     Healer  
+2          Daniel          2         6     100   2     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 4:
 
 Start of Amirmann's turn: 
-Player Amirmann has defeated Goblin and rose 1 Level!
+Player Amirmann has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     92    7     Wizard  
-2          Daniel          2         6     0     2     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Amirmann        2         5     92    7     Healer  
+2          Daniel          2         6     0     2     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -290,33 +290,33 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     82    7     Wizard  
-2          Daniel          2         6     0     2     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Amirmann        2         5     82    7     Healer  
+2          Daniel          2         6     0     2     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 6:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   7     Wizard  
-2          Daniel          2         6     0     2     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Amirmann        2         5     100   7     Healer  
+2          Daniel          2         6     0     2     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Amirmann's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     100   7     Wizard  
-2          Daniel          2         6     0     2     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Amirmann        2         5     100   7     Healer  
+2          Daniel          2         6     0     2     Healer  
+3          TomerM          1         5     0     10    Ninja  
 
 -------------------------------------------
 Start of round 8:
@@ -327,6 +327,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Amirmann        2         5     0     7     Wizard  
-2          Daniel          2         6     0     2     Wizard  
-3          TomerM          1         5     0     10    Rogue  
+1          Amirmann        2         5     0     7     Healer  
+2          Daniel          2         6     0     2     Healer  
+3          TomerM          1         5     0     10    Ninja  

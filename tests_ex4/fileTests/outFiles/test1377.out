@@ -1379,21 +1379,21 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     100   10    Rogue  
-2          GalLalush       1         5     100   5     Wizard  
+1          Daniel          1         5     100   10    Ninja  
+2          GalLalush       1         5     100   5     Healer  
 
 -------------------------------------------
 Start of round 2:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 Start of GalLalush's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   14    Rogue  
-2          GalLalush       1         5     100   5     Wizard  
+1          Daniel          2         5     100   14    Ninja  
+2          GalLalush       1         5     100   5     Healer  
 
 -------------------------------------------
 Start of round 3:
@@ -1413,8 +1413,8 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   5     Wizard  
-2          Daniel          2         5     0     14    Rogue  
+1          GalLalush       1         5     100   5     Healer  
+2          Daniel          2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 4:
@@ -1424,8 +1424,8 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   15    Wizard  
-2          Daniel          2         5     0     14    Rogue  
+1          GalLalush       1         5     100   15    Healer  
+2          Daniel          2         5     0     14    Ninja  
 
 -------------------------------------------
 Start of round 5:
@@ -1436,5 +1436,5 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     0     15    Wizard  
-2          Daniel          2         5     0     14    Rogue  
+1          GalLalush       1         5     0     15    Healer  
+2          Daniel          2         5     0     14    Ninja  

@@ -116,13 +116,13 @@ Daniel has 10 coins
 Daniel has paid 5 coins for 1 health potion!
 Safe travels!
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   20    Fighter  
-2          Daniel          1         5     100   5     Fighter  
-3          Daniel          1         5     100   10    Wizard  
+1          GalLalush       1         5     100   20    Warrior  
+2          Daniel          1         5     100   5     Warrior  
+3          Daniel          1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -136,23 +136,23 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       1         5     100   20    Fighter  
-2          Daniel          1         5     90    10    Wizard  
-3          Daniel          1         5     0     5     Fighter  
+1          GalLalush       1         5     100   20    Warrior  
+2          Daniel          1         5     90    10    Healer  
+3          Daniel          1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 3:
 
 Start of GalLalush's turn: 
-Player GalLalush has defeated Goblin and rose 1 Level!
+Player GalLalush has defeated Gremlin and rose 1 Level!
 Start of Daniel's turn: 
 You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   22    Fighter  
-2          Daniel          1         5     80    10    Wizard  
-3          Daniel          1         5     0     5     Fighter  
+1          GalLalush       2         5     100   22    Warrior  
+2          Daniel          1         5     80    10    Healer  
+3          Daniel          1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 4:
@@ -172,9 +172,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   32    Fighter  
-2          Daniel          1         5     82    5     Wizard  
-3          Daniel          1         5     0     5     Fighter  
+1          GalLalush       2         5     100   32    Warrior  
+2          Daniel          1         5     82    5     Healer  
+3          Daniel          1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 5:
@@ -182,13 +182,13 @@ Start of round 5:
 Start of GalLalush's turn: 
 Nothing happened.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          GalLalush       2         5     100   32    Fighter  
-2          Daniel          1         5     100   5     Wizard  
-3          Daniel          1         5     0     5     Fighter  
+1          GalLalush       2         5     100   32    Warrior  
+2          Daniel          1         5     100   5     Healer  
+3          Daniel          1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 6:
@@ -200,21 +200,21 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          1         5     90    5     Wizard  
-2          GalLalush       2         5     0     32    Fighter  
-3          Daniel          1         5     0     5     Fighter  
+1          Daniel          1         5     90    5     Healer  
+2          GalLalush       2         5     0     32    Warrior  
+3          Daniel          1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 7:
 
 Start of Daniel's turn: 
-Player Daniel has defeated Goblin and rose 1 Level!
+Player Daniel has defeated Gremlin and rose 1 Level!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     90    7     Wizard  
-2          GalLalush       2         5     0     32    Fighter  
-3          Daniel          1         5     0     5     Fighter  
+1          Daniel          2         5     90    7     Healer  
+2          GalLalush       2         5     0     32    Warrior  
+3          Daniel          1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 8:
@@ -224,9 +224,9 @@ You fell into the trap, lose 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     80    7     Wizard  
-2          GalLalush       2         5     0     32    Fighter  
-3          Daniel          1         5     0     5     Fighter  
+1          Daniel          2         5     80    7     Healer  
+2          GalLalush       2         5     0     32    Warrior  
+3          Daniel          1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 9:
@@ -236,9 +236,9 @@ You've stumbled into a pile of coins! you've gained 10 gold.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     80    17    Wizard  
-2          GalLalush       2         5     0     32    Fighter  
-3          Daniel          1         5     0     5     Fighter  
+1          Daniel          2         5     80    17    Healer  
+2          GalLalush       2         5     0     32    Warrior  
+3          Daniel          1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 10:
@@ -257,33 +257,33 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     80    17    Wizard  
-2          GalLalush       2         5     0     32    Fighter  
-3          Daniel          1         5     0     5     Fighter  
+1          Daniel          2         5     80    17    Healer  
+2          GalLalush       2         5     0     32    Warrior  
+3          Daniel          1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 11:
 
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   17    Wizard  
-2          GalLalush       2         5     0     32    Fighter  
-3          Daniel          1         5     0     5     Fighter  
+1          Daniel          2         5     100   17    Healer  
+2          GalLalush       2         5     0     32    Warrior  
+3          Daniel          1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 12:
 
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     100   17    Wizard  
-2          GalLalush       2         5     0     32    Fighter  
-3          Daniel          1         5     0     5     Fighter  
+1          Daniel          2         5     100   17    Healer  
+2          GalLalush       2         5     0     32    Warrior  
+3          Daniel          1         5     0     5     Warrior  
 
 -------------------------------------------
 Start of round 13:
@@ -294,6 +294,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          Daniel          2         5     0     17    Wizard  
-2          GalLalush       2         5     0     32    Fighter  
-3          Daniel          1         5     0     5     Fighter  
+1          Daniel          2         5     0     17    Healer  
+2          GalLalush       2         5     0     32    Warrior  
+3          Daniel          1         5     0     5     Warrior  

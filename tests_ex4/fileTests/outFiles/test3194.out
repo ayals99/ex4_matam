@@ -434,17 +434,17 @@ You have entered an invalid name. Please try again.
 Start of round 1:
 
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of Daniel's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         4     90    10    Wizard  
-2          TomerM          1         4     90    10    Rogue  
-3          Daniel          1         5     100   10    Wizard  
+1          TomerM          1         4     90    10    Healer  
+2          TomerM          1         4     90    10    Ninja  
+3          Daniel          1         5     100   10    Healer  
 
 -------------------------------------------
 Start of round 2:
@@ -461,29 +461,29 @@ You have entered an invalid input. Please try again.
 TomerM has paid 10 coins for 1 force boost!
 Safe travels!
 Start of TomerM's turn: 
-Player TomerM has been defeated by a Vampire.
+Player TomerM has been defeated by a Witch.
 Start of Daniel's turn: 
 Player Daniel has been defeated by a Dragon.
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     90    0     Wizard  
-2          TomerM          1         3     80    10    Rogue  
-3          Daniel          1         5     0     10    Wizard  
+1          TomerM          1         5     90    0     Healer  
+2          TomerM          1         3     80    10    Ninja  
+3          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 3:
 
 Start of TomerM's turn: 
-Fairies like wizards, you've gained 10 health points.
+Healers know how to use mana, you've gained 10 health points.
 Start of TomerM's turn: 
 This is but a flesh wound. You've lost 10 health points
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   0     Wizard  
-2          TomerM          1         3     70    10    Rogue  
-3          Daniel          1         5     0     10    Wizard  
+1          TomerM          1         5     100   0     Healer  
+2          TomerM          1         3     70    10    Ninja  
+3          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 4:
@@ -503,9 +503,9 @@ Safe travels!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         5     100   10    Wizard  
-2          TomerM          1         3     70    10    Rogue  
-3          Daniel          1         5     0     10    Wizard  
+1          TomerM          1         5     100   10    Healer  
+2          TomerM          1         3     70    10    Ninja  
+3          Daniel          1         5     0     10    Healer  
 
 -------------------------------------------
 Start of round 5:
@@ -518,6 +518,6 @@ The Game has ended!!!
 
 The current ranking of the Team:
 Ranking    Player Name     Level     Force HP    Coins Job
-1          TomerM          1         3     0     10    Rogue  
-2          TomerM          1         5     0     10    Wizard  
-3          Daniel          1         5     0     10    Wizard  
+1          TomerM          1         3     0     10    Ninja  
+2          TomerM          1         5     0     10    Healer  
+3          Daniel          1         5     0     10    Healer  
