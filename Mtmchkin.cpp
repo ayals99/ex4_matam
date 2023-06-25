@@ -38,6 +38,7 @@ bool isNumberOfPlayersValid(int numberOfPlayers);
 
 
 Mtmchkin::Mtmchkin(const std::string& fileName) : m_numberOfRounds(0){
+    printStartGameMessage();
     try{
         m_deckOfCards = createDeck(fileName);
     }
@@ -48,7 +49,6 @@ Mtmchkin::Mtmchkin(const std::string& fileName) : m_numberOfRounds(0){
     throw e;
     }
     try{
-        printStartGameMessage();
         m_numberOfPlayers = readNumberOfPlayers();
         m_numberOfPlayersLeft = m_numberOfPlayers;
         m_leaderBoard = createLeaderBoard(m_numberOfPlayers);
@@ -326,14 +326,19 @@ int numberOfWordsInLine(const std::string& line) {
 
 int readNumberOfPlayers() {
     std::string inputLine;
-    printEnterTeamSizeMessage();
-    std::getline(std::cin, inputLine);
-    int numberOfPlayers = std::stoi(inputLine);
+    int numberOfPlayers = 0;
     while (!isNumberOfPlayersValid(numberOfPlayers)) {
-        printInvalidTeamSize();
         printEnterTeamSizeMessage();
         std::getline(std::cin, inputLine);
-        numberOfPlayers = std::stoi(inputLine);
+        try{
+            numberOfPlayers = std::stoi(inputLine);
+        }catch(std::exception& e){
+            printInvalidTeamSize();
+            continue;
+        }
+        if (!isNumberOfPlayersValid(numberOfPlayers)) {
+            printInvalidTeamSize();
+        }
     }
     return numberOfPlayers;
 }

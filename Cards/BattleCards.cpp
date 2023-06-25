@@ -15,7 +15,7 @@ void BattleCard::applyEncounter(Player &player) const {
         printWinBattle(player.getName(), this->m_name);
     } else {
         if (this->m_name == "Dragon") {
-            player.setDead();
+            player.damage(m_healthPointsReduction);
         } else {
             if (this->m_name == "Witch") {
                 player.loseOneForce();

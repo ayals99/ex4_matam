@@ -10,7 +10,6 @@ static const int MINIMUM_FORCE = 0;
 static const int INITIAL_FORCE = 5;
 static const int INITIAL_COINS = 10;
 static const int INITIAL_LEVEL = 1;
-static const int MAX_HP = 100;
 
 class Player{
 
@@ -86,22 +85,11 @@ public:
     void levelUp();
 
     /**
-    * Sets the player's HP to 0.
-    * @param none
-    * @return void
-    */
-    void setDead();
-
-    /**
     * Reduces force by one point. If the player's force is 0, does nothing.
     * @param none
     * @return void
     */
     void loseOneForce();
-
-private:
-
-
 };
 
 std::ostream& operator<<(std::ostream& os, const Player& player);

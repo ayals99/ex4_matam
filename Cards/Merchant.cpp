@@ -1,14 +1,11 @@
 #include "Merchant.h"
 
-static const char ZERO = '0';
-static const char INITIAL_INVALID_CHOICE = '~';
-
-static const char LEAVE = '0';
-static const char BUY_HEALTH_POTION = '1';
-static const char BUY_FORCE_BOOST = '2';
+static const int INITIAL_INVALID_CHOICE = -1;
+static const int LEAVE = 0;
+static const int BUY_HEALTH_POTION = 1;
+static const int BUY_FORCE_BOOST = 2;
 static int BOUGHT_HEALTH_POTION = 1;
 static int BOUGHT_FORCE_BOOST = 2;
-
 static const int DID_NOT_PAY = 0;
 
 int getMerchantChoiceFromUser(const Player& player);
@@ -43,18 +40,26 @@ bool validOption(int choice){
     return choice == LEAVE || choice == BUY_FORCE_BOOST || choice == BUY_HEALTH_POTION;
 }
 
-int convertChoiceToInt(char choice){
-    return choice - ZERO;
-}
-
 int getMerchantChoiceFromUser(const Player& player){
     printMerchantInitialMessageForInteractiveEncounter(std::cout, player.getName(), player.getCoins());
-    char choice = INITIAL_INVALID_CHOICE;
-    while (!validOption(choice)){
-        std::cin >> choice;
-        if (!validOption(choice)){
+    std::string choice;
+    int choiceInt = INITIAL_INVALID_CHOICE;
+
+    while (!validOption(choiceInt)){
+        std::getline(std::cin, choice);
+        if (choice.length() != 1){
+            printInvalidInput();
+            continue;
+        }
+        try{
+            choiceInt = std::stoi(choice);
+        }catch (std::invalid_argument& e){
+            printInvalidInput();
+            continue;
+        }
+        if (!validOption(choiceInt)){
             printInvalidInput();
         }
     }
-    return convertChoiceToInt(choice);
+    return choiceInt;
 }

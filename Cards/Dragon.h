@@ -5,7 +5,7 @@
 
 static const std::string DRAGON_NAME = "Dragon";
 static const int DRAGON_FORCE = 25;
-static const int DRAGON_DAMAGE = MAX_HP;
+static const int DRAGON_DAMAGE = DEFAULT_MAXIMAL_HEALTH;
 static const int DRAGON_LOOT = 1000;
 
 class Dragon : public BattleCard {

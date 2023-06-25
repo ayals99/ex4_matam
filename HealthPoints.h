@@ -2,8 +2,8 @@
 #define HEALTH_POINTS_H
 
 #include <iostream>
-const int MINIMAL_HEALTH = 0;
-const int DEFAULT_MAXIMAL_HEALTH = 100;
+static const int MINIMAL_HEALTH = 0;
+static const int DEFAULT_MAXIMAL_HEALTH = 100;
 
 class HealthPoints {
 

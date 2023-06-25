@@ -3,6 +3,9 @@
 
 #include "Player.h"
 
+const int HP_MULTIPLIER = 2;
+
+
 class Healer : public Player {
 private:
     std::string m_job = "Healer";
@@ -12,7 +15,7 @@ public:
 
     void heal(int healthToAdd) override{
         if(healthToAdd > 0) {
-            m_health += 2 * healthToAdd;
+            m_health += HP_MULTIPLIER * healthToAdd;
         }
     }
 

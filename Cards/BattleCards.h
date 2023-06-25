@@ -1,7 +1,6 @@
 #ifndef EX4_MATAM_BATTLE_CARDS_H
 #define EX4_MATAM_BATTLE_CARDS_H
 
-#include <utility>
 #include "Card.h"
 
 

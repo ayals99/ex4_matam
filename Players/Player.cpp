@@ -2,7 +2,11 @@
 #include "../utilities.h"
 
 /** Constructors: */
-Player::Player(std::string& name) : m_name(name), m_level(INITIAL_LEVEL), m_force(INITIAL_FORCE), m_health(MAX_HP), m_coins(INITIAL_COINS) {}
+Player::Player(std::string& name) : m_name(name),
+                                    m_level(INITIAL_LEVEL),
+                                    m_force(INITIAL_FORCE),
+                                    m_health(DEFAULT_MAXIMAL_HEALTH),
+                                    m_coins(INITIAL_COINS) {}
 
 /** Getters:*/
 std::string Player::getName() const{
@@ -70,10 +74,6 @@ void Player::levelUp(){
  * @return void
  */
 void Player::heal(int hpToAdd){
-    if (m_health == MINIMAL_HEALTH){ // TODO: check if we need to throw an exception - trying to revive the dead.
-        return;
-    }
-
     if(hpToAdd > 0) {
         m_health += hpToAdd;
     }
@@ -92,15 +92,6 @@ void Player::damage(int hpToReduce){
 }
 
 /**
- * Sets the player's HP to 0.
- * @param none
- * @return void
- */
-void Player::setDead(){
-    m_health = MINIMAL_HEALTH;
-}
-
-/**
  * @param forceToAdd - The amount of force to add to the player.
  * @return void
  */
@@ -115,11 +106,6 @@ void Player::buff(int forceToAdd){
  * @return void
  */
 bool Player::pay(int coinsToPay){
-    // TODO: check what to do with a negative amount
-    if(coinsToPay < 0){
-        return true;
-    }
-
     if (this->m_coins >= coinsToPay)
     {
         this->m_coins -= coinsToPay;
@@ -142,8 +128,11 @@ void Player::loseOneForce(){
 /** Operators: */
 std::ostream& operator<<(std::ostream& os, const Player& player){
     int health = player.getHealth().getHealthInteger();
-    printPlayerDetails(os, player.getName(), player.getPlayerJob(),
-                       player.getLevel(), player.getForce(), health,
+    printPlayerDetails(os, player.getName(),
+                       player.getPlayerJob(),
+                       player.getLevel(),
+                       player.getForce(),
+                       health,
                        player.getCoins());
     return os;
 }

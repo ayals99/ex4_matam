@@ -1,7 +1,6 @@
 #ifndef EX4_MATAM_WARRIOR_H
 #define EX4_MATAM_WARRIOR_H
 
-#include <utility>
 #include "Player.h"
 
 class Warrior : public Player {
