@@ -2,8 +2,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/ex4_matam.dir/link.d"
   "CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj"
   "CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj.d"
-  "CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj"
-  "CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj.d"
   "CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj"
   "CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj.d"
   "CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj"

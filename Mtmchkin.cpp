@@ -182,7 +182,8 @@ std::unique_ptr<Deck> createDeck(const std::string &fileName) {
             throw DeckFileFormatError(lineCounter);
         }
     }
-    if (lineCounter < MIN_NUMBER_OF_CARDS) {
+
+    if (deck->size() < MIN_NUMBER_OF_CARDS) {
         throw DeckFileInvalidSize();
     }
     return deck;

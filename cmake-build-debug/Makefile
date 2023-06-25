@@ -152,30 +152,6 @@ Cards/BattleCards.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.s
 .PHONY : Cards/BattleCards.cpp.s
 
-Cards/Card.obj: Cards/Card.cpp.obj
-.PHONY : Cards/Card.obj
-
-# target to build an object file
-Cards/Card.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj
-.PHONY : Cards/Card.cpp.obj
-
-Cards/Card.i: Cards/Card.cpp.i
-.PHONY : Cards/Card.i
-
-# target to preprocess a source file
-Cards/Card.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Cards/Card.cpp.i
-.PHONY : Cards/Card.cpp.i
-
-Cards/Card.s: Cards/Card.cpp.s
-.PHONY : Cards/Card.s
-
-# target to generate assembly for a file
-Cards/Card.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ex4_matam.dir\build.make CMakeFiles/ex4_matam.dir/Cards/Card.cpp.s
-.PHONY : Cards/Card.cpp.s
-
 Cards/Merchant.obj: Cards/Merchant.cpp.obj
 .PHONY : Cards/Merchant.obj
 
@@ -332,9 +308,6 @@ help:
 	@echo ... Cards/BattleCards.obj
 	@echo ... Cards/BattleCards.i
 	@echo ... Cards/BattleCards.s
-	@echo ... Cards/Card.obj
-	@echo ... Cards/Card.i
-	@echo ... Cards/Card.s
 	@echo ... Cards/Merchant.obj
 	@echo ... Cards/Merchant.i
 	@echo ... Cards/Merchant.s

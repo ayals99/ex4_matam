@@ -155,8 +155,6 @@ CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj: C:/Users/user/Documents/GitH
   C:/Users/user/Documents/GitHub/ex4_matam/Cards/BattleCards.h \
   C:/Users/user/Documents/GitHub/ex4_matam/Cards/Card.h
 
-CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Cards/Card.cpp
-
 CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Cards/Merchant.cpp \
   C:/Program\ Files/JetBrains/CLion\ 2022.2.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/limits.h \
   C:/Program\ Files/JetBrains/CLion\ 2022.2.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/syslimits.h \
@@ -1370,8 +1368,6 @@ C:/Program\ Files/JetBrains/CLion\ 2022.2.4/bin/mingw/lib/gcc/x86_64-w64-mingw32
 C:/Program\ Files/JetBrains/CLion\ 2022.2.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/stdexcept:
 
 C:/Program\ Files/JetBrains/CLion\ 2022.2.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/crtbegin.o:
-
-C:/Users/user/Documents/GitHub/ex4_matam/Cards/Card.cpp:
 
 C:/Program\ Files/JetBrains/CLion\ 2022.2.4/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h:
 
