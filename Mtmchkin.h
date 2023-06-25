@@ -10,13 +10,13 @@
 #include "Cards/Card.h"
 
 typedef std::queue<std::unique_ptr<Card>> Deck;
-typedef std::vector<Player*> LeaderBoard;
+typedef std::vector<std::unique_ptr<Player>> LeaderBoard;
 
 class Mtmchkin{
 
 private:
     std::unique_ptr<Deck> m_deckOfCards;
-    LeaderBoard* m_leaderBoard;
+    std::unique_ptr<LeaderBoard> m_leaderBoard;
     int m_numberOfRounds;
     int m_numberOfPlayers;
     int m_numberOfPlayersLeft;

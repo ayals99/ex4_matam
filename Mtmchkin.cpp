@@ -19,9 +19,9 @@ static int const MAX_PLAYER_NAME_LENGTH = 15;
 int const MAX_WORDS_IN_LINE = 2;
 char const SPACE = ' ';
 
-LeaderBoard* createLeaderBoard(int numberOfPlayers);
+std::unique_ptr<LeaderBoard> createLeaderBoard(int numberOfPlayers);
 Player* readAndCreatePlayer();
-Player* findFirstPlayer(LeaderBoard* m_leaderBoard);
+std::unique_ptr<Player> findFirstPlayer(std::unique_ptr<LeaderBoard>& leaderBoard);
 Player* createPlayer(const std::string &playerName, const std::string &playerClass);
 std::unique_ptr<Deck> createDeck(const std::string &fileName);
 Card* getCardFromLine(const std::string &line, int lineCounter);
@@ -30,8 +30,8 @@ std::string trim(const std::string &str);
 int readNumberOfPlayers();
 int numberOfWordsInLine(const std::string& line);
 void playNextCard(std::unique_ptr<Deck>& deck, Player* currentPlayer);
-void pushWinner(Player* currentPlayer, LeaderBoard* leaderBoard);
-void pushBackBeforeLosers(Player* currentPlayer, LeaderBoard* leaderBoard);
+void pushBackBeforeLosers(std::unique_ptr<Player>& currentPlayer, std::unique_ptr<LeaderBoard>& leaderBoard);
+void pushWinner(std::unique_ptr<Player>& currentPlayer, std::unique_ptr<LeaderBoard>& leaderBoard);
 bool isPlayerClassValid(const std::string& playerClass);
 bool isPlayerNameValid(const std::string& playerName);
 bool isNumberOfPlayersValid(int numberOfPlayers);
@@ -58,14 +58,14 @@ Mtmchkin::Mtmchkin(const std::string& fileName) : m_numberOfRounds(0){
     }
 }
 
-LeaderBoard* createLeaderBoard(int numberOfPlayers)
+std::unique_ptr<LeaderBoard> createLeaderBoard(int numberOfPlayers)
 {
-    //LeaderBoard* leaderBoard = new LeaderBoard();
-    LeaderBoard* leaderBoard = new LeaderBoard();
+    // Create a unique_ptr to LeaderBoard
+    std::unique_ptr<LeaderBoard> leaderBoard(new LeaderBoard());
     for(int i = 0; i < numberOfPlayers; ++i)
     {
-        Player* player = readAndCreatePlayer();
-        leaderBoard->push_back(player);
+        std::unique_ptr<Player> player(readAndCreatePlayer());
+        leaderBoard->push_back(std::move(player));
     }
     return leaderBoard;
 }
@@ -79,9 +79,9 @@ void Mtmchkin::playRound() {
     printRoundStartMessage(m_numberOfRounds);
     int amountPlaying = m_numberOfPlayersLeft;
     for (int i = 0; i < amountPlaying; ++i) {
-        Player* currentPlayer = findFirstPlayer(m_leaderBoard);
+        std::unique_ptr<Player> currentPlayer = findFirstPlayer(m_leaderBoard);
         printTurnStartMessage(currentPlayer->getName());
-        playNextCard(m_deckOfCards, currentPlayer);
+        playNextCard(m_deckOfCards, currentPlayer.get());
         if (currentPlayer->won()) {
             pushWinner(currentPlayer, m_leaderBoard);
             m_numberOfPlayersLeft--;
@@ -98,18 +98,20 @@ void Mtmchkin::playRound() {
     }
 }
 
-Player* findFirstPlayer(LeaderBoard* leaderBoard) {
-    for (auto playerIterator = leaderBoard->begin();
-                            playerIterator != leaderBoard->end();
-                            playerIterator++){
+std::unique_ptr<Player> findFirstPlayer(std::unique_ptr<LeaderBoard>& leaderBoard) {
+    for (LeaderBoard::iterator playerIterator = leaderBoard->begin();
+         playerIterator != leaderBoard->end();
+         playerIterator++){
         if ((*playerIterator)->isInGame()){
-            Player* firstPlayer = *playerIterator;
+            std::unique_ptr<Player> firstPlayer = std::move(*playerIterator);
             leaderBoard->erase(playerIterator);
             return firstPlayer;
         }
     }
     throw noPlayersInGame();
 }
+
+
 
 void playNextCard(std::unique_ptr<Deck>& deck, Player* currentPlayer){
     std::unique_ptr<Card>& currentCard = deck->front();
@@ -122,29 +124,30 @@ bool Mtmchkin::isGameOver() const {
     return m_numberOfPlayersLeft == 0;
 }
 
-void pushWinner(Player* currentPlayer, LeaderBoard* leaderBoard) {
-    auto playerIterator = leaderBoard->begin();
+void pushWinner(std::unique_ptr<Player>& currentPlayer, std::unique_ptr<LeaderBoard>& leaderBoard) {
+    LeaderBoard::iterator playerIterator = leaderBoard->begin();
     while (playerIterator != leaderBoard->end()) {
         if ((*playerIterator)->won()) {
             playerIterator++;
         } else {
-            leaderBoard->insert(playerIterator, currentPlayer);
+            leaderBoard->insert(playerIterator, std::move(currentPlayer));
             return;
         }
     }
-    leaderBoard->push_back(currentPlayer);
+    leaderBoard->push_back(std::move(currentPlayer));
 }
 
-void pushBackBeforeLosers(Player* currentPlayer, LeaderBoard* leaderBoard) {
-    auto playerIterator = leaderBoard->begin();
+
+void pushBackBeforeLosers(std::unique_ptr<Player>& currentPlayer, std::unique_ptr<LeaderBoard>& leaderBoard) {
+    LeaderBoard::iterator playerIterator = leaderBoard->begin();
     while (playerIterator != leaderBoard->end()) {
         if ((*playerIterator)->dead()) {
-            leaderBoard->insert(playerIterator, currentPlayer);
+            leaderBoard->insert(playerIterator, std::move(currentPlayer));
             return;
         }
         playerIterator++;
     }
-    leaderBoard->push_back(currentPlayer);
+    leaderBoard->push_back(std::move(currentPlayer));
 }
 
 int Mtmchkin::getNumberOfRounds() const {
