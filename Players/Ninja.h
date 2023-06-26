@@ -13,13 +13,9 @@ private:
 public:
     explicit Ninja(std::string name) : Player(name) {}
 
-    void addCoins(int coinsToAdd) override{
-        m_coins += COINS_MULTIPLIER * coinsToAdd;
-    }
+    void addCoins(int coinsToAdd) override;
 
-    const std::string& getPlayerJob() const override{
-        return m_job;
-    }
+    const std::string& getPlayerJob() const override;
 };
 
 #endif //EX4_MATAM_NINJA_H

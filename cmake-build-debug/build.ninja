@@ -154,6 +154,27 @@ build CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.obj: CXX_COMPILER__ex4_matam_Debu
   OBJECT_DIR = CMakeFiles\ex4_matam.dir
   OBJECT_FILE_DIR = CMakeFiles\ex4_matam.dir\Cards
 
+build CMakeFiles/ex4_matam.dir/Players/Healer.cpp.obj: CXX_COMPILER__ex4_matam_Debug C$:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/Players/Healer.cpp || cmake_object_order_depends_target_ex4_matam
+  DEP_FILE = CMakeFiles\ex4_matam.dir\Players\Healer.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -IC:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/. -IC:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/Cards -IC:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/Players
+  OBJECT_DIR = CMakeFiles\ex4_matam.dir
+  OBJECT_FILE_DIR = CMakeFiles\ex4_matam.dir\Players
+
+build CMakeFiles/ex4_matam.dir/Players/Ninja.cpp.obj: CXX_COMPILER__ex4_matam_Debug C$:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/Players/Ninja.cpp || cmake_object_order_depends_target_ex4_matam
+  DEP_FILE = CMakeFiles\ex4_matam.dir\Players\Ninja.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -IC:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/. -IC:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/Cards -IC:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/Players
+  OBJECT_DIR = CMakeFiles\ex4_matam.dir
+  OBJECT_FILE_DIR = CMakeFiles\ex4_matam.dir\Players
+
+build CMakeFiles/ex4_matam.dir/Players/Warrior.cpp.obj: CXX_COMPILER__ex4_matam_Debug C$:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/Players/Warrior.cpp || cmake_object_order_depends_target_ex4_matam
+  DEP_FILE = CMakeFiles\ex4_matam.dir\Players\Warrior.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -IC:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/. -IC:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/Cards -IC:/Users/ayals/OneDrive/Documents/GitHub/ex4_matam/Players
+  OBJECT_DIR = CMakeFiles\ex4_matam.dir
+  OBJECT_FILE_DIR = CMakeFiles\ex4_matam.dir\Players
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ex4_matam
@@ -162,7 +183,7 @@ build CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.obj: CXX_COMPILER__ex4_matam_Debu
 #############################################
 # Link the executable ex4_matam.exe
 
-build ex4_matam.exe: CXX_EXECUTABLE_LINKER__ex4_matam_Debug CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj CMakeFiles/ex4_matam.dir/utilities.cpp.obj CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.obj CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj CMakeFiles/ex4_matam.dir/main.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Barfight.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Dragon.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Gremlin.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Mana.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Treasure.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Well.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.obj
+build ex4_matam.exe: CXX_EXECUTABLE_LINKER__ex4_matam_Debug CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj CMakeFiles/ex4_matam.dir/utilities.cpp.obj CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.obj CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj CMakeFiles/ex4_matam.dir/main.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Barfight.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Dragon.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Gremlin.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Mana.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Treasure.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Well.cpp.obj CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.obj CMakeFiles/ex4_matam.dir/Players/Healer.cpp.obj CMakeFiles/ex4_matam.dir/Players/Ninja.cpp.obj CMakeFiles/ex4_matam.dir/Players/Warrior.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ex4_matam.dir
