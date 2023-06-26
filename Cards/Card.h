@@ -18,14 +18,6 @@ public:
 
     virtual void applyEncounter(Player& player) const = 0;
 
-    virtual std::ostream& stringToPrint(std::ostream& os) const{
-        printCardDetails(os, m_name);
-        printEndOfCardDetails(os);
-        return os;
-    }
+    virtual std::ostream& stringToPrint(std::ostream& os) const;
 };
-
-inline std::ostream& operator<<(std::ostream& os, const Card& card){
-    return card.stringToPrint(os);
-}
 #endif //EX4_MATAM_CARD_H
