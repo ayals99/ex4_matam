@@ -3,6 +3,8 @@
 
 #include "Player.h"
 
+const int FORCE_MULTIPLIER = 2;
+
 class Warrior : public Player {
 private:
     std::string m_job = "Warrior";
@@ -10,12 +12,8 @@ private:
 public:
     explicit Warrior(std::string name) : Player(name){}
 
-    bool playerIsStronger(int opponentForce) const override{
-        return ( (2*m_force + m_level) >= opponentForce );
-    }
+    bool playerIsStronger(int opponentForce) const override;
 
-    const std::string& getPlayerJob() const override{
-        return m_job;
-    }
+    const std::string& getPlayerJob() const override;
 };
 #endif //EX4_MATAM_WARRIOR_H

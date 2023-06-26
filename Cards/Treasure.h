@@ -12,10 +12,7 @@ public:
     Treasure(const Treasure& other) = delete;
     ~Treasure() override = default;
 
-    void applyEncounter(Player& player) const override{
-        player.addCoins(TREASURE_COIN_GAIN);
-        printTreasureMessage();
-    }
+    void applyEncounter(Player& player) const override;
 };
 
 #endif //EX4_MATAM_TREASURE_H

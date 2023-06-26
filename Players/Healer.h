@@ -13,15 +13,8 @@ private:
 public:
     explicit Healer(std::string name) : Player(name) {}
 
-    void heal(int healthToAdd) override{
-        if(healthToAdd > 0) {
-            m_health += HP_MULTIPLIER * healthToAdd;
-        }
-    }
-
-    const std::string& getPlayerJob() const override{
-        return m_job;
-    }
+    void heal(int healthToAdd) override;
+    const std::string& getPlayerJob() const override;
 };
 
 #endif //EX4_MATAM_HEALER_H

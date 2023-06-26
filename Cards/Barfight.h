@@ -14,14 +14,6 @@ public:
     Barfight& operator=(const Barfight& other) = delete;
     Barfight(const Barfight& other) = delete;
 
-    void applyEncounter(Player& player) const override{
-        bool isWarrior = dynamic_cast<Warrior*>(&player);
-        if(!isWarrior){
-            player.damage(BARFIGHT_HP_LOSS);
-        }
-        printBarfightMessage(isWarrior);
-    }
+    void applyEncounter(Player& player) const override;
 };
-
-
 #endif //EX4_MATAM_BARFIGHT_H

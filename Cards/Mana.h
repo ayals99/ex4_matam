@@ -15,14 +15,7 @@ public:
     Mana(const Mana& other) = delete;
     ~Mana() override = default;
 
-
-    void applyEncounter(Player& player) const override{
-        bool isHealer = dynamic_cast<Healer*>(&player);
-        if(isHealer){
-            player.heal(MANA_HP_GAIN);
-        }
-        printManaMessage(isHealer);
-    }
+    void applyEncounter(Player& player) const override;
 };
 
 #endif //EX4_MATAM_MANA_H

@@ -73,7 +73,7 @@ std::unique_ptr<LeaderBoard> createLeaderBoard(int numberOfPlayers)
 
 void Mtmchkin::playRound() {
     if (isGameOver()) {
-        throw invalidPlay();
+        throw InvalidPlay();
     }
     ++m_numberOfRounds;
     printRoundStartMessage(m_numberOfRounds);
@@ -99,7 +99,7 @@ void Mtmchkin::playRound() {
 }
 
 std::unique_ptr<Player> findFirstPlayer(std::unique_ptr<LeaderBoard>& leaderBoard) {
-    for (LeaderBoard::iterator playerIterator = leaderBoard->begin();
+    for (auto playerIterator = leaderBoard->begin();
          playerIterator != leaderBoard->end();
          playerIterator++){
         if ((*playerIterator)->isInGame()){
@@ -108,7 +108,7 @@ std::unique_ptr<Player> findFirstPlayer(std::unique_ptr<LeaderBoard>& leaderBoar
             return firstPlayer;
         }
     }
-    throw noPlayersInGame();
+    throw NoPlayersInGame();
 }
 
 
@@ -125,7 +125,7 @@ bool Mtmchkin::isGameOver() const {
 }
 
 void pushWinner(std::unique_ptr<Player>& currentPlayer, std::unique_ptr<LeaderBoard>& leaderBoard) {
-    LeaderBoard::iterator playerIterator = leaderBoard->begin();
+    auto playerIterator = leaderBoard->begin();
     while (playerIterator != leaderBoard->end()) {
         if ((*playerIterator)->won()) {
             playerIterator++;
@@ -139,7 +139,7 @@ void pushWinner(std::unique_ptr<Player>& currentPlayer, std::unique_ptr<LeaderBo
 
 
 void pushBackBeforeLosers(std::unique_ptr<Player>& currentPlayer, std::unique_ptr<LeaderBoard>& leaderBoard) {
-    LeaderBoard::iterator playerIterator = leaderBoard->begin();
+    auto playerIterator = leaderBoard->begin();
     while (playerIterator != leaderBoard->end()) {
         if ((*playerIterator)->dead()) {
             leaderBoard->insert(playerIterator, std::move(currentPlayer));
