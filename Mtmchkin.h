@@ -5,7 +5,7 @@
 #include <memory>
 #include <vector>
 #include <queue>
-#include "Exception.h"
+
 #include "utilities.h"
 #include "Cards/Card.h"
 

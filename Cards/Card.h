@@ -20,4 +20,7 @@ public:
 
     virtual std::ostream& stringToPrint(std::ostream& os) const;
 };
+
+std::ostream& operator<<(std::ostream& os, const Card& card);
+
 #endif //EX4_MATAM_CARD_H

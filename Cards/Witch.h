@@ -4,7 +4,7 @@
 #include <string>
 
 static const std::string WITCH_NAME = "Witch";
-static const int WITCH_FORCE = 10; //TODO: change later to 11!!!
+static const int WITCH_FORCE = 11; //TODO: change later to 11!!!
 static const int WITCH_DAMAGE = 10;
 static const int WITCH_LOOT = 2;
 
