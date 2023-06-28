@@ -35,7 +35,7 @@ using std::istringstream;
 using std::vector;
 
 
-/* ------------------------------------ ---------------------------------------------------------- */
+/* ---------------------------------------------------------------------------------------------- */
 // --------------------------------       General Helper Functions          ------------------------------
 
 void createTextFile(const string &filename, const string &input)
@@ -55,7 +55,7 @@ bool compareFiles(const string &filename1, const string &filename2)
 {
     string line1,line2;
     fstream file1(filename1),file2(filename2);
-    if(!file2){
+    if( !file2){
          cerr<<"Error opening file 2"<<std::endl;
          return false;
     }
@@ -189,7 +189,7 @@ bool dragonDenTest()
     const string tmp_file("dragonDen_test");
     string input("2\nJimmy Healer\nPikachu Warrior");
     string deck("Dragon\nDragon\nDragon\nDragon\nDragon");
-    string expectedOutputFilename("C:\\Users\\user\\Documents\\GitHub\\ex4_matam\\Given tests\\tests\\dragonDen_test_expected.txt");
+    string expectedOutputFilename("tests/dragonDen_test_expected.txt");
     return GeneralGameSimulationTest(tmp_file, input, deck, expectedOutputFilename);
 }
 
@@ -198,7 +198,7 @@ bool witchLairTest()
     const string tmp_file("witchLair_test");
     string input("2\nItay Warrior\nPikachu Ninja");
     string deck("Witch\nWitch\nWitch\nWitch\nWitch");
-    string expectedOutputFilename("C:\\Users\\user\\Documents\\GitHub\\ex4_matam\\Given tests\\tests\\witchLair_test_expected.txt");
+    string expectedOutputFilename("tests/witchLair_test_expected.txt");
     return GeneralGameSimulationTest(tmp_file, input, deck, expectedOutputFilename);
 }
 
@@ -207,7 +207,7 @@ bool gremlinCaveTest()
     const string tmp_file("gremlinCave_test");
     string input("2\nItay Healer\nPikachu Ninja");
     string deck("Gremlin\nGremlin\nGremlin\nGremlin\nGremlin");
-    string expectedOutputFilename("C:\\Users\\user\\Documents\\GitHub\\ex4_matam\\Given tests\\tests\\gremlinCave_test_expected.txt");
+    string expectedOutputFilename("tests/gremlinCave_test_expected.txt");
     return GeneralGameSimulationTest(tmp_file, input, deck, expectedOutputFilename);
 }
 
@@ -216,7 +216,7 @@ bool nonMostersTest()
     const string tmp_file("noMonster_test");
     string input("2\nItay Healer\nPikachu Ninja");
     string deck("Mana\nBarfight\nWell\nTreasure\nMana");
-    string expectedOutputFilename("C:\\Users\\user\\Documents\\GitHub\\ex4_matam\\Given tests\\tests\\noMonster_test_expected.txt");
+    string expectedOutputFilename("tests/noMonster_test_expected.txt");
     return GeneralGameSimulationTest(tmp_file, input, deck, expectedOutputFilename);
 }
 
@@ -225,7 +225,7 @@ bool roundLimitTest()
     const string tmp_file("roundLimit_test");
     string input("2\nmatamDalf Healer\nrocky Warrior");
     string deck("Mana\nMana\nMana\nMana\nMana");
-    string expectedOutputFilename("C:\\Users\\user\\Documents\\GitHub\\ex4_matam\\Given tests\\tests\\roundLimit_test_expected.txt");
+    string expectedOutputFilename("tests/roundLimit_test_expected.txt");
     return GeneralGameSimulationTest(tmp_file, input, deck, expectedOutputFilename);
 }
 
@@ -234,7 +234,7 @@ bool allTenTest()
     const string tmp_file("allTen_test");
     string input("2\nmatamDalf Healer\nrocky Warrior");
     string deck("Gremlin\nGremlin\nGremlin\nGremlin\nGremlin");
-    string expectedOutputFilename("C:\\Users\\user\\Documents\\GitHub\\ex4_matam\\Given tests\\tests\\allTen_test_expected.txt");
+    string expectedOutputFilename("tests/allTen_test_expected.txt");
     return GeneralGameSimulationTest(tmp_file, input, deck, expectedOutputFilename);
 }
 
@@ -243,7 +243,7 @@ bool badPlayerInputTest()
     const string tmp_file("badPlayerInput_test");
     string input("2\nmatamDalf Healerd\nmatamDalf ninha\nmatamDalf Healer\nrocky Warrior");
     string deck("Gremlin\nWitch\nGremlin\nGremlin\nDragon");
-    string expectedOutputFilename("C:\\Users\\user\\Documents\\GitHub\\ex4_matam\\Given tests\\tests\\badPlayerInput_test_expected.txt");
+    string expectedOutputFilename("tests/badPlayerInput_test_expected.txt");
     return GeneralGameSimulationTest(tmp_file, input, deck, expectedOutputFilename);
 }
 
@@ -272,7 +272,7 @@ bool badSizeTest()
     string expectedOutputFilename("notneeded.txt");
 	bool flag= false;
     try{
-        Mtmchkin("C:\\Users\\user\\Documents\\GitHub\\ex4_matam\\Given tests\\inputs\\empty.txt");
+        Mtmchkin("inputs/empty.txt");
     }
     catch(const DeckFileInvalidSize& e){
         flag = true;
@@ -304,7 +304,7 @@ bool badFormatTest()
     string expectedOutputFilename("notneeded.txt");
     bool flag = false;
     try {
-        Mtmchkin("C:\\Users\\user\\Documents\\GitHub\\ex4_matam\\Given tests\\inputs\\badFormat_test.txt");
+        Mtmchkin("inputs/badFormat_test.txt");
     }
     catch(const DeckFileFormatError& e){
         if(strcmp(e.what(),"Deck File Error: File format error in line 2")==0) {
@@ -322,9 +322,9 @@ bool badFormatStartTest()
     string expectedOutputFilename("notneeded.txt");
     bool flag = false;
     try {
-        Mtmchkin("C:\\Users\\user\\Documents\\GitHub\\ex4_matam\\Given tests\\inputs\\badFormat_test_start_of_file.txt");
+        Mtmchkin("inputs/badFormat_test_start_of_file.txt");
     }
-    catch(const DeckFileFormatError &e){
+    catch(const DeckFileFormatError& e){
         if(strcmp(e.what(),"Deck File Error: File format error in line 1")==0)
         {
             flag = true;

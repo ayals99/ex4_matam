@@ -244,11 +244,12 @@ std::string trim(const std::string &str) {
 void readCurrentLineAndValidate(std::string& inputLine, bool& isNameValid, bool& isClassValid, bool& isLineValid,
                                 std::string& playerName,std::string& playerClass){
     std::getline(std::cin, inputLine);
-    playerName = trim(inputLine.substr(0, inputLine.find(SPACE)));
-    playerClass = trim(inputLine.substr(inputLine.find(SPACE) + 1));
+    std::string trimmedLine = trim(inputLine);
+    playerName = trim(trimmedLine.substr(0, trimmedLine.find(SPACE)));
+    playerClass = trim(trimmedLine.substr(trimmedLine.find(SPACE) + 1));
     isNameValid = isPlayerNameValid(playerName);
     isClassValid = isPlayerClassValid(playerClass);
-    isLineValid = numberOfWordsInLine(inputLine) <= MAX_WORDS_IN_LINE;
+    isLineValid = numberOfWordsInLine(trimmedLine) <= MAX_WORDS_IN_LINE;
 }
 
 std::string readAndCheckValidation() {
