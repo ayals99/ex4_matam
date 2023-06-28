@@ -5,14 +5,17 @@
 
 
 class BattleCard : public Card {
+private:
+    BattleCard(std::string name, int force, int hpReduction, int loot)
+            : Card(std::move(name)), m_force(force), m_healthPointsReduction(hpReduction), m_loot(loot) {};
+
 protected:
     int m_force;
     int m_healthPointsReduction;
     int m_loot;
 
 public:
-    BattleCard(std::string name, int force, int hpReduction, int loot)
-    : Card(std::move(name)), m_force(force), m_healthPointsReduction(hpReduction), m_loot(loot) {};
+
 
     BattleCard() = delete;
     BattleCard(BattleCard& other) = delete;
