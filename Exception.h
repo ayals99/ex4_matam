@@ -27,17 +27,33 @@ public:
     }
 };
 
+//class DeckFileFormatError : public std::exception {
+//private:
+//    int m_line;
+//public:
+//    explicit DeckFileFormatError(int lineNum) : m_line(lineNum){}
+//
+//    const char* what() const noexcept override{
+//        std::runtime_error m_runtimeError("Deck File Error: File format error in line " + std::to_string(m_line));
+//        return m_runtimeError.what();
+//    }
+//};
+
 class DeckFileFormatError : public std::exception {
 private:
     int m_line;
-public:
-    explicit DeckFileFormatError(int lineNum) : m_line(lineNum){}
+    std::string m_errorMessage;  // Store the error message as a member variable
 
-    const char* what() const noexcept override{
-        std::runtime_error m_runtimeError("Deck File Error: File format error in line " + std::to_string(m_line));
-        return m_runtimeError.what();
+public:
+    explicit DeckFileFormatError(int lineNum) : m_line(lineNum) {
+        m_errorMessage = "Deck File Error: File format error in line " + std::to_string(m_line);
+    }
+
+    const char* what() const noexcept override {
+        return m_errorMessage.c_str();  // Return the pointer to the error message
     }
 };
+
 
 class DeckFileInvalidSize : public std::exception {
 public:

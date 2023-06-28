@@ -73,105 +73,270 @@ CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj: CMakeFiles/ex4_matam.dir/includ
 CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Cards/Merchant.cpp
 CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj -MF CMakeFiles\ex4_matam.dir\Cards\Merchant.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Cards\Merchant.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Cards\Merchant.cpp
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.obj -MF CMakeFiles\ex4_matam.dir\Cards\Merchant.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Cards\Merchant.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Cards\Merchant.cpp
 
 CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Cards\Merchant.cpp > CMakeFiles\ex4_matam.dir\Cards\Merchant.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Cards\Merchant.cpp > CMakeFiles\ex4_matam.dir\Cards\Merchant.cpp.i
 
 CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Cards/Merchant.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Cards\Merchant.cpp -o CMakeFiles\ex4_matam.dir\Cards\Merchant.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Cards\Merchant.cpp -o CMakeFiles\ex4_matam.dir\Cards\Merchant.cpp.s
 
 CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
 CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
 CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Players/Player.cpp
 CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj -MF CMakeFiles\ex4_matam.dir\Players\Player.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Players\Player.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Players\Player.cpp
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Players/Player.cpp.obj -MF CMakeFiles\ex4_matam.dir\Players\Player.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Players\Player.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Players\Player.cpp
 
 CMakeFiles/ex4_matam.dir/Players/Player.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Players/Player.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Players\Player.cpp > CMakeFiles\ex4_matam.dir\Players\Player.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Players\Player.cpp > CMakeFiles\ex4_matam.dir\Players\Player.cpp.i
 
 CMakeFiles/ex4_matam.dir/Players/Player.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Players/Player.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Players\Player.cpp -o CMakeFiles\ex4_matam.dir\Players\Player.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Players\Player.cpp -o CMakeFiles\ex4_matam.dir\Players\Player.cpp.s
 
 CMakeFiles/ex4_matam.dir/utilities.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
 CMakeFiles/ex4_matam.dir/utilities.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
 CMakeFiles/ex4_matam.dir/utilities.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/utilities.cpp
 CMakeFiles/ex4_matam.dir/utilities.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ex4_matam.dir/utilities.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/utilities.cpp.obj -MF CMakeFiles\ex4_matam.dir\utilities.cpp.obj.d -o CMakeFiles\ex4_matam.dir\utilities.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\utilities.cpp
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/utilities.cpp.obj -MF CMakeFiles\ex4_matam.dir\utilities.cpp.obj.d -o CMakeFiles\ex4_matam.dir\utilities.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\utilities.cpp
 
 CMakeFiles/ex4_matam.dir/utilities.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/utilities.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\utilities.cpp > CMakeFiles\ex4_matam.dir\utilities.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\utilities.cpp > CMakeFiles\ex4_matam.dir\utilities.cpp.i
 
 CMakeFiles/ex4_matam.dir/utilities.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/utilities.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\utilities.cpp -o CMakeFiles\ex4_matam.dir\utilities.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\utilities.cpp -o CMakeFiles\ex4_matam.dir\utilities.cpp.s
 
 CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
 CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
 CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/HealthPoints.cpp
 CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj -MF CMakeFiles\ex4_matam.dir\HealthPoints.cpp.obj.d -o CMakeFiles\ex4_matam.dir\HealthPoints.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\HealthPoints.cpp
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj -MF CMakeFiles\ex4_matam.dir\HealthPoints.cpp.obj.d -o CMakeFiles\ex4_matam.dir\HealthPoints.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\HealthPoints.cpp
 
 CMakeFiles/ex4_matam.dir/HealthPoints.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/HealthPoints.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\HealthPoints.cpp > CMakeFiles\ex4_matam.dir\HealthPoints.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\HealthPoints.cpp > CMakeFiles\ex4_matam.dir\HealthPoints.cpp.i
 
 CMakeFiles/ex4_matam.dir/HealthPoints.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/HealthPoints.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\HealthPoints.cpp -o CMakeFiles\ex4_matam.dir\HealthPoints.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\HealthPoints.cpp -o CMakeFiles\ex4_matam.dir\HealthPoints.cpp.s
 
 CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
 CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
 CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Mtmchkin.cpp
 CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.obj -MF CMakeFiles\ex4_matam.dir\Mtmchkin.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Mtmchkin.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Mtmchkin.cpp
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.obj -MF CMakeFiles\ex4_matam.dir\Mtmchkin.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Mtmchkin.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Mtmchkin.cpp
 
 CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Mtmchkin.cpp > CMakeFiles\ex4_matam.dir\Mtmchkin.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Mtmchkin.cpp > CMakeFiles\ex4_matam.dir\Mtmchkin.cpp.i
 
 CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Mtmchkin.cpp -o CMakeFiles\ex4_matam.dir\Mtmchkin.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Mtmchkin.cpp -o CMakeFiles\ex4_matam.dir\Mtmchkin.cpp.s
 
 CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
 CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
 CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Cards/BattleCards.cpp
 CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj -MF CMakeFiles\ex4_matam.dir\Cards\BattleCards.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Cards\BattleCards.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Cards\BattleCards.cpp
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj -MF CMakeFiles\ex4_matam.dir\Cards\BattleCards.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Cards\BattleCards.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Cards\BattleCards.cpp
 
 CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Cards\BattleCards.cpp > CMakeFiles\ex4_matam.dir\Cards\BattleCards.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Cards\BattleCards.cpp > CMakeFiles\ex4_matam.dir\Cards\BattleCards.cpp.i
 
 CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Cards\BattleCards.cpp -o CMakeFiles\ex4_matam.dir\Cards\BattleCards.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Cards\BattleCards.cpp -o CMakeFiles\ex4_matam.dir\Cards\BattleCards.cpp.s
 
 CMakeFiles/ex4_matam.dir/main.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
 CMakeFiles/ex4_matam.dir/main.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
 CMakeFiles/ex4_matam.dir/main.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/main.cpp
 CMakeFiles/ex4_matam.dir/main.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ex4_matam.dir/main.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/main.cpp.obj -MF CMakeFiles\ex4_matam.dir\main.cpp.obj.d -o CMakeFiles\ex4_matam.dir\main.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\main.cpp
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/main.cpp.obj -MF CMakeFiles\ex4_matam.dir\main.cpp.obj.d -o CMakeFiles\ex4_matam.dir\main.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\main.cpp
 
 CMakeFiles/ex4_matam.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/main.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\main.cpp > CMakeFiles\ex4_matam.dir\main.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\main.cpp > CMakeFiles\ex4_matam.dir\main.cpp.i
 
 CMakeFiles/ex4_matam.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/main.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\main.cpp -o CMakeFiles\ex4_matam.dir\main.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\main.cpp -o CMakeFiles\ex4_matam.dir\main.cpp.s
+
+CMakeFiles/ex4_matam.dir/Cards/Barfight.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
+CMakeFiles/ex4_matam.dir/Cards/Barfight.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
+CMakeFiles/ex4_matam.dir/Cards/Barfight.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Cards/Barfight.cpp
+CMakeFiles/ex4_matam.dir/Cards/Barfight.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ex4_matam.dir/Cards/Barfight.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Cards/Barfight.cpp.obj -MF CMakeFiles\ex4_matam.dir\Cards\Barfight.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Cards\Barfight.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Cards\Barfight.cpp
+
+CMakeFiles/ex4_matam.dir/Cards/Barfight.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Cards/Barfight.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Cards\Barfight.cpp > CMakeFiles\ex4_matam.dir\Cards\Barfight.cpp.i
+
+CMakeFiles/ex4_matam.dir/Cards/Barfight.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Cards/Barfight.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Cards\Barfight.cpp -o CMakeFiles\ex4_matam.dir\Cards\Barfight.cpp.s
+
+CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
+CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
+CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Cards/Card.cpp
+CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj -MF CMakeFiles\ex4_matam.dir\Cards\Card.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Cards\Card.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Cards\Card.cpp
+
+CMakeFiles/ex4_matam.dir/Cards/Card.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Cards/Card.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Cards\Card.cpp > CMakeFiles\ex4_matam.dir\Cards\Card.cpp.i
+
+CMakeFiles/ex4_matam.dir/Cards/Card.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Cards/Card.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Cards\Card.cpp -o CMakeFiles\ex4_matam.dir\Cards\Card.cpp.s
+
+CMakeFiles/ex4_matam.dir/Cards/Dragon.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
+CMakeFiles/ex4_matam.dir/Cards/Dragon.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
+CMakeFiles/ex4_matam.dir/Cards/Dragon.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Cards/Dragon.cpp
+CMakeFiles/ex4_matam.dir/Cards/Dragon.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ex4_matam.dir/Cards/Dragon.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Cards/Dragon.cpp.obj -MF CMakeFiles\ex4_matam.dir\Cards\Dragon.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Cards\Dragon.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Cards\Dragon.cpp
+
+CMakeFiles/ex4_matam.dir/Cards/Dragon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Cards/Dragon.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Cards\Dragon.cpp > CMakeFiles\ex4_matam.dir\Cards\Dragon.cpp.i
+
+CMakeFiles/ex4_matam.dir/Cards/Dragon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Cards/Dragon.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Cards\Dragon.cpp -o CMakeFiles\ex4_matam.dir\Cards\Dragon.cpp.s
+
+CMakeFiles/ex4_matam.dir/Cards/Gremlin.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
+CMakeFiles/ex4_matam.dir/Cards/Gremlin.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
+CMakeFiles/ex4_matam.dir/Cards/Gremlin.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Cards/Gremlin.cpp
+CMakeFiles/ex4_matam.dir/Cards/Gremlin.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ex4_matam.dir/Cards/Gremlin.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Cards/Gremlin.cpp.obj -MF CMakeFiles\ex4_matam.dir\Cards\Gremlin.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Cards\Gremlin.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Cards\Gremlin.cpp
+
+CMakeFiles/ex4_matam.dir/Cards/Gremlin.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Cards/Gremlin.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Cards\Gremlin.cpp > CMakeFiles\ex4_matam.dir\Cards\Gremlin.cpp.i
+
+CMakeFiles/ex4_matam.dir/Cards/Gremlin.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Cards/Gremlin.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Cards\Gremlin.cpp -o CMakeFiles\ex4_matam.dir\Cards\Gremlin.cpp.s
+
+CMakeFiles/ex4_matam.dir/Cards/Mana.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
+CMakeFiles/ex4_matam.dir/Cards/Mana.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
+CMakeFiles/ex4_matam.dir/Cards/Mana.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Cards/Mana.cpp
+CMakeFiles/ex4_matam.dir/Cards/Mana.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/ex4_matam.dir/Cards/Mana.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Cards/Mana.cpp.obj -MF CMakeFiles\ex4_matam.dir\Cards\Mana.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Cards\Mana.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Cards\Mana.cpp
+
+CMakeFiles/ex4_matam.dir/Cards/Mana.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Cards/Mana.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Cards\Mana.cpp > CMakeFiles\ex4_matam.dir\Cards\Mana.cpp.i
+
+CMakeFiles/ex4_matam.dir/Cards/Mana.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Cards/Mana.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Cards\Mana.cpp -o CMakeFiles\ex4_matam.dir\Cards\Mana.cpp.s
+
+CMakeFiles/ex4_matam.dir/Cards/Treasure.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
+CMakeFiles/ex4_matam.dir/Cards/Treasure.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
+CMakeFiles/ex4_matam.dir/Cards/Treasure.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Cards/Treasure.cpp
+CMakeFiles/ex4_matam.dir/Cards/Treasure.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/ex4_matam.dir/Cards/Treasure.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Cards/Treasure.cpp.obj -MF CMakeFiles\ex4_matam.dir\Cards\Treasure.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Cards\Treasure.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Cards\Treasure.cpp
+
+CMakeFiles/ex4_matam.dir/Cards/Treasure.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Cards/Treasure.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Cards\Treasure.cpp > CMakeFiles\ex4_matam.dir\Cards\Treasure.cpp.i
+
+CMakeFiles/ex4_matam.dir/Cards/Treasure.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Cards/Treasure.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Cards\Treasure.cpp -o CMakeFiles\ex4_matam.dir\Cards\Treasure.cpp.s
+
+CMakeFiles/ex4_matam.dir/Cards/Well.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
+CMakeFiles/ex4_matam.dir/Cards/Well.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
+CMakeFiles/ex4_matam.dir/Cards/Well.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Cards/Well.cpp
+CMakeFiles/ex4_matam.dir/Cards/Well.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/ex4_matam.dir/Cards/Well.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Cards/Well.cpp.obj -MF CMakeFiles\ex4_matam.dir\Cards\Well.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Cards\Well.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Cards\Well.cpp
+
+CMakeFiles/ex4_matam.dir/Cards/Well.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Cards/Well.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Cards\Well.cpp > CMakeFiles\ex4_matam.dir\Cards\Well.cpp.i
+
+CMakeFiles/ex4_matam.dir/Cards/Well.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Cards/Well.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Cards\Well.cpp -o CMakeFiles\ex4_matam.dir\Cards\Well.cpp.s
+
+CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
+CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
+CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Cards/Witch.cpp
+CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.obj -MF CMakeFiles\ex4_matam.dir\Cards\Witch.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Cards\Witch.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Cards\Witch.cpp
+
+CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Cards\Witch.cpp > CMakeFiles\ex4_matam.dir\Cards\Witch.cpp.i
+
+CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Cards\Witch.cpp -o CMakeFiles\ex4_matam.dir\Cards\Witch.cpp.s
+
+CMakeFiles/ex4_matam.dir/Players/Healer.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
+CMakeFiles/ex4_matam.dir/Players/Healer.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
+CMakeFiles/ex4_matam.dir/Players/Healer.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Players/Healer.cpp
+CMakeFiles/ex4_matam.dir/Players/Healer.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/ex4_matam.dir/Players/Healer.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Players/Healer.cpp.obj -MF CMakeFiles\ex4_matam.dir\Players\Healer.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Players\Healer.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Players\Healer.cpp
+
+CMakeFiles/ex4_matam.dir/Players/Healer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Players/Healer.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Players\Healer.cpp > CMakeFiles\ex4_matam.dir\Players\Healer.cpp.i
+
+CMakeFiles/ex4_matam.dir/Players/Healer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Players/Healer.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Players\Healer.cpp -o CMakeFiles\ex4_matam.dir\Players\Healer.cpp.s
+
+CMakeFiles/ex4_matam.dir/Players/Ninja.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
+CMakeFiles/ex4_matam.dir/Players/Ninja.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
+CMakeFiles/ex4_matam.dir/Players/Ninja.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Players/Ninja.cpp
+CMakeFiles/ex4_matam.dir/Players/Ninja.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/ex4_matam.dir/Players/Ninja.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Players/Ninja.cpp.obj -MF CMakeFiles\ex4_matam.dir\Players\Ninja.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Players\Ninja.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Players\Ninja.cpp
+
+CMakeFiles/ex4_matam.dir/Players/Ninja.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Players/Ninja.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Players\Ninja.cpp > CMakeFiles\ex4_matam.dir\Players\Ninja.cpp.i
+
+CMakeFiles/ex4_matam.dir/Players/Ninja.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Players/Ninja.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Players\Ninja.cpp -o CMakeFiles\ex4_matam.dir\Players\Ninja.cpp.s
+
+CMakeFiles/ex4_matam.dir/Players/Warrior.cpp.obj: CMakeFiles/ex4_matam.dir/flags.make
+CMakeFiles/ex4_matam.dir/Players/Warrior.cpp.obj: CMakeFiles/ex4_matam.dir/includes_CXX.rsp
+CMakeFiles/ex4_matam.dir/Players/Warrior.cpp.obj: C:/Users/user/Documents/GitHub/ex4_matam/Players/Warrior.cpp
+CMakeFiles/ex4_matam.dir/Players/Warrior.cpp.obj: CMakeFiles/ex4_matam.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/ex4_matam.dir/Players/Warrior.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ex4_matam.dir/Players/Warrior.cpp.obj -MF CMakeFiles\ex4_matam.dir\Players\Warrior.cpp.obj.d -o CMakeFiles\ex4_matam.dir\Players\Warrior.cpp.obj -c C:\Users\user\Documents\GitHub\ex4_matam\Players\Warrior.cpp
+
+CMakeFiles/ex4_matam.dir/Players/Warrior.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ex4_matam.dir/Players/Warrior.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\user\Documents\GitHub\ex4_matam\Players\Warrior.cpp > CMakeFiles\ex4_matam.dir\Players\Warrior.cpp.i
+
+CMakeFiles/ex4_matam.dir/Players/Warrior.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ex4_matam.dir/Players/Warrior.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~2.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\user\Documents\GitHub\ex4_matam\Players\Warrior.cpp -o CMakeFiles\ex4_matam.dir\Players\Warrior.cpp.s
 
 # Object files for target ex4_matam
 ex4_matam_OBJECTS = \
@@ -181,7 +346,18 @@ ex4_matam_OBJECTS = \
 "CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj" \
 "CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.obj" \
 "CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj" \
-"CMakeFiles/ex4_matam.dir/main.cpp.obj"
+"CMakeFiles/ex4_matam.dir/main.cpp.obj" \
+"CMakeFiles/ex4_matam.dir/Cards/Barfight.cpp.obj" \
+"CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj" \
+"CMakeFiles/ex4_matam.dir/Cards/Dragon.cpp.obj" \
+"CMakeFiles/ex4_matam.dir/Cards/Gremlin.cpp.obj" \
+"CMakeFiles/ex4_matam.dir/Cards/Mana.cpp.obj" \
+"CMakeFiles/ex4_matam.dir/Cards/Treasure.cpp.obj" \
+"CMakeFiles/ex4_matam.dir/Cards/Well.cpp.obj" \
+"CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.obj" \
+"CMakeFiles/ex4_matam.dir/Players/Healer.cpp.obj" \
+"CMakeFiles/ex4_matam.dir/Players/Ninja.cpp.obj" \
+"CMakeFiles/ex4_matam.dir/Players/Warrior.cpp.obj"
 
 # External object files for target ex4_matam
 ex4_matam_EXTERNAL_OBJECTS =
@@ -193,12 +369,23 @@ ex4_matam.exe: CMakeFiles/ex4_matam.dir/HealthPoints.cpp.obj
 ex4_matam.exe: CMakeFiles/ex4_matam.dir/Mtmchkin.cpp.obj
 ex4_matam.exe: CMakeFiles/ex4_matam.dir/Cards/BattleCards.cpp.obj
 ex4_matam.exe: CMakeFiles/ex4_matam.dir/main.cpp.obj
+ex4_matam.exe: CMakeFiles/ex4_matam.dir/Cards/Barfight.cpp.obj
+ex4_matam.exe: CMakeFiles/ex4_matam.dir/Cards/Card.cpp.obj
+ex4_matam.exe: CMakeFiles/ex4_matam.dir/Cards/Dragon.cpp.obj
+ex4_matam.exe: CMakeFiles/ex4_matam.dir/Cards/Gremlin.cpp.obj
+ex4_matam.exe: CMakeFiles/ex4_matam.dir/Cards/Mana.cpp.obj
+ex4_matam.exe: CMakeFiles/ex4_matam.dir/Cards/Treasure.cpp.obj
+ex4_matam.exe: CMakeFiles/ex4_matam.dir/Cards/Well.cpp.obj
+ex4_matam.exe: CMakeFiles/ex4_matam.dir/Cards/Witch.cpp.obj
+ex4_matam.exe: CMakeFiles/ex4_matam.dir/Players/Healer.cpp.obj
+ex4_matam.exe: CMakeFiles/ex4_matam.dir/Players/Ninja.cpp.obj
+ex4_matam.exe: CMakeFiles/ex4_matam.dir/Players/Warrior.cpp.obj
 ex4_matam.exe: CMakeFiles/ex4_matam.dir/build.make
 ex4_matam.exe: CMakeFiles/ex4_matam.dir/compiler_depend.ts
 ex4_matam.exe: CMakeFiles/ex4_matam.dir/linkLibs.rsp
 ex4_matam.exe: CMakeFiles/ex4_matam.dir/objects1.rsp
 ex4_matam.exe: CMakeFiles/ex4_matam.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable ex4_matam.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\user\Documents\GitHub\ex4_matam\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable ex4_matam.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ex4_matam.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

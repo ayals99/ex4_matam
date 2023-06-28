@@ -27,4 +27,18 @@ add_executable(ex4_matam
         Cards/Merchant.cpp
         Mtmchkin.cpp
         Cards/BattleCards.cpp
-        main.cpp Cards/Barfight.cpp Cards/Barfight.cpp Cards/Barfight.cpp Cards/Barfight.cpp Cards/Card.cpp Cards/Dragon.cpp Cards/Gremlin.cpp Cards/Mana.cpp Cards/Treasure.cpp Cards/Well.cpp Cards/Witch.cpp Players/Healer.cpp Players/Ninja.cpp Players/Warrior.cpp)
+        main.cpp
+        Cards/Barfight.cpp
+        Cards/Barfight.cpp
+        Cards/Barfight.cpp
+        Cards/Barfight.cpp
+        Cards/Card.cpp
+        Cards/Dragon.cpp
+        Cards/Gremlin.cpp
+        Cards/Mana.cpp
+        Cards/Treasure.cpp
+        Cards/Well.cpp
+        Cards/Witch.cpp
+        Players/Healer.cpp
+        Players/Ninja.cpp
+        Players/Warrior.cpp)

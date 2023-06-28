@@ -1,4 +1,5 @@
 #include "Mtmchkin.h"
+#include "Exception.h"
 #include "Cards/Witch.h"
 #include "Cards/Barfight.h"
 #include "Cards/Dragon.h"
@@ -91,7 +92,6 @@ void Mtmchkin::playRound() {
             }
             pushBackBeforeLosers(currentPlayer, m_leaderBoard);
         }
-        //maybe we print the end game message out of here??
         if (isGameOver()) {
             printGameEndMessage();
         }
@@ -99,7 +99,7 @@ void Mtmchkin::playRound() {
 }
 
 std::unique_ptr<Player> findFirstPlayer(std::unique_ptr<LeaderBoard>& leaderBoard) {
-    for (auto playerIterator = leaderBoard->begin();
+    for (LeaderBoard::iterator playerIterator = leaderBoard->begin();
          playerIterator != leaderBoard->end();
          playerIterator++){
         if ((*playerIterator)->isInGame()){
@@ -125,7 +125,7 @@ bool Mtmchkin::isGameOver() const {
 }
 
 void pushWinner(std::unique_ptr<Player>& currentPlayer, std::unique_ptr<LeaderBoard>& leaderBoard) {
-    auto playerIterator = leaderBoard->begin();
+    LeaderBoard::iterator playerIterator = leaderBoard->begin();
     while (playerIterator != leaderBoard->end()) {
         if ((*playerIterator)->won()) {
             playerIterator++;
@@ -139,7 +139,7 @@ void pushWinner(std::unique_ptr<Player>& currentPlayer, std::unique_ptr<LeaderBo
 
 
 void pushBackBeforeLosers(std::unique_ptr<Player>& currentPlayer, std::unique_ptr<LeaderBoard>& leaderBoard) {
-    auto playerIterator = leaderBoard->begin();
+    LeaderBoard::iterator playerIterator = leaderBoard->begin();
     while (playerIterator != leaderBoard->end()) {
         if ((*playerIterator)->dead()) {
             leaderBoard->insert(playerIterator, std::move(currentPlayer));
@@ -214,7 +214,6 @@ Card* getCardFromLine(const std::string &line, int lineCounter) {
     }
     return card;
 }
-
 
 Player* readAndCreatePlayer()
 {
