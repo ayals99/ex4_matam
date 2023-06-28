@@ -27,18 +27,6 @@ public:
     }
 };
 
-//class DeckFileFormatError : public std::exception {
-//private:
-//    int m_line;
-//public:
-//    explicit DeckFileFormatError(int lineNum) : m_line(lineNum){}
-//
-//    const char* what() const noexcept override{
-//        std::runtime_error m_runtimeError("Deck File Error: File format error in line " + std::to_string(m_line));
-//        return m_runtimeError.what();
-//    }
-//};
-
 class DeckFileFormatError : public std::exception {
 private:
     int m_line;
