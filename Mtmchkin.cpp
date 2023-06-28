@@ -26,7 +26,7 @@ std::unique_ptr<Player> findFirstPlayer(std::unique_ptr<LeaderBoard>& leaderBoar
 Player* createPlayer(const std::string &playerName, const std::string &playerClass);
 std::unique_ptr<Deck> createDeck(const std::string &fileName);
 Card* getCardFromLine(const std::string &line, int lineCounter);
-std::string readAndCheckValidation();
+std::string readAndCheckValidation(std::string& playerName, std::string& playerClass);
 std::string trim(const std::string &str);
 int readNumberOfPlayers();
 int numberOfWordsInLine(const std::string& line);
@@ -214,13 +214,12 @@ Card* getCardFromLine(const std::string &line, int lineCounter) {
     }
     return card;
 }
-
 Player* readAndCreatePlayer()
 {
     Player* player;
-    std::string inputLine = readAndCheckValidation();
-    std::string playerName = inputLine.substr(0, inputLine.find(SPACE));
-    std::string playerClass = inputLine.substr(inputLine.find(SPACE) + 1);
+    std::string playerName;
+    std::string playerClass;
+    std::string inputLine = readAndCheckValidation(playerName, playerClass);
     try{
         player = createPlayer(playerName, playerClass);
     }
@@ -251,14 +250,13 @@ void readCurrentLineAndValidate(std::string& inputLine, bool& isNameValid, bool&
     isLineValid = numberOfWordsInLine(trimmedLine) <= MAX_WORDS_IN_LINE;
 }
 
-std::string readAndCheckValidation() {
+std::string readAndCheckValidation(std::string& playerName, std::string& playerClass) {
     printInsertPlayerMessage();
     std::string inputLine;
     bool isNameValid = false;
     bool isClassValid = false;
     bool isLineValid = false;
-    std::string playerName;
-    std::string playerClass;
+
     readCurrentLineAndValidate(inputLine, isNameValid, isClassValid, isLineValid, playerName, playerClass);
     while (!isNameValid || !isClassValid || !isLineValid)
     {
@@ -275,7 +273,6 @@ std::string readAndCheckValidation() {
     }
     return inputLine;
 }
-
 
 Player* createPlayer(const std::string &playerName, const std::string &playerClass) {
     if (playerClass == "Warrior") {
